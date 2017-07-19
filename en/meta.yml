@@ -1,17 +1,24 @@
-title: wanted
+---
 hero_image: images/banner.png
-description: wanted description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 1 # possible values: 1, 2 or 3
+theme: red
+duration: 1
 listed: false
 ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "jokes/pranks, space, photography, music/sound, physical computing, games, robots"
-technologies: "electronics, physical computing, html/css, scratch, python"
-site_areas:
+title: Wanted!
+description: Learn how to make your own poster.
+original_url: https://codeclubprojects.org/en-GB/webdev/wanted
+interests: ''
+technologies: html/css
+site_areas: codeclub, webdev
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+- title: Introduction
+- title: Styling your poster
+- title: 'Challenge: Improving your poster'
+- title: Styling images
+- title: 'Challenge: Improving your image'
+- title: Styling headings
+- title: 'Challenge: Make your poster awesome!'
+- title: 'Challenge: Advertise an event!'
+
