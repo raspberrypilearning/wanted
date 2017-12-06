@@ -4,7 +4,7 @@ Let's start by editing the CSS code for the poster.
 
 
 
-+ Open this trinket: <a href="http://jumpto.cc/web-wanted" target="_blank">jumpto.cc/web-wanted</a>. 
++ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted" target="_blank">jumpto.cc/web-wanted</a>. 
 
 	The project should look like this:
 	
