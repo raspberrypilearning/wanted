@@ -4,10 +4,7 @@ Empezaremos por editar el código CSS del póster.
 
 + Abre este trinket: <a href="http://jumpto.cc/web-wanted" target="_blank">jumpto.cc/web-wanted</a>. Si estás leyendo este proyecto online, también puedes usar la versión incrustada de este trinket que encontrarás a continuación.
 
-<div class="trinket">
-	<iframe src="https://trinket.io/embed/html/58318bee1f" width="100%" height="550" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-	</iframe>
-</div>
+	![screenshot](images/wanted-starter.png)
 
 + Haz clic en la pestaña "style.css". Verás que ya hay propiedades CSS para el `div` que contiene las diferentes partes del póster.
 
