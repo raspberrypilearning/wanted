@@ -1,0 +1,23 @@
+hero_image: images/wanted.png
+theme: orange
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+title: Avis de recherche !
+description: Apprendre à créer votre propre affiche.
+original_url: https://codeclubprojects.org/en-GB/webdev/wanted
+interests: 'art and design'
+technologies: html/css
+site_areas: codeclub, webdev
+steps:
+- title: Introduction
+- title: Style ton poster
+- title: 'Defi: Améliore ton poster'
+- title: Style ton image
+- title: 'Défi: Améliore ton image'
+- title: Style ton titre
+- title: 'Défi: Rend ton poster encore plus cool!'
+- title: "Défi: Fait la pub d'un evenement!"
+
