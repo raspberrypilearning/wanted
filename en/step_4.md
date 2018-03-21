@@ -63,3 +63,4 @@ Have you noticed that there's not much space between the image and the border?
  What do you think would happen if you changed the padding to `50px`?
 
 --- /task ---
+
