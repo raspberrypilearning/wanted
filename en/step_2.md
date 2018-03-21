@@ -2,54 +2,75 @@
 
 Let's start by editing the CSS code for the poster.
 
+--- task ---
 
+Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted" target="_blank">jumpto.cc/web-wanted</a>. 
 
-+ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted" target="_blank">jumpto.cc/web-wanted</a>. 
+ The project should look like this:
+ 
+ ![screenshot](images/wanted-starter.png)
 
-	The project should look like this:
-	
-	![screenshot](images/wanted-starter.png)
+--- /task ---
 
-+ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
+--- task ---
 
-	```
-	div {
-		text-align: center;
-	    overflow: hidden;
-	    border: 2px solid black;
-	    width: 300px;
-    }	
-	```
+Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
 
-+ Let's start by altering the `text-align` property:
+ ```
+ div {
+ text-align: center;
+ overflow: hidden;
+ border: 2px solid black;
+ width: 300px;
+ }  
+ ```
 
-	```
-	text-align: center;
-	```
-	
-	What happens when you change the word `center` to `left` or `right`?
+--- /task ---
 
-+ How about the `border` property?
+--- task ---
 
-	```
-	border: 2px solid black;
-	```
+Let's start by altering the `text-align` property:
 
-	`2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
+ ```
+ text-align: center;
+ ```
+ 
+ What happens when you change the word `center` to `left` or `right`?
 
-+ Change the `width` of the poster to `400px`. What happens to the poster?
+--- /task ---
 
-+ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
+--- task ---
 
-	![screenshot](images/wanted-newline.png)
+How about the `border` property?
 
-	Type the following code on your new blank line:
+ ```
+ border: 2px solid black;
+ ```
 
-	```
-	background: yellow;
-	```
+ `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
 
-	Make sure that you type in the code _exactly_ as it is above. You should notice that the background of the `<div>` is now yellow.
+--- /task ---
 
-	![screenshot](images/wanted-background.png)
+--- task ---
 
+Change the `width` of the poster to `400px`. What happens to the poster?
+
+--- /task ---
+
+--- task ---
+
+Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
+
+ ![screenshot](images/wanted-newline.png)
+
+ Type the following code on your new blank line:
+
+ ```
+ background: yellow;
+ ```
+
+ Make sure that you type in the code _exactly_ as it is above. You should notice that the background of the `<div>` is now yellow.
+
+ ![screenshot](images/wanted-background.png)
+
+--- /task ---

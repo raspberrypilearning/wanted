@@ -2,51 +2,64 @@
 
 Let's improve the style of the image in the poster.
 
+--- task ---
 
+At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
 
-+ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
+ Firstly, add the following code underneath the CSS for your div:
 
-	Firstly, add the following code underneath the CSS for your div:
+ ```
+ img {
 
-	```
-	img {
+ }
+ ```
 
-	}
-	```
+ ![screenshot](images/wanted-img-css.png)
 
-	![screenshot](images/wanted-img-css.png)
+--- /task ---
 
-+ We can now add CSS properties for images between the `` curly brackets.
+--- task ---
 
-	For example, add this code between the curly brackets to set the width of the image:
+We can now add CSS properties for images between the `` curly brackets.
 
-	```
-	width: 100px;
-	```
+ For example, add this code between the curly brackets to set the width of the image:
 
-	You'll see that the size of the image changes, so that its width is 100 pixels.
+ ```
+ width: 100px;
+ ```
 
-	![screenshot](images/wanted-img-width.png)
+ You'll see that the size of the image changes, so that its width is 100 pixels.
 
-+ You can also add a border around the image with this code:
+ ![screenshot](images/wanted-img-width.png)
 
-	```
-	border: 1px solid black;
-	```
+--- /task ---
 
-+ Have you noticed that there's not much space between the image and the border?
+--- task ---
 
-	![screenshot](images/wanted-img-border.png)
+You can also add a border around the image with this code:
 
-	You can fix this by adding some padding around the image:
+ ```
+ border: 1px solid black;
+ ```
 
-	```
-	padding: 10px;
-	```
+--- /task ---
 
-	Padding is the space between the content (in this case an image) and its border.
+--- task ---
 
-	![screenshot](images/wanted-img-padding.png)
+Have you noticed that there's not much space between the image and the border?
 
-	What do you think would happen if you changed the padding to `50px`?
+ ![screenshot](images/wanted-img-border.png)
 
+ You can fix this by adding some padding around the image:
+
+ ```
+ padding: 10px;
+ ```
+
+ Padding is the space between the content (in this case an image) and its border.
+
+ ![screenshot](images/wanted-img-padding.png)
+
+ What do you think would happen if you changed the padding to `50px`?
+
+--- /task ---
