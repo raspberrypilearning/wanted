@@ -1,32 +1,32 @@
 ---
-hero_image: images/wanted.png
-theme: orange
+hero_image: images / wanted.png
+theme: oranje
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-title: Wanted!
-description: Learn how to make your own poster.
+curriculum: maker, ontwerp-0, programmeren-0, phys-comp-0, productie-0, community-0
+title: Gezocht!
+description: Leer hoe je je eigen poster kunt maken.
 original_url: https://codeclubprojects.org/en-GB/webdev/wanted
-interests: 'art and design'
-technologies: html/css
+interests: 'kunst en ontwerp'
+technologies: html / css
 site_areas: codeclub, webdev
 steps:
   - 
-    title: Introduction
+    title: Invoering
   - 
-    title: Styling your poster
+    title: Uw poster stylen
   - 
-    title: 'Challenge: Improving your poster'
+    title: 'Uitdaging: je poster verbeteren'
   - 
-    title: Styling images
+    title: Styling afbeeldingen
   - 
-    title: 'Challenge: Improving your image'
+    title: 'Uitdaging: uw imago verbeteren'
   - 
-    title: Styling headings
+    title: Stylingskoppen
   - 
-    title: 'Challenge: Make your poster awesome!'
+    title: 'Uitdaging: maak je poster geweldig!'
   - 
-    title: 'Challenge: Advertise an event!'
+    title: 'Uitdaging: adverteer een evenement!'
 
