@@ -1,39 +1,37 @@
-## Styling headings
+## Stylingskoppen
 
-Let's improve the style of the `<h1>` heading.
+Laten we de stijl van de rubriek `<h1>` verbeteren.
 
-+ Add the following code underneath your image's CSS:
++ Voeg de volgende code toe onder de CSS van uw afbeelding:
     
-        h1 {
-        
-        }
+        h1 {}
         
     
-    This is where you'll add CSS properties for your main `<h1>` heading.
+    Dit is waar je CSS-eigenschappen voor je hoofd `<h1>` rubriek zult toevoegen.
 
-+ To change the font of your `<h1>` headings, add the following code between the curly brackets:
++ Als u het lettertype van uw `<h1>` koppen wilt wijzigen, voegt u de volgende code toe tussen de accolades:
     
         font-family: Impact;
         
 
-+ You can also change the size of the heading:
++ U kunt ook de grootte van de kop wijzigen:
     
-        font-size: 50pt;
+        lettergrootte: 50pt;
         
 
-+ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
++ Is het je opgevallen dat er een grote ruimte is tussen de `<h1>` kop en de dingen eromheen?
     
     ![screenshot](images/wanted-h1-margin.png)
     
-    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
+    Dit komt omdat er een marge rond de kop is. Een marge is de ruimte tussen het element (in dit geval een kop) en de andere spullen eromheen.
     
-    You can make the margin smaller with this code:
+    U kunt de marge kleiner maken met deze code:
     
-        margin: 10px;
+        marge: 10px;
         
     
     ![screenshot](images/wanted-h1-margin-small.png)
 
-+ You can also underline your heading:
++ U kunt ook uw kop onderstrepen:
     
-        text-decoration: underline;
+        tekstdecoratie: onderstrepen;
