@@ -1,48 +1,43 @@
-## Styling your poster
+## Uw poster stylen
 
-Let's start by editing the CSS code for the poster.
+Laten we beginnen met het bewerken van de CSS-code voor de poster.
 
-+ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ Open deze trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
-    The project should look like this:
+    Het project zou er als volgt uit moeten zien:
     
     ![screenshot](images/wanted-starter.png)
 
-+ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
++ Klik op het tabblad "style.css". U zult merken dat er al CSS-eigenschappen zijn voor de `div` die de verschillende delen van de poster bevatten.
     
-        div {
-            text-align: center;
-            overflow: hidden;
-            border: 2px solid black;
-            width: 300px;
-        }   
+        div {text-align: center; overloop verborgen; rand: 2px effen zwart; breedte: 300 px; }   
         
 
-+ Let's start by altering the `text-align` property:
++ Laten we beginnen met het wijzigen van de eigenschap `text-align`:
     
         text-align: center;
         
     
-    What happens when you change the word `center` to `left` or `right`?
+    Wat gebeurt er wanneer je het woord `midden` tot `links` of `rechts` wijzigt?
 
-+ How about the `border` property?
++ Wat dacht je van de `border` property?
     
-        border: 2px solid black;
+        rand: 2px effen zwart;
         
     
-    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
+    `2px` in de bovenstaande code betekent 2 pixels. Wat gebeurt er wanneer je `2px effen zwart` in `4px gestippeld rood` verandert?
 
-+ Change the `width` of the poster to `400px`. What happens to the poster?
++ Wijzig de `width` van de poster in `400 px`. Wat gebeurt er met de poster?
 
-+ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
++ Laten we wat CSS toevoegen om de achtergrondkleur van de poster in te stellen. Ga naar het einde van regel 5 van je code en druk op Return, zodat je een nieuwe lege regel hebt.
     
     ![screenshot](images/wanted-newline.png)
     
-    Type the following code on your new blank line:
+    Typ de volgende code op uw nieuwe lege regel:
     
-        background: yellow;
+        achtergrond: geel;
         
     
-    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
+    Zorg ervoor dat u de code *precies* typt, aangezien deze hierboven staat. Je zou moeten opmerken dat de achtergrond van de `<div>` nu geel is.
     
     ![screenshot](images/wanted-background.png)
