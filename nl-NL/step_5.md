@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- uitdaging \---
 
-## Challenge: Improving your image
+## Uitdaging: uw imago verbeteren
 
-Can you give your image a background colour? Or a rounded border?
+Kun je je afbeelding een achtergrondkleur geven? Of een afgeronde rand?
 
-You can find more CSS colour names at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
+U kunt meer CSS-kleurnamen vinden op <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
 
-\--- /challenge \---
+\--- / uitdaging \---
