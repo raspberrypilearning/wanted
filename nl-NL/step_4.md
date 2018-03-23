@@ -1,45 +1,43 @@
-## Styling images
+## Styling afbeeldingen
 
-Let's improve the style of the image in the poster.
+Laten we de stijl van de afbeelding op de poster verbeteren.
 
-+ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
++ Op dit moment zijn er geen CSS-eigenschappen voor uw `<img>` -tag, dus laten we er wat toevoegen!
     
-    Firstly, add the following code underneath the CSS for your div:
+    Voeg eerst de volgende code toe onder de CSS voor uw div:
     
-        img {
-        
-        }
+        img {}
         
     
     ![screenshot](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the `` curly brackets.
++ We kunnen nu CSS-eigenschappen voor afbeeldingen toevoegen tussen de `` accolades.
     
-    For example, add this code between the curly brackets to set the width of the image:
+    Voeg deze code bijvoorbeeld toe tussen de accolades om de breedte van de afbeelding in te stellen:
     
-        width: 100px;
+        breedte: 100 px;
         
     
-    You'll see that the size of the image changes, so that its width is 100 pixels.
+    Je zult zien dat de grootte van de afbeelding verandert, zodat de breedte 100 pixels is.
     
     ![screenshot](images/wanted-img-width.png)
 
-+ You can also add a border around the image with this code:
++ Je kunt ook een rand rond de afbeelding toevoegen met deze code:
     
-        border: 1px solid black;
+        rand: 1px effen zwart;
         
 
-+ Have you noticed that there's not much space between the image and the border?
++ Is het je opgevallen dat er niet veel ruimte is tussen het beeld en de rand?
     
     ![screenshot](images/wanted-img-border.png)
     
-    You can fix this by adding some padding around the image:
+    U kunt dit oplossen door wat opvulling rond de afbeelding toe te voegen:
     
-        padding: 10px;
+        opvulling: 10px;
         
     
-    Padding is the space between the content (in this case an image) and its border.
+    Opvulling is de ruimte tussen de inhoud (in dit geval een afbeelding) en de rand ervan.
     
     ![screenshot](images/wanted-img-padding.png)
     
-    What do you think would happen if you changed the padding to `50px`?
+    Wat denk je dat er zou gebeuren als je de opvulling veranderde in `50px`?
