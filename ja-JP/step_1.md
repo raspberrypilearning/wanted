@@ -1,10 +1,10 @@
-## Introduction
+## はじめに
 
-In this project, you'll learn how to make your own poster.
+このプロジェクトでは、あなたのポスターをどのように作るか学びます。
 
 ![screenshot](images/wanted-final.png)
 
-### Additional information for club leaders
+### クラブリーダーのための追加情報
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/wanted/print).
 
