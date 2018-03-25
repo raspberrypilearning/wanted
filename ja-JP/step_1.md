@@ -6,17 +6,17 @@
 
 ### クラブリーダーのための追加情報
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/wanted/print).
+もしこのプロジェクトを印刷する場合、[印刷用バージョン](https://projects.raspberrypi.org/en/projects/wanted/print)を使ってください。
 
-## \--- collapse \---
+## \--- 折りたたむ \---
 
-## title: Club leader notes
+## タイトル : クラブリーダーメモ
 
-## Introduction:
+## はじめに
 
-In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
+このプロジェクトでは、こどもたち自身でCSSを書く機会があります。同じく、彼ら自身のポスターを作るため、それの編集やCSSプロパティやセレクタを書きます。
 
-## Online Resources
+## オンラインリソース
 
 We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
 
