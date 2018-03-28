@@ -2,64 +2,47 @@
 
 Let's improve the style of the `<h1>` heading.
 
---- task ---
 
-Add the following code underneath your image's CSS:
 
- ```
- h1 {
++ Add the following code underneath your image's CSS:
 
- }
- ```
+	```
+	h1 {
 
- This is where you'll add CSS properties for your main `<h1>` heading.
+	}
+	```
 
---- /task ---
+	This is where you'll add CSS properties for your main `<h1>` heading.
 
---- task ---
++ To change the font of your `<h1>` headings, add the following code between the curly brackets:
 
-To change the font of your `<h1>` headings, add the following code between the curly brackets:
+	```
+	font-family: Impact;
+	```
 
- ```
- font-family: Impact;
- ```
++ You can also change the size of the heading:
 
---- /task ---
+	```
+	font-size: 50pt;
+	```
 
---- task ---
++ 	Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
 
-You can also change the size of the heading:
+	![screenshot](images/wanted-h1-margin.png)
 
- ```
- font-size: 50pt;
- ```
+	This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
 
---- /task ---
+	You can make the margin smaller with this code:
 
---- task ---
+	```
+	margin: 10px;
+	```
 
- Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
+	![screenshot](images/wanted-h1-margin-small.png)
 
- ![screenshot](images/wanted-h1-margin.png)
++ You can also underline your heading:
 
- This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
+	```
+	text-decoration: underline;
+	```
 
- You can make the margin smaller with this code:
-
- ```
- margin: 10px;
- ```
-
- ![screenshot](images/wanted-h1-margin-small.png)
-
---- /task ---
-
---- task ---
-
-You can also underline your heading:
-
- ```
- text-decoration: underline;
- ```
-
---- /task ---
