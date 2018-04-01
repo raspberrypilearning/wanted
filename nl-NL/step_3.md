@@ -1,12 +1,12 @@
-\--- uitdaging \---
+\--- challenge \---
 
 ## Uitdaging: je poster verbeteren
 
-Voeg de volgende CSS-eigenschap toe aan uw `div` stijl:
+Voeg de volgende CSS-eigenschap toe aan je `div` stijl:
 
-    grensradius: 40 px;
+    border-radius: 40px;
     
 
-Wat doet deze eigenschap? Wat gebeurt er als u het nummer in bovenstaande code wijzigt?
+Wat doet deze eigenschap? Wat gebeurt er als je het nummer in bovenstaande code wijzigt?
 
-\--- / uitdaging \---
+\--- /challenge \---
