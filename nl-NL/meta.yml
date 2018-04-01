@@ -1,5 +1,5 @@
 ---
-hero_image: images / wanted.png
+hero_image: images/wanted.png
 theme: oranje
 duration: 2
 listed: true
@@ -10,21 +10,21 @@ title: Gezocht!
 description: Leer hoe je je eigen poster kunt maken.
 original_url: https://codeclubprojects.org/en-GB/webdev/wanted
 interests: 'kunst en ontwerp'
-technologies: html / css
+technologies: html/css
 site_areas: codeclub, webdev
 steps:
   - 
-    title: Invoering
+    title: Inleiding
   - 
-    title: Uw poster stylen
+    title: Je poster stylen
   - 
     title: 'Uitdaging: je poster verbeteren'
   - 
-    title: Styling afbeeldingen
+    title: Afbeeldingen opmaken
   - 
-    title: 'Uitdaging: uw imago verbeteren'
+    title: 'Uitdaging: je afbeelding verbeteren'
   - 
-    title: Stylingskoppen
+    title: Koppen opmaken
   - 
     title: 'Uitdaging: maak je poster geweldig!'
   - 
