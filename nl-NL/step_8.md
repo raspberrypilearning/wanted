@@ -1,7 +1,7 @@
-\--- uitdaging \---
+\--- challenge \---
 
 ## Uitdaging: adverteer een evenement!
 
-Kun je een poster maken voor een evenement op je school? Het kan een toneelstuk, een sportevenement of zelfs een poster zijn die reclame maakt voor uw Code Club!
+Kun je een poster maken voor een evenement op je school? Het kan een toneelstuk, een sportevenement of zelfs een poster zijn die reclame maakt voor je Code Club!
 
-\--- / uitdaging \---
+\--- /challenge \---
