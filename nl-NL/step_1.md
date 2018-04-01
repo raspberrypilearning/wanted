@@ -1,4 +1,4 @@
-## Invoering
+## Inleiding
 
 In dit project leer je hoe je je eigen poster kunt maken.
 
@@ -6,23 +6,23 @@ In dit project leer je hoe je je eigen poster kunt maken.
 
 ### Aanvullende informatie voor clubleiders
 
-Als u dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](https://projects.raspberrypi.org/en/projects/wanted/print).
+Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](https://projects.raspberrypi.org/en/projects/wanted/print).
 
-## \--- ineenstorting \---
+## \--- collapse \---
 
 ## titel: Clubleider notities
 
-## Invoering:
+## Inleiding:
 
 In dit project krijgen kinderen de gelegenheid om hun eigen CSS te schrijven. Ze zullen ook CSS-eigenschappen en selectors bewerken en schrijven om hun eigen poster te maken.
 
 ## Online bronnen
 
-We raden aan [trinket](https://trinket.io/) te gebruiken om HTML & CSS online te schrijven. Dit project bevat de volgende snuisterijen:
+We raden aan [ trinket ](https://trinket.io/) te gebruiken om online HTML & CSS te scrhijven. Dit project bevat de volgende trinkets:
 
 * ['Gezocht' uitgangspunt - jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
-Kinderen kunnen ook gebruik maken van dit lege trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) om hun eigen HTML & CSS te schrijven, of ze kunnen deze sjabloontrinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template) gebruiken.
+Kinderen kunnen ook gebruik maken van deze lege trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) om hun eigen HTML & CSS te schrijven, of ze kunnen deze sjabloon trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template) gebruiken.
 
 Er is ook een trinket met een voorbeeldoplossing voor de uitdagingen:
 
@@ -30,25 +30,25 @@ Er is ook een trinket met een voorbeeldoplossing voor de uitdagingen:
 
 ## Offline bronnen
 
-Dit project kan [als het offline is](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) zijn voltooid als dit de voorkeur heeft. U kunt toegang krijgen tot de projectbronnen door op de koppeling 'Projectmaterialen' voor dit project te klikken. Deze link bevat een gedeelte 'Projectresources', dat bronnen bevat die kinderen nodig hebben om dit project offline te voltooien. Zorg ervoor dat elk kind toegang heeft tot een kopie van deze bronnen. Dit gedeelte bevat de volgende bestanden:
+Dit project kan indien gewenst [geheel offline ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) voltooid worden. Je kunt toegang krijgen tot de projectbronnen door op de koppeling 'Projectmaterialen' voor dit project te klikken. Deze link bevat een gedeelte 'Projectbronnen', dat bronnen bevat die kinderen nodig hebben om dit project offline te voltooien. Zorg ervoor dat elk kind toegang heeft tot een kopie van deze bronnen. Dit gedeelte bevat de volgende bestanden:
 
-* template / index.html
-* template / style.css
-* wilde / index.html
-* wilde / style.css
-* wilde / robot.png
+* template/index.html
+* template/style.css
+* wanted/index.html
+* wanted/style.css
+* wanted/robot.png
 
 Je kunt ook een voltooide versie van de uitdagingen van dit project vinden in de sectie 'Vrijwilligersbronnen', die bevat:
 
-* wilde afgewerkte / index.html
-* wilde afgewerkte / style.css
-* wilde afgewerkte / robot.png
+* wanted-finished/index.html
+* wanted-finished/style.css
+* wanted-finished/robot.png
 
 (Alle bovenstaande bronnen kunnen ook worden gedownload als project en als vrijwilliger `.zip` bestanden.)
 
 ## leerdoelen
 
-* Dit project geeft kinderen de mogelijkheid om hun eigen CSS te schrijven om een ​​webpagina te vormen.
+* Dit project geeft kinderen de mogelijkheid om hun eigen CSS te schrijven om een ​​webpagina op te maken.
 
 Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
@@ -56,14 +56,14 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 ## Uitdagingen
 
-* "Uw poster verbeteren" - nieuwe CSS-eigenschappen toevoegen aan de `div` selector;
-* "Uw afbeelding verbeteren" - nieuwe CSS-eigenschappen toevoegen aan de `img` selector;
+* "Je poster verbeteren" - nieuwe CSS-eigenschappen toevoegen aan de `div` selector;
+* "Je afbeelding verbeteren" - nieuwe CSS-eigenschappen toevoegen aan de `img` selector;
 * "Maak je poster geweldig" - voeg nieuwe CSS-eigenschappen toe en nieuwe `h3` en `p` selectors;
 * "Adverteer een evenement" - HTML- en CSS-code schrijven en bewerken.
 
-\--- / inklappen \---
+\--- /collapse \---
 
-## \--- ineenstorting \---
+## \--- collapse \---
 
 ## titel: Projectmaterialen
 
@@ -73,18 +73,18 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 * [Online Trinket met daarin alle 'Gezocht!' project middelen](http://jumpto.cc/web-wanted)
 * [Online Trinket-sjabloon](http://jumpto.cc/trinket-template)
 * [Online lege Trinket](http://jumpto.cc/trinket-blank)
-* [template / index.html](resources/template-index.html)
-* [template / style.css](resources/template-style.css)
-* [wilde / index.html](resources/wanted-index.html)
-* [wilde / style.css](resources/wanted-style.css)
-* [wilde / robot.png](resources/wanted-robot.png)
+* [template/index.html](resources/template-index.html)
+* [template/style.css](resources/template-style.css)
+* [wanted/index.html](resources/wanted-index.html)
+* [wanted/style.css](resources/wanted-style.css)
+* [wanted/robot.png](resources/wanted-robot.png)
 
-## Club leider middelen
+## Clubleider middelen
 
 * [.zip-bestand met alle voltooide projectresources](resources/wanted-volunteer-resources.zip)
 * [Online voltooid Trinket-project](https://trinket.io/html/ebeb56398a)
-* [wilde afgewerkte / index.html](resources/wanted-finished-index.html)
-* [wilde afgewerkte / style.css](resources/wanted-finished-style.css)
-* [twanted afgewerkte / robot.png](resources/twanted-finished-robot.png)
+* [wanted-finished/index.html](resources/wanted-finished-index.html)
+* [wanted-finished/style.css](resources/wanted-finished-style.css)
+* [twanted-finished/robot.png](resources/twanted-finished-robot.png)
 
-\--- / inklappen \---
+\--- /collapse \---
