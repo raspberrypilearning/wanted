@@ -1,8 +1,8 @@
-## Styling afbeeldingen
+## Afbeeldingen opmaken
 
-Laten we de stijl van de afbeelding op de poster verbeteren.
+Laten we de opmaak van de afbeelding op de poster verbeteren.
 
-+ Op dit moment zijn er geen CSS-eigenschappen voor uw `<img>` -tag, dus laten we er wat toevoegen!
++ Op dit moment zijn er geen CSS-eigenschappen voor je `<img>` -tag, dus laten we er wat toevoegen!
     
     Voeg eerst de volgende code toe onder de CSS voor uw div:
     
