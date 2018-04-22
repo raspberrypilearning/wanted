@@ -8,7 +8,7 @@ Laten we beginnen met het bewerken van de CSS-code voor de poster.
     
     ![screenshot](images/wanted-starter.png)
 
-+ Klik op het tabblad "style.css". Je zult merken dat er al CSS-eigenschappen zijn voor de `div` die de verschillende delen van de poster bevatten.
++ Klik op het tabblad "style.css". Je ziet dat er al CSS-eigenschappen zijn gemaakt voor de `div` waarin de verschillende onderdelen van de poster zitten.
     
         div {
             text-align: center;
@@ -43,6 +43,6 @@ Laten we beginnen met het bewerken van de CSS-code voor de poster.
         background: yellow;
         
     
-    Zorg ervoor dat je de code *precies* typt, aangezien deze hierboven staat. Je zou moeten opmerken dat de achtergrond van de `<div>` nu geel is.
+    Zorg ervoor dat je de code *precies* typt zoals hierboven staat. Je zou moeten zien dat de achtergrond van de `<div>` nu geel is.
     
     ![screenshot](images/wanted-background.png)
