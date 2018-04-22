@@ -9,9 +9,9 @@ Laten we de stijl van de kop `<h1>` verbeteren.
         }
         
     
-    Dit is waar je CSS-eigenschappen voor je hoofd `<h1>` rubriek zult toevoegen.
+    Hier kun je CSS-eigenschappen voor de kop `<h1>` invoegen.
 
-+ Als je het lettertype van je `<h1>` koppen wilt wijzigen, voeg je de volgende code toe tussen de accolades:
++ Als je het lettertype van je `<h1>` koppen wilt wijzigen, voeg dan de volgende code toe tussen de accolades:
     
         font-family: Impact;
         
@@ -21,7 +21,7 @@ Laten we de stijl van de kop `<h1>` verbeteren.
         font-size: 50pt;
         
 
-+ Is het je opgevallen dat er een grote ruimte bestaat tussen de `<h1>` kop en de dingen eromheen?
++ Is het je opgevallen dat er een grote ruimte is tussen de `<h1>` kop en de dingen eromheen?
     
     ![screenshot](images/wanted-h1-margin.png)
     
