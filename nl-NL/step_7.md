@@ -2,7 +2,7 @@
 
 ## Uitdaging: maak je poster geweldig!
 
-Voeg meer CSS-code toe om je `<h3>` koppen en uw alinea's op te maken.
+Voeg meer CSS-code toe om je `<h3>` koppen en de alinea's op te maken.
 
 ![screenshot](images/wanted-final.png)
 
