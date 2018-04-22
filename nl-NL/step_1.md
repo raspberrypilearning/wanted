@@ -67,10 +67,10 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 ## title: Projectmaterialen
 
-## Project middelen
+## Projectbronnen
 
 * [.zip-bestand met alle projectbronnen](resources/wanted-project-resources.zip)
-* [Online Trinket met daarin alle 'Gezocht!' project middelen](http://jumpto.cc/web-wanted)
+* [Online Trinket met daarin alle 'Gezocht!' projectbronnen](http://jumpto.cc/web-wanted)
 * [Online Trinket-sjabloon](http://jumpto.cc/trinket-template)
 * [Online lege Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
@@ -79,9 +79,9 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 * [wanted/style.css](resources/wanted-style.css)
 * [wanted/robot.png](resources/wanted-robot.png)
 
-## Clubleider middelen
+## Clubleider bronnen
 
-* [.zip-bestand met alle voltooide projectresources](resources/wanted-volunteer-resources.zip)
+* [.zip-bestand met alle voltooide projectbronnen](resources/wanted-volunteer-resources.zip)
 * [Online voltooid Trinket-project](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
