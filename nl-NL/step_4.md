@@ -2,7 +2,7 @@
 
 Laten we de opmaak van de afbeelding op de poster verbeteren.
 
-+ Op dit moment zijn er geen CSS-eigenschappen voor je `<img>` -tag, dus laten we er wat toevoegen!
++ Op dit moment zijn er geen CSS-eigenschappen voor je `<img>` -tag, dus laten we er wat aan toevoegen!
     
     Voeg eerst de volgende code onder de CSS voor je div toe:
     
@@ -20,7 +20,7 @@ Laten we de opmaak van de afbeelding op de poster verbeteren.
         width: 100px;
         
     
-    Je zult zien dat de grootte van de afbeelding verandert, zodat de breedte 100 pixels is.
+    Je zult zien dat de grootte van de afbeelding verandert, de breedte is nu 100 pixels.
     
     ![screenshot](images/wanted-img-width.png)
 
