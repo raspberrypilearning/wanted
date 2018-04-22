@@ -10,7 +10,7 @@ Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](h
 
 ## \--- collapse \---
 
-## titel: Clubleider notities
+## title: Clubleider notities
 
 ## Inleiding:
 
@@ -30,7 +30,7 @@ Er is ook een trinket met een voorbeeldoplossing voor de uitdagingen:
 
 ## Offline bronnen
 
-Dit project kan indien gewenst [geheel offline ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) voltooid worden. Je kunt toegang krijgen tot de projectbronnen door op de koppeling 'Projectmaterialen' voor dit project te klikken. Deze link bevat een gedeelte 'Projectbronnen', dat bronnen bevat die kinderen nodig hebben om dit project offline te voltooien. Zorg ervoor dat elk kind toegang heeft tot een kopie van deze bronnen. Dit gedeelte bevat de volgende bestanden:
+Dit project kan indien gewenst [ offline ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) voltooid worden. Je kunt toegang krijgen tot de projectbronnen door op de koppeling 'Projectmaterialen' voor dit project te klikken. Deze link bevat een gedeelte 'Projectbronnen', dat bronnen bevat die kinderen nodig hebben om dit project offline te voltooien. Zorg ervoor dat elk kind toegang heeft tot een kopie van deze bronnen. Dit gedeelte bevat de volgende bestanden:
 
 * template/index.html
 * template/style.css
@@ -46,7 +46,7 @@ Je kunt ook een voltooide versie van de uitdagingen van dit project vinden in de
 
 (Alle bovenstaande bronnen kunnen ook worden gedownload als project en als vrijwilliger `.zip` bestanden.)
 
-## leerdoelen
+## Leerdoelen
 
 * Dit project geeft kinderen de mogelijkheid om hun eigen CSS te schrijven om een ​​webpagina op te maken.
 
@@ -59,13 +59,13 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 * "Je poster verbeteren" - nieuwe CSS-eigenschappen toevoegen aan de `div` selector;
 * "Je afbeelding verbeteren" - nieuwe CSS-eigenschappen toevoegen aan de `img` selector;
 * "Maak je poster geweldig" - voeg nieuwe CSS-eigenschappen toe en nieuwe `h3` en `p` selectors;
-* "Adverteer een evenement" - HTML- en CSS-code schrijven en bewerken.
+* "Maak reclame voor een evenement" - HTML- en CSS-code schrijven en bewerken.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## titel: Projectmaterialen
+## title: Projectmaterialen
 
 ## Project middelen
 
