@@ -6,7 +6,7 @@ In dit project leer je hoe je je eigen poster kunt maken.
 
 ### Aanvullende informatie voor clubleiders
 
-Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](https://projects.raspberrypi.org/en/projects/wanted/print).
+Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/wanted/print).
 
 --- collapse ---
 ---
@@ -20,17 +20,17 @@ In dit project krijgen kinderen de gelegenheid om hun eigen CSS te schrijven. Ze
 
 We raden aan [ trinket ](https://trinket.io/) te gebruiken om online HTML & CSS te scrhijven. Dit project bevat de volgende trinkets:
 
-* ['Gezocht' uitgangspunt - jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* ['Gezocht' uitgangspunt - jumpto.cc/web-wanted](https://trinket.io/html/cde4f2bcae)
 
 Kinderen kunnen ook gebruik maken van deze lege trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) om hun eigen HTML & CSS te schrijven, of ze kunnen deze sjabloon trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template) gebruiken.
 
 Er is ook een trinket met een voorbeeldoplossing voor de uitdagingen:
 
-* ['Gezocht' gereed - trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* ['Gezocht' gereed - trinket.io/html/ebeb56398a](https://trinket.io/html/adcbb504b3)
 
 ## Offline bronnen
 
-Dit project kan indien gewenst [ offline ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) voltooid worden. Je kunt toegang krijgen tot de projectbronnen door op de koppeling 'Projectmaterialen' voor dit project te klikken. Deze link bevat een gedeelte 'Projectbronnen', dat bronnen bevat die kinderen nodig hebben om dit project offline te voltooien. Zorg ervoor dat elk kind toegang heeft tot een kopie van deze bronnen. Dit gedeelte bevat de volgende bestanden:
+Dit project kan indien gewenst [offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) voltooid worden. Je kunt toegang krijgen tot de projectbronnen door op de koppeling 'Projectmaterialen' voor dit project te klikken. Deze link bevat een gedeelte 'Projectbronnen', dat bronnen bevat die kinderen nodig hebben om dit project offline te voltooien. Zorg ervoor dat elk kind toegang heeft tot een kopie van deze bronnen. Dit gedeelte bevat de volgende bestanden:
 
 * template/index.html
 * template/style.css
@@ -70,7 +70,7 @@ title: Projectmaterialen
 ## Projectbronnen
 
 * [.zip-bestand met alle projectbronnen](resources/wanted-project-resources.zip)
-* [Online Trinket met daarin alle 'Gezocht!' projectbronnen](http://jumpto.cc/web-wanted)
+* [Online Trinket met daarin alle 'Gezocht!' projectbronnen](https://trinket.io/html/cde4f2bcae)
 * [Online Trinket-sjabloon](http://jumpto.cc/trinket-template)
 * [Online lege Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
@@ -82,7 +82,7 @@ title: Projectmaterialen
 ## Clubleider bronnen
 
 * [.zip-bestand met alle voltooide projectbronnen](resources/wanted-volunteer-resources.zip)
-* [Online voltooid Trinket-project](https://trinket.io/html/ebeb56398a)
+* [Online voltooid Trinket-project](https://trinket.io/html/adcbb504b3)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
 * [twanted-finished/robot.png](resources/twanted-finished-robot.png)
