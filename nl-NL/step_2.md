@@ -2,7 +2,7 @@
 
 Laten we beginnen met het bewerken van de CSS-code voor de poster.
 
-+ Open deze trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ Open deze trinket: <a target="_blank" href="https://trinket.io/html/cde4f2bcae">jumpto.cc/web-wanted</a>.
     
     Het project zou er als volgt uit moeten zien:
     
