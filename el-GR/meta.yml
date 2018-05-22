@@ -6,10 +6,10 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Wanted!
-description: Learn how to make your own poster.
+title: Καταζητείται!
+description: Μάθε πώς να φτιάξεις τη δική σου αφίσα.
 original_url: https://codeclubprojects.org/en-GB/webdev/wanted
-interests: art
+interests: τέχνη
 technologies: html-css-javascript
 site_areas: projects
 hardware: ''
@@ -18,18 +18,18 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Εισαγωγή
   - 
-    title: Styling your poster
+    title: Σχεδίαση της αφίσας σου
   - 
-    title: 'Challenge: Improving your poster'
+    title: 'Πρόκληση: Βελτίωσε την αφίσα σου'
   - 
-    title: Styling images
+    title: Σχεδίαση εικόνων
   - 
-    title: 'Challenge: Improving your image'
+    title: 'Πρόκληση: Βελτίωσε την εικόνα σου'
   - 
-    title: Styling headings
+    title: Σχεδίαση τίτλων
   - 
-    title: 'Challenge: Make your poster awesome!'
+    title: 'Πρόκληση: Κάνε την αφίσα σου εντυπωσιακή!'
   - 
-    title: 'Challenge: Advertise an event!'
+    title: 'Πρόκληση: Διαφήμισε μία εκδήλωση!'
