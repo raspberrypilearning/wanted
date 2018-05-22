@@ -1,24 +1,24 @@
-## Introduction
+## Εισαγωγή
 
-In this project, you'll learn how to make your own poster.
+Σε αυτό το έργο, θα μάθεις πώς να φτιάξεις τη δική σου αφίσα.
 
 ![screenshot](images/wanted-final.png)
 
-### Additional information for club leaders
+### Πρόσθετες πληροφορίες για τους συντονιστές των ομάδων
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/wanted/print).
+Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/wanted/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Σημειώσεις συντονιστή ομάδας
 
-## Introduction:
+## Εισαγωγή:
 
-In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
+Σε αυτό το έργο, τα παιδιά θα έχουν την ευκαιρία να γράψουν τη δική τους CSS. Επίσης θα επεξεργαστούν και θα γράψουν CSS ιδιότητες και επιλογές για να φτιάξουν τη δική τους αφίσα.
 
-## Online Resources
+## Online Πόροι
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+Συνιστούμε να χρησιμοποιήσετε την εφαρμογή [trinket](https://trinket.io/) για να γράψετε HTML & CSS online. Το έργο αυτό περιλαμβάνει τα ακόλουθα trinkets:
 
 * ['Wanted' starting point -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
