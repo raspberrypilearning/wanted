@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: Improving your poster
+## Πρόκληση: Βελτίωσε την αφίσα σου
 
-Add the following CSS property to your `div` style:
+Πρόσθεσε την ακόλουθη ιδιότητα CSS στο `div`:
 
     border-radius: 40px;
     
 
-What does this property do? What happens if you change the number in the code above?
+Τι κάνει αυτή η ιδιότητα; Τι συμβαίνει εάν αλλάξεις τον αριθμό στον παραπάνω κώδικα;
 
 \--- /challenge \---
