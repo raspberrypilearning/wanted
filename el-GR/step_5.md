@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improving your image
+## Πρόκληση: Βελτίωσε την εικόνα σου
 
-Can you give your image a background colour? Or a rounded border?
+Μπορείς να δώσεις στην εικόνα σου χρώμα φόντου; Ή στρογγυλεμένο περίγραμμα;
 
-You can find more CSS colour names at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
+Μπορείς να βρεις περισσότερα CSS ονόματα χρωμάτων στο <a href="http://jumpto.cc/colours" target="_blank"> jumpto.cc/colours</a>.
 
 \--- /challenge \---
