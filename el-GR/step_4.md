@@ -4,7 +4,7 @@
 
 + Προς το παρόν, δεν υπάρχουν ιδιότητες CSS για την ετικέτα `<img>`, οπότε ας προσθέσουμε μερικές!
     
-    Firstly, add the following code underneath the CSS for your div:
+    Αρχικά, πρόσθεσε τον παρακάτω κώδικα κάτω από το div:
     
         img {
         
@@ -13,33 +13,33 @@
     
     ![screenshot](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the `` curly brackets.
++ Τώρα μπορούμε να προσθέσουμε ιδιότητες CSS για εικόνες ανάμεσα στα { } άγκιστρα.
     
-    For example, add this code between the curly brackets to set the width of the image:
+    Για παράδειγμα, πρόσθεσε αυτόν τον κώδικα ανάμεσα στα άγκιστρα για να ορίσεις το πλάτος της εικόνας:
     
         width: 100px;
         
     
-    You'll see that the size of the image changes, so that its width is 100 pixels.
+    Θα δεις ότι το μέγεθος της εικόνας αλλάζει, έτσι ώστε το πλάτος της να είναι 100 εικονοστοιχεία.
     
     ![screenshot](images/wanted-img-width.png)
 
-+ You can also add a border around the image with this code:
++ Μπορείς επίσης να προσθέσεις ένα περίγραμμα γύρω από την εικόνα με αυτόν τον κώδικα:
     
         border: 1px solid black;
         
 
-+ Have you noticed that there's not much space between the image and the border?
++ Παρατήρησες ότι δεν υπάρχει πολύς χώρος ανάμεσα στην εικόνα και στο περίγραμμα;
     
     ![screenshot](images/wanted-img-border.png)
     
-    You can fix this by adding some padding around the image:
+    Μπορείς να το διορθώσεις προσθέτοντας λίγο χώρο γύρω από την εικόνα:
     
         padding: 10px;
         
     
-    Padding is the space between the content (in this case an image) and its border.
+    Η ιδιότητα padding είναι ο χώρος μεταξύ του περιεχομένου (στην περίπτωση αυτή της εικόνας) και του περιγράμματός του.
     
     ![screenshot](images/wanted-img-padding.png)
     
-    What do you think would happen if you changed the padding to `50px`?
+    Τι νομίζεις ότι θα συνέβαινε εάν άλλαζες την ιδιότητα padding σε `50px`;
