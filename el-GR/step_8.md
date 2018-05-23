@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Advertise an event!
+## Πρόκληση: Διαφήμισε μία εκδήλωση!
 
-Can you make a poster for an event happening at your school? It could be a play, a sporting event, or even a poster advertising your Code Club!
+Μπορείς να δημιουργήσεις μία αφίσα για μια εκδήλωση που συμβαίνει στο σχολείο σου; Θα μπορούσε να είναι ένα παιχνίδι, ένα αθλητικό γεγονός ή ακόμα και μια αφίσα που διαφημίζει το Club Code!
 
 \--- /challenge \---
