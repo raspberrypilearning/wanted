@@ -32,17 +32,17 @@
     
     `2px` στον ανωτέρω κώδικα σημαίνει 2 εικονοστοιχεία. Τι συμβαίνει όταν αλλάζεις την τιμή `2px solid black` σε `4px dotted red`;
 
-+ Change the `width` of the poster to `400px`. What happens to the poster?
++ Άλλαξε την ιδιότητα `width` σε `400px`. Τι συμβαίνει με την αφίσα;
 
-+ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
++ Ας προσθέσουμε κώδικα CSS για να ρυθμίσεις το χρώμα φόντου της αφίσας. Πήγαινε στο τέλος της γραμμής 5 του κώδικα και πάτησε Enter για να έχεις μια νέα κενή γραμμή.
     
     ![screenshot](images/wanted-newline.png)
     
-    Type the following code on your new blank line:
+    Πληκτρολόγησε τον παρακάτω κώδικα στη νέα κενή γραμμή:
     
         background: yellow;
         
     
-    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
+    Βεβαιώσου ότι πληκτρολογείς τον κώδικα *ακριβώς* όπως είναι παραπάνω. Θα πρέπει να παρατηρήσεις ότι το φόντο του `<div>` είναι τώρα κίτρινο.
     
     ![screenshot](images/wanted-background.png)
