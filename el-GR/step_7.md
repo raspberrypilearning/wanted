@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: Make your poster awesome!
+## Πρόκληση: Κάνε την αφίσα σου εντυπωσιακή!
 
-Add more CSS code to style your `<h3>` headings and your paragraphs.
+Πρόσθεσε περισσότερα κώδικα CSS για να σχεδιάσεις τις επικεφαλίδες `<h3>` και τις παραγράφους.
 
 ![screenshot](images/wanted-final.png)
 
-Here's a list of some CSS properties you can use:
+Ακολουθεί μια λίστα με κάποιες ιδιότητες CSS που μπορείς να χρησιμοποιήσεις:
 
     color: black;
     background: white;
