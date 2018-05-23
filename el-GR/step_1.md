@@ -57,15 +57,15 @@
 ## Προκλήσεις
 
 * "Βελτίωση της αφίσας σου" - προσθέτοντας νέες ιδιότητες CSS στον επιλογέα `div`.
-* "Improving your image" - adding new CSS properties to the `img` selector;
-* "Make your poster awesome" - adding new CSS properties and new `h3` and `p` selectors;
-* "Advertise an event" - Writing and editing HTML and CSS code.
+* "Βελτίωση της εικόνας σου" - προσθέτοντας νέες ιδιοτήτες CSS στον επιλογέα `img`.
+* "Κάνε την αφίσα σου εντυπωσιακή" - προσθέτοντας νέες ιδιότητες CSS και νέους επιλογείς `h3` και `p`.
+* "Διαφήμισε μια εκδήλωση" - Γράψε και επεξεργάσου HTML και CSS κώδικα.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Υλικό έργου
 
 ## Project resources
 
