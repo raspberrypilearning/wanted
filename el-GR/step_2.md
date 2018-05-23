@@ -1,14 +1,14 @@
-## Styling your poster
+## Σχεδίαση της αφίσας σου
 
-Let's start by editing the CSS code for the poster.
+Ας αρχίσουμε με την επεξεργασία του κώδικα CSS για την αφίσα.
 
-+ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ Άνοιξε αυτό το trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
-    The project should look like this:
+    Το έργο πρέπει να μοιάζει έτσι:
     
     ![screenshot](images/wanted-starter.png)
 
-+ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
++ Κάνε κλικ στην καρτέλα "style.css". Θα παρατηρήσεις ότι υπάρχουν ήδη ιδιότητες CSS για το `div` που περιέχει τα διάφορα μέρη της αφίσας.
     
         div {
             text-align: center;
@@ -18,19 +18,19 @@ Let's start by editing the CSS code for the poster.
         }   
         
 
-+ Let's start by altering the `text-align` property:
++ Ας ξεκινήσουμε τροποποιώντας την ιδιότητα `text-align`:
     
         text-align: center;
         
     
-    What happens when you change the word `center` to `left` or `right`?
+    Τι συμβαίνει όταν αλλάζεις τη λέξη `center` σε `left` ή `right`;
 
-+ How about the `border` property?
++ Τι λες για την ιδιότητα `border`;
     
         border: 2px solid black;
         
     
-    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
+    `2px` στον ανωτέρω κώδικα σημαίνει 2 εικονοστοιχεία. Τι συμβαίνει όταν αλλάζεις την τιμή `2px solid black` σε `4px dotted red`;
 
 + Change the `width` of the poster to `400px`. What happens to the poster?
 
