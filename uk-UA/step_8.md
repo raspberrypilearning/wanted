@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Advertise an event!
+## Challenge: Розрекламуйте подію!
 
-Can you make a poster for an event happening at your school? It could be a play, a sporting event, or even a poster advertising your Code Club!
+Чи можете ви створити плакат для події, що відбудеться у вашій школі? Це може бути п'єса, спортивна подія або навіть плакат, що рекламує ваш кодовий клуб!
 
 \--- /challenge \---
