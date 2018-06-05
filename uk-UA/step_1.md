@@ -1,18 +1,18 @@
-## Introduction
+## Вступ
 
-In this project, you'll learn how to make your own poster.
+У цьому проекті ви дізнаєтеся, як створити власний плакат.
 
 ![screenshot](images/wanted-final.png)
 
-### Additional information for club leaders
+### Додаткова інформація для керівників клубу
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/wanted/print).
+Якщо вам потрібно роздрукувати цей проект, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/wanted/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Нотатки керівника
 
-## Introduction:
+## Вступ:
 
 In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
 
