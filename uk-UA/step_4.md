@@ -1,8 +1,8 @@
-## Styling images
+## Стилізуйте зображення
 
-Let's improve the style of the image in the poster.
+Давайте покращимо стиль зображення в плакаті.
 
-+ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
++ Наразі для вашого тегу `<img>` не існує жодних властивостей CSS, тому давайте додамо деякі!
     
     Firstly, add the following code underneath the CSS for your div:
     
