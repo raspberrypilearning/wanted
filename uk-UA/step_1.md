@@ -14,23 +14,23 @@
 
 ## Вступ:
 
-In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
+У цьому проекті діти зможуть написати власний CSS. Вони також зможуть редагувати та писати властивості та селекторів CSS для створення власного плаката.
 
-## Online Resources
+## Онлайн Ресурси
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+Ми рекомендуємо використовувати [trinket](https://trinket.io/) щоб написати HTML & CSS онлайн. Цей проект містить такі trinkets:
 
-* ['Wanted' starting point -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* ["Розшукується" початок -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Діти також можуть використовувати цей пустий trinket [jumpto.cc/html-blank)](http://jumpto.cc/html-blank), щоб написати їхній власний HTML & CSS, або вони можуть використовувати цей шаблон trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Є також trinket, що містить зразки вирішення \---challenges\---:
 
-* ['Wanted' Finished -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* ['Розшукується' Кінець -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
-## Offline Resources
+## Офлайн Ресурси
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Цей проект може бути [завершений офлайн](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), якщо потрібно. Ви можете отримати доступ до ресурсів проекту, натиснувши посилання " Матеріали Проекту" для цього проекту. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
 * template/index.html
 * template/style.css
