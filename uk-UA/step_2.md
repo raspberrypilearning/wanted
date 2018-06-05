@@ -8,7 +8,7 @@
     
     ![screenshot](images/wanted-starter.png)
 
-+ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
++ Клацніть на вкладці "style.css". Ви побачите, що для `div`існують вже властивості CSS </0>, що містять різні частини плаката.
     
         div {
             text-align: center;
@@ -18,31 +18,31 @@
         }   
         
 
-+ Let's start by altering the `text-align` property:
++ Давайте почнемо зі зміни властивості `text-align`:
     
         text-align: center;
         
     
-    What happens when you change the word `center` to `left` or `right`?
+    Щро трапиться, якш=що ви зміните слово `center` на `left` чи`right`?
 
-+ How about the `border` property?
++ А як щодо властивості `border`?
     
         border: 2px solid black;
         
     
-    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
+    `2px` в коді вище означає 2 пікселі. Що трапиться, якщо ви змінете `2px solid black` на`4px dotted red`?
 
-+ Change the `width` of the poster to `400px`. What happens to the poster?
++ Змініть `width` плаката на `400px`. Що трапиться з плакатом?
 
-+ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
++ Давайте додамо деякий CSS, щоб встановити фоновий колір плаката. Перейдіть до кінця рядка 5 вашого коду та натисніть повернутися, щоб у вас з'явився новий пустий рядок.
     
     ![screenshot](images/wanted-newline.png)
     
-    Type the following code on your new blank line:
+    Введіть наступний код на ваш новий пустий рядок:
     
         background: yellow;
         
     
-    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
+    Переконайтеся, що ви вводите код *exactky* як це показано вище. Ви повинні зауважити, що фон `<div>` зараз жовтий.
     
     ![screenshot](images/wanted-background.png)
