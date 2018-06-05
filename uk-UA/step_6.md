@@ -1,6 +1,6 @@
-## Styling headings
+## Стилізуйте заголовки
 
-Let's improve the style of the `<h1>` heading.
+Вдоскональте стиль заголовку `<h1>`.
 
 + Add the following code underneath your image's CSS:
     
