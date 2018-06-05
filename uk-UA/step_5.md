@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improving your image
+## Challenge: Вдоскональте ваше зображення
 
-Can you give your image a background colour? Or a rounded border?
+Чи можете ви надати колір фону вашому зображенню? Або ж круглі межі?
 
-You can find more CSS colour names at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
+Ви можете знайти більше кольорів CSS тут <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
 
 \--- /challenge \---
