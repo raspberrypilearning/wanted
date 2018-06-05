@@ -2,38 +2,38 @@
 
 Вдоскональте стиль заголовку `<h1>`.
 
-+ Add the following code underneath your image's CSS:
++ Додайте наступний код внизу CSS вашого зображення:
     
         h1 {
         
         }
         
     
-    This is where you'll add CSS properties for your main `<h1>` heading.
+    Тут ви додасте властивості CSS для головного `<h1>` заголовка.
 
-+ To change the font of your `<h1>` headings, add the following code between the curly brackets:
++ Щоб змінити шрифт `<h1>` заголовків, додайте наступний код між фігурними дужками:
     
         font-family: Impact;
         
 
-+ You can also change the size of the heading:
++ Ви також можете змінити розмір заголовка:
     
         font-size: 50pt;
         
 
-+ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
++ Ви помітили, що між заголовком `<h1>` і матеріалом навколо нього є великий простір?
     
     ![screenshot](images/wanted-h1-margin.png)
     
-    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
+    Це тому, що навколо заголовка є межі. Межа - це пробіл між елементом (у цьому випадку заголовок) та іншим матеріалом навколо нього.
     
-    You can make the margin smaller with this code:
+    Ви можете зробити межу меншою за допомогою цього коду:
     
         margin: 10px;
         
     
     ![screenshot](images/wanted-h1-margin-small.png)
 
-+ You can also underline your heading:
++ Ви також можете підкреслити свій заголовок:
     
         text-decoration: underline;
