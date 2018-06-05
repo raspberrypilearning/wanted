@@ -1,10 +1,10 @@
-## Styling your poster
+## Стилізуйте ваш плпкат
 
-Let's start by editing the CSS code for the poster.
+Почнемо з редагування коду CSS для плаката.
 
-+ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ Відкрийте цей trinket:<a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-letter</a>.
     
-    The project should look like this:
+    Проект повинен виглядати так:
     
     ![screenshot](images/wanted-starter.png)
 
