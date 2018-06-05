@@ -30,7 +30,7 @@
 
 ## Офлайн Ресурси
 
-Цей проект може бути [завершений офлайн](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), якщо потрібно. Ви можете отримати доступ до ресурсів проекту, натиснувши посилання " Матеріали Проекту" для цього проекту. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Цей проект може бути [завершений офлайн](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), якщо потрібно. Ви можете отримати доступ до ресурсів проекту, натиснувши посилання " Матеріали Проекту" для цього проекту. Це посилання містить розділ "Ресурси Проекту", який включає в себе ресурси, що будуть потрібні дітям, аби завершити проект офлайн. Переконайтеся, що кожна дитина має доступ до копій цих ресурсів. Ця секція містить наступні файли:
 
 * template/index.html
 * template/style.css
@@ -38,26 +38,26 @@
 * wanted/style.css
 * wanted/robot.png
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Також, ви можете знайти завершену версію \---challenges\--- цього проекту в секції "Волонтерські Ресурси", яка містить:
 
 * wanted-finished/index.html
 * wanted-finished/style.css
 * wanted-finished/robot.png
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Всі з вищевказаних ресурсів можна завантажувати як проекти і волонтерські файли `.zip`.)
 
-## Learning Objectives
+## Цілі навчання
 
-* This project gives children the opportunity to write their own CSS to style a webpage.
+* Цей проект дає дітям можливість написати свій CSS, щоб створити дизайн веб-сторінки.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Цей проект охоплює елементи з наступними напрямками [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Завдання
 
-* "Improving your poster" - adding new CSS properties to the `div` selector;
-* "Improving your image" - adding new CSS properties to the `img` selector;
+* "Вдоскональте ваш плакат"- додайте нові властивості CSS до селектора `div`;
+* "Вдоскональте ваш плакат"- додайте нові властивості CSS до селектора `img`;
 * "Make your poster awesome" - adding new CSS properties and new `h3` and `p` selectors;
 * "Advertise an event" - Writing and editing HTML and CSS code.
 
