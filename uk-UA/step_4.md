@@ -4,7 +4,7 @@
 
 + Наразі для вашого тегу `<img>` не існує жодних властивостей CSS, тому давайте додамо деякі!
     
-    Firstly, add the following code underneath the CSS for your div:
+    По-перше, додати наступний код, що є внизу CSS для вашого div:
     
         img {
         
@@ -13,27 +13,27 @@
     
     ![screenshot](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the `` curly brackets.
++ Тепер ви можете додати властивості CSS для зображень між ` ` фігурними дужками.
     
-    For example, add this code between the curly brackets to set the width of the image:
+    Наприклад, додайте цей код між фігурними дужками, щоб встановити ширину зображення:
     
         width: 100px;
         
     
-    You'll see that the size of the image changes, so that its width is 100 pixels.
+    Ви побачите, що розмір зображення змінюється так, що його ширина становить 100 пікселів.
     
     ![screenshot](images/wanted-img-width.png)
 
-+ You can also add a border around the image with this code:
++ Ви також можете додати межі навколо зображення за допомогою цього коду:
     
         border: 1px solid black;
         
 
-+ Have you noticed that there's not much space between the image and the border?
++ Ви побачили, що між зображенням та межею нема багато місця?
     
     ![screenshot](images/wanted-img-border.png)
     
-    You can fix this by adding some padding around the image:
+    Ви можете виправити це, додавши деякі пробіли навколо зображення:
     
         padding: 10px;
         
