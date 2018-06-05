@@ -38,8 +38,8 @@
         padding: 10px;
         
     
-    Padding is the space between the content (in this case an image) and its border.
+    Відступ - це простір між вмістом (в даному випадку зображення) та його межами.
     
     ![screenshot](images/wanted-img-padding.png)
     
-    What do you think would happen if you changed the padding to `50px`?
+    Як ви думаєте, що станеться, якщо ви змінили простір `50px`?
