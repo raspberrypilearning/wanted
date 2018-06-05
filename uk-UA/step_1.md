@@ -58,31 +58,31 @@
 
 * "Вдоскональте ваш плакат"- додайте нові властивості CSS до селектора `div`;
 * "Вдоскональте ваш плакат"- додайте нові властивості CSS до селектора `img`;
-* "Make your poster awesome" - adding new CSS properties and new `h3` and `p` selectors;
-* "Advertise an event" - Writing and editing HTML and CSS code.
+* "Зробіть ваш плакат неймовірним" - додайте нові властивості CSS і нови селектори `h3` і `p`;
+* "Розрекламуйте подію" - напишіть та відредагуйте коди HTML та CSS.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Матеріали проекту
 
-## Project resources
+## Проектні ресурси
 
-* [.zip file containing all project resources](resources/wanted-project-resources.zip)
-* [Online Trinket containing all 'Wanted!' project resources](http://jumpto.cc/web-wanted)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [.zip file, що містить всі ресурси проекту](resources/wanted-project-resources.zip)
+* [Online Trinket містить всі проектні ресурси 'Розшукується'](http://jumpto.cc/web-wanted)
+* [Шаблон Online Trinket](http://jumpto.cc/trinket-template)
+* [Пустий Online Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [wanted/index.html](resources/wanted-index.html)
 * [wanted/style.css](resources/wanted-style.css)
 * [wanted/robot.png](resources/wanted-robot.png)
 
-## Club leader resources
+## Ресурси керівника клубу
 
-* [.zip file containing all completed project resources](resources/wanted-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/ebeb56398a)
+* [.zip файли, що містять всі проектні ресурси](resources/wanted-volunteer-resources.zip)
+* [Завершений Trinket проект онлайн](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
 * [twanted-finished/robot.png](resources/twanted-finished-robot.png)
