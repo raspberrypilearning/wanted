@@ -1,28 +1,28 @@
 ---
 hero_image: images/wanted.png
-theme: оранжевий
+theme: orange
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, дизайн-1, програмування-0, фізичні обчислення-0, виробництво-0, спільноти-0
-title: Розшукується!
-description: Дізнайтеся, як створити власний плакат.
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: Wanted!
+description: Learn how to make your own poster.
 original_url: https://codeclubprojects.org/en-GB/webdev/wanted
-interests: мистецтво
+interests: art
 technologies: html-css-javascript
-site_areas: проекти
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Вступ
+    title: Introduction
   - 
-    title: Стиль вашого плаката
+    title: Styling your poster
   - 
-    title: 'Challenge: вдоскональте ваш постер'
+    title: 'Challenge: Improving your poster'
   - 
     title: Стилізовані зображення
   - 
