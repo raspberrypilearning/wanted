@@ -6,7 +6,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Wanted!
+title: Розшукується!
 description: Learn how to make your own poster.
 original_url: https://codeclubprojects.org/en-GB/webdev/wanted
 interests: art
@@ -18,18 +18,18 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Вступ
   - 
-    title: Styling your poster
+    title: Стиль вашого плаката
   - 
-    title: 'Challenge: Improving your poster'
+    title: 'Завдання: вдоскональте ваш постер'
   - 
     title: Стилізовані зображення
   - 
-    title: 'Challenge: вдоскональте ваше зображення'
+    title: 'Завдання: вдоскональте ваше зображення'
   - 
     title: Стиль заголовків
   - 
-    title: 'Challenge: Зробіть ваш постер надзвичайним!'
+    title: 'Завдання: Зробіть ваш постер надзвичайним!'
   - 
-    title: 'Challenge: Розрекламуйте подію!'
+    title: 'Завдання: Розрекламуйте подію!'
