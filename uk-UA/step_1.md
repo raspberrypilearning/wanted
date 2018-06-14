@@ -6,7 +6,7 @@
 
 ### Додаткова інформація для керівників клубу
 
-Якщо вам потрібно роздрукувати цей проект, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/wanted/print).
+Якщо вам потрібно роздрукувати цей проект, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/uk-UA/projects/wanted/print).
 
 --- collapse ---
 ---
@@ -24,7 +24,7 @@ title: Нотатки керівника
 
 Діти також можуть використовувати цей пустий trinket [jumpto.cc/html-blank)](http://jumpto.cc/html-blank), щоб написати їхній власний HTML & CSS, або вони можуть використовувати цей шаблон trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Є також trinket, що містить зразки вирішення ---challenges---:
+Є також trinket, що містить зразки вирішення:
 
 * ['Розшукується' Кінець -- trinket.io/html/0f1811324a](https://trinket.io/html/0f1811324a)
 
@@ -38,7 +38,7 @@ title: Нотатки керівника
 * wanted/style.css
 * wanted/robot.png
 
-Також, ви можете знайти завершену версію ---challenges--- цього проекту в секції "Волонтерські Ресурси", яка містить:
+Також, ви можете знайти завершену версію цього проекту в секції "Волонтерські Ресурси", яка містить:
 
 * wanted-finished/index.html
 * wanted-finished/style.css
