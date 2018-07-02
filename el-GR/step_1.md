@@ -22,7 +22,7 @@
 
 * ['Καταζητείται' αρχικό στάδιο -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
-Τα παιδιά μπορούν επίσης να χρησιμοποιήσουν αυτό το κενό trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) για να γράψουν το δικό τους HTML & CSS κώδικα, ή εναλλακτικά αυτό το trinket πρότυπο [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Τα παιδιά μπορούν επίσης να χρησιμοποιήσουν αυτό το κενό trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) για να γράψουν το δικό τους HTML & CSS κώδικα ή εναλλακτικά αυτό το trinket πρότυπο [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Υπάρχει επίσης ένα trinket που περιέχει μια υποδειγματική λύση στις προκλήσεις:
 
