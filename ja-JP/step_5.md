@@ -1,9 +1,9 @@
-\--- challenge \---
+\---挑戦\---
 
-## Challenge: Improving your image
+## 課題：画像を改善する
 
-Can you give your image a background colour? Or a rounded border?
+イメージに背景色を付けることはできますか？または丸い国境？
 
-You can find more CSS colour names at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
+<a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>で、より多くのCSSカラー名を見つけることができます。
 
-\--- /challenge \---
+\--- /チャレンジ\---
