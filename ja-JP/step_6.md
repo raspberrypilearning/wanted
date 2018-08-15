@@ -1,39 +1,39 @@
-## Styling headings
+## スタイル見出し
 
-Let's improve the style of the `<h1>` heading.
+`<h1>` 見出しのスタイルを改善しましょう。
 
-+ Add the following code underneath your image's CSS:
++ イメージのCSSの下に次のコードを追加します。
     
         h1 {
         
         }
         
     
-    This is where you'll add CSS properties for your main `<h1>` heading.
+    ここでは、メイン `<h1>` 見出しのCSSプロパティを追加します。
 
-+ To change the font of your `<h1>` headings, add the following code between the curly brackets:
++ `<h1>` 見出しのフォントを変更するには、中括弧の間に次のコードを追加します。
     
-        font-family: Impact;
+        font-family：インパクト。
         
 
-+ You can also change the size of the heading:
++ 見出しのサイズを変更することもできます。
     
-        font-size: 50pt;
+        font-size：50pt;
         
 
-+ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
++ `<h1>` 見出しとその周りのものの間に大きなスペースがあることに気付きましたか？
     
-    ![screenshot](images/wanted-h1-margin.png)
+    ![スクリーンショット](images/wanted-h1-margin.png)
     
-    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
+    これは見出しの周りに余白があるためです。マージンとは、要素（この場合は見出し）とその周りの他の要素との間のスペースです。
     
-    You can make the margin smaller with this code:
+    このコードでマージンを小さくすることができます：
     
-        margin: 10px;
+        マージン：10ピクセル。
         
     
-    ![screenshot](images/wanted-h1-margin-small.png)
+    ![スクリーンショット](images/wanted-h1-margin-small.png)
 
-+ You can also underline your heading:
++ また、見出しに下線を付けることもできます：
     
-        text-decoration: underline;
+        テキスト装飾：下線;
