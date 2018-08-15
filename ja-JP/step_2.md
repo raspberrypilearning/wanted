@@ -1,48 +1,49 @@
-## Styling your poster
+## あなたのポスターのスタイリング
 
-Let's start by editing the CSS code for the poster.
+ポスターのCSSコードを編集してみましょう。
 
-+ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ この小道具を開く： <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc / webbwanted</a>。
     
-    The project should look like this:
+    プロジェクトは次のようになります。
     
-    ![screenshot](images/wanted-starter.png)
+    ![スクリーンショット](images/wanted-starter.png)
 
-+ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
++ 「style.css」タブをクリックします。ポスターのさまざまな部分を含む `div` CSSプロパティが既にあることに気づくでしょう。
     
         div {
-            text-align: center;
-            overflow: hidden;
-            border: 2px solid black;
-            width: 300px;
+            text-align：center;
+            オーバーフロー：非表示。
+            ボーダー：2pxソリッドブラック;
+            幅： 
+        ピクセル;
         }   
         
 
-+ Let's start by altering the `text-align` property:
++ `text-align` プロパティを変更することから始めましょう：
     
-        text-align: center;
+        text-align：center;
         
     
-    What happens when you change the word `center` to `left` or `right`?
+    単語 `中心` から `左に` または `右の`を変更するとどうなりますか？
 
-+ How about the `border` property?
++ `ボーダー` プロパティはどうですか？
     
-        border: 2px solid black;
+        国境：2pxソリッドブラック;
         
     
-    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
+    `上のコードの2px` は2ピクセルを意味します。あなたが変更されたときに何が起こる `2ピクセルベタ黒` に `赤い点線4PX`？
 
-+ Change the `width` of the poster to `400px`. What happens to the poster?
++ 変更 `幅` にポスターのを `400ピクセル`。ポスターはどうなりますか？
 
-+ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
++ ポスターの背景色を設定するCSSを追加しましょう。コードの5行目の最後に移動し、returnキーを押すと、新しい空白行が作成されます。
     
-    ![screenshot](images/wanted-newline.png)
+    ![スクリーンショット](images/wanted-newline.png)
     
-    Type the following code on your new blank line:
+    新しい空白行に次のコードを入力します。
     
-        background: yellow;
+        背景：黄色;
         
     
-    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
+    上記のようにコード *正確に* 入力してください。 `<div>` 背景が黄色になります。
     
-    ![screenshot](images/wanted-background.png)
+    ![スクリーンショット](images/wanted-background.png)
