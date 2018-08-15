@@ -1,35 +1,35 @@
 ---
-hero_image: images/wanted.png
-theme: orange
+hero_image: images / wanted.png
+theme: オレンジ
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Wanted!
-description: Learn how to make your own poster.
+curriculum: 1、design-1、programming-0、phys-comp-0、製造-0、コミュニティ-0
+title: 募集中！
+description: 自分のポスターを作る方法を学ぶ。
 original_url: https://codeclubprojects.org/en-GB/webdev/wanted
-interests: art
+interests: アート
 technologies: html-css-javascript
-site_areas: projects
+site_areas: プロジェクト
 hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: 前書き
   - 
-    title: Styling your poster
+    title: あなたのポスターのスタイリング
   - 
-    title: 'Challenge: Improving your poster'
+    title: '課題：ポスターを改善する'
   - 
-    title: Styling images
+    title: イメージのスタイリング
   - 
-    title: 'Challenge: Improving your image'
+    title: '課題：画像を改善する'
   - 
-    title: Styling headings
+    title: スタイル見出し
   - 
-    title: 'Challenge: Make your poster awesome!'
+    title: '課題：あなたのポスターを素晴らしいものにしましょう！'
   - 
-    title: 'Challenge: Advertise an event!'
+    title: '課題：イベントを宣伝しましょう！'
