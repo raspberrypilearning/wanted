@@ -1,7 +1,7 @@
-\--- challenge \---
+\---挑戦\---
 
-## Challenge: Advertise an event!
+## 課題：イベントを宣伝しましょう！
 
-Can you make a poster for an event happening at your school? It could be a play, a sporting event, or even a poster advertising your Code Club!
+学校で起こっているイベントのポスターを作ることはできますか？それは、演劇、スポーツイベント、またはあなたのコードクラブを宣伝するポスターさえできます！
 
-\--- /challenge \---
+\--- /チャレンジ\---
