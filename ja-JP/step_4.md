@@ -1,45 +1,45 @@
-## Styling images
+## イメージのスタイリング
 
-Let's improve the style of the image in the poster.
+ポスターでイメージのスタイルを改善しましょう。
 
-+ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
++ 現時点では、 `<img>` タグのCSSプロパティはありませんので、いくつか追加してみましょう！
     
-    Firstly, add the following code underneath the CSS for your div:
+    まず、divのCSSの下に次のコードを追加します。
     
         img {
         
         }
         
     
-    ![screenshot](images/wanted-img-css.png)
+    ![スクリーンショット](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the `` curly brackets.
++ ``中括弧 ''の間に画像のCSSプロパティを追加できるようになりました。
     
-    For example, add this code between the curly brackets to set the width of the image:
+    たとえば、イメージの幅を設定するには、このコードを中括弧の間に追加します。
     
-        width: 100px;
+        幅：100ピクセル。
         
     
-    You'll see that the size of the image changes, so that its width is 100 pixels.
+    画像のサイズが変更され、幅が100ピクセルになることがわかります。
     
-    ![screenshot](images/wanted-img-width.png)
+    ![スクリーンショット](images/wanted-img-width.png)
 
-+ You can also add a border around the image with this code:
++ 次のコードで画像の周りに枠線を追加することもできます：
     
-        border: 1px solid black;
+        国境：1pxソリッドブラック;
         
 
-+ Have you noticed that there's not much space between the image and the border?
++ イメージと国境の間にスペースがあまりないことに気付きましたか？
     
-    ![screenshot](images/wanted-img-border.png)
+    ![スクリーンショット](images/wanted-img-border.png)
     
-    You can fix this by adding some padding around the image:
+    イメージの周りにいくつかのパディングを追加することでこれを修正することができます：
     
-        padding: 10px;
+        パディング：10px;
         
     
-    Padding is the space between the content (in this case an image) and its border.
+    パディングは、コンテンツ（この場合はイメージ）とその境界線の間のスペースです。
     
-    ![screenshot](images/wanted-img-padding.png)
+    ![スクリーンショット](images/wanted-img-padding.png)
     
-    What do you think would happen if you changed the padding to `50px`?
+    パディングを `50px`変更した場合、どうなると思いますか？
