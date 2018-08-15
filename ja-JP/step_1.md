@@ -2,7 +2,7 @@
 
 このプロジェクトでは、あなたのポスターをどのように作るか学びます。
 
-![screenshot](images/wanted-final.png)
+![スクリーンショット](images/wanted-final.png)
 
 ### クラブリーダーのための追加情報
 
@@ -20,71 +20,71 @@
 
 オンラインでHTMLやCSSを書くため[小道具](https://trinket.io/)を使うことをおすすめします。このプロジェクトでは次の小道具が含まれています。
 
-* ['Wanted' starting point -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* [「欲しい」出発点 - jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+子供はこの空白の小物 [（jumpto.cc/html-blank）](http://jumpto.cc/html-blank) を使って独自のHTML & CSSを書くことができます。あるいは、このテンプレートtrinket [（jumpto.cc/html-template）](http://jumpto.cc/html-template)使用することもできます。
 
-There is also a trinket containing a sample solution to the challenges:
+挑戦のサンプルソリューションを含む小物もあります：
 
-* ['Wanted' Finished -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* [「募集」完了 - trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
-## Offline Resources
+## オフラインリソース
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+このプロジェクトは、することができます [オフライン完成](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) 好まます。 このプロジェクトの[プロジェクトマテリアル]リンクをクリックすると、プロジェクトリソースにアクセスできます。 このリンクには、「プロジェクトリソース」セクションがあります。このセクションには、このプロジェクトをオフラインで完了するために必要なリソースが含まれています。 各子供がこれらのリソースのコピーにアクセスできることを確認してください。 このセクションには、次のファイルが含まれています。
 
-* template/index.html
-* template/style.css
-* wanted/index.html
-* wanted/style.css
-* wanted/robot.png
+* template / index.html
+* template / style.css
+* want / index.html
+* want / style.css
+* wanted / robot.png
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+このプロジェクトの課題の完成版は、次の内容を含む「ボランティアリソース」セクションでも見つけることができます。
 
-* wanted-finished/index.html
-* wanted-finished/style.css
-* wanted-finished/robot.png
+* 希望仕上がり/ index.html
+* want-finished / style.css
+* wanted-finished / robot.png
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+（上記のリソースはすべて、プロジェクトとしてダウンロード可能で、 `.zip` ファイルをボランティアします）。
 
-## Learning Objectives
+## 学習目標
 
-* This project gives children the opportunity to write their own CSS to style a webpage.
+* このプロジェクトは、子どもたちにウェブページのスタイルを設定する独自のCSSを書くチャンスを与えます。
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+このプロジェクトでは、以下の要素を網羅しています [ラズベリーパイデジタルメイクカリキュラム](http://rpf.io/curriculum)：
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [基本2Dおよび3Dアセットを設計する](https://www.raspberrypi.org/curriculum/design/creator)。
 
-## Challenges
+## 課題
 
-* "Improving your poster" - adding new CSS properties to the `div` selector;
-* "Improving your image" - adding new CSS properties to the `img` selector;
-* "Make your poster awesome" - adding new CSS properties and new `h3` and `p` selectors;
-* "Advertise an event" - Writing and editing HTML and CSS code.
+* "あなたのポスターを改善する" - `div` セレクタに新しいCSSプロパティを追加する。
+* "画像を改善する" - `img` セレクタに新しいCSSプロパティを追加する。
+* "あなたのポスターを素晴らしいものにする" - 新しいCSSプロパティと新しい `h3` と `p` セレクタを追加する。
+* "イベントを宣伝する" - HTMLとCSSコードの作成と編集。
 
-\--- /collapse \---
+\--- /崩壊\---
 
-## \--- collapse \---
+## \---崩壊\---
 
-## title: Project materials
+## title：プロジェクト資料
 
-## Project resources
+## プロジェクトリソース
 
-* [.zip file containing all project resources](resources/wanted-project-resources.zip)
-* [Online Trinket containing all 'Wanted!' project resources](http://jumpto.cc/web-wanted)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
-* [template/index.html](resources/template-index.html)
-* [template/style.css](resources/template-style.css)
-* [wanted/index.html](resources/wanted-index.html)
-* [wanted/style.css](resources/wanted-style.css)
-* [wanted/robot.png](resources/wanted-robot.png)
+* [すべてのプロジェクトリソースを含む.zipファイル](resources/wanted-project-resources.zip)
+* [すべての「募集！」を含むオンライン小物プロジェクトリソース](http://jumpto.cc/web-wanted)
+* [Online Trinketテンプレート](http://jumpto.cc/trinket-template)
+* [オンラインブランク小物](http://jumpto.cc/trinket-blank)
+* [template / index.html](resources/template-index.html)
+* [template / style.css](resources/template-style.css)
+* [want / index.html](resources/wanted-index.html)
+* [want / style.css](resources/wanted-style.css)
+* [wanted / robot.png](resources/wanted-robot.png)
 
-## Club leader resources
+## クラブリーダーのリソース
 
-* [.zip file containing all completed project resources](resources/wanted-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/ebeb56398a)
-* [wanted-finished/index.html](resources/wanted-finished-index.html)
-* [wanted-finished/style.css](resources/wanted-finished-style.css)
-* [twanted-finished/robot.png](resources/twanted-finished-robot.png)
+* [完了したすべてのプロジェクトリソースを含む.zipファイル](resources/wanted-volunteer-resources.zip)
+* [オンラインで完成したTrinketプロジェクト](https://trinket.io/html/ebeb56398a)
+* [希望仕上がり/ index.html](resources/wanted-finished-index.html)
+* [want-finished / style.css](resources/wanted-finished-style.css)
+* [twanted-finished / robot.png](resources/twanted-finished-robot.png)
 
-\--- /collapse \---
+\--- /崩壊\---
