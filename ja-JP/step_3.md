@@ -1,12 +1,12 @@
-\--- challenge \---
+\---挑戦\---
 
-## Challenge: Improving your poster
+## 課題：ポスターを改善する
 
-Add the following CSS property to your `div` style:
+`div` スタイルに次のCSSプロパティを追加します：
 
-    border-radius: 40px;
+    ボーダー半径：40px;
     
 
-What does this property do? What happens if you change the number in the code above?
+このプロパティは何をしていますか？上のコードで数値を変更するとどうなりますか？
 
-\--- /challenge \---
+\--- /チャレンジ\---
