@@ -67,22 +67,22 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 
 ## title: Project materials
 
-## Project resources
+## Recursos do Projeto
 
-* [.zip file containing all project resources](resources/wanted-project-resources.zip)
-* [Online Trinket containing all 'Wanted!' project resources](http://jumpto.cc/web-wanted)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [arquivo.zip contendo todos os recursos do projeto](resources/wanted-project-resources.zip)
+* [Online Trinket contendo todos os recursos do projeto 'Wanted' (Procurado)](http://jumpto.cc/web-wanted)
+* [Template Online Trinket](http://jumpto.cc/trinket-template)
+* [Trinket online em branco](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [wanted/index.html](resources/wanted-index.html)
 * [wanted/style.css](resources/wanted-style.css)
 * [wanted/robot.png](resources/wanted-robot.png)
 
-## Club leader resources
+## Recursos para líderes de clube
 
-* [.zip file containing all completed project resources](resources/wanted-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/ebeb56398a)
+* [arquivo.zip contendo todos os recursos do projeto concluídos](resources/wanted-volunteer-resources.zip)
+* [Projeto Trinket online e completo](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
 * [twanted-finished/robot.png](resources/twanted-finished-robot.png)
