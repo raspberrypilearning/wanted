@@ -1,36 +1,36 @@
-## Introduction
+## Introdução
 
-In this project, you'll learn how to make your own poster.
+Neste projeto, você aprenderá como criar seu próprio pôster.
 
 ![screenshot](images/wanted-final.png)
 
-### Additional information for club leaders
+### Informação adicional para líderes de clubes
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/wanted/print).
+Se você precisar imprimir esse projeto, por favor usar[ a versão para impressão](https://projects.raspberrypi.org/en/projects/wanted/print).
 
 ## \--- collapse \---
 
 ## title: Club leader notes
 
-## Introduction:
+## Introdução:
 
-In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
+Neste projeto, as crianças terão a oportunidade de escrever seu próprio CSS. Eles também editarão e escreverão propriedades e seletores CSS para criar seu próprio pôster.
 
-## Online Resources
+## Recursos online
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+Recomendamos usar o[ trinket ](https://trinket.io/) para escrever HTML & CSS online. Este projeto contém os seguintes trinkets:
 
-* ['Wanted' starting point -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* [Ponto de partida do 'Wanted' (Procurado) -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+As crianças também podem usar deste trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever seu próprio HTML & CSS, ou como alternativa, eles podem usar este modelo de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Há também um Trinket contendo um exemplo de solução para os desafios:
 
-* ['Wanted' Finished -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* ['Wanted' (Procurado) Concluído -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
-## Offline Resources
+## Recursos offline
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Este projeto pode ser [concluído offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), se você preferir. Você pode acessar os recursos do projeto clicando no link 'Materiais do Projeto' para este projeto. Este link contém uma seção "Recursos do Projeto", que inclui recursos que as crianças precisarão para concluir esse projeto off-line. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
 
 * template/index.html
 * template/style.css
@@ -38,28 +38,28 @@ This project can be [completed offline](https://www.codeclubprojects.org/en-GB/r
 * wanted/style.css
 * wanted/robot.png
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Você também pode encontrar uma versão completa dos desafios deste projeto na seção "Recursos para Voluntários", que contém:
 
 * wanted-finished/index.html
 * wanted-finished/style.css
 * wanted-finished/robot.png
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Todos os recursos acima também podem ser baixados como arquivos de projeto e de voluntário no formato `.zip`.)
 
-## Learning Objectives
+## Objetivos do aprendizado
 
-* This project gives children the opportunity to write their own CSS to style a webpage.
+* Este projeto oferece às crianças a oportunidade de escrever seu próprio CSS para estilizar uma página Web.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Design de ativos 2D e 3D básicos](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Desafios
 
-* "Improving your poster" - adding new CSS properties to the `div` selector;
-* "Improving your image" - adding new CSS properties to the `img` selector;
-* "Make your poster awesome" - adding new CSS properties and new `h3` and `p` selectors;
-* "Advertise an event" - Writing and editing HTML and CSS code.
+* "Melhorando seu pôster" - adicionando novas propriedades CSS ao seletor ` div `;
+* "Melhorando sua imagem" - adicionando novas propriedades CSS ao seletor` img `;
+* "Torne seu pôster incrível" - adicionando novas propriedades CSS e novos seletores` h3 ` e ` p `;
+* "Anuncie um evento" - Escrevendo e editando códigos HTML e CSS.
 
 \--- /collapse \---
 
