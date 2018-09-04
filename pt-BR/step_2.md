@@ -4,11 +4,11 @@ Vamos começar editando o código CSS do pôster.
 
 + Abra este trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-letter</a>.
     
-    The project should look like this:
+    O projeto deve ficar assim:
     
     ![screenshot](images/wanted-starter.png)
 
-+ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
++ Clique na aba "style.css". Você notará que já existem propriedades CSS para o ` div ` contendo as diferentes partes do cartaz.
     
         div {
             text-align: center;
@@ -18,21 +18,21 @@ Vamos começar editando o código CSS do pôster.
         }   
         
 
-+ Let's start by altering the `text-align` property:
++ Vamos começar alterando a propriedade `text-align`:
     
         text-align: center;
         
     
-    What happens when you change the word `center` to `left` or `right`?
+    O que acontece quando você muda a palavra ` center` (centralizar) para ` left` (esquerda) ou ` rignt` (direita)?
 
-+ How about the `border` property?
++ Que tal mudar a propriedade `border`?
     
         border: 2px solid black;
         
     
-    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
+    ` 2 px ` no código acima significa 2 pixels. O que acontece quando você altera o 2x preto sólido ` solid black 2px ` para 4x pontilhado vermelho` 4px dotted red `?
 
-+ Change the `width` of the poster to `400px`. What happens to the poster?
++ Altere a largura `width ` do poster para ` 400 px `. O que acontece com o ele?
 
 + Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
     
