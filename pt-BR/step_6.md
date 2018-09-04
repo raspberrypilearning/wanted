@@ -1,4 +1,4 @@
-## Styling headings
+## Estilizando Cabeçalhos
 
 Let's improve the style of the `<h1>` heading.
 
