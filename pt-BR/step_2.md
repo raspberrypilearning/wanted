@@ -34,15 +34,15 @@ Vamos começar editando o código CSS do pôster.
 
 + Altere a largura `width ` do poster para ` 400 px `. O que acontece com o ele?
 
-+ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
++ Vamos adicionar um código CSS para definir a cor de fundo do poster. Vá até o fim da linha 5 do código e pressione retorno, para que você tenha uma nova linha em branco.
     
     ![screenshot](images/wanted-newline.png)
     
-    Type the following code on your new blank line:
+    Digite o seguinte código em sua nova linha em branco:
     
         background: yellow;
         
     
-    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
+    Certifique-se de digitar o código *exatamente* como está acima. Você vai notar que o plano de fundo do `<div>` ficará amarelo.
     
     ![screenshot](images/wanted-background.png)
