@@ -13,33 +13,33 @@ Vamos melhorar o estilo da imagem do poster.
     
     ![screenshot](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the `` curly brackets.
++ Agora podemos adicionar propriedades CSS para imagens entre as "chaves".
     
-    For example, add this code between the curly brackets to set the width of the image:
+    Por exemplo, adicione este código entre as chaves para definir a largura da imagem:
     
         width: 100px;
         
     
-    You'll see that the size of the image changes, so that its width is 100 pixels.
+    Você verá que o tamanho da imagem muda, de modo que sua largura fique com 100 pixels.
     
     ![screenshot](images/wanted-img-width.png)
 
-+ You can also add a border around the image with this code:
++ Você também pode adicionar uma borda ao redor da imagem com este código:
     
         border: 1px solid black;
         
 
-+ Have you noticed that there's not much space between the image and the border?
++ Você percebeu que não há muito espaço entre a imagem e a borda?
     
     ![screenshot](images/wanted-img-border.png)
     
-    You can fix this by adding some padding around the image:
+    Você pode corrigir isto adicionando um espaçamento ao redor da imagem:
     
         padding: 10px;
         
     
-    Padding is the space between the content (in this case an image) and its border.
+    Padding (preenchimento) é o espaço entre o conteúdo (neste caso, uma imagem) e sua borda.
     
     ![screenshot](images/wanted-img-padding.png)
     
-    What do you think would happen if you changed the padding to `50px`?
+    O que você acha que aconteceria se você alterasse o espaçamento para ` 50px `?
