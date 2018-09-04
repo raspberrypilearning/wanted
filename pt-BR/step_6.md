@@ -1,39 +1,39 @@
 ## Estilizando Cabeçalhos
 
-Let's improve the style of the `<h1>` heading.
+Vamos melhorar o estilo do cabeçalho `<h1>`.
 
-+ Add the following code underneath your image's CSS:
++ Adicione o seguinte código abaixo do CSS da sua imagem:
     
         h1 {
         
         }
         
     
-    This is where you'll add CSS properties for your main `<h1>` heading.
+    É aqui que você adicionará as propriedades CSS ao seu cabeçalho principal `<h1>`.
 
-+ To change the font of your `<h1>` headings, add the following code between the curly brackets:
++ Para alterar a fonte dos seus cabeçalhos `<h1>`, adicione o seguinte código entre as chaves:
     
         font-family: Impact;
         
 
-+ You can also change the size of the heading:
++ Você também pode alterar o tamanho do cabeçalho:
     
         font-size: 50pt;
         
 
-+ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
++ Você notou que há um grande espaço entre o cabeçalho `<h1>` e as coisas ao redor dele?
     
     ![screenshot](images/wanted-h1-margin.png)
     
-    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
+    Isso ocorre porque há uma margem ao redor do cabeçalho. Uma margem é o espaço entre o elemento (neste caso, um cabeçalho) e as outras coisas ao redor dele.
     
-    You can make the margin smaller with this code:
+    Você pode diminuir a margem com este código:
     
         margin: 10px;
         
     
     ![screenshot](images/wanted-h1-margin-small.png)
 
-+ You can also underline your heading:
++ Você também pode sublinhar seu título:
     
         text-decoration: underline;
