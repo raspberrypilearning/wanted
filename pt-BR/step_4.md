@@ -1,10 +1,10 @@
-## Styling images
+## Dando estilo a imagens
 
-Let's improve the style of the image in the poster.
+Vamos melhorar o estilo da imagem do poster.
 
-+ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
++ No momento, não há propriedades CSS para sua tag `<img>`, então vamos adicionar algumas!
     
-    Firstly, add the following code underneath the CSS for your div:
+    Em primeiro lugar, adicione o seguinte código abaixo ao CSS para sua div:
     
         img {
         
