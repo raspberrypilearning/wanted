@@ -43,6 +43,6 @@ Počnimo uređivanjem CSS kôda za plakat.
         background: yellow;
         
     
-    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
+    Provjeri da li je upisani kôd *jednak* kôdu datom iznad. Primijetićeš da je pozadina elementa `<div>` sada žuta.
     
     ![screenshot](images/wanted-background.png)
