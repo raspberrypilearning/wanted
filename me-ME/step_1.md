@@ -30,7 +30,7 @@ Takođe postoji trinket koji sadrži primjer rješenja izazova:
 
 ## Offline izvori
 
-Ako želite, ovaj projekat može biti [izrađen offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Izvorima projekta možete pristupiti klikom na link projekta 'Projektni materijali'. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Ako želite, ovaj projekat može biti [izrađen offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Izvorima projekta možete pristupiti klikom na link projekta 'Projektni materijali'. Navedeni link sadrži odjeljak 'Izvori projekta' u kojem se nalaze izvori koji će djeci biti potrebni kako bi izradila ovaj projekat offline. Obezbijedite da svako dijete ima pristup kopiji ovih izvora. Odjeljak sadrži sljedeće datoteke:
 
 * template/index.html
 * template/style.css
@@ -38,26 +38,26 @@ Ako želite, ovaj projekat može biti [izrađen offline](https://www.codeclubpro
 * wanted/style.css
 * wanted/robot.png
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Takođe, završenu verziju izazova ovoga projekta možete naći u odjeljku 'Izvori za volontere' koji sadrži:
 
 * wanted-finished/index.html
 * wanted-finished/style.css
 * wanted-finished/robot.png
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Sve navedene izvore moguće je preuzeti kao `.zip` datoteke.)
 
-## Learning Objectives
+## Ciljevi učenja
 
-* This project gives children the opportunity to write their own CSS to style a webpage.
+* Ovaj projekat daje djeci mogućnost da napišu sopstveni CSS kako bi stilizovala veb-stranicu.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Dizajniranje osnovnih 2D i 3D elemenata](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Izazovi
 
-* "Improving your poster" - adding new CSS properties to the `div` selector;
-* "Improving your image" - adding new CSS properties to the `img` selector;
+* ''Poboljšaj svoj plakat'' - dodavanje novih CSS svojstava selektoru `div`;
+* ''Poboljšaj svoju sliku'' - dodavanje novih CSS svojstava selektoru `img`;
 * "Make your poster awesome" - adding new CSS properties and new `h3` and `p` selectors;
 * "Advertise an event" - Writing and editing HTML and CSS code.
 
