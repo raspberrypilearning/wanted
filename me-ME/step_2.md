@@ -18,27 +18,27 @@ Počnimo uređivanjem CSS kôda za plakat.
         }   
         
 
-+ Let's start by altering the `text-align` property:
++ Započećemo tako što ćemo promijeniti svojstvo` text-align` (poravnanje teksta):
     
         text-align: center;
         
     
-    What happens when you change the word `center` to `left` or `right`?
+    Šta se dešava kada promijeniš riječ `center` (centar) u `left` (lijevo) ili `right` (desno)?
 
-+ How about the `border` property?
++ A šta se dešava sa svojstvom `border` (okvir)?
     
         border: 2px solid black;
         
     
-    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
+    `2px` u gornjem kôdu označava 2 piksela. Šta će se desiti kada promijeniš `2px solid black` (2px puna crna) u `4px dotted red` (4 px tačkasta crvena)?
 
-+ Change the `width` of the poster to `400px`. What happens to the poster?
++ Sada promijeni svojstvo `width` (širina) postera u `400px`. Šta se dogodilo sa plakatom?
 
-+ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
++ Dodajmo malo CSS-a da odredimo boju pozadine postera. Idi na kraj 5. reda svog kôda i pritisni taster return da dobiješ novi prazan red.
     
     ![screenshot](images/wanted-newline.png)
     
-    Type the following code on your new blank line:
+    U novom praznom redu upiši sljedeći kôd:
     
         background: yellow;
         
