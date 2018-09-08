@@ -1,10 +1,10 @@
-## Styling your poster
+## Stilizovanje plakata
 
-Let's start by editing the CSS code for the poster.
+Započnimo uređivanjem CSS kôda za plakat.
 
-+ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ Otvori sljedeći trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
-    The project should look like this:
+    Projekat treba da izgleda ovako:
     
     ![screenshot](images/wanted-starter.png)
 
