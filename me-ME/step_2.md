@@ -1,6 +1,6 @@
 ## Stilizovanje plakata
 
-Započnimo uređivanjem CSS kôda za plakat.
+Počnimo uređivanjem CSS kôda za plakat.
 
 + Otvori sljedeći trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
@@ -8,7 +8,7 @@ Započnimo uređivanjem CSS kôda za plakat.
     
     ![screenshot](images/wanted-starter.png)
 
-+ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
++ Klikni na karticu "style.css". Primijetićeš da već postoje neka CSS svojstva za `div` koji sadrži različite dijelove plakata.
     
         div {
             text-align: center;
