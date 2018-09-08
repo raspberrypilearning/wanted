@@ -58,31 +58,31 @@ Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digi
 
 * ''Poboljšaj svoj plakat'' - dodavanje novih CSS svojstava selektoru `div`;
 * ''Poboljšaj svoju sliku'' - dodavanje novih CSS svojstava selektoru `img`;
-* "Make your poster awesome" - adding new CSS properties and new `h3` and `p` selectors;
-* "Advertise an event" - Writing and editing HTML and CSS code.
+* ''Napravi fenomenalan plakat'' - dodavanje novih CSS svojstava i novih selektora ` h3` i `p`;
+* ''Reklamiraj događaj'' - pisanje i uređivanje HTML i CSS kôdova.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Projektni materijali
 
-## Project resources
+## Izvori projekta
 
-* [.zip file containing all project resources](resources/wanted-project-resources.zip)
-* [Online Trinket containing all 'Wanted!' project resources](http://jumpto.cc/web-wanted)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [.zip datoteka koja sadrži sve izvore projekta](resources/wanted-project-resources.zip)
+* [Online Trinket koji sadrži sve izvore projekta 'Tražen!'](http://jumpto.cc/web-wanted)
+* [Online Trinket šablon](http://jumpto.cc/trinket-template)
+* [Online prazan Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [wanted/index.html](resources/wanted-index.html)
 * [wanted/style.css](resources/wanted-style.css)
 * [wanted/robot.png](resources/wanted-robot.png)
 
-## Club leader resources
+## Izvori za vođe kluba
 
-* [.zip file containing all completed project resources](resources/wanted-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/ebeb56398a)
+* [.zip datoteka koja sadrži sve završene izvore projekta](resources/wanted-volunteer-resources.zip)
+* [Završen Trinket projekat online](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
 * [twanted-finished/robot.png](resources/twanted-finished-robot.png)
