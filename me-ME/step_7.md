@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: Make your poster awesome!
+## Izazov: Napravi da tvoj plakat bude izvanredan!
 
-Add more CSS code to style your `<h3>` headings and your paragraphs.
+Dodaj još CSS kôda i stilizuj `<h3>` naslov i pasuse.
 
 ![screenshot](images/wanted-final.png)
 
