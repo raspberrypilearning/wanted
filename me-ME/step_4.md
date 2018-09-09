@@ -2,9 +2,9 @@
 
 Poboljšajmo stil slike u plakatu.
 
-+ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
++ Trenutno nema nijednog CSS svojstva za oznaku `<img>`. Dodajmo neke!
     
-    Firstly, add the following code underneath the CSS for your div:
+    Za početak, dodajmo sljedeći kôd ispod CSS-a za tvoj div:
     
         img {
         
@@ -13,14 +13,14 @@ Poboljšajmo stil slike u plakatu.
     
     ![screenshot](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the `` curly brackets.
++ Sada možemo da dodamo CSS svojstva za slike između vitičastih zagrada { }.
     
-    For example, add this code between the curly brackets to set the width of the image:
+    Na primjer, između vitičastih zagrada dodaj sljedeći kôd da odrediš širinu slike:
     
         width: 100px;
         
     
-    You'll see that the size of the image changes, so that its width is 100 pixels.
+    Vidjećeš da se veličina slike promijenila. Sada je njena širina 100 piksela.
     
     ![screenshot](images/wanted-img-width.png)
 
