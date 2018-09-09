@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improving your image
+## Izazov: Poboljšaj svoju sliku
 
-Can you give your image a background colour? Or a rounded border?
+Možeš li da postaviš boju pozadine tvoje slike? Ili zaobljeni okvir?
 
-You can find more CSS colour names at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
+Više CSS naziva boja možeš naći na <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
 
 \--- /challenge \---
