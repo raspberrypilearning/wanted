@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: Improving your poster
+## Izazov: Poboljšaj svoj plakat
 
-Add the following CSS property to your `div` style:
+Stilu elementa `div` dodaj sljedeće CSS svojstvo:
 
     border-radius: 40px;
     
 
-What does this property do? What happens if you change the number in the code above?
+Šta radi ovo svojstvo? Šta će se dogoditi ako promijeniš broj u kôdu iznad?
 
 \--- /challenge \---
