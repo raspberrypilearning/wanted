@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Wanted!
-description: Learn how to make your own poster.
+title: Tražen!
+description: Nauči kako da napraviš sopstveni plakat.
 original_url: https://codeclubprojects.org/en-GB/webdev/wanted
 interests: art
 technologies: html-css-javascript
@@ -18,18 +18,18 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Uvod
   - 
-    title: Styling your poster
+    title: Stilizovanje plakata
   - 
-    title: 'Challenge: Improving your poster'
+    title: 'Izazov: Poboljšaj svoj plakat'
   - 
-    title: Styling images
+    title: Stilizovanje slika
   - 
-    title: 'Challenge: Improving your image'
+    title: 'Izazov: Poboljšaj svoju sliku'
   - 
-    title: Styling headings
+    title: Stilizovanje naslova
   - 
-    title: 'Challenge: Make your poster awesome!'
+    title: 'Izazov: Napravi da tvoj plakat bude izvanredan!'
   - 
-    title: 'Challenge: Advertise an event!'
+    title: 'Izazov: Reklamiraj događaj!'
