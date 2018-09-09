@@ -21,19 +21,19 @@ Poboljšajmo sada stil `<h1>` naslova.
         font-size: 50pt;
         
 
-+ Primjećuješ li da postoji veliki razmak između `<h1>` naslova i elemenata oko njega?
++ Primjećuješ li da postoji veliki prostor između `<h1>` naslova i elemenata oko njega?
     
     ![screenshot](images/wanted-h1-margin.png)
     
-    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
+    To se dešava zbog toga što oko naslova postoji margina. Margina je razmak između elementa (u ovom slučaju naslova) i ostalih stvari oko njega.
     
-    You can make the margin smaller with this code:
+    Marginu možeš da smanjiš sljedećim kôdom:
     
         margin: 10px;
         
     
     ![screenshot](images/wanted-h1-margin-small.png)
 
-+ You can also underline your heading:
++ Svoj naslov možeš i da podvučeš:
     
         text-decoration: underline;
