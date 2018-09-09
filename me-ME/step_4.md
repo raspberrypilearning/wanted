@@ -24,16 +24,16 @@ Poboljšajmo stil slike u plakatu.
     
     ![screenshot](images/wanted-img-width.png)
 
-+ You can also add a border around the image with this code:
++ Takođe možeš da dodaš okvir oko slike koristeći sljedeći kôd:
     
         border: 1px solid black;
         
 
-+ Have you noticed that there's not much space between the image and the border?
++ Da li primjećuješ da nema puno mjesta između slike i okvira?
     
     ![screenshot](images/wanted-img-border.png)
     
-    You can fix this by adding some padding around the image:
+    Ovo možeš da popraviš dodajući 'padding' (popunu) oko slike:
     
         padding: 10px;
         
