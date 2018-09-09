@@ -33,13 +33,13 @@ Poboljšajmo stil slike u plakatu.
     
     ![screenshot](images/wanted-img-border.png)
     
-    Ovo možeš da popraviš dodajući 'padding' (popunu) oko slike:
+    Ovo možeš da popraviš dodajući 'padding' oko slike:
     
         padding: 10px;
         
     
-    Padding is the space between the content (in this case an image) and its border.
+    'Padding' je prostor između sadržaja (u ovom slučaju slike) i njegovog okvira.
     
     ![screenshot](images/wanted-img-padding.png)
     
-    What do you think would happen if you changed the padding to `50px`?
+    Šta misliš da će se dogoditi ako promijeniš 'padding' na `50px`?
