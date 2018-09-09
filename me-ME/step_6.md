@@ -1,8 +1,8 @@
-## Styling headings
+## Stilizovanje naslova
 
-Let's improve the style of the `<h1>` heading.
+Poboljšajmo sada stil naslova `<h1>`.
 
-+ Add the following code underneath your image's CSS:
++ Dodaj sljedeći kôd ispod CSS-a tvoje slike:
     
         h1 {
         
