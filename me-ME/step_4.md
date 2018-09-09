@@ -1,6 +1,6 @@
-## Styling images
+## Stilizovanje slika
 
-Let's improve the style of the image in the poster.
+Poboljšajmo stil slike u plakatu.
 
 + At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
     
