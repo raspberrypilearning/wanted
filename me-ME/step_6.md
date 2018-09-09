@@ -1,6 +1,6 @@
 ## Stilizovanje naslova
 
-Poboljšajmo sada stil naslova `<h1>`.
+Poboljšajmo sada stil `<h1>` naslova.
 
 + Dodaj sljedeći kôd ispod CSS-a tvoje slike:
     
@@ -9,19 +9,19 @@ Poboljšajmo sada stil naslova `<h1>`.
         }
         
     
-    This is where you'll add CSS properties for your main `<h1>` heading.
+    Tu ćeš dodati CSS svojstva za glavni `<h1>` naslov.
 
-+ To change the font of your `<h1>` headings, add the following code between the curly brackets:
++ Za promjenu fonta `<h1>` naslova, između vitičastih zagrada dodaj sljedeći kôd:
     
         font-family: Impact;
         
 
-+ You can also change the size of the heading:
++ Takođe možeš promijeniti veličinu naslova:
     
         font-size: 50pt;
         
 
-+ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
++ Primjećuješ li da postoji veliki razmak između `<h1>` naslova i elemenata oko njega?
     
     ![screenshot](images/wanted-h1-margin.png)
     
