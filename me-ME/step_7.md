@@ -6,7 +6,7 @@ Dodaj još CSS kôda i stilizuj `<h3>` naslov i pasuse.
 
 ![screenshot](images/wanted-final.png)
 
-Here's a list of some CSS properties you can use:
+Ovo je lista CSS svojstava koje možeš koristiti:
 
     color: black;
     background: white;
