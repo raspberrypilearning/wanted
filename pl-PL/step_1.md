@@ -1,18 +1,18 @@
-## Introduction
+## Wstęp
 
-In this project, you'll learn how to make your own poster.
+W tym projekcie dowiesz się, jak zrobić swój własny plakat.
 
 ![screenshot](images/wanted-final.png)
 
-### Additional information for club leaders
+### Dodatkowe informacje dla liderów klubów
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/wanted/print).
+Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/en/projects/wanted/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Notatki dla liderów klubów
 
-## Introduction:
+## Wstęp:
 
 In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
 
