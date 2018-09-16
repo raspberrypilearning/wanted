@@ -16,7 +16,7 @@ Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.
 
 In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
 
-## Online Resources
+## Zasoby online
 
 We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
 
