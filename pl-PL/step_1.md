@@ -14,7 +14,7 @@ Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.
 
 ## Wstęp:
 
-In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
+W tym projekcie dzieci będą miały możliwość napisania własnego CSS. Będą również edytować i pisać właściwości i selektory CSS, aby stworzyć własny plakat.
 
 ## Zasoby online
 
@@ -38,15 +38,15 @@ Ten projekt może być [ ukończony w trybie offline ](https://www.codeclubproje
 * wanted/style.css
 * wanted/robot.png
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Ukończoną wersję zadań z tego projektu można również znaleźć w sekcji "Zasoby dla wolontariuszy", która zawiera:
 
 * wanted-finished/index.html
 * wanted-finished/style.css
 * wanted-finished/robot.png
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Wszystkie powyższe zasoby można również pobrać jako pliki `.zip`.)
 
-## Learning Objectives
+## Cele dydaktyczne
 
 * This project gives children the opportunity to write their own CSS to style a webpage.
 
@@ -67,7 +67,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## title: Project materials
 
-## Project resources
+## Zasoby projektu
 
 * [.zip file containing all project resources](resources/wanted-project-resources.zip)
 * [Online Trinket containing all 'Wanted!' project resources](http://jumpto.cc/web-wanted)
