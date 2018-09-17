@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: Improving your poster
+## Wyzwanie: poprawienie swojego plakatu
 
-Add the following CSS property to your `div` style:
+Dodaj następującą właściwość CSS do stylu elementu `div`:
 
     border-radius: 40px;
     
 
-What does this property do? What happens if you change the number in the code above?
+Co robi ta właściwość? Co się stanie, jeśli zmienisz liczbę w powyższym kodzie?
 
 \--- /challenge \---
