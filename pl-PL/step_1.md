@@ -2,7 +2,7 @@
 
 W tym projekcie dowiesz się, jak zrobić swój własny plakat.
 
-![screenshot](images/wanted-final.png)
+![zrzut ekranu](images/wanted-final.png)
 
 ### Dodatkowe informacje dla liderów klubów
 
@@ -72,19 +72,19 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [Plik .zip zawierający wszystkie zasoby potrzebne do wykonania projektu](resources/wanted-project-resources.zip)
 * [Trinket zawierający wszystkie zasoby potrzebne do realizacji projektu "Poszukiwany!"](http://jumpto.cc/web-wanted)
 * [Pusty szablon Trinket](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [Pusty Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [wanted/index.html](resources/wanted-index.html)
 * [wanted/style.css](resources/wanted-style.css)
 * [wanted/robot.png](resources/wanted-robot.png)
 
-## Club leader resources
+## Zasoby dla lidera klubu
 
-* [.zip file containing all completed project resources](resources/wanted-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/ebeb56398a)
+* [Plik .zip zawierający zasoby z ukończonym projektem](resources/wanted-volunteer-resources.zip)
+* [Trinket zawierający ukończony projekt](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
-* [twanted-finished/robot.png](resources/twanted-finished-robot.png)
+* [wanted-finished/robot.png](resources/twanted-finished-robot.png)
 
 \--- /collapse \---
