@@ -1,10 +1,10 @@
-## Styling your poster
+## Stylizowanie swojego plakatu
 
-Let's start by editing the CSS code for the poster.
+Zacznijmy od edycji kodu CSS dla plakatu.
 
-+ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ Otwórz edytor: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
-    The project should look like this:
+    Projekt powinien wyglądać następująco:
     
     ![screenshot](images/wanted-starter.png)
 
