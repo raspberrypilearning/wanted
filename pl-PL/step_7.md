@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: Make your poster awesome!
+## Wyzwanie: Spraw, by Twój plakat był niesamowity!
 
-Add more CSS code to style your `<h3>` headings and your paragraphs.
+Dodaj więcej kodu CSS, aby nadać styl nagłówkom `<h3>` i akapitom.
 
-![screenshot](images/wanted-final.png)
+![zrzut ekranu](images/wanted-final.png)
 
-Here's a list of some CSS properties you can use:
+Oto lista niektórych właściwości CSS, których możesz użyć:
 
     color: black;
     background: white;
