@@ -18,9 +18,9 @@ W tym projekcie dzieci będą miały możliwość napisania własnego CSS. Będ�
 
 ## Zasoby online
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+Do pisania kodu HTML i CSS online zalecamy użytkowanie edytora [trinket](https://trinket.io/). Ten projekt zawiera następujące szablony:
 
-* ['Wanted' starting point -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* [Punkt początkowy projektu "Poszukiwany" - jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
 Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
@@ -54,18 +54,18 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 * [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Wyzwania
 
-* "Improving your poster" - adding new CSS properties to the `div` selector;
-* "Improving your image" - adding new CSS properties to the `img` selector;
-* "Make your poster awesome" - adding new CSS properties and new `h3` and `p` selectors;
-* "Advertise an event" - Writing and editing HTML and CSS code.
+* "Ulepszanie Twojego plakatu" - dodawanie nowych właściwości CSS do selektora `div`;
+* "Ulepszanie Twojego obrazu" - dodawanie nowych właściwości CSS do selektora `img`;
+* "Spraw, by Twój plakat był niesamowity" - dodawanie nowych właściwości CSS i nowych selektorów ` h3 ` i ` str `;
+* "Zareklamuj wydarzenie" - Pisanie i edytowanie kodu HTML i CSS.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiały do projektu
 
 ## Zasoby projektu
 
