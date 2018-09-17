@@ -6,7 +6,7 @@ Zacznijmy od edycji kodu CSS dla plakatu.
     
     Projekt powinien wyglądać następująco:
     
-    ![screenshot](images/wanted-starter.png)
+    ![zrzut ekranu](images/wanted-starter.png)
 
 + Kliknij kartę "style.css". Zauważysz, że istnieją już właściwości CSS dla elementu `div` zawierające różne części plakatu.
     
@@ -36,13 +36,13 @@ Zacznijmy od edycji kodu CSS dla plakatu.
 
 + Dodajmy trochę CSS, aby ustawić kolor tła plakatu. Przejdź na koniec linii 5 kodu i naciśnij klawisz Enter, aby otrzymać nową pustą linię.
     
-    ![screenshot](images/wanted-newline.png)
+    ![zrzut ekranu](images/wanted-newline.png)
     
     Wpisz następujący kod w nowej pustej linii:
     
         background: yellow;
         
     
-    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
+    Upewnij się, że wpisujesz kod * dokładnie * tak, jak to jest powyżej. Powinieneś zauważyć, że tło `<div>` jest teraz żółte.
     
-    ![screenshot](images/wanted-background.png)
+    ![zrzut ekranu](images/wanted-background.png)
