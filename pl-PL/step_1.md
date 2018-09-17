@@ -48,7 +48,7 @@ Ukończoną wersję zadań z tego projektu można również znaleźć w sekcji "
 
 ## Cele dydaktyczne
 
-* This project gives children the opportunity to write their own CSS to style a webpage.
+* Ten projekt daje dzieciom możliwość napisania własnego kodu CSS aby stworzyć styl strony internetowej.
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
