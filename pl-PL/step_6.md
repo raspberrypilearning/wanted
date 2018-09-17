@@ -21,19 +21,19 @@ Poprawmy styl nagłówka `<h1>`.
         font-size: 50pt;
         
 
-+ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
++ Czy zauważyliście, że jest duża przestrzeń pomiędzy pozycją `<h1>` i zawartością wokół niego?
     
-    ![screenshot](images/wanted-h1-margin.png)
+    ![zrzut ekranu](images/wanted-h1-margin.png)
     
-    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
+    Jest tak, ponieważ wokół nagłówka jest margines. Margines to przestrzeń między elementem (w tym przypadku nagłówkiem) a treścią wokół niego.
     
-    You can make the margin smaller with this code:
+    Możesz zmniejszyć margines za pomocą tego kodu:
     
         margin: 10px;
         
     
-    ![screenshot](images/wanted-h1-margin-small.png)
+    ![zrzut ekranu](images/wanted-h1-margin-small.png)
 
-+ You can also underline your heading:
++ Możesz także podkreślić swój nagłówek:
     
         text-decoration: underline;
