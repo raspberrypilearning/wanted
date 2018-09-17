@@ -11,9 +11,9 @@ Poprawmy styl obrazu na plakacie.
         }
         
     
-    ![screenshot](images/wanted-img-css.png)
+    ![zrzut ekranu](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the `` curly brackets.
++ Możemy teraz dodać właściwości CSS dla obrazów pomiędzy nawiasami klamrowymi.
     
     Na przykład dodaj ten kod między nawiasami klamrowymi aby ustawić szerokość obrazu:
     
@@ -22,7 +22,7 @@ Poprawmy styl obrazu na plakacie.
     
     Zobaczysz, że rozmiar obrazu zmienia się, tak aby jego szerokość wynosiła 100 pikseli.
     
-    ![screenshot](images/wanted-img-width.png)
+    ![zrzut ekranu](images/wanted-img-width.png)
 
 + Możesz również dodać obramowanie wokół obrazu za pomocą tego kodu:
     
@@ -31,7 +31,7 @@ Poprawmy styl obrazu na plakacie.
 
 + Czy zauważyłeś, że między obrazem a granicą nie ma zbyt wiele odstępu?
     
-    ![screenshot](images/wanted-img-border.png)
+    ![zrzut ekranu](images/wanted-img-border.png)
     
     Możesz to naprawić, dodając wypełnienie wokół obrazu:
     
@@ -40,6 +40,6 @@ Poprawmy styl obrazu na plakacie.
     
     Wypełnienie to przestrzeń między treścią (w tym przypadku obrazem) a jej obramowaniem.
     
-    ![screenshot](images/wanted-img-padding.png)
+    ![zrzut ekranu](images/wanted-img-padding.png)
     
     Jak myślisz, co by się stało, gdyby zmienić wypełnienie na `50 px`?
