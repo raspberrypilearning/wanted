@@ -52,7 +52,7 @@ Ukończoną wersję zadań z tego projektu można również znaleźć w sekcji "
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [ Projektuj podstawowe zasoby 2D i 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Wyzwania
 
@@ -69,9 +69,9 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## Zasoby projektu
 
-* [.zip file containing all project resources](resources/wanted-project-resources.zip)
-* [Online Trinket containing all 'Wanted!' project resources](http://jumpto.cc/web-wanted)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
+* [Plik .zip zawierający wszystkie zasoby potrzebne do wykonania projektu](resources/wanted-project-resources.zip)
+* [Trinket zawierający wszystkie zasoby potrzebne do realizacji projektu "Poszukiwany!"](http://jumpto.cc/web-wanted)
+* [Pusty szablon Trinket](http://jumpto.cc/trinket-template)
 * [Online blank Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
