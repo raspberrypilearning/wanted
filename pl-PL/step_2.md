@@ -8,7 +8,7 @@ Zacznijmy od edycji kodu CSS dla plakatu.
     
     ![screenshot](images/wanted-starter.png)
 
-+ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
++ Kliknij kartę "style.css". Zauważysz, że istnieją już właściwości CSS dla elementu `div` zawierające różne części plakatu.
     
         div {
             text-align: center;
@@ -18,27 +18,27 @@ Zacznijmy od edycji kodu CSS dla plakatu.
         }   
         
 
-+ Let's start by altering the `text-align` property:
++ Zacznijmy od zmiany właściwości `text-align`:
     
         text-align: center;
         
     
-    What happens when you change the word `center` to `left` or `right`?
+    Co się stanie, gdy zmienisz słowo `center` na `left` lub `right`?
 
-+ How about the `border` property?
++ A co z właściwością `border`?
     
         border: 2px solid black;
         
     
-    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
+    `2 px` w powyższym kodzie oznacza 2 piksele. Co się stanie, gdy zmienisz `2px solid black` na ` 4 px dotted red `?
 
-+ Change the `width` of the poster to `400px`. What happens to the poster?
++ Zmień właściwość `width` plakatu na `400px`. Co dzieje się z plakatem?
 
-+ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
++ Dodajmy trochę CSS, aby ustawić kolor tła plakatu. Przejdź na koniec linii 5 kodu i naciśnij klawisz Enter, aby otrzymać nową pustą linię.
     
     ![screenshot](images/wanted-newline.png)
     
-    Type the following code on your new blank line:
+    Wpisz następujący kod w nowej pustej linii:
     
         background: yellow;
         
