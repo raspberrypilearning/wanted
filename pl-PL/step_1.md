@@ -22,11 +22,11 @@ Do pisania kodu HTML i CSS online zalecamy użytkowanie edytora [trinket](https:
 
 * [Punkt początkowy projektu "Poszukiwany" - jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Dzieci mogą też używać pustego edytora [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) do pisania swojego kodu HTML i CSS lub skorzystać z tego szablonu [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Dostępny jest także projekt zawierający przykładowe rozwiązania wyzwań:
 
-* ['Wanted' Finished -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* [Ukończony projekt 'Poszukiwany' -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
 ## Zasoby offline
 
