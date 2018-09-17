@@ -9,14 +9,14 @@ Poprawmy styl nagłówka `<h1>`.
         }
         
     
-    This is where you'll add CSS properties for your main `<h1>` heading.
+    Tutaj dodajesz właściwości CSS do głównego nagłówka `<h1>`.
 
-+ To change the font of your `<h1>` headings, add the following code between the curly brackets:
++ Aby zmienić czcionkę nagłówków `<h1>`, dodaj następujący kod wewnątrz nawiasów klamrowych:
     
         font-family: Impact;
         
 
-+ You can also change the size of the heading:
++ Możesz również zmienić rozmiar nagłówka:
     
         font-size: 50pt;
         
