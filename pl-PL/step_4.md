@@ -15,31 +15,31 @@ Poprawmy styl obrazu na plakacie.
 
 + We can now add CSS properties for images between the `` curly brackets.
     
-    For example, add this code between the curly brackets to set the width of the image:
+    Na przykład dodaj ten kod między nawiasami klamrowymi aby ustawić szerokość obrazu:
     
         width: 100px;
         
     
-    You'll see that the size of the image changes, so that its width is 100 pixels.
+    Zobaczysz, że rozmiar obrazu zmienia się, tak aby jego szerokość wynosiła 100 pikseli.
     
     ![screenshot](images/wanted-img-width.png)
 
-+ You can also add a border around the image with this code:
++ Możesz również dodać obramowanie wokół obrazu za pomocą tego kodu:
     
         border: 1px solid black;
         
 
-+ Have you noticed that there's not much space between the image and the border?
++ Czy zauważyłeś, że między obrazem a granicą nie ma zbyt wiele odstępu?
     
     ![screenshot](images/wanted-img-border.png)
     
-    You can fix this by adding some padding around the image:
+    Możesz to naprawić, dodając wypełnienie wokół obrazu:
     
         padding: 10px;
         
     
-    Padding is the space between the content (in this case an image) and its border.
+    Wypełnienie to przestrzeń między treścią (w tym przypadku obrazem) a jej obramowaniem.
     
     ![screenshot](images/wanted-img-padding.png)
     
-    What do you think would happen if you changed the padding to `50px`?
+    Jak myślisz, co by się stało, gdyby zmienić wypełnienie na `50 px`?
