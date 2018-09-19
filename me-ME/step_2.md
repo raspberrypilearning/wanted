@@ -25,7 +25,7 @@ Počnimo uređivanjem CSS kôda za plakat.
     
     Šta se dešava kada promijeniš riječ `center` (centar) u `left` (lijevo) ili `right` (desno)?
 
-+ A šta se dešava sa svojstvom `border` (okvir)?
++ Pogledajmo sada svojstvo `border` (okvir).
     
         border: 2px solid black;
         
