@@ -18,7 +18,7 @@ Počnimo uređivanjem CSS kôda za plakat.
         }   
         
 
-+ Započećemo tako što ćemo promijeniti svojstvo` text-align` (poravnanje teksta):
++ Počnimo tako što ćemo promijeniti svojstvo `text-align` (poravnanje teksta):
     
         text-align: center;
         
