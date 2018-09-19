@@ -20,13 +20,13 @@ U ovom projektu djeca će imati priliku da napišu sopstveni CSS. Takođe će ur
 
 Za pisanje HTML-a i CSS-a online preporučujemo da koristite [trinket](https://trinket.io/). Ovaj projekat sadrži sljedeće trinkete:
 
-* ['Wanted' starting point -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* [Početak projekta 'Tražen' -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
 Za pisanje sopstvenog HTML-a i CSS-a, djeca takođe mogu da koriste ovaj prazan trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) ili da koriste ovaj trinket šablon [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Takođe postoji trinket koji sadrži primjer rješenja izazova:
 
-* ['Wanted' Finished -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* [Završen projekat 'Tražen' -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
 ## Offline izvori
 
