@@ -32,13 +32,13 @@ Počnimo uređivanjem CSS kôda za plakat.
     
     `2px` u gornjem kôdu označava 2 piksela. Šta će se desiti kada promijeniš `2px solid black` (2px puna crna) u `4px dotted red` (4 px tačkasta crvena)?
 
-+ Sada promijeni svojstvo `width` (širina) postera u `400px`. Šta se dogodilo sa plakatom?
++ Sada promijeni svojstvo `width` (širina) plakata u `400px`. Šta se dogodilo sa plakatom?
 
-+ Dodajmo malo CSS-a da odredimo boju pozadine postera. Idi na kraj 5. reda svog kôda i pritisni taster return da dobiješ novi prazan red.
++ Dodajmo malo CSS-a da postavimo boju pozadine plakata. Idi na kraj 5. reda svog kôda i pritisni taster Enter da dobiješ novi prazan red.
     
     ![screenshot](images/wanted-newline.png)
     
-    U novom praznom redu upiši sljedeći kôd:
+    U novi prazan red upiši sljedeći kôd:
     
         background: yellow;
         
