@@ -2,7 +2,7 @@
 
 ## Izazov: Poboljšaj svoj plakat
 
-Stilu elementa `div` dodaj sljedeće CSS svojstvo:
+Stilu za `div` dodaj sljedeće CSS svojstvo:
 
     border-radius: 40px;
     
