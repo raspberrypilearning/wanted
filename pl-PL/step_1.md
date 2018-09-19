@@ -50,7 +50,7 @@ Ukończoną wersję zadań z tego projektu można również znaleźć w sekcji "
 
 * Ten projekt daje dzieciom możliwość napisania własnego kodu CSS aby stworzyć styl strony internetowej.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nauczania Raspberry Pi](http://rpf.io/curriculum):
 
 * [ Projektuj podstawowe zasoby 2D i 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
