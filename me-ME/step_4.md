@@ -15,7 +15,7 @@ Poboljšajmo stil slike na plakatu.
 
 + Sada možemo da dodamo CSS svojstva za slike između vitičastih zagrada { }.
     
-    Na primjer, između vitičastih zagrada dodaj sljedeći kôd da odrediš širinu slike:
+    Na primjer, između vitičastih zagrada dodaj sljedeći kôd da odrediš širinu (width) slike:
     
         width: 100px;
         
@@ -24,7 +24,7 @@ Poboljšajmo stil slike na plakatu.
     
     ![screenshot](images/wanted-img-width.png)
 
-+ Takođe možeš da dodaš okvir oko slike koristeći sljedeći kôd:
++ Takođe možeš da dodaš okvir (border) oko slike koristeći sljedeći kôd:
     
         border: 1px solid black;
         
