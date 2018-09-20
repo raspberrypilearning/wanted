@@ -1,6 +1,6 @@
 ## Stilizovanje slika
 
-Poboljšajmo stil slike u plakatu.
+Poboljšajmo stil slike na plakatu.
 
 + Trenutno nema nijednog CSS svojstva za oznaku `<img>`. Dodajmo neke!
     
