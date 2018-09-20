@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Izazov: Napravi da tvoj plakat bude izvanredan!
+## Izazov: Napravi fenomenalan plakat!
 
 Dodaj još CSS kôda i stilizuj `<h3>` naslov i pasuse.
 
