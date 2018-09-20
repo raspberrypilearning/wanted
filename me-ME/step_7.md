@@ -2,7 +2,7 @@
 
 ## Izazov: Napravi fenomenalan plakat!
 
-Dodaj još CSS kôda i stilizuj `<h3>` naslov i pasuse.
+Dodaj još CSS kôda i stilizuj `<h3>` naslove i pasuse.
 
 ![screenshot](images/wanted-final.png)
 
