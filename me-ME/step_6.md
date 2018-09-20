@@ -2,14 +2,14 @@
 
 Poboljšajmo sada stil `<h1>` naslova.
 
-+ Dodaj sljedeći kôd ispod CSS-a tvoje slike:
++ Dodaj sljedeći kôd ispod CSS-a slike:
     
         h1 {
         
         }
         
     
-    Tu ćeš dodati CSS svojstva za glavni `<h1>` naslov.
+    Tu ćeš dodati CSS svojstva za glavni naslov `<h1>`.
 
 + Za promjenu fonta `<h1>` naslova, između vitičastih zagrada dodaj sljedeći kôd:
     
