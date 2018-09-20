@@ -21,11 +21,11 @@ Poboljšajmo sada stil `<h1>` naslova.
         font-size: 50pt;
         
 
-+ Primjećuješ li da postoji veliki prostor između `<h1>` naslova i elemenata oko njega?
++ Primjećuješ li da postoji veliki prostor između `<h1>` naslova i stvari oko njega?
     
     ![screenshot](images/wanted-h1-margin.png)
     
-    To se dešava zbog toga što oko naslova postoji margina. Margina je razmak između elementa (u ovom slučaju naslova) i ostalih stvari oko njega.
+    To se dešava zbog toga što oko naslova postoji margina. Margina je prostor između elementa (u ovom slučaju naslova) i ostalih stvari oko njega.
     
     Marginu možeš da smanjiš sljedećim kôdom:
     
