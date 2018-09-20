@@ -2,9 +2,9 @@
 
 Poboljšajmo stil slike na plakatu.
 
-+ Trenutno nema nijednog CSS svojstva za oznaku `<img>`. Dodajmo neke!
++ Trenutno nema nijednog CSS svojstva za tvoju oznaku `<img>`. Dodajmo neke!
     
-    Za početak, dodajmo sljedeći kôd ispod CSS-a za tvoj div:
+    Za početak, dodaj sljedeći kôd ispod CSS-a za svoj div:
     
         img {
         
