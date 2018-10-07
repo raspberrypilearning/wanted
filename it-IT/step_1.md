@@ -1,30 +1,30 @@
-## Introduction
+## Introduzione
 
-In this project, you'll learn how to make your own poster.
+In questo progetto imparerai a creare il tuo poster.
 
 ![screenshot](images/wanted-final.png)
 
-### Additional information for club leaders
+### Ulteriori informazioni per gli organizzatori dei club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/wanted/print).
+Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/wanted/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Note per i volontari
 
-## Introduction:
+## Introduzione:
 
 In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
 
-## Online Resources
+## Risorse online
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+Consigliamo di usare un [trinket](https://trinket.io/) per scrivere in HTML e CSS online. Questo progetto contiene i seguenti trinket:
 
-* ['Wanted' starting point -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* [Punto di partenza 'Wanted' -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+I ragazzi possono anche usare questo trinket vuoto [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) per scrivere liberamente in HTML e CSS, oppure possono usare questo modello [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+È disponibile anche un trinket con esempi di soluzioni alle sfide:
 
 * ['Wanted' Finished -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
