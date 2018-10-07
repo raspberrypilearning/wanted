@@ -52,34 +52,34 @@ Potete trovare una possibile soluzione delle sfide di questo progetto nella sezi
 
 Questo progetto riguarda elementi trattati in queste sezioni del [Digital Making Curriculum di Raspberry Pi](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Risorse base di progettazione 2D e 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Sfide
 
-* "Improving your poster" - adding new CSS properties to the `div` selector;
-* "Improving your image" - adding new CSS properties to the `img` selector;
-* "Make your poster awesome" - adding new CSS properties and new `h3` and `p` selectors;
-* "Advertise an event" - Writing and editing HTML and CSS code.
+* "Migliora il tuo poster" - aggiungendo nuove proprietà CSS al selettore `div`;
+* "Migliora la tua immagine" - aggiungendo nuove proprietà CSS al selettore `img`;
+* "Rendi il tuo poster straordinario" - aggiungendo nuove proprietà CSS e nuovi selettori `h3` e `p`;
+* "Pubblicizza un evento" - Scrivi e modifica il codice HTML e CSS.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiali del progetto
 
-## Project resources
+## Risorse del progetto
 
-* [.zip file containing all project resources](resources/wanted-project-resources.zip)
-* [Online Trinket containing all 'Wanted!' project resources](http://jumpto.cc/web-wanted)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [.zip file con tutte le risorse del progetto](resources/wanted-project-resources.zip)
+* [Trinket online contenente tutte le risorse del progetto 'Wanted!'](http://jumpto.cc/web-wanted)
+* [Modello Trinket online](http://jumpto.cc/trinket-template)
+* [Trinket online vuoto](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [wanted/index.html](resources/wanted-index.html)
 * [wanted/style.css](resources/wanted-style.css)
 * [wanted/robot.png](resources/wanted-robot.png)
 
-## Club leader resources
+## Risorse per gli organizzatori del club
 
 * [.zip file containing all completed project resources](resources/wanted-volunteer-resources.zip)
 * [Online completed Trinket project](https://trinket.io/html/ebeb56398a)
