@@ -14,7 +14,7 @@ Se intendete stampare questo progetto, cliccate su [Versione stampabile](https:/
 
 ## Introduzione:
 
-In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
+In questo progetto i ragazzi potranno scrivere il proprio CSS. Potranno anche modificare e scrivere proprietà e selettori CSS per creare il proprio poster.
 
 ## Risorse online
 
@@ -81,8 +81,8 @@ Questo progetto riguarda elementi trattati in queste sezioni del [Digital Making
 
 ## Risorse per gli organizzatori del club
 
-* [.zip file containing all completed project resources](resources/wanted-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/ebeb56398a)
+* [File .zip con tutte le risorse del progetto completate](resources/wanted-volunteer-resources.zip)
+* [Trinket online completato](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
 * [twanted-finished/robot.png](resources/twanted-finished-robot.png)
