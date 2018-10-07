@@ -38,19 +38,19 @@ Se preferite, questo progetto può anche essere [completato offline](https://www
 * wanted/style.css
 * wanted/robot.png
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Potete trovare una possibile soluzione delle sfide di questo progetto nella sezione 'Risorse per i volontari', che contiene:
 
 * wanted-finished/index.html
 * wanted-finished/style.css
 * wanted-finished/robot.png
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Tutte le risorse sopracitate, per progetto e volontari, sono anche scaricabili come file `.zip `.)
 
-## Learning Objectives
+## Obiettivi di apprendimento
 
-* This project gives children the opportunity to write their own CSS to style a webpage.
+* Questo progetto permette ai ragazzi di scrivere un CSS per modificare l'aspetto di una pagina web.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Questo progetto riguarda elementi trattati in queste sezioni del [Digital Making Curriculum di Raspberry Pi](http://rpf.io/curriculum):
 
 * [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
