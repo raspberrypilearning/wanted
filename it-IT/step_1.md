@@ -85,6 +85,6 @@ Questo progetto riguarda elementi trattati in queste sezioni del [Digital Making
 * [Trinket online completato](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
-* [twanted-finished/robot.png](resources/twanted-finished-robot.png)
+* [wanted-finished/robot.png](resources/twanted-finished-robot.png)
 
 \--- /collapse \---
