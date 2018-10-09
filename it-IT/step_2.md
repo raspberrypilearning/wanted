@@ -2,9 +2,9 @@
 
 Iniziamo modificando il codice CSS del poster.
 
-+ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ Apri questo trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
-    The project should look like this:
+    Il progetto dovrebbe assomigliare a questo:
     
     ![screenshot](images/wanted-starter.png)
 
