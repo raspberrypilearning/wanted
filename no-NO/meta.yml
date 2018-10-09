@@ -1,0 +1,35 @@
+---
+hero_image: images / wanted.png
+theme: oransje
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programmering-0, phys-comp-0, produksjon-0, fellesskap-0
+title: Ønsket!
+description: Lær hvordan du lager din egen plakat.
+original_url: https://codeclubprojects.org/en-GB/webdev/wanted
+interests: Kunst
+technologies: html-css-javascript
+site_areas: prosjekter
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Introduksjon
+  - 
+    title: Styling din plakat
+  - 
+    title: 'Utfordring: Forbedre plakaten'
+  - 
+    title: Styling bilder
+  - 
+    title: 'Utfordring: Forbedre bildet ditt'
+  - 
+    title: Styling overskrifter
+  - 
+    title: 'Utfordring: Gjør din plakat kjempebra!'
+  - 
+    title: 'Utfordring: Annonser en hendelse!'
