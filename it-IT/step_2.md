@@ -8,7 +8,7 @@ Iniziamo modificando il codice CSS del poster.
     
     ![screenshot](images/wanted-starter.png)
 
-+ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
++ Fai clic sulla scheda "style.css". Noterai che esistono già delle proprietà CSS per il `div` che contiene le diverse parti del poster.
     
         div {
             text-align: center;
@@ -18,12 +18,12 @@ Iniziamo modificando il codice CSS del poster.
         }   
         
 
-+ Let's start by altering the `text-align` property:
++ Iniziamo modificando la proprietà `text-align`:
     
         text-align: center;
         
     
-    What happens when you change the word `center` to `left` or `right`?
+    Che succede quando cambi la parola `center` in `left` o `right`?
 
 + How about the `border` property?
     
