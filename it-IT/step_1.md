@@ -2,7 +2,7 @@
 
 In questo progetto imparerai a creare il tuo poster.
 
-![screenshot](images/wanted-final.png)
+![schermata](images/wanted-final.png)
 
 ### Ulteriori informazioni per gli organizzatori dei club
 
