@@ -38,7 +38,7 @@ Iniziamo modificando il codice CSS del poster.
     
     ![screenshot](images/wanted-newline.png)
     
-    Type the following code on your new blank line:
+    Copia il codice qui sotto nella nuova riga:
     
         background: yellow;
         
