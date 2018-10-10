@@ -30,9 +30,9 @@ Iniziamo modificando il codice CSS del poster.
         border: 2px solid black;
         
     
-    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
+    `2px` nel codice qui sopra significa 2 pixel. Cosa succede cambiando `2px solid black` in `4px dotted red`?
 
-+ Change the `width` of the poster to `400px`. What happens to the poster?
++ Porta la `width` del poster a `400px`. Cosa succede al poster?
 
 + Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
     
