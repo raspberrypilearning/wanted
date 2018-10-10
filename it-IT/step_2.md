@@ -18,7 +18,7 @@ Iniziamo modificando il codice CSS del poster.
         }   
         
 
-+ Iniziamo modificando la proprietà `text-align`:
++ Inizia modificando la proprietà `text-align`:
     
         text-align: center;
         
