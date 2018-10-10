@@ -34,7 +34,7 @@ Iniziamo modificando il codice CSS del poster.
 
 + Porta la `width` del poster a `400px`. Cosa succede al poster?
 
-+ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
++ Aggiungiamo del CSS per impostare il colore dello sfondo del poster. Vai alla fine della riga 5 del codice e premi Invio, così da creare una nuova riga vuota.
     
     ![screenshot](images/wanted-newline.png)
     
