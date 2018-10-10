@@ -6,7 +6,7 @@ Iniziamo modificando il codice CSS del poster.
     
     Il progetto dovrebbe assomigliare a questo:
     
-    ![screenshot](images/wanted-starter.png)
+    ![schermata](images/wanted-starter.png)
 
 + Fai clic sulla scheda "style.css". Noterai che esistono già delle proprietà CSS per il `div` che contiene le diverse parti del poster.
     
@@ -36,13 +36,13 @@ Iniziamo modificando il codice CSS del poster.
 
 + Aggiungiamo del CSS per impostare il colore dello sfondo del poster. Vai alla fine della riga 5 del codice e premi Invio, così da creare una nuova riga vuota.
     
-    ![screenshot](images/wanted-newline.png)
+    ![schermata](images/wanted-newline.png)
     
     Copia il codice qui sotto nella nuova riga:
     
         background: yellow;
         
     
-    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
+    Assicurati di scrivere il codice *esattamente* come riportato qui sopra. Dovresti notare che lo sfondo del `<div>` è diventato giallo.
     
-    ![screenshot](images/wanted-background.png)
+    ![schermata](images/wanted-background.png)
