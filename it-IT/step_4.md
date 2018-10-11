@@ -13,18 +13,18 @@ Miglioriamo l'aspetto dell'immagine nel poster.
     
     ![screenshot](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the `` curly brackets.
++ Ora possiamo aggiungere delle proprietà CSS per le immagini tra le parentesi graffe.
     
-    For example, add this code between the curly brackets to set the width of the image:
+    Ad esempio, aggiungi questo codice tra le graffe per impostare la larghezza dell'immagine:
     
         width: 100px;
         
     
-    You'll see that the size of the image changes, so that its width is 100 pixels.
+    Vedrai che la dimensione dell'immagine cambierà, e la sua larghezza diventerà 100 pixel.
     
     ![screenshot](images/wanted-img-width.png)
 
-+ You can also add a border around the image with this code:
++ Puoi anche aggiungere un bordo attorno all'immagine con questo codice:
     
         border: 1px solid black;
         
