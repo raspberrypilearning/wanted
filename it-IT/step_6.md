@@ -1,15 +1,15 @@
 ## Styling headings
 
-Let's improve the style of the `<h1>` heading.
+Miglioriamo lo stile dell'intestazione `<h1>`.
 
-+ Add the following code underneath your image's CSS:
++ Aggiungi questo codice sotto la regola CSS dell'immagine:
     
-        h1 {
+        h1 { 
         
         }
         
     
-    This is where you'll add CSS properties for your main `<h1>` heading.
+    Qui dentro aggiungeremo le proprietà CSS per l'intestazione `<h1>`.
 
 + To change the font of your `<h1>` headings, add the following code between the curly brackets:
     
