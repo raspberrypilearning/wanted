@@ -25,7 +25,7 @@ Iniziamo modificando il codice CSS del poster.
     
     Che succede quando cambi la parola `center` in `left` o `right`?
 
-+ How about the `border` property?
++ Proviamo con la proprietà `border`?
     
         border: 2px solid black;
         
