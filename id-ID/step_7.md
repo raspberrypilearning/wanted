@@ -1,23 +1,23 @@
-\--- challenge \---
+\--- tantangan \---
 
-## Challenge: Make your poster awesome!
+## Tantangan: Buat poster Anda luar biasa!
 
-Add more CSS code to style your `<h3>` headings and your paragraphs.
+Tambahkan lebih banyak kode CSS untuk menata judul `<h3>` dan paragraf Anda.
 
-![screenshot](images/wanted-final.png)
+![tangkapan layar](images/wanted-final.png)
 
-Here's a list of some CSS properties you can use:
+Berikut daftar beberapa properti CSS yang dapat Anda gunakan:
 
-    color: black;
-    background: white;
-    font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
-    font-size: 12pt;
-    font-weight: bold;
-    text-decoration: underline overline line-through;
+    warna hitam;
+    latar belakang: putih;
+    font-family: Arial / Comic Sans MS / Kurir / Dampak / Tahoma;
+    ukuran font: 12pt;
+    font-weight: tebal;
+    teks-dekorasi: garis bawah garis garis bawah;
     margin: 10px;
     padding: 10px;
-    width: 100px;
-    height: 100px;
+    lebar: 100px;
+    tinggi: 100px;
     
 
-\--- /challenge \---
+\--- / tantangan \---
