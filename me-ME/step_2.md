@@ -1,6 +1,6 @@
 ## Stilizovanje plakata
 
-Počnimo uređivanjem CSS kôda za plakat.
+Počnimo sa uređivanjem CSS kôda za plakat.
 
 + Otvori sljedeći trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
