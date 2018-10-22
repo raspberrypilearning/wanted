@@ -1,7 +1,7 @@
-\--- challenge \---
+\--- tantangan \---
 
-## Challenge: Advertise an event!
+## Tantangan: Iklankan acara!
 
-Can you make a poster for an event happening at your school? It could be a play, a sporting event, or even a poster advertising your Code Club!
+Bisakah Anda membuat poster untuk acara yang terjadi di sekolah Anda? Bisa berupa drama, acara olahraga, atau bahkan poster yang mengiklankan Klub Kode Anda!
 
-\--- /challenge \---
+\--- / tantangan \---
