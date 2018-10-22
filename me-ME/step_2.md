@@ -8,7 +8,7 @@ Počnimo sa uređivanjem CSS kôda za plakat.
     
     ![screenshot](images/wanted-starter.png)
 
-+ Klikni na karticu "style.css". Primijetićeš da već postoje neka CSS svojstva za `div` koji sadrži različite dijelove plakata.
++ Klikni na karticu "style.css". Primijetićeš da već postoje CSS svojstva za `div` koji sadrži različite dijelove plakata.
     
         div {
             text-align: center;
