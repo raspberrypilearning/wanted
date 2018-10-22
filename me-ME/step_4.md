@@ -33,7 +33,7 @@ Poboljšajmo stil slike na plakatu.
     
     ![screenshot](images/wanted-img-border.png)
     
-    Ovo možeš da popraviš dodajući 'padding' oko slike:
+    To možeš da popraviš dodajući 'padding' oko slike:
     
         padding: 10px;
         
