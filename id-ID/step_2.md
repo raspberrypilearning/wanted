@@ -1,48 +1,48 @@
-## Styling your poster
+## Pasang poster Anda
 
-Let's start by editing the CSS code for the poster.
+Mari kita mulai dengan mengedit kode CSS untuk poster.
 
-+ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ Buka trinket ini: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
-    The project should look like this:
+    Proyek akan terlihat seperti ini:
     
-    ![screenshot](images/wanted-starter.png)
+    ![tangkapan layar](images/wanted-starter.png)
 
-+ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
++ Klik pada tab "style.css". Anda akan melihat bahwa sudah ada properti CSS untuk `div` berisi bagian-bagian berbeda dari poster.
     
         div {
             text-align: center;
-            overflow: hidden;
-            border: 2px solid black;
-            width: 300px;
+            overflow: tersembunyi;
+            border: 2px berwarna hitam pekat;
+            lebar: 300px;
         }   
         
 
-+ Let's start by altering the `text-align` property:
++ Mari kita mulai dengan mengubah properti `text-align`:
     
         text-align: center;
         
     
-    What happens when you change the word `center` to `left` or `right`?
+    Apa yang terjadi ketika Anda mengubah kata `tengah` menjadi `kiri` atau `kanan`?
 
-+ How about the `border` property?
++ Bagaimana dengan properti `perbatasan`?
     
-        border: 2px solid black;
+        border: 2px berwarna hitam pekat;
         
     
-    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
+    `2px` dalam kode di atas berarti 2 piksel. Apa yang terjadi ketika Anda mengubah `2px hitam solid` menjadi `4px dengan titik merah`?
 
-+ Change the `width` of the poster to `400px`. What happens to the poster?
++ Ubah lebar `` dari poster menjadi `400px`. Apa yang terjadi pada poster itu?
 
-+ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
++ Mari tambahkan beberapa CSS untuk mengatur warna latar belakang poster. Pergi ke ujung baris 5 kode Anda dan tekan kembali, sehingga Anda memiliki garis kosong baru.
     
-    ![screenshot](images/wanted-newline.png)
+    ![tangkapan layar](images/wanted-newline.png)
     
-    Type the following code on your new blank line:
+    Ketik kode berikut pada baris kosong baru Anda:
     
-        background: yellow;
+        latar belakang: kuning;
         
     
-    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
+    Pastikan Anda mengetikkan kode *tepat* seperti di atas. Anda harus memperhatikan bahwa latar belakang `<div>` sekarang berwarna kuning.
     
-    ![screenshot](images/wanted-background.png)
+    ![tangkapan layar](images/wanted-background.png)
