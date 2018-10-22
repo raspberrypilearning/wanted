@@ -1,35 +1,35 @@
 ---
-hero_image: images/wanted.png
-theme: orange
+hero_image: images / wanted.png
+theme: Jeruk
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Wanted!
-description: Learn how to make your own poster.
+curriculum: 1, desain-1, pemrograman-0, phys-comp-0, manufacture-0, community-0
+title: Ingin!
+description: Pelajari cara membuat poster Anda sendiri.
 original_url: https://codeclubprojects.org/en-GB/webdev/wanted
-interests: art
+interests: seni
 technologies: html-css-javascript
-site_areas: projects
+site_areas: proyek
 hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: pengantar
   - 
-    title: Styling your poster
+    title: Pasang poster Anda
   - 
-    title: 'Challenge: Improving your poster'
+    title: 'Tantangan: Memperbaiki poster Anda'
   - 
-    title: Styling images
+    title: Gambar Styling
   - 
-    title: 'Challenge: Improving your image'
+    title: 'Tantangan: Meningkatkan citra Anda'
   - 
-    title: Styling headings
+    title: Judul gaya
   - 
-    title: 'Challenge: Make your poster awesome!'
+    title: 'Tantangan: Buat poster Anda luar biasa!'
   - 
-    title: 'Challenge: Advertise an event!'
+    title: 'Tantangan: Iklankan acara!'
