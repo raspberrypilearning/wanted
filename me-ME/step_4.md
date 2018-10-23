@@ -24,7 +24,7 @@ Poboljšajmo stil slike na plakatu.
     
     ![screenshot](images/wanted-img-width.png)
 
-+ Takođe možeš da dodaš okvir oko slike koristeći sljedeći kôd:
++ Možeš da dodaš i okvir oko slike koristeći sljedeći kôd:
     
         border: 1px solid black;
         
