@@ -48,7 +48,7 @@ Takođe, završenu verziju izazova ovoga projekta možete naći u odjeljku 'Izvo
 
 ## Ciljevi učenja
 
-* U ovom projektu djeci se pruža mogućnost da napišu sopstveni CSS kako bi stilizovala veb-stranicu.
+* U ovom projektu djeci se pruža mogućnost da napišu sopstveni CSS za stilizovanje veb-stranice.
 
 Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
