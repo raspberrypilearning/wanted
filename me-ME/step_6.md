@@ -27,7 +27,7 @@ Poboljšajmo sada stil `<h1>` naslova.
     
     To se dešava zbog toga što oko naslova postoji margina. Margina je prostor između elementa (u ovom slučaju naslova) i ostalih stvari oko njega.
     
-    Marginu možeš da smanjiš sljedećim kôdom:
+    Marginu možeš da smanjiš pomoću sljedećeg kôda:
     
         margin: 10px;
         
