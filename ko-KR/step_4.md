@@ -1,45 +1,45 @@
-## Styling images
+## 이미지 스타일링하기
 
-Let's improve the style of the image in the poster.
+포스터의 이미지를 멋지게 개선시켜 봅시다.
 
-+ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
++ 현재 `<img>` 태그에는 CSS 속성이 없으므로 추가해 보도록 하겠습니다.
     
-    Firstly, add the following code underneath the CSS for your div:
+    아래 CSS 코드를 div 밑에 추가하세요.
     
         img {
         
         }
         
     
-    ![screenshot](images/wanted-img-css.png)
+    ![스크린샷](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the `` curly brackets.
++ 이제 이미지의 CSS 속성을 중괄호 사이에 추가할 수 있습니다.
     
-    For example, add this code between the curly brackets to set the width of the image:
+    아래 코드를 CSS 파일의 img 안에 넣어 이미지의 폭을 설정할 수 있습니다:
     
         width: 100px;
         
     
-    You'll see that the size of the image changes, so that its width is 100 pixels.
+    폭이 100 픽셀이 되도록 이미지의 크기가 변하는 것을 볼 수 있습니다.
     
-    ![screenshot](images/wanted-img-width.png)
+    ![스크린샷](images/wanted-img-width.png)
 
-+ You can also add a border around the image with this code:
++ 아래 코드를 추가하여 이미지에 테두리를 추가할 수 있습니다. 
     
         border: 1px solid black;
         
 
-+ Have you noticed that there's not much space between the image and the border?
++ 보시다시피 지금 이미지와 테두리 사이에 공간이 없습니다.
     
-    ![screenshot](images/wanted-img-border.png)
+    ![스크린샷](images/wanted-img-border.png)
     
-    You can fix this by adding some padding around the image:
+    이미지 주위에 아래와 같이 여백을 추가하여 문제를 해결할 수 있습니다. 
     
         padding: 10px;
         
     
-    Padding is the space between the content (in this case an image) and its border.
+    padding은 내용(이 경우에서는, 이미지) 과 경계 사이의 공간을 의미합니다.
     
-    ![screenshot](images/wanted-img-padding.png)
+    ![스크린샷](images/wanted-img-padding.png)
     
-    What do you think would happen if you changed the padding to `50px`?
+    패딩을 `50px`로 변경하면 어떻게 변할까요?
