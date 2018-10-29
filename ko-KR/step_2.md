@@ -1,10 +1,10 @@
-## Styling your poster
+## 포스터 스타일링하기
 
-Let's start by editing the CSS code for the poster.
+포스터에 대한 CSS 코드를 편집해 봅시다.
 
-+ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ 다음 Trinket 파일을 열어주세요. <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
-    The project should look like this:
+    프로젝트는 아래와 같이 보일 것입니다:
     
     ![screenshot](images/wanted-starter.png)
 
