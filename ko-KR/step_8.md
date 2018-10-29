@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Advertise an event!
+## 과제: 실제로 사용하기!
 
-Can you make a poster for an event happening at your school? It could be a play, a sporting event, or even a poster advertising your Code Club!
+학교 행사에 사용될 포스터를 웹으로 제작할 수 있나요? 꼭 학교 행사 뿐만이 아닌 스포츠 이벤트, 연극, 또는 Code Club을 홍보하는 포스터일 수도 있습니다!
 
 \--- /challenge \---
