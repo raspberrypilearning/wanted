@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: Improving your poster
+## 과제: 포스터 발전시키기
 
-Add the following CSS property to your `div` style:
+아래 CSS 속성을 `div` 안에 추가하세요:
 
     border-radius: 40px;
     
 
-What does this property do? What happens if you change the number in the code above?
+이 속성은 어떤 일을 할까요? 40이라는 숫자를 바꾸면 어떻게 될까요?
 
 \--- /challenge \---
