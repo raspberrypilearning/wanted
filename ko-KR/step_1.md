@@ -20,13 +20,13 @@
 
 이 자료에서는 HTML과 CSS를 온라인으로 작성 가능한 [trinket](https://trinket.io/)을 사용하는 것을 권장합니다. 이 프로젝트는 아래와 같은 Trinket을 사용합니다:
 
-* ['현상수배 포스터 만들기' 프로젝트 파일 -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* ['수배중!!' 프로젝트 파일 -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
 학생들은 새로운 Trinket[(jumpto.cc/html-black)](http://jumpto.cc/html-blank)을 사용할 수 있으며, 이를 통해 자신만의 HTML & CSS 코드를 작성하는 법을 배울 수 있습니다. 또한, 템플릿이 제공되어 있는 Trinket을 사용할 수 있습니다. [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 프로젝트의 샘플 정답이 다음 Trinket에 있습니다.
 
-* ['현상수배 포스터 만들기' 완성본 -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* ['수배중!!' 완성본 -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
 ## 오프라인 자료들
 
