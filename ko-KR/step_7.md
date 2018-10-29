@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: Make your poster awesome!
+## 과제: 자신만의 멋진 포스터 만들기!
 
-Add more CSS code to style your `<h3>` headings and your paragraphs.
+`<h3>`로 구성된 제목과 내용을 CSS 코드로 꾸며 보세요.
 
-![screenshot](images/wanted-final.png)
+![스크린샷](images/wanted-final.png)
 
-Here's a list of some CSS properties you can use:
+다음은 사용할 수 있는 CSS 속성 목록입니다.
 
     color: black;
     background: white;
