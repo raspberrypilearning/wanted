@@ -1,31 +1,31 @@
-## Styling headings
+## 제목 스타일링하기
 
-Let's improve the style of the `<h1>` heading.
+`<h1>` 의 스타일을 개선시켜 보도록 하겠습니다.
 
-+ Add the following code underneath your image's CSS:
++ 아래 코드를 이미지의 CSS 아래에 추가합니다.
     
         h1 {
         
         }
         
     
-    This is where you'll add CSS properties for your main `<h1>` heading.
+    이 코드에 `<h1>`에 대한 CSS 속성을 추가합니다.
 
-+ To change the font of your `<h1>` headings, add the following code between the curly brackets:
++ `<h1>`의 폰트를 바꾸고 싶은 경우, 중괄호 사이에 다음 코드를 추가하세요.
     
         font-family: Impact;
         
 
-+ You can also change the size of the heading:
++ 제목의 크기도 변경할 수 있습니다.
     
         font-size: 50pt;
         
 
-+ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
++ 제목(`<h1>`)과 테두리 사이에 여백이 너무 큽니다.
     
     ![screenshot](images/wanted-h1-margin.png)
     
-    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
+    왜냐하면 제목 주위에 마진(margin)이 있기 때문인데, 마진은 각 요소와 다른 요소 사이의 여백을 의미합니다.
     
     You can make the margin smaller with this code:
     
