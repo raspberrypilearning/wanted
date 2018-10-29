@@ -23,17 +23,17 @@
 
 + 제목(`<h1>`)과 테두리 사이에 여백이 너무 큽니다.
     
-    ![screenshot](images/wanted-h1-margin.png)
+    ![스크린샷](images/wanted-h1-margin.png)
     
     왜냐하면 제목 주위에 마진(margin)이 있기 때문인데, 마진은 각 요소와 다른 요소 사이의 여백을 의미합니다.
     
-    You can make the margin smaller with this code:
+    아래와 같이 코드를 추가하여 여백을 더 작게 만들 수 있습니다.
     
         margin: 10px;
         
     
-    ![screenshot](images/wanted-h1-margin-small.png)
+    ![스크린샷](images/wanted-h1-margin-small.png)
 
-+ You can also underline your heading:
++ 아래와 같이 제목에 밑줄을 칠 수도 있습니다:
     
         text-decoration: underline;
