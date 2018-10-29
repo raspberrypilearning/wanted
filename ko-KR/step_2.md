@@ -1,6 +1,6 @@
-## 포스터 스타일링하기
+## 현상수배 포스터 스타일링하기
 
-포스터에 대한 CSS 코드를 편집해 봅시다.
+현상수배 포스터에 대한 CSS 코드를 편집해 봅시다.
 
 + 다음 Trinket 파일을 열어주세요. <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
