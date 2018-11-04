@@ -1,4 +1,4 @@
-## Styling your poster
+## Personalizza il tuo poster
 
 Iniziamo modificando il codice CSS del poster.
 
