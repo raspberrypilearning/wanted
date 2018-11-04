@@ -1,4 +1,4 @@
-## Styling headings
+## Personalizzare le intestazioni
 
 Miglioriamo lo stile dell'intestazione `<h1>`.
 
@@ -23,17 +23,17 @@ Miglioriamo lo stile dell'intestazione `<h1>`.
 
 + Hai notato che c'è molto spazio tra l'intestazione `<h1>` e quello che le sta intorno?
     
-    ![screenshot](images/wanted-h1-margin.png)
+    ![schermata](images/wanted-h1-margin.png)
     
-    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
+    Questo succede perché c'è un margine tutto attorno. Un margine è lo spazio tra un elemento (in questo caso un'intestazione) e quelli che lo circondano.
     
-    You can make the margin smaller with this code:
+    Puoi ridurre il margine con questo codice:
     
         margin: 10px;
         
     
-    ![screenshot](images/wanted-h1-margin-small.png)
+    ![schermata](images/wanted-h1-margin-small.png)
 
-+ You can also underline your heading:
++ Puoi anche sottolineare la tua intestazione:
     
         text-decoration: underline;
