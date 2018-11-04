@@ -11,17 +11,17 @@ Miglioriamo lo stile dell'intestazione `<h1>`.
     
     Qui dentro aggiungeremo le proprietà CSS per l'intestazione `<h1>`.
 
-+ To change the font of your `<h1>` headings, add the following code between the curly brackets:
++ Aggiungi il codice qui sotto per cambiare il font dell'intestazione `<h1>`:
     
         font-family: Impact;
         
 
-+ You can also change the size of the heading:
++ Puoi anche cambiare la dimensione l'intestazione:
     
         font-size: 50pt;
         
 
-+ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
++ Hai notato che c'è molto spazio tra l'intestazione `<h1>` e quello che le sta intorno?
     
     ![screenshot](images/wanted-h1-margin.png)
     
