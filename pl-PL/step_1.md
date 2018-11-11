@@ -58,7 +58,7 @@ Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nau
 
 * "Ulepszanie Twojego plakatu" - dodawanie nowych właściwości CSS do selektora `div`;
 * "Ulepszanie Twojego obrazu" - dodawanie nowych właściwości CSS do selektora `img`;
-* "Spraw, by Twój plakat był niesamowity" - dodawanie nowych właściwości CSS i nowych selektorów ` h3 ` i ` str `;
+* "Spraw, by Twój plakat był niesamowity" - dodawanie nowych właściwości CSS i nowych selektorów ` h3 ` i `p`;
 * "Zareklamuj wydarzenie" - Pisanie i edytowanie kodu HTML i CSS.
 
 \--- /collapse \---
