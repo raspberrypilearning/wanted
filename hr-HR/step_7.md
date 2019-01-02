@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: Make your poster awesome!
+## Izazov: Učinite vaš poster još boljim!
 
-Add more CSS code to style your `<h3>` headings and your paragraphs.
+Dodajte još CSS koda da biste oblikovali `&lt;h3&gt;` naslove i vaše paragrafe.
 
 ![screenshot](images/wanted-final.png)
 
-Here's a list of some CSS properties you can use:
+Evo popisa nekih svojstava CSS-a koje možete koristiti:
 
     color: black;
     background: white;
