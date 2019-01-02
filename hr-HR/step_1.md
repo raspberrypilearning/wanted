@@ -1,18 +1,18 @@
-## Introduction
+## Uvod
 
-In this project, you'll learn how to make your own poster.
+U ovom projektu naučit ćete kako napraviti svoj vlastiti plakat.
 
 ![screenshot](images/wanted-final.png)
 
-### Additional information for club leaders
+### Dodatne informacije za voditelje kluba
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/wanted/print).
+Ako želite ispisati ovaj projekt, molimo Vas da koristite [verziju koja je prilagođena za ispis](https://projects.raspberrypi.org/en/projects/wanted/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## naslov: Bilješke voditelja kluba
 
-## Introduction:
+## Uvod:
 
 In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
 
