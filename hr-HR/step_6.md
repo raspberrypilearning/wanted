@@ -1,33 +1,33 @@
-## Styling headings
+## Naslovi za oblikovanje
 
-Let's improve the style of the `<h1>` heading.
+Poboljšamo stil zaglavlja `&lt;h1&gt;`.
 
-+ Add the following code underneath your image's CSS:
++ Dodajte sljedeći kôd ispod CSS-a svoje slike:
     
         h1 {
         
         }
         
     
-    This is where you'll add CSS properties for your main `<h1>` heading.
+    Ovdje ćete dodati svojstva CSS-a za svoj glavni `&lt;h1&gt;` naslov.
 
-+ To change the font of your `<h1>` headings, add the following code between the curly brackets:
++ Da biste promijenili font za `&lt;h1&gt;` naslove, dodajte sljedeći kôd između vitičastih zagrada:
     
         font-family: Impact;
         
 
-+ You can also change the size of the heading:
++ Također možete promijeniti veličinu naslova:
     
         font-size: 50pt;
         
 
-+ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
++ Jeste li primijetili da postoji veliki prostor između naslova `&lt;h1&gt;` i stvari oko njega?
     
     ![screenshot](images/wanted-h1-margin.png)
     
-    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
+    To je zato što postoji granica oko naslova. Margina je prostor između elementa (u ovom slučaju naslova) i ostalih stvari oko njega.
     
-    You can make the margin smaller with this code:
+    S tim kodom možete smanjiti marginu:
     
         margin: 10px;
         
