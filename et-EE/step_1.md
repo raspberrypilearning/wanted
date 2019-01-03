@@ -16,7 +16,7 @@ Kui sul on vaja see projekt välja printida, siis kasuta [printerisõbralikku ve
 
 Selles projektis on lastel võimalus kirjutada oma CSS. Samuti muudavad ja kirjutavad nad CSS-i omadusi ja selektoreid oma plakati tegemiseks.
 
-## Ressursid veebis
+## Internetiressursid
 
 HTML-i & CSS-i kasutamiseks veebis soovitame kasutada [trinketit](https://trinket.io/). See projekt sisaldab järgmisi trinketeid:
 
@@ -28,9 +28,9 @@ Leidub ka trinket, mis sisaldab näidislahendust väljakutsetele:
 
 * ['Tagaotsitav' Lõpetatud - trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
-## Offline-ressursid
+## Võrguvälised ressursid
 
-See projekt saab [lõpetatud ühenduseta](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) , kui eelistatud. Saate ligipääsu projekti ressurssidele, klõpsates selle projekti lingil "Projekti materjalid". See link sisaldab jaotise "Projektide ressursid", mis sisaldab ressursse, mida lapsed peavad selle projekti väljalülitamiseks lõpule viima. Veenduge, et igal lapsel on juurdepääs nende ressursside koopiale. See jaotis sisaldab järgmisi faile:
+Selle projekti saab soovi korral [lõpetada võrguühenduseta](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Saate ligipääsu projekti ressurssidele, klõpsates selle projekti lingil "Projekti materjalid". See link sisaldab jaotise "Projektide ressursid", mis sisaldab ressursse, mida lapsed peavad selle projekti väljalülitamiseks lõpule viima. Veenduge, et igal lapsel on juurdepääs nende ressursside koopiale. See jaotis sisaldab järgmisi faile:
 
 * mall / indeks.html
 * mall / style.css
