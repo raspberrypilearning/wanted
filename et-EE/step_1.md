@@ -56,21 +56,21 @@ Selles projektis käsitletakse elemente [Raspberry Pi digitaalse tegemise õppek
 
 ## Väljakutsed
 
-* "Plakati täiustamine" - CSS-i uute omaduste lisamine `div` valijale;
-* "Pildi täiustamine" - CSS-i uute omaduste lisamine `img` valijale;
-* "Tee oma poster fantastiline" - uute CSS-omaduste ja uute `h3` ja `p` valijate lisamine;
-* "Reklaami sündmus" - HTML-i ja CSS-koodi kirjutamine ja redigeerimine.
+* "Oma plakati täiustamine" - `div` selektorile uute CSS-omaduste lisamine;
+* "Pildi täiustamine" - `img` selektorile uute CSS-omaduste lisamine;
+* "Tee oma plakat ägedaks" - uute `h3` ja `p` selektorite ja uute CSS-omaduste lisamine;
+* "Reklaami sündmust" - HTML- ja CSS-koodi kirjutamine ja redigeerimine.
 
-\--- / kollaps \---
+\--- /collapse \---
 
-## \--- kokkuvarisemine \---
+## \--- collapse \---
 
-## pealkiri: projekti materjalid
+## title: Projekti materjalid
 
 ## Projekti ressursid
 
 * [.zip-fail, mis sisaldab kõiki projekti ressursse](resources/wanted-project-resources.zip)
-* [Online kinkekaart, mis sisaldab kõiki soovitud! projekti ressursid](http://jumpto.cc/web-wanted)
+* [Võrgu-Trinket, mis sisaldab kõiki projekti 'Tagaotsitav!' ressursse](http://jumpto.cc/web-wanted)
 * [Online trikke mall](http://jumpto.cc/trinket-template)
 * [Hetkel tühi trikk](http://jumpto.cc/trinket-blank)
 * [mall / indeks.html](resources/template-index.html)
