@@ -70,21 +70,21 @@ Selles projektis käsitletakse elemente [Raspberry Pi digitaalse tegemise õppek
 ## Projekti ressursid
 
 * [.zip-fail, mis sisaldab kõiki projekti ressursse](resources/wanted-project-resources.zip)
-* [Võrgu-Trinket, mis sisaldab kõiki projekti 'Tagaotsitav!' ressursse](http://jumpto.cc/web-wanted)
-* [Online trikke mall](http://jumpto.cc/trinket-template)
-* [Hetkel tühi trikk](http://jumpto.cc/trinket-blank)
-* [mall / indeks.html](resources/template-index.html)
-* [mall / style.css](resources/template-style.css)
-* [soovis / index.html](resources/wanted-index.html)
-* [wanted / style.css](resources/wanted-style.css)
-* [wanted / robot.png](resources/wanted-robot.png)
+* [Trinket veebis, mis sisaldab kõiki projekti 'Tagaotsitav!' ressursse](http://jumpto.cc/web-wanted)
+* [Veebi-trinketi näidis](http://jumpto.cc/trinket-template)
+* [Tühi trinket veebis](http://jumpto.cc/trinket-blank)
+* [template/index.html](resources/template-index.html)
+* [template/style.css](resources/template-style.css)
+* [wanted/index.html](resources/wanted-index.html)
+* [wanted/style.css](resources/wanted-style.css)
+* [wanted/robot.png](resources/wanted-robot.png)
 
-## Klubi liidri ressursid
+## Ringijuhendaja ressursid
 
 * [.zip-fail, mis sisaldab kõiki lõpetatud projekti ressursse](resources/wanted-volunteer-resources.zip)
-* [Online lõpetas kalliskivi projekti](https://trinket.io/html/ebeb56398a)
-* [soovitud-lõpetatud / index.html](resources/wanted-finished-index.html)
-* [soovitud-lõpetatud / style.css](resources/wanted-finished-style.css)
-* [twanted-finished / robot.png](resources/twanted-finished-robot.png)
+* [Lõpetatud Trinketi projekt veebis](https://trinket.io/html/ebeb56398a)
+* [wanted-finished/index.html](resources/wanted-finished-index.html)
+* [wanted-finished/style.css](resources/wanted-finished-style.css)
+* [twanted-finished/robot.png](resources/twanted-finished-robot.png)
 
-\--- / kollaps \---
+\--- /collapse \---
