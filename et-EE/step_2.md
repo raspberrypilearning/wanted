@@ -38,11 +38,11 @@ Alustame plakati CSS-koodi redigeerimisest.
     
     ![kuvatõmmis](images/wanted-newline.png)
     
-    Sisestage järgmine uus tühi rida:
+    Trüki oma uuele tühjale reale järgnev kood:
     
-        taust: kollane;
+        background: yellow;
         
     
-    Veenduge, et sisestasite koodi *täpselt* nagu eespool. Te peaksite tähele panema, et `<div>` taust on nüüd kollane.
+    Veendu, et kirjutasid koodi *täpselt* nagu ülalpool. Peaksid märkama, et `&lt;div&gt;` taust on nüüd kollane.
     
-    ![ekraanipilt](images/wanted-background.png)
+    ![kuvatõmmis](images/wanted-background.png)
