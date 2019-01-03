@@ -1,4 +1,4 @@
-## Plakati kujundamine
+## Enda plakati kujundamine
 
 Alustame postiindeksi CSS-koodi muutmisega.
 
