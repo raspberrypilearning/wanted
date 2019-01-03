@@ -8,7 +8,7 @@ Alustame plakati CSS-koodi redigeerimisest.
     
     ![kuvatõmmis](images/wanted-starter.png)
 
-+ Klõpsa vahekaardil "style.css". Märkad, et CSS-omadused `div` jaoks on juba seal, sisaldades plakati eri osi.
++ Klõpsa vahekaardil "style.css". Märkad, et CSS-omadused `div` jaoks on juba seal olemas, sisaldades plakati eri osi.
     
         div {
             text-align: center;
@@ -18,25 +18,25 @@ Alustame plakati CSS-koodi redigeerimisest.
         }   
         
 
-+ Alustame `text-align` omaduse muutmisest:
++ Alustame omaduse `text-align` muutmisest:
     
         text-align: center;
         
     
-    Mis juhtub, kui muudad sõna `keskpunkt` kuni `vasakule` või `paremat`?
+    Mis juhtub, kui muudad sõna `center` sõnaks `left` või `right`?
 
-+ Kuidas umbes `piiri` vara?
++ Kuidas on lood omadusega `border`?
     
-        piiri: 2px tahke must;
+        border: 2px solid black;
         
     
-    Eespool olevas koodis `2px` tähendab 2 pikslit. Mis juhtub siis, kui vahetate `2px tahke musta` kuni `4px punktiirjoonega punast`?
+    Ülaltoodud koodis tähendab `2px` 2 pikslit. Mis juhtub siis, kui asendad `2px solid black` `4px dotted red'iga`?
 
-+ Muuda plakati `laius` kuni `400 pikslit`. Mis juhtub plakatiga?
++ Muuda plakati `width` `400 piksliks`. Mis juhtub plakatiga?
 
-+ Lisame plakati taustavärvi mõne CSS-i. Mine oma koodi rea 5 lõppu ja vajutage tagasisaatmist, nii et teil on uus tühi rida.
++ Lisame natuke CSS-i, et panna paika plakati taustavärv. Mine oma koodi 5. rea lõppu ja vajuta naase, et sul tekiks uus tühi rida.
     
-    ![ekraanipilt](images/wanted-newline.png)
+    ![kuvatõmmis](images/wanted-newline.png)
     
     Sisestage järgmine uus tühi rida:
     
