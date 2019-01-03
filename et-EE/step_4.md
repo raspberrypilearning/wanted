@@ -1,10 +1,10 @@
 ## Piltide kujundamine
 
-Parandame pildi stiili plakatil.
+Täiustame plakatil oleva pildi stiili.
 
-+ Praegu ei ole teie `<img>` sildi jaoks ühtegi CSS-i omadust, nii et lisame mõned!
++ Praegu ei ole sinu `&lt;img&gt;` sildi jaoks ühtegi CSS-omadust, nii et lisame mõned!
     
-    Esiteks lisage oma divi CSS-i alla järgmine kood:
+    Esmalt lisa oma div-i CSS-i alla järgmine kood:
     
         img {
         
