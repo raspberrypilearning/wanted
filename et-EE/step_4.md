@@ -11,7 +11,7 @@ Täiustame plakatil oleva pildi stiili.
         }
         
     
-    ![ekraanipilt](images/wanted-img-css.png)
+    ![kuvatõmmis](images/wanted-img-css.png)
 
 + Nüüd võime lisada pildi CSS-i omadused `` lukukujuliste sulgude vahele.
     
