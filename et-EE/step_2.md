@@ -1,26 +1,26 @@
 ## Enda plakati kujundamine
 
-Alustame postiindeksi CSS-koodi muutmisega.
+Alustame plakati CSS-koodi redigeerimisest.
 
-+ Avage see nipsu: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web- soovitud</a>.
++ Ava see trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
-    Projekt peaks olema selline:
+    Projekt peaks välja nägema selline:
     
-    ![ekraanipilt](images/wanted-starter.png)
+    ![kuvatõmmis](images/wanted-starter.png)
 
-+ Klõpsake vahekaardil "style.css". Saate märkida, et `sektsioon` sisaldab plakati eri osi, on juba CSS-i omadused.
++ Klõpsa vahekaardil "style.css". Märkad, et CSS-omadused `div` jaoks on juba seal, sisaldades plakati eri osi.
     
         div {
             text-align: center;
-            ülevool: peidetud;
-            piiri: 2px tahke must;
-            laius: 300px;
+            overflow: hidden;
+            border: 2px solid black;
+            width: 300px;
         }   
         
 
-+ Alustame muutmaks `teksti-joondus` vara:
++ Alustame `text-align` omaduse muutmisest:
     
-        teksti-joondus: keskus;
+        text-align: center;
         
     
     Mis juhtub, kui muudad sõna `keskpunkt` kuni `vasakule` või `paremat`?
