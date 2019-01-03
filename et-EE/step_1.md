@@ -1,22 +1,22 @@
 ## Sissejuhatus
 
-Selles projektis saate teada, kuidas oma posterit koostada.
+Selles projektis saad teada, kuidas luua omaenda plakat.
 
-![ekraanipilt](images/wanted-final.png)
+![kuvatõmmis](images/wanted-final.png)
 
-### Lisateave klubi juhtidele
+### Lisainfo ringijuhendajatele
 
-Kui teil on vaja seda projekti printida, palun kasutage [Printerisõbralik versioon](https://projects.raspberrypi.org/en/projects/wanted/print).
+Kui sul on vaja see projekt välja printida, siis kasuta [printerisõbralikku versiooni](https://projects.raspberrypi.org/en/projects/wanted/print).
 
-## \--- kokkuvarisemine \---
+## \--- collapse \---
 
-## pealkiri: Klubiliidri märkmed
+## title: Ringijuhendaja märkmed
 
 ## Sissejuhatus:
 
-Sellel projektil on lastel võimalus kirjutada oma CSS-i. Samuti redigeerivad ja kirjutavad CSS-i omadused ja selektorid oma plakati tegemiseks.
+Selles projektis on lastel võimalus kirjutada oma CSS. Samuti muudavad ja kirjutavad nad CSS-i omadusi ja selektoreid oma plakati tegemiseks.
 
-## Online-vahendid
+## Online-ressursid
 
 HTML & CSS-i sisselülitamiseks soovitame kasutada [nippi](https://trinket.io/) . See projekt sisaldab järgmisi nippe:
 
