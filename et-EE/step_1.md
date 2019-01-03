@@ -16,17 +16,17 @@ Kui sul on vaja see projekt välja printida, siis kasuta [printerisõbralikku ve
 
 Selles projektis on lastel võimalus kirjutada oma CSS. Samuti muudavad ja kirjutavad nad CSS-i omadusi ja selektoreid oma plakati tegemiseks.
 
-## Online-ressursid
+## Ressursid veebis
 
-HTML & CSS-i sisselülitamiseks soovitame kasutada [nippi](https://trinket.io/) . See projekt sisaldab järgmisi nippe:
+HTML-i & CSS-i kasutamiseks veebis soovitame kasutada [trinketit](https://trinket.io/). See projekt sisaldab järgmisi trinketeid:
 
-* [Soovitud lähtepunkt - jumpto.cc/web- soovitud](http://jumpto.cc/web-wanted)
+* ["Tagaotsitava" lähtepunkt - jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
-Lapsed võivad kasutada seda tühja triketti [(jumpto.cc/html- blank)](http://jumpto.cc/html-blank) oma HTML & CSS-i kirjutamiseks või alternatiivina saavad nad seda malli trinket [(jumpto.cc/html-memplate) kasutada](http://jumpto.cc/html-template).
+Lapsed võivad kasutada ka seda tühja trinketit [(jumpto.cc/html- blank)](http://jumpto.cc/html-blank) oma HTML-i & CSS-i kirjutamiseks või alternatiivina saavad nad kasutada seda näidistrinketit [(jumpto.cc/html-memplate)](http://jumpto.cc/html-template).
 
-Samuti on nelisõnum, mis sisaldab väljavõttelist lahendust:
+Leidub ka trinket, mis sisaldab näidislahendust väljakutsetele:
 
-* ['Wanted' Lõpetatud - trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* ['Tagaotsitav' Lõpetatud - trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
 ## Offline-ressursid
 
