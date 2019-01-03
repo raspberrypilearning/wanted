@@ -1,12 +1,12 @@
-\--- väljakutse \---
+\--- challenge \---
 
-## Väljakutse: parandage oma plakat
+## Väljakutse: oma plakati täiustamine
 
-Lisage oma `div` stiilis CSS-i vara järgmine:
+Lisa oma `div` stiilile järgmine CSS-omadus:
 
-    piiriraadius: 40px;
+    border-radius: 40px;
     
 
-Mida see vara teeb? Mis juhtub, kui muudate ülaltoodud koodi?
+Mida see omadus teeb? Mis juhtub, kui muudad numbrit ülaltoodud koodis?
 
-\--- / väljakutse \---
+\--- /challenge \---
