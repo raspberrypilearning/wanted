@@ -30,29 +30,29 @@ Leidub ka trinket, mis sisaldab näidislahendust väljakutsetele:
 
 ## Võrguvälised ressursid
 
-Selle projekti saab soovi korral [lõpetada võrguühenduseta](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Saad ligipääsu projekti ressurssidele, klõpsates selle projekti "Projekti materjalide" lingil. See link sisaldab jaotise "Projektide ressursid", mis sisaldab ressursse, mida lapsed peavad selle projekti väljalülitamiseks lõpule viima. Veenduge, et igal lapsel on juurdepääs nende ressursside koopiale. See jaotis sisaldab järgmisi faile:
+Selle projekti saab soovi korral [lõpetada võrguühenduseta](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Saad ligipääsu projekti ressurssidele, klõpsates selle projekti "Projekti materjalide" lingil. See link sisaldab jaotist "Projekti ressursid", mis sisaldab ressursse, mida lapsed selle projekti võrguühenduseta lõpetamiseks vajavad. Veenduge, et igal lapsel on juurdepääs nende ressursside koopiale. See jaotis sisaldab järgmisi faile:
 
-* mall / indeks.html
-* mall / style.css
-* soovis / index.html
-* wanted / style.css
-* wanted / robot.png
+* template/index.html
+* template/style.css
+* wanted/index.html
+* wanted/style.css
+* wanted/robot.png
 
-Selle projekti väljakutsete täieliku versiooni leiate ka jaotisest "Vabatahtlike ressursid", mis sisaldab järgmist:
+Selle projekti väljakutsete lõpetatud versiooni leiate ka jaotisest "Vabatahtlikud ressursid", mis sisaldab järgmist:
 
-* soovitud-lõpetatud / index.html
-* soovitud-lõpetatud / style.css
-* soovitud-lõpetatud / robot.png
+* wanted-finished/index.html
+* wanted-finished/style.css
+* wanted-finished/robot.png
 
-(Kõik ülaltoodud allikad on samuti alla laaditavad kui projekti ja vabatahtlikud `.zip` failid.)
+(Kõik ülaltoodud ressursid on samuti alla laaditavad projekti ja vabatahtliku `.zip` failina.)
 
-## Õppe eesmärgid
+## Õpieesmärgid
 
-* See projekt annab lastele võimaluse oma veebilehe kujundamiseks kirjutada oma CSS-i.
+* See projekt annab lastele võimaluse veebilehe kujundamiseks kirjutada oma CSS.
 
-See projekt hõlmab elemente, mis on välja toodud järgmiselt: [raspberry pi digitaalse loomise õppekava](http://rpf.io/curriculum):
+Selles projektis käsitletakse elemente [Raspberry Pi digitaalse tegemise õppekava](http://rpf.io/curriculum) järgmistest valdkondadest:
 
-* [Disaini põhilised 2D ja 3D varad](https://www.raspberrypi.org/curriculum/design/creator).
+* [Disaini põhilisi 2D- ja 3D-varasid](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Väljakutsed
 
