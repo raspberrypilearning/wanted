@@ -25,15 +25,15 @@ Parandame `&lt;h1&gt;` pealkirja stiili.
     
     ![kuvatõmmis](images/wanted-h1-margin.png)
     
-    Seda seetõttu, et pealkirja ümber on varu. Märgistus on elemendi (antud juhul rubriigi) ja selle ümbruses asuvate ruumide vaheline kaugus.
+    Seda seetõttu, et pealkirja ümber on veeris. Veeris on elemendi (antud juhul pealkirja) ja seda ümbritseva vaheline ala.
     
-    Selle koodiga saab marginaali vähendada:
+    Selle koodiga saad veerist vähendada:
     
-        marginaal: 10px;
+        margin: 10px;
         
     
-    ![ekraanipilt](images/wanted-h1-margin-small.png)
+    ![kuvatõmmis](images/wanted-h1-margin-small.png)
 
-+ Võite rõhutada ka pealkirja:
++ Võid oma pealkirja ka alla joonida:
     
-        tekstikujundus: rõhutage;
+        text-decoration: underline;
