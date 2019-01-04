@@ -1,9 +1,9 @@
-\--- väljakutse \---
+\--- challenge \---
 
-## Väljakutse: pildi parandamine
+## Väljakutse: oma pildi täiustamine
 
-Kas saate anda pildile taustavärvi? Või ümardatud piir?
+Kas oskad anda oma pildile taustavärvi? Või ümarate nurkadega äärise?
 
-Te saate rohkem CSS-i värvimärke <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
+Rohkem CSS-i värvinimesid võid leida aadressilt <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
 
-\--- / väljakutse \---
+\--- /challenge \---
