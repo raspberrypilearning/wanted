@@ -1,12 +1,12 @@
-\--- väljakutse \---
+\--- challenge \---
 
-## Väljakutse: tehke oma plakat suurepäraseks!
+## Väljakutse: tee oma plakat ägedaks!
 
-Lisage rohkem CSS-koodi, et oma `<h3>` pealkirja ja teie lõikudega stiili lisada.
+Lisa rohkem CSS-koodi, et oma `&lt;h3&gt;` pealkirju ja lõike kujundada.
 
-![ekraanipilt](images/wanted-final.png)
+![kuvatõmmis](images/wanted-final.png)
 
-Siin on mõned CSS-i omadused, mida saate kasutada:
+Siin on mõned CSS-omadused, mida saad kasutada:
 
     värv: must;
     taust: valge;
