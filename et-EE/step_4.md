@@ -15,31 +15,31 @@ Täiustame plakatil oleva pildi stiili.
 
 + Nüüd võime piltidele lisada ``looksulgudes CSS-omadused.
     
-    Näiteks lisage see kood pildi laiuse määramiseks vahekaartide vahel:
+    Lisa näiteks see kood looksulgude vahel pildi laiuse määramiseks:
     
-        laius: 100px;
+        width: 100px;
         
     
-    Näete, et pildi suurus muutub, nii et selle laius on 100 pikslit.
+    Näed, et pildi suurus muutub, selle laius on nüüd 100 pikslit.
     
-    ![ekraanipilt](images/wanted-img-width.png)
+    ![kuvatõmmis](images/wanted-img-width.png)
 
-+ Selle koodiga saate lisada pildile ka piiri:
++ Selle koodiga saad lisada pildile ka äärise:
     
-        piiri: 1px tahke must;
+        border: 1px solid black;
         
 
-+ Kas olete märganud, et pildi ja piiri vahel pole palju ruumi?
++ Kas oled märganud, et pildi ja äärise vahel pole palju ruumi?
     
-    ![ekraanipilt](images/wanted-img-border.png)
+    ![kuvatõmmis](images/wanted-img-border.png)
     
-    Seda saab parandada, lisades pilti pildi ümber:
+    Saad seda parandada, lisades pildi ümber natuke täidist:
     
         padding: 10px;
         
     
-    Padding on ruum sisu (antud juhul pilt) ja selle piiri vahel.
+    Täidis on ruum sisu (antud juhul pilt) ja selle äärise vahel.
     
-    ![ekraanipilt](images/wanted-img-padding.png)
+    ![kuvatõmmis](images/wanted-img-padding.png)
     
-    Mis te arvate, kui vahetate postituse `pikslit`?
+    Mis sinu meelest juhtub, kui muudad täidise suurust `50px-ni`?
