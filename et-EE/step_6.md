@@ -1,8 +1,8 @@
-## Stiilirubad
+## Laadipealkirjad
 
-Parandame rubriigi `<h1>` stiili.
+Parandame `&lt;h1&gt;` pealkirja stiili.
 
-+ Lisage oma pildi CSS-i alla järgmine kood:
++ Lisa oma pildi CSS-i alla järgmine kood:
     
         h1 {
         
