@@ -13,7 +13,7 @@ Täiustame plakatil oleva pildi stiili.
     
     ![kuvatõmmis](images/wanted-img-css.png)
 
-+ Nüüd võime lisada pildi CSS-i omadused `` lukukujuliste sulgude vahele.
++ Nüüd võime piltidele lisada ``looksulgudes CSS-omadused.
     
     Näiteks lisage see kood pildi laiuse määramiseks vahekaartide vahel:
     
