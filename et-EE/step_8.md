@@ -1,7 +1,7 @@
-\--- väljakutse \---
+\--- challenge \---
 
-## Väljakutse: reklaamige üritust!
+## Väljakutse: reklaami üritust!
 
-Kas saate teha plakati sündmusele, mis toimub teie koolis? See võiks olla mäng, spordiüritus või isegi plakat, mis reklaamib teie Code Club'i!
+Kas oskad teha plakatit sündmusele, mis toimub sinu koolis? See võib olla näidend, spordiüritus või isegi plakat, mis reklaamib teie Code Club'i!
 
-\--- / väljakutse \---
+\--- /challenge \---
