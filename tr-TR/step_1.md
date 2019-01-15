@@ -26,11 +26,11 @@ Bu projede çocuklar kendi CSS'lerini yazma fırsatına sahip olacaklar. Ayrıca
 
 Ayrıca meydan okumalara örnek bir çözüm içeren trinket da var:
 
-* ['Aranıyor' Bitti - trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* [Bitmiş 'Aranıyor' trinket 'ı - trinket.io/html/ebeb56398a adresinden edinebilirsiniz](https://trinket.io/html/ebeb56398a)
 
 ## Çevrimdışı Kaynaklar
 
-Bu proje, istenirse [çevrimdışı](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) tamamlanabilir. Proje kaynaklarına, bu proje için 'Proje Malzemeleri' bağlantısını tıklayarak erişebilirsiniz. Bu link, çocukların bu projeyi çevrimdışı tamamlamaları için ihtiyaç duyacağı kaynakları içeren bir 'Proje Kaynakları' bölümü içermektedir. Her çocuğun bu kaynakların bir kopyasına erişimi olduğundan emin olun. Bu bölüm aşağıdaki dosyaları içerir:
+Bu proje, istenirse [çevrimdışı](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) olarak tamamlanabilir. Proje kaynaklarına, bu proje için 'Proje Malzemeleri' bağlantısını tıklayarak erişebilirsiniz. Bu link, çocukların bu projeyi çevrimdışı tamamlamaları için ihtiyaç duyacağı kaynakları içeren bir 'Proje Kaynakları' bölümü içermektedir. Her çocuğun bu kaynakların bir kopyasına erişimi olduğundan emin olun. Bu bölüm aşağıdaki dosyaları içerir:
 
 * Şablon / index.html
 * Şablon / style.css
