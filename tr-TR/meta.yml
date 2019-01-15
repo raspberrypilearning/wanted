@@ -1,15 +1,15 @@
 ---
-hero_image: images / wanted.png
-theme: Portakal
+hero_image: images/wanted.png
+theme: turuncu
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, tasarım-1, programlama-0, phys-comp-0, üretim-0, topluluk-0
-title: Aranan!
+title: Aranıyor!
 description: Kendi posterinizi nasıl yapacağınızı öğrenin.
 original_url: https://codeclubprojects.org/en-GB/webdev/wanted
-interests: Sanat
+interests: sanat
 technologies: html CSS-JavaScript
 site_areas: projeler
 hardware: ''
@@ -22,11 +22,11 @@ steps:
   - 
     title: Posterinizi şekillendirin
   - 
-    title: 'Zorluk: Posterinizi geliştirmek'
+    title: 'Meydan Okuma: Posterinizi geliştirme'
   - 
-    title: Şekillendirme görüntüleri
+    title: Görüntüleri şekillendirme
   - 
-    title: 'Zorluk: Resminizi iyileştirmek'
+    title: 'Meydan Okuma: Resminizi iyileştirme'
   - 
     title: Styling başlıkları
   - 
