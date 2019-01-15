@@ -6,11 +6,11 @@ Bu projede, kendi posterinizi nasıl yapacağınızı öğreneceksiniz.
 
 ### Kulüp liderleri için ek bilgi
 
-Bu projeyi yazdırmanız gerekiyorsa, lütfen [Yazıcı dostu sürüm](https://projects.raspberrypi.org/en/projects/wanted/print).
+Bu projeyi yazdırmanız gerekiyorsa, lütfen [Yazıcı-dostu sürüm](https://projects.raspberrypi.org/en/projects/wanted/print) 'ü kullanın.
 
-## \--- çöküş \---
+## \--- collapse \---
 
-## başlık: Kulüp lideri notları
+## title: Kulüp lideri notları
 
 ## Giriş:
 
@@ -18,13 +18,13 @@ Bu projede çocuklar kendi CSS'lerini yazma fırsatına sahip olacaklar. Ayrıca
 
 ## Çevrimiçi kaynaklar
 
-Çevrimiçi HTML & CSS yazmak için [biblo](https://trinket.io/) kullanmanızı öneririz. Bu proje aşağıdaki bibloları içeriyor:
+Çevrimiçi HTML & CSS yazmak için [trinket](https://trinket.io/) kullanmanızı öneririz. Bu proje aşağıdaki trinket 'ları içerir:
 
 * ['Aranıyor' başlangıç noktası - jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
-Çocuklar da bu boş biblo yararlanabilirler [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) kendi HTML yazmak için & CSS ya da alternatif olarak bu şablon biblo kullanabilirsiniz [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Çocuklar kendi HTML & CSS 'leri yazmak için ayrıca bu boş trinket'lardan [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) yararlanabilirler ya da alternatif olarak şu şablon trinket 'ı da [(jumpto.cc/html-template)](http://jumpto.cc/html-template) kullanabilirler.
 
-Ayrıca zorluklara örnek bir çözüm içeren bir biblo da var:
+Ayrıca meydan okumalara örnek bir çözüm içeren trinket da var:
 
 * ['Aranıyor' Bitti - trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
