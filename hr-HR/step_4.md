@@ -13,7 +13,7 @@ Poboljšamo stil slike u plakatu.
     
     ![screenshot](images/wanted-img-css.png)
 
-+ Sada možemo dodati CSS svojstva za slike između `` kovrčavih 'zagrada.
++ We can now add CSS properties for images between the curly brackets.
     
     Na primjer, dodajte ovaj kôd između kovrčavih zagrada da biste postavili širinu slike:
     
