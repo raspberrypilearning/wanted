@@ -13,7 +13,7 @@ Let's improve the style of the image in the poster.
     
     ![screenshot](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the `` curly brackets.
++ We can now add CSS properties for images between the curly brackets.
     
     For example, add this code between the curly brackets to set the width of the image:
     
