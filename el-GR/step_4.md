@@ -13,7 +13,7 @@
     
     ![screenshot](images/wanted-img-css.png)
 
-+ Τώρα μπορούμε να προσθέσουμε ιδιότητες CSS για εικόνες ανάμεσα στα { } άγκιστρα.
++ We can now add CSS properties for images between the curly brackets.
     
     Για παράδειγμα, πρόσθεσε αυτόν τον κώδικα ανάμεσα στα άγκιστρα για να ορίσεις το πλάτος της εικόνας:
     
