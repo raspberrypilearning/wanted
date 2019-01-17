@@ -13,7 +13,7 @@ Posterdeki görüntünün tarzını geliştirelim.
     
     ![ekran görüntüsü](images/wanted-img-css.png)
 
-+ Kıvrımlı parantezler arasına görüntüler için şimdi CSS özelliklerini ekleyebiliriz.
++ We can now add CSS properties for images between the curly brackets.
     
     Örneğin, görüntünün genişliğini ayarlamak için bu kodu küme parantezleri arasına ekleyin:
     
