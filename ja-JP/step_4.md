@@ -13,7 +13,7 @@
     
     ![スクリーンショット](images/wanted-img-css.png)
 
-+ ``中括弧 ''の間に画像のCSSプロパティを追加できるようになりました。
++ We can now add CSS properties for images between the curly brackets.
     
     たとえば、イメージの幅を設定するには、このコードを中括弧の間に追加します。
     
