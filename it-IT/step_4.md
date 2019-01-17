@@ -13,7 +13,7 @@ Miglioriamo l'aspetto dell'immagine nel poster.
     
     ![schermata](images/wanted-img-css.png)
 
-+ Ora possiamo aggiungere delle proprietà CSS per le immagini tra le parentesi graffe.
++ We can now add CSS properties for images between the curly brackets.
     
     Ad esempio, aggiungi questo codice tra le graffe per impostare la larghezza dell'immagine:
     
