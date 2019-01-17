@@ -13,7 +13,7 @@ Täiustame plakatil oleva pildi stiili.
     
     ![kuvatõmmis](images/wanted-img-css.png)
 
-+ Nüüd võime piltidele lisada ``looksulgudes CSS-omadused.
++ We can now add CSS properties for images between the curly brackets.
     
     Lisa näiteks see kood looksulgude vahel pildi laiuse määramiseks:
     
