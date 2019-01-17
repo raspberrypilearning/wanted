@@ -13,7 +13,7 @@
     
     ![스크린샷](images/wanted-img-css.png)
 
-+ 이제 이미지의 CSS 속성을 중괄호 사이에 추가할 수 있습니다.
++ We can now add CSS properties for images between the curly brackets.
     
     아래 코드를 CSS 파일의 img 안에 넣어 이미지의 폭을 설정할 수 있습니다:
     
