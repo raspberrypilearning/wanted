@@ -13,7 +13,7 @@ Poboljšajmo stil slike na plakatu.
     
     ![screenshot](images/wanted-img-css.png)
 
-+ Sada možemo da dodamo CSS svojstva za slike između vitičastih zagrada { }.
++ We can now add CSS properties for images between the curly brackets.
     
     Na primjer, između vitičastih zagrada dodaj sljedeći kôd da odrediš širinu slike:
     
