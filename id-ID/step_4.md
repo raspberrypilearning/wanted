@@ -13,7 +13,7 @@ Mari tingkatkan gaya gambar di poster.
     
     ![tangkapan layar](images/wanted-img-css.png)
 
-+ Kami sekarang dapat menambahkan properti CSS untuk gambar antara kurung kurawal.
++ We can now add CSS properties for images between the curly brackets.
     
     Misalnya, tambahkan kode ini di antara kurung kurawal untuk mengatur lebar gambar:
     
