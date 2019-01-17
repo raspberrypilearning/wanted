@@ -13,7 +13,7 @@
     
     ![تصویری](images/wanted-img-css.png)
 
-+ اکنون می توانیم خواص CSS را برای تصاویر بین '`curcly brackets اضافه کنیم.
++ We can now add CSS properties for images between the curly brackets.
     
     به عنوان مثال، این کد را از بین براکت های مجعد برای اضافه کردن عرض تصویر اضافه کنید:
     
