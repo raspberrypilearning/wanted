@@ -13,7 +13,7 @@ Vamos melhorar o estilo da imagem do poster.
     
     ![screenshot](images/wanted-img-css.png)
 
-+ Agora podemos adicionar propriedades CSS para imagens entre as "chaves".
++ We can now add CSS properties for images between the curly brackets.
     
     Por exemplo, adicione este código entre as chaves para definir a largura da imagem:
     
