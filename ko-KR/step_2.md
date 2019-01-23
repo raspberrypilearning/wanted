@@ -8,7 +8,7 @@
     
     ![스크린샷](images/wanted-starter.png)
 
-+ "style.css" 탭을 클릭하세요. `div`에 대한 속성이 아래와 같이 이미 있음을 알 수 있습니다.
++ "style.css" 탭을 클릭하세요. `div`에 대한 CSS 속성이 이미 있음을 알 수 있습니다.
     
         div {
             text-align: center;
@@ -18,19 +18,19 @@
         }   
         
 
-+ 이제 `text-align` 속성부터 한번 바꿔 보기로 하겠습니다.
++ 먼저 `text-align` 속성을 바꿔보세요.
     
         text-align: center;
         
     
-    만약 `center`를 `left`나 `right`로 바꾸면 어떤 일이 일어날까요?
+    만약 `center`를 `left`나 `right`로 바꾸면 어떻게 될까요?
 
 + `border` 속성은 어떤 역할을 할까요?
     
         border: 2px solid black;
         
     
-    코드에 있는 `2px`는 2 픽셀을 의미합니다. `2px solid black` 코드를 `4px dotted red`로 바꾸면 무슨 일이 일어날까요?
+    위의 코드에서 `2px`는 2 픽셀을 의미합니다. `2px solid black` 코드를 `4px dotted red`로 바꾸면 어떻게 될까요?
 
 + `width`를 `400px`로 바꿔 봅시다. 포스터는 어떻게 될까요?
 
