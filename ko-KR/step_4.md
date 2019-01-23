@@ -13,7 +13,7 @@
     
     ![스크린샷](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the curly brackets.
++ 이제 이미지의 CSS 속성을 중괄호 사이에 추가할 수 있습니다.
     
     예를 들어, 이미지의 너비를 설정하려면 {} 사이에 이 코드를 추가하십시오.
     
