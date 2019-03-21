@@ -1,45 +1,45 @@
-## Styling images
+## 造型圖像
 
-Let's improve the style of the image in the poster.
+讓我們改進海報中的圖像風格。
 
-+ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
++ 目前，您的 `<img>` 標籤沒有任何CSS屬性，所以讓我們添加一些！
     
-    Firstly, add the following code underneath the CSS for your div:
+    首先，在您的div下面的CSS下面添加以下代碼：
     
         img {
         
         }
         
     
-    ![screenshot](images/wanted-img-css.png)
+    ![截圖](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the curly brackets.
++ 我們現在可以在大括號之間添加圖像的CSS屬性。
     
-    For example, add this code between the curly brackets to set the width of the image:
+    例如，在大括號之間添加此代碼以設置圖像的寬度：
     
-        width: 100px;
+        寬度：100px;
         
     
-    You'll see that the size of the image changes, so that its width is 100 pixels.
+    您將看到圖像的大小發生變化，因此其寬度為100像素。
     
-    ![screenshot](images/wanted-img-width.png)
+    ![截圖](images/wanted-img-width.png)
 
-+ You can also add a border around the image with this code:
++ 您還可以使用以下代碼在圖像周圍添加邊框：
     
-        border: 1px solid black;
+        邊框：1px純黑色;
         
 
-+ Have you noticed that there's not much space between the image and the border?
++ 您是否注意到圖像與邊框之間沒有太大空間？
     
-    ![screenshot](images/wanted-img-border.png)
+    ![截圖](images/wanted-img-border.png)
     
-    You can fix this by adding some padding around the image:
+    您可以通過在圖像周圍添加一些填充來解決此問題：
     
-        padding: 10px;
+        填充：10px;
         
     
-    Padding is the space between the content (in this case an image) and its border.
+    填充是內容（在本例中為圖像）與其邊框之間的空間。
     
-    ![screenshot](images/wanted-img-padding.png)
+    ![截圖](images/wanted-img-padding.png)
     
-    What do you think would happen if you changed the padding to `50px`?
+    如果將填充更改為 `50px`您認為會發生什麼？
