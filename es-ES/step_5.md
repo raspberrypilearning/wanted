@@ -1,6 +1,6 @@
-\--- challenge \---
+\--- desafío \---
 
-## Challenge: Improving your image
+## Desafío: mejora tu imagen
 
 Can you give your image a background colour? Or a rounded border?
 
