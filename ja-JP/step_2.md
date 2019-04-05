@@ -2,9 +2,9 @@
 
 ポスターのCSSコードを編集してみましょう。
 
-+ この小道具を開く： <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc / webbwanted</a>。
++ Trinketをひらく: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
-    プロジェクトは次のようになります。
+    プロジェクトはこのようになります。
     
     ![スクリーンショット](images/wanted-starter.png)
 
