@@ -1,10 +1,10 @@
-\--- challenge \---
+\--- desafío \---
 
-## Challenge: Make your poster awesome!
+## Desafío: ¡Haz tu cartel impresionante!
 
 Add more CSS code to style your `<h3>` headings and your paragraphs.
 
-![screenshot](images/wanted-final.png)
+![captura de pantalla](images/wanted-final.png)
 
 Here's a list of some CSS properties you can use:
 
