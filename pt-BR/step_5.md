@@ -1,6 +1,6 @@
-\--- challenge \---
+\--- desafio \---
 
-## Desafio: melhorar sua imagem
+## Challenge: Improving your image
 
 Você pode dar à sua imagem uma cor de fundo? Ou uma borda arredondada?
 
