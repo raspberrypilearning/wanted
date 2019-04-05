@@ -1,4 +1,4 @@
-## Oblikovanje vašeg postera
+## Oblikovanje postera
 
 Počnimo uređivanjem CSS koda za poster.
 
