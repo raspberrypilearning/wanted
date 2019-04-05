@@ -4,7 +4,7 @@
 
 Add more CSS code to style your `<h3>` headings and your paragraphs.
 
-![screenshot](images/wanted-final.png)
+![لقطة شاشة](images/wanted-final.png)
 
 Here's a list of some CSS properties you can use:
 
@@ -20,4 +20,4 @@ Here's a list of some CSS properties you can use:
     height: 100px;
     
 
-\--- /challenge \---
+\--- challenge/ \---
