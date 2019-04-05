@@ -1,4 +1,4 @@
-## Styling headings
+## Diseño de encabezados
 
 Let's improve the style of the `<h1>` heading.
 
@@ -32,7 +32,7 @@ Let's improve the style of the `<h1>` heading.
         margin: 10px;
         
     
-    ![screenshot](images/wanted-h1-margin-small.png)
+    ![captura de pantalla](images/wanted-h1-margin-small.png)
 
 + You can also underline your heading:
     
