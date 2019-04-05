@@ -1,6 +1,6 @@
-\--- challenge \---
+\--- desafio \---
 
-## Desafio: Torne seu pôster incrível!
+## Challenge: Make your poster awesome!
 
 Adicione mais código CSS para estilizar seus cabeçalhos `<h3>` e seus parágrafos.
 
