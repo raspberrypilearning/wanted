@@ -1,12 +1,12 @@
-## Estilizando seu pôster
+## Styling your poster
 
 Vamos começar editando o código CSS do pôster.
 
-+ Abra este trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-letter</a>.
++ Abra este trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
     O projeto deve ficar assim:
     
-    ![screenshot](images/wanted-starter.png)
+    ![captura de tela](images/wanted-starter.png)
 
 + Clique na aba "style.css". Você notará que já existem propriedades CSS para o ` div ` contendo as diferentes partes do cartaz.
     
