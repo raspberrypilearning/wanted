@@ -1,4 +1,4 @@
-## Dando estilo a imagens
+## Styling images
 
 Vamos melhorar o estilo da imagem do poster.
 
@@ -11,7 +11,7 @@ Vamos melhorar o estilo da imagem do poster.
         }
         
     
-    ![screenshot](images/wanted-img-css.png)
+    ![captura de tela](images/wanted-img-css.png)
 
 + We can now add CSS properties for images between the curly brackets.
     
@@ -31,7 +31,7 @@ Vamos melhorar o estilo da imagem do poster.
 
 + Você percebeu que não há muito espaço entre a imagem e a borda?
     
-    ![screenshot](images/wanted-img-border.png)
+    ![captura de tela](images/wanted-img-border.png)
     
     Você pode corrigir isto adicionando um espaçamento ao redor da imagem:
     
