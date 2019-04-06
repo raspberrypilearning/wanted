@@ -52,13 +52,13 @@ También puede encontrar una versión completa de los desafíos de este proyecto
 
 Este proyecto incluye elementos desde los siguientes aspectos del [curríulo de digitalización de Raspberry Pi](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Diseño de elementos básicos en 2D y 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Retos
 
-* "Improving your poster" - adding new CSS properties to the `div` selector;
-* "Improving your image" - adding new CSS properties to the `img` selector;
-* "Make your poster awesome" - adding new CSS properties and new `h3` and `p` selectors;
+* "Mejorando tu cartel" - añadiendo nuevas propiedades CSS al selector `div`;
+* "Mejorando tu imagen" - añadiendo nuevas propiedades CSS al selector `img`;
+* "Haz que tu poster sea impresionante" - añadiendo nuevas propiedades CSS y nuevos selectores `h3` y `p`;
 * "Advertise an event" - Writing and editing HTML and CSS code.
 
 \--- /collapse \---
