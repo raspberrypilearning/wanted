@@ -4,17 +4,17 @@ En este proyecto, aprenderás cómo hacer tu propio cartel.
 
 ![captura de pantalla](images/wanted-final.png)
 
-### Información adicional para líderes de club
+### Información adicional para los líderes de los clubes
 
 Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/wanted/print).
 
 ## \--- collapse \---
 
-## título: Notas del líder del club
+## title: Notas para el líder del club
 
 ## Introducción:
 
-In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
+En este proyecto, los niños tendrán la oportunidad de escribir su propio CSS. También editarán y escribirán las propiedades y los selectores de CSS para hacer su propio cartel.
 
 ## Recursos en línea
 
