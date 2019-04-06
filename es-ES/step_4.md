@@ -1,10 +1,10 @@
 ## Diseño de las imágenes
 
-Let's improve the style of the image in the poster.
+Mejoremos el estilo de la imagen en el cartel.
 
-+ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
++ En este momento, no hay propiedades CSS para su etiqueta `<img>`, ¡así que vamos a añadir algunas!
     
-    Firstly, add the following code underneath the CSS for your div:
+    En primer lugar, añade el siguiente código debajo del CSS para su div:
     
         img {
         
@@ -31,7 +31,7 @@ Let's improve the style of the image in the poster.
 
 + Have you noticed that there's not much space between the image and the border?
     
-    ![screenshot](images/wanted-img-border.png)
+    ![captura de pantalla](images/wanted-img-border.png)
     
     You can fix this by adding some padding around the image:
     
