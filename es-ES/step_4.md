@@ -33,13 +33,13 @@ Mejoremos el estilo de la imagen en el cartel.
     
     ![captura de pantalla](images/wanted-img-border.png)
     
-    You can fix this by adding some padding around the image:
+    Puedes arreglarlo añadiendo un poco de relleno alrededor de la imagen:
     
         padding: 10px;
         
     
-    Padding is the space between the content (in this case an image) and its border.
+    El relleno es el espacio entre el contenido (en este caso una imagen) y su borde.
     
     ![captura de pantalla](images/wanted-img-padding.png)
     
-    What do you think would happen if you changed the padding to `50px`?
+    ¿Qué crees que sucedería si cambiaras el relleno a `50px`?
