@@ -1,12 +1,12 @@
-\--- desafío \---
+\--- challenge \---
 
 ## Desafío: ¡Haz tu cartel impresionante!
 
-Add more CSS code to style your `<h3>` headings and your paragraphs.
+Añada más código CSS para dar estilo a sus encabezados `<h3>` y sus párrafos.
 
 ![captura de pantalla](images/wanted-final.png)
 
-Here's a list of some CSS properties you can use:
+Aquí hay una lista de algunas propiedades CSS que puedes usar:
 
     color: black;
     background: white;
