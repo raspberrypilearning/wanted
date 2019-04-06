@@ -20,13 +20,13 @@ En este proyecto, los niños tendrán la oportunidad de escribir su propio CSS. 
 
 Recomendamos el uso de [ trinket](https://trinket.io/) para escribir HTML & CSS en línea. Este proyecto contiene los siguientes trinkets:
 
-* ['Wanted' starting point -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* [Punto de partida 'Se busca' - jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
-Los niños también pueden hacer uso de esta baratija en blanco [ (jumpto.cc/html-blank) ](http://jumpto.cc/html-blank) para escribir su propio HTML & CSS, o alternativamente pueden usar este trinket plantilla [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
+Los niños también pueden hacer uso de este trinket en blanco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escribir su propio HTML & CSS, o alternativamente pueden usar este trinket plantilla [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-También hay una baratija que contiene una solución de muestra para los desafíos:
+También hay un trinket que contiene una solución de muestra para los desafíos:
 
-* ['Wanted' Finished -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* ['Se busca' terminado -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
 ## Recursos sin conexión
 
