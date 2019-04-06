@@ -85,6 +85,6 @@ Este proyecto incluye elementos desde los siguientes aspectos del [curríulo de 
 * [Proyecto Trinket terminado en línea](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
-* [twanted-finished/robot.png](resources/twanted-finished-robot.png)
+* [wanted-finished/style.css](resources/twanted-finished-robot.png)
 
 \--- /collapse \---
