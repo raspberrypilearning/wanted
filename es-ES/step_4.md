@@ -2,9 +2,9 @@
 
 Mejoremos el estilo de la imagen en el cartel.
 
-+ En este momento, no hay propiedades CSS para su etiqueta `<img>`, ¡así que vamos a añadir algunas!
++ En este momento, no hay propiedades CSS para tu etiqueta `<img>`, ¡así que vamos a añadir algunas!
     
-    En primer lugar, añade el siguiente código debajo del CSS para su div:
+    Primero, añade el siguiente código debajo del CSS para su div:
     
         img {
         
@@ -13,23 +13,23 @@ Mejoremos el estilo de la imagen en el cartel.
     
     ![captura de pantalla](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the curly brackets.
++ Ahora podemos añadir propiedades CSS para las imágenes entre los corchetes.
     
-    For example, add this code between the curly brackets to set the width of the image:
+    Por ejemplo, añade este código entre los corchetes para establecer el ancho de la imagen:
     
         width: 100px;
         
     
-    You'll see that the size of the image changes, so that its width is 100 pixels.
+    Verás que el tamaño de la imagen cambia, de modo que su ancho es de 100 píxeles.
     
     ![captura de pantalla](images/wanted-img-width.png)
 
-+ You can also add a border around the image with this code:
++ También puedes añadir un borde alrededor de la imagen con este código:
     
         border: 1px solid black;
         
 
-+ Have you noticed that there's not much space between the image and the border?
++ ¿Te has dado cuenta de que no hay mucho espacio entre la imagen y el borde?
     
     ![captura de pantalla](images/wanted-img-border.png)
     
