@@ -1,6 +1,6 @@
 ## Diseño de tu cartel
 
-Let's start by editing the CSS code for the poster.
+Comencemos editando el código CSS para el cartel.
 
 + Abre este Trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
@@ -8,7 +8,7 @@ Let's start by editing the CSS code for the poster.
     
     ![captura de pantalla](images/wanted-starter.png)
 
-+ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
++ Haz clic en la pestaña "style.css". Notarás que ya hay propiedades CSS para `div ` conteniendo las diferentes partes del cartel.
     
         div {
             text-align: center;
@@ -18,27 +18,27 @@ Let's start by editing the CSS code for the poster.
         }   
         
 
-+ Let's start by altering the `text-align` property:
++ Empecemos por alterar la propiedad `text-align`:
     
         text-align: center;
         
     
-    What happens when you change the word `center` to `left` or `right`?
+    ¿Qué pasa cuando cambias la palabra `center` a `left` o `right`?
 
-+ How about the `border` property?
++ ¿Qué hay de la propiedad `border`?
     
         border: 2px solid black;
         
     
-    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
+    `2px` en el código anterior significa 2 píxeles. ¿Qué sucede cuando cambias `2px solid black` a `4px dotted red`?
 
-+ Change the `width` of the poster to `400px`. What happens to the poster?
++ Cambia el `width` (ancho) del cartel a `400px`. ¿Qué pasa con el cartel?
 
-+ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
++ Vamos a añadir algo de CSS para establecer el color de fondo del cartel. Ve al final de la línea 5 de tu código y presiona Intro para tener una nueva línea en blanco.
     
     ![captura de pantalla](images/wanted-newline.png)
     
-    Type the following code on your new blank line:
+    Escribe el siguiente código en tu nueva línea en blanco:
     
         background: yellow;
         
