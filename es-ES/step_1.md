@@ -48,7 +48,7 @@ También puede encontrar una versión completa de los desafíos de este proyecto
 
 ## Objetivos del Aprendizaje
 
-* This project gives children the opportunity to write their own CSS to style a webpage.
+* Este proyecto les brinda a los niños la oportunidad de escribir su propio CSS para diseñar una página web.
 
 Este proyecto incluye elementos desde los siguientes aspectos del [curríulo de digitalización de Raspberry Pi](http://rpf.io/curriculum):
 
