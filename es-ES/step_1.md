@@ -59,7 +59,7 @@ Este proyecto incluye elementos desde los siguientes aspectos del [curríulo de 
 * "Mejorando tu cartel" - añadiendo nuevas propiedades CSS al selector `div`;
 * "Mejorando tu imagen" - añadiendo nuevas propiedades CSS al selector `img`;
 * "Haz que tu poster sea impresionante" - añadiendo nuevas propiedades CSS y nuevos selectores `h3` y `p`;
-* "Advertise an event" - Writing and editing HTML and CSS code.
+* "Anunciar un evento" - Escribir y editar código HTML y CSS.
 
 \--- /collapse \---
 
@@ -70,16 +70,16 @@ Este proyecto incluye elementos desde los siguientes aspectos del [curríulo de 
 ## Recursos del proyecto
 
 * [Archivo .zip que contiene todos los recursos del proyecto](resources/wanted-project-resources.zip)
-* [Online Trinket containing all 'Wanted!' project resources](http://jumpto.cc/web-wanted)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [Trinket en línea que contiene todos los recursos del proyecto '¡Se busca!'](http://jumpto.cc/web-wanted)
+* [Plantilla de Trinket en línea](http://jumpto.cc/trinket-template)
+* [Trinket en blanco en línea](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [wanted/index.html](resources/wanted-index.html)
 * [wanted/style.css](resources/wanted-style.css)
 * [wanted/robot.png](resources/wanted-robot.png)
 
-## Recursos para los líderes de clubes
+## Recursos para los líderes de los clubes
 
 * [Archivo .zip que contiene todos los recursos de proyecto terminado](resources/wanted-volunteer-resources.zip)
 * [Proyecto Trinket terminado en línea](https://trinket.io/html/ebeb56398a)
