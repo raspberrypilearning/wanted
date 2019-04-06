@@ -43,6 +43,6 @@ Comencemos editando el código CSS para el cartel.
         background: yellow;
         
     
-    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
+    Asegúrate de que escribes el código *exactamente* como está arriba. Debes notar que el fondo del `<div>` ahora es amarillo.
     
     ![captura de pantalla](images/wanted-background.png)
