@@ -1,39 +1,39 @@
 ## Diseño de encabezados
 
-Let's improve the style of the `<h1>` heading.
+Mejoremos el estilo del encabezado `<h1>`.
 
-+ Add the following code underneath your image's CSS:
++ Añade el siguiente código debajo del CSS de tu imagen:
     
         h1 {
         
         }
         
     
-    This is where you'll add CSS properties for your main `<h1>` heading.
+    Aquí es donde añadirás las propiedades CSS para su encabezado principal `<h1>`.
 
-+ To change the font of your `<h1>` headings, add the following code between the curly brackets:
++ Para cambiar la fuente de sus encabezados `<h1>`, añade el siguiente código entre los corchetes:
     
         font-family: Impact;
         
 
-+ You can also change the size of the heading:
++ También puedes cambiar el tamaño del encabezado:
     
         font-size: 50pt;
         
 
-+ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
++ ¿Te has dado cuenta de que hay un gran espacio entre el encabezado `<h1>` y las cosas que lo rodean?
     
-    ![screenshot](images/wanted-h1-margin.png)
+    ![captura de pantalla](images/wanted-h1-margin.png)
     
-    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
+    Esto se debe a que hay un margen alrededor del encabezado. Un margen es el espacio entre el elemento (en este caso un encabezado) y las otras cosas que lo rodean.
     
-    You can make the margin smaller with this code:
+    Puedes hacer el margen más pequeño con este código:
     
         margin: 10px;
         
     
     ![captura de pantalla](images/wanted-h1-margin-small.png)
 
-+ You can also underline your heading:
++ También puedes subrayar tu título:
     
         text-decoration: underline;
