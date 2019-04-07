@@ -1,4 +1,4 @@
-## Şekillendirme görüntüleri
+## Görüntüleri şekillendirme
 
 Posterdeki görüntünün tarzını geliştirelim.
 
@@ -13,9 +13,9 @@ Posterdeki görüntünün tarzını geliştirelim.
     
     ![ekran görüntüsü](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the curly brackets.
++ Şimdi köşeli parantezin içine görüntünün CSS özelliklerini ekleyebiliriz.
     
-    Örneğin, görüntünün genişliğini ayarlamak için bu kodu küme parantezleri arasına ekleyin:
+    Örneğin, görüntünün genişliğini ayarlamak için bu kodu köşeli parantezlerin arasına ekleyin:
     
         genişlik: 100px;
         
