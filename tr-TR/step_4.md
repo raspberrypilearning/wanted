@@ -42,4 +42,4 @@ Posterdeki görüntünün tarzını geliştirelim.
     
     ![ekran görüntüsü](images/wanted-img-padding.png)
     
-    Dolgu `50px`değiştirirseniz ne olacağını düşünüyorsunuz?
+    Dolguyu `50px` ile değiştirirseniz ne olacağını düşünüyorsunuz?
