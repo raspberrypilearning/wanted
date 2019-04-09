@@ -5,13 +5,13 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Wanted!
-description: Learn how to make your own poster.
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+title: مطلوب!
+description: تعلَّم كيف تصنع ملصقًا من ابتكارك.
 original_url: https://codeclubprojects.org/en-GB/webdev/wanted
-interests: art
-technologies: html-css-javascript
-site_areas: codeclub, python
+interests: art and design
+technologies: html/css
+site_areas: codeclub, webdev
 hardware: ''
 software: html-css-javascript
 version: 3.0.1
@@ -20,16 +20,16 @@ steps:
   - 
     title: المقدمة
   - 
-    title: Styling your poster
+    title: تحديد أنماط الملصق
   - 
-    title: 'Challenge: Improving your poster'
+    title: 'التحدي: حسِّن شكل الملصق!'
   - 
-    title: Styling images
+    title: تحديد أنماط الصور
   - 
-    title: 'Challenge: Improving your image'
+    title: 'التحدي: حسِّن شكل الصورة!'
   - 
-    title: Styling headings
+    title: تحديد أنماط العناوين
   - 
-    title: 'Challenge: Make your poster awesome!'
+    title: 'التحدي: اجعل ملصقك يبدو مثيرًا للاهتمام!'
   - 
-    title: 'Challenge: Advertise an event!'
+    title: 'التحدي: أَعلِن عن حدث!'
