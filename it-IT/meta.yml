@@ -14,22 +14,22 @@ technologies: html-css-javascript
 site_areas: progetti
 hardware: ''
 software: html-css-javascript
-version: 3.0.1
+version: 3
 last_tested: 2017-01-01
 steps:
   - 
     title: Introduzione
   - 
-    title: Disegnare il tuo poster
+    title: Dai stile al tuo poster
   - 
-    title: 'Sfida: Migliora il tuo poster'
+    title: 'Sfida: Migliorare il tuo poster'
   - 
-    title: Modificare l'aspetto delle immagini
+    title: Dai stile alle tue immagini
   - 
-    title: 'Sfida: Migliora la tua immagine'
+    title: 'Sfida: Migliorare la tua immagine'
   - 
-    title: Personalizzare le intestazioni
+    title: Dare stile all'intestazione
   - 
-    title: 'Sfida: rendi fantastico il tuo poster!'
+    title: 'Sfida: Rendi bellissimo il tuo poster!'
   - 
-    title: 'Sfida: pubblicizza un evento!'
+    title: 'Sfida: Pubblicizza un evento!'
