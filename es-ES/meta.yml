@@ -7,29 +7,29 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: '¡Se busca!'
-description: Aprende a hacer tu propio cartel.
+description: Aprende a crear tu propio póster.
 original_url: https://codeclubprojects.org/en-GB/webdev/wanted
 interests: arte
 technologies: html-css-javascript
 site_areas: projects
 hardware: ''
 software: html-css-javascript
-version: 3.0.1
+version: 3
 last_tested: 2017-01-01
 steps:
   - 
     title: Introducción
   - 
-    title: Diseño de tu cartel
+    title: Dar estilo a tu póster
   - 
-    title: 'Desafío: mejora tu cartel'
+    title: 'Reto: Mejorar tu póster'
   - 
-    title: Diseño de las imágenes
+    title: Dar estilo a las imágenes
   - 
-    title: 'Desafío: mejora tu imagen'
+    title: 'Reto: Mejorar tu imagen'
   - 
-    title: Diseño de encabezados
+    title: Dar estilo a los encabezados
   - 
-    title: 'Desafío: ¡Haz tu cartel impresionante!'
+    title: 'Reto: ¡Haz que tu póster sea impresionante!'
   - 
-    title: 'Desafío: ¡Anuncia un evento!'
+    title: 'Reto: ¡Anuncia un evento!'
