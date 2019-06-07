@@ -2,13 +2,13 @@
 
 Почнемо з редагування коду CSS для плаката.
 
-+ Відкрийте цей trinket:<a target="_blank" href="https://trinket.io/html/207c600b2a">jumpto.cc/web-letter</a>.
++ Відкрийте цей trinket:<a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-letter</a>.
     
     Проект повинен виглядати так:
     
     ![screenshot](images/wanted-starter.png)
 
-+ Клацніть на вкладці "style.css". Ви побачите, що для `div`існують вже властивості CSS </0>, що містять різні частини плаката.
++ Клацніть на вкладці "style.css". Ви побачите, що для `div` існують вже властивості CSS </0>, що містять різні частини плаката.
     
         div {
             text-align: center;
