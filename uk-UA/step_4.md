@@ -13,7 +13,7 @@
     
     ![screenshot](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the curly brackets.
++ Тепер ви можете додати властивості CSS для зображень між фігурними дужками.
     
     Наприклад, додайте цей код між фігурними дужками, щоб встановити ширину зображення:
     
