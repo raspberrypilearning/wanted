@@ -12,6 +12,7 @@
 ---
 title: Нотатки керівника
 ---
+
 ## Вступ:
 
 У цьому проекті діти зможуть написати власний CSS. Вони також зможуть редагувати та писати властивості та селекторів CSS для створення власного плаката.
@@ -20,13 +21,13 @@ title: Нотатки керівника
 
 Ми рекомендуємо використовувати [trinket](https://trinket.io/) щоб написати HTML & CSS онлайн. Цей проект містить такі trinkets:
 
-* ["Розшукується" початок -- jumpto.cc/web-wanted](https://trinket.io/html/207c600b2a)
+* ["Розшукується" початок -- jumpto.cc/web-wanted](https://trinket.io/html/9b33594131)
 
 Діти також можуть використовувати цей пустий trinket [jumpto.cc/html-blank)](http://jumpto.cc/html-blank), щоб написати їхній власний HTML & CSS, або вони можуть використовувати цей шаблон trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Є також trinket, що містить зразки вирішення:
 
-* ['Розшукується' Кінець -- trinket.io/html/0f1811324a](https://trinket.io/html/0f1811324a)
+* ['Розшукується' Кінець -- trinket.io/html/ebeb56398a](https://trinket.io/html/cbd1bd96d0)
 
 ## Офлайн Ресурси
 
@@ -67,10 +68,11 @@ title: Нотатки керівника
 ---
 title: Матеріали проекту
 ---
+
 ## Проектні ресурси
 
 * [.zip file, що містить всі ресурси проекту](resources/wanted-project-resources.zip)
-* [Online Trinket містить всі проектні ресурси 'Розшукується'](https://trinket.io/html/207c600b2a)
+* [Online Trinket містить всі проектні ресурси 'Розшукується'](https://trinket.io/html/9b33594131)
 * [Шаблон Online Trinket](http://jumpto.cc/trinket-template)
 * [Пустий Online Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
@@ -82,7 +84,7 @@ title: Матеріали проекту
 ## Ресурси керівника клубу
 
 * [.zip файли, що містять всі проектні ресурси](resources/wanted-volunteer-resources.zip)
-* [Завершений Trinket проект онлайн](https://trinket.io/html/0f1811324a)
+* [Завершений Trinket проект онлайн](https://trinket.io/html/cbd1bd96d0)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
 * [twanted-finished/robot.png](resources/twanted-finished-robot.png)
