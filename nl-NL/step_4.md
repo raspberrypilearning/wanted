@@ -13,7 +13,7 @@ Laten we de opmaak van de afbeelding op de poster verbeteren.
     
     ![screenshot](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the curly brackets.
++ We kunnen nu CSS-eigenschappen voor afbeeldingen toevoegen tussen de gekrulde haken.
     
     Voeg bijvoorbeeld deze code toe tussen de accolades om de breedte van de afbeelding in te stellen:
     
