@@ -87,6 +87,6 @@ title: Projectmaterialen
 * [Online voltooid Trinket-project](https://trinket.io/html/adcbb504b3)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
-* [twanted-finished/robot.png](resources/wanted-finished-robot.png)
+* [wanted-finished/robot.png](resources/wanted-finished-robot.png)
 
 --- /collapse ---
