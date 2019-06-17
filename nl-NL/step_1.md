@@ -12,13 +12,14 @@ Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](h
 ---
 title: Clubleider notities
 ---
+
 ## Inleiding:
 
 In dit project krijgen kinderen de gelegenheid om hun eigen CSS te schrijven. Ze zullen ook CSS-eigenschappen en selectors bewerken en schrijven om hun eigen poster te maken.
 
 ## Online bronnen
 
-We raden aan [ trinket ](https://trinket.io/) te gebruiken om online HTML & CSS te scrhijven. Dit project bevat de volgende trinkets:
+We raden aan [trinket](https://trinket.io/) te gebruiken om online HTML & CSS te scrhijven. Dit project bevat de volgende trinkets:
 
 * ['Gezocht' uitgangspunt - jumpto.cc/web-wanted](https://trinket.io/html/cde4f2bcae)
 
@@ -67,6 +68,7 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 ---
 title: Projectmaterialen
 ---
+
 ## Projectbronnen
 
 * [.zip-bestand met alle projectbronnen](resources/wanted-project-resources.zip)
@@ -85,6 +87,6 @@ title: Projectmaterialen
 * [Online voltooid Trinket-project](https://trinket.io/html/adcbb504b3)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
-* [twanted-finished/robot.png](resources/twanted-finished-robot.png)
+* [wanted-finished/robot.png](resources/wanted-finished-robot.png)
 
 --- /collapse ---
