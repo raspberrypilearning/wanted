@@ -1,0 +1,35 @@
+---
+hero_image: images/wanted.png
+theme: oren
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: Eisiau!
+description: Dysgwch sut i wneud eich poster eich hun.
+original_url: https://codeclubprojects.org/en-GB/webdev/wanted
+interests: celf
+technologies: html-css-javascript
+site_areas: prosiectau
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Cyflwyniad
+  - 
+    title: Steilio'ch poster
+  - 
+    title: 'Her: Gwella eich poster'
+  - 
+    title: Delweddau steilio
+  - 
+    title: 'Her: Gwella''ch delwedd'
+  - 
+    title: Penawdau steilio
+  - 
+    title: 'Her: Gwnewch eich poster yn anhygoel!'
+  - 
+    title: 'Her: Hysbysebu digwyddiad!'
