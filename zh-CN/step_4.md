@@ -1,45 +1,45 @@
-## Styling images
+## 设置图片样式
 
-Let's improve the style of the image in the poster.
+让我们来完善海报中的图片样式。
 
-+ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
++ 此时，你的 `<img>` 标记并无任何 CSS 属性，那就让我们来添加一些！
     
-    Firstly, add the following code underneath the CSS for your div:
+    首先，在你的 div 的CSS下面添加以下代码：
     
         img {
         
         }
         
     
-    ![screenshot](images/wanted-img-css.png)
+    ![截屏](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the curly brackets.
++ 我们现在可以在大括号｛｝之间添加图片的 CSS 属性。
     
-    For example, add this code between the curly brackets to set the width of the image:
+    例如，在大括号之间添加以下代码来设置图片宽度：
     
         width: 100px;
         
     
-    You'll see that the size of the image changes, so that its width is 100 pixels.
+    你会看到图片的尺寸改变，宽度变为 100 像素。
     
-    ![screenshot](images/wanted-img-width.png)
+    ![截屏](images/wanted-img-width.png)
 
-+ You can also add a border around the image with this code:
++ 你还可以用以下代码在图片周围添加边框：
     
         border: 1px solid black;
         
 
-+ Have you noticed that there's not much space between the image and the border?
++ 你有没有注意到图片与边框之间没有太大的空间？
     
-    ![screenshot](images/wanted-img-border.png)
+    ![截屏](images/wanted-img-border.png)
     
-    You can fix this by adding some padding around the image:
+    你可以通过在图片周围添加一些 padding（内边距）来解决这个问题：
     
         padding: 10px;
         
     
-    Padding is the space between the content (in this case an image) and its border.
+    Padding（内边距）是内容（在这里为一张图片）与其边框之间的空间。
     
-    ![screenshot](images/wanted-img-padding.png)
+    ![截屏](images/wanted-img-padding.png)
     
-    What do you think would happen if you changed the padding to `50px`?
+    如果你将内边距更改为 `50px`，你认为会发生什么？
