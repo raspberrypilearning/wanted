@@ -2,7 +2,7 @@
 
 Posterin CSS kodunu düzenleyerek başlayalım.
 
-+ Bu bibloyu aç: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ Şu trinketi açın: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
     Proje şöyle görünmeli:
     
@@ -12,27 +12,27 @@ Posterin CSS kodunu düzenleyerek başlayalım.
     
         div {
             text-align: center;
-            taşma: gizli;
-            kenarlık: 2px katı siyah;
-            genişlik: 300 piksel;
+            overflow: hidden;
+            border: 2px solid black;
+            width: 300px;
         }   
         
 
 + `text-align` özelliğini değiştirerek başlayalım:
     
-        metin hizalama: orta;
+        text-align: center;
         
     
-    `merkez` - `sola` veya `sağa`kelimesini değiştirirseniz ne olur?
+    `center` kelimesini `left` veya `right` kelimesiyle değiştirirseniz ne olur?
 
-+ `kenarlık` özelliğine ne dersiniz?
++ `border` özelliğine ne dersiniz?
     
-        sınır: 2px katı siyah;
+        border: 2px solid black;
         
     
-    `2px` yukarıdaki kodda 2 piksel anlamına gelir. `2px düz siyah` ila `4px noktalı kırmızı`değiştirirseniz ne olur?
+    Yukarıdaki kodda `2px` 2 piksel anlamına gelir. `2px solid black` yazısını `4px dotted red` ile değiştirirseniz ne olur?
 
-+ Posterin `genişliğini` `400 piksel`. Postere ne olacak?
++ Posterin `width` değerini `400px` ile değiştirin. Postere ne olacak?
 
 + Posterin arka plan rengini ayarlamak için biraz CSS ekleyelim. Kodunuzun 5. satırının sonuna gidin ve return tuşuna basın, böylece yeni bir boş satırınız olur.
     
@@ -40,9 +40,9 @@ Posterin CSS kodunu düzenleyerek başlayalım.
     
     Yeni boş satırınıza aşağıdaki kodu yazın:
     
-        arkaplan: sarı;
+        background: yellow;
         
     
-    *kodunu tam olarak yukarıdaki gibi* yazdığınızdan emin olun. `<div>` arka planının artık sarı olduğunu fark etmelisiniz.
+    Kodu *tam olarak yukarıdaki gibi* yazdığınızdan emin olun. `<div>`'in arka planının artık sarı olduğunu fark etmelisiniz.
     
     ![ekran görüntüsü](images/wanted-background.png)
