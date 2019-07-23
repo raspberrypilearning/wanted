@@ -1,39 +1,39 @@
-## Styling headings
+## Styliser ton titre
 
-Let's improve the style of the `<h1>` heading.
+Améliorons le style de la rubrique `<h1>`.
 
-+ Add the following code underneath your image's CSS:
++ Ajoute le code suivant sous le CSS de ton image:
     
         h1 {
         
         }
         
     
-    This is where you'll add CSS properties for your main `<h1>` heading.
+    C’est là que tu vas ajouter des propriétés CSS pour ton en-tête principale `<h1>`.
 
-+ To change the font of your `<h1>` headings, add the following code between the curly brackets:
++ Pour changer la police de tes en-têtes `<h1>`, ajoute le code suivant entre les accolades:
     
-        font-family: Impact;
+        font-family: Arial;
         
 
-+ You can also change the size of the heading:
++ Tu peux aussi modifier la taille de l'image:
     
         font-size: 50pt;
         
 
-+ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
++ As-tu remarqué qu'il y a un grand espace entre l'en-tête `<h1>` et les éléments qui l'entourent?
     
-    ![screenshot](images/wanted-h1-margin.png)
+    ![capture d'écran](images/wanted-h1-margin.png)
     
-    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
+    C'est parce qu'il y a une marge autour de l'en-tête. Une marge est l'espace entre l'élément (dans ce cas un en-tête) et les autres éléments qui l'entourent.
     
-    You can make the margin smaller with this code:
+    Tu peux réduire la marge avec ce code:
     
-        margin: 10px;
+        padding: 10px;
         
     
-    ![screenshot](images/wanted-h1-margin-small.png)
+    ![capture d'écran](images/wanted-h1-margin-small.png)
 
-+ You can also underline your heading:
++ Tu peux également souligner ta rubrique:
     
         text-decoration: underline;
