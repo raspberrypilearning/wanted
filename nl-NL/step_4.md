@@ -2,7 +2,7 @@
 
 Laten we de opmaak van de afbeelding op de poster verbeteren.
 
-+ Op dit moment zijn er geen CSS-eigenschappen voor je `<img>` -tag, dus laten we er wat aan toevoegen!
++ Op dit moment zijn er geen CSS-eigenschappen voor je `<img>` tag, dus laten we er wat aan toevoegen!
     
     Voeg eerst de volgende code onder de CSS voor je div toe:
     
