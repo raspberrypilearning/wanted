@@ -1,45 +1,45 @@
-## Styling images
+## Style d'image
 
-Let's improve the style of the image in the poster.
+Améliorons le style de l'image dans l'affiche.
 
-+ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
++ Pour l'instant, il n'y a pas de propriétés CSS pour ta balise `<img>`, ajoutons-en!
     
-    Firstly, add the following code underneath the CSS for your div:
+    Premièrement, ajoute le code suivant sous le CSS pour ton div:
     
         img {
         
         }
         
     
-    ![screenshot](images/wanted-img-css.png)
+    ![capture d'écran](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the curly brackets.
++ Nous pouvons maintenant ajouter des propriétés CSS pour les images entre les accolades.
     
-    For example, add this code between the curly brackets to set the width of the image:
+    Par exemple, ajoute ce code entre les accolades pour définir la largeur de l'image:
     
         width: 100px;
         
     
-    You'll see that the size of the image changes, so that its width is 100 pixels.
+    Tu verras que la taille de l'image change, de sorte que sa largeur est de 100 pixels.
     
-    ![screenshot](images/wanted-img-width.png)
+    ![capture d'écran](images/wanted-img-width.png)
 
-+ You can also add a border around the image with this code:
++ Tu peux également ajouter une bordure autour de l'image avec ce code:
     
-        border: 1px solid black;
+        bordure: noir 1px;
         
 
-+ Have you noticed that there's not much space between the image and the border?
++ As-tu remarqué qu'il n'y a pas beaucoup d'espace entre l'image et la bordure?
     
     ![screenshot](images/wanted-img-border.png)
     
-    You can fix this by adding some padding around the image:
+    Tu peux résoudre ce problème en ajoutant des éléments de remplissage autour de l'image:
     
         padding: 10px;
         
     
-    Padding is the space between the content (in this case an image) and its border.
+    Le rembourrage est l'espace entre le contenu (dans le cas présent une image) et sa bordure.
     
-    ![screenshot](images/wanted-img-padding.png)
+    ![capture d'écran](images/wanted-img-padding.png)
     
-    What do you think would happen if you changed the padding to `50px`?
+    Que penses-tu qu'il se passerait si tu changeais le remplissage en ` 50px ` ?
