@@ -1,14 +1,14 @@
-## Styling your poster
+## 设置你的海报样式
 
-Let's start by editing the CSS code for the poster.
+首先让我们来编辑海报的 CSS 代码。
 
-+ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ 打开这个Trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>。
     
-    The project should look like this:
+    效果应该是这样：
     
-    ![screenshot](images/wanted-starter.png)
+    ![截屏](images/wanted-starter.png)
 
-+ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
++ 点击“style.css”选项卡。你会发现包含海报不同部分的 `div` 已具备 CSS 属性。
     
         div {
             text-align: center;
@@ -18,31 +18,31 @@ Let's start by editing the CSS code for the poster.
         }   
         
 
-+ Let's start by altering the `text-align` property:
++ 首先让我们来更改 `text-align`（文本对齐）属性：
     
         text-align: center;
         
     
-    What happens when you change the word `center` to `left` or `right`?
+    你将 `center`（居中）更改为 `left`（向左）或 `right`（向右）时会发生什么？
 
-+ How about the `border` property?
++ ​`border`（边框）属性会怎么样呢？
     
         border: 2px solid black;
         
     
-    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
+    上文代码中的 `2px` 指 2 个像素。你将 `2px solid black`（2 个像素宽，黑色，实线）更改为 `4px dotted red`（4 个像素宽，红色，虚线）时会发生什么？
 
-+ Change the `width` of the poster to `400px`. What happens to the poster?
++ 将海报的 `width`（宽度）更改为 `400px`。海报会怎么样？
 
-+ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
++ 让我们添加一些 CSS 来设置海报的背景颜色。转向代码的第 5 行末尾并按回车，由此产生一个新的空行。
     
-    ![screenshot](images/wanted-newline.png)
+    ![截屏](images/wanted-newline.png)
     
-    Type the following code on your new blank line:
+    在新空行中输入以下代码：
     
         background: yellow;
         
     
-    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
+    确保你输入的代码与上文的代码*完全*相同。你会发现 `<div>` 的背景现在变为黄色。
     
-    ![screenshot](images/wanted-background.png)
+    ![截屏](images/wanted-background.png)
