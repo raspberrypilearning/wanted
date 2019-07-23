@@ -15,18 +15,18 @@ Mari tingkatkan gaya gambar di poster.
 
 + We can now add CSS properties for images between the curly brackets.
     
-    Misalnya, tambahkan kode ini di antara kurung kurawal untuk mengatur lebar gambar:
+    Contohnya, tambahkan kode ini di antara kurung kurawal untuk mengatur lebar gambar:
     
-        lebar: 100px;
+        width: 100px;
         
     
     Anda akan melihat bahwa ukuran gambar berubah, sehingga lebarnya 100 piksel.
     
     ![tangkapan layar](images/wanted-img-width.png)
 
-+ Anda juga dapat menambahkan perbatasan di sekitar gambar dengan kode ini:
++ Kamu juga dapat menambahkan garis batas di sekitar gambar dengan kode ini:
     
-        border: 1px berwarna hitam pekat;
+        border: 1px solid black;
         
 
 + Pernahkah Anda memperhatikan bahwa tidak ada banyak ruang antara gambar dan perbatasan?
@@ -38,8 +38,8 @@ Mari tingkatkan gaya gambar di poster.
         padding: 10px;
         
     
-    Padding adalah ruang antara konten (dalam hal ini gambar) dan perbatasannya.
+    Padding adalah ruang antara konten (dalam hal ini gambar) dan garis batasnya.
     
     ![tangkapan layar](images/wanted-img-padding.png)
     
-    Menurut Anda apa yang akan terjadi jika Anda mengubah padding menjadi `50px`?
+    Menurut kamu apa yang akan terjadi jika Anda mengubah padding menjadi `50px`?
