@@ -1,9 +1,9 @@
 \--- tantangan \---
 
-## Tantangan: Meningkatkan citra Anda
+## Tantangan: Memperindah gambar mu
 
-Dapatkah Anda memberi gambar Anda warna latar belakang? Atau perbatasan yang membulat?
+Dapatkah kamu memberi warna latar belakang untuk gambar anda? Atau garis batas yang membulat?
 
-Anda dapat menemukan lebih banyak nama warna CSS di <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
+Kamu dapat menemukan lebih banyak nama warna CSS di <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
 
 \--- / tantangan \---
