@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Advertise an event!
+## 挑战：宣传一场活动！
 
-Can you make a poster for an event happening at your school? It could be a play, a sporting event, or even a poster advertising your Code Club!
+你能为即将在你的学校开展的一场活动制作一张海报吗？可以是一场表演、体育赛事，甚至是宣传你的 Code Club 的海报！
 
 \--- /challenge \---
