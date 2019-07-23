@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: Improving your poster
+## 挑战：完善你的海报
 
-Add the following CSS property to your `div` style:
+向你的 `div` 样式添加以下 CSS 属性：
 
     border-radius: 40px;
     
 
-What does this property do? What happens if you change the number in the code above?
+这个属性的功能是什么？如果你更改上文代码中的数值会发生什么？
 
 \--- /challenge \---
