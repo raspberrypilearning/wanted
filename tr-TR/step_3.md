@@ -1,12 +1,12 @@
-\--- meydan okuma \---
+\--- challenge \---
 
-## Zorluk: Posterinizi geliştirmek
+## Meydan Okuma: Posterinizi geliştirme
 
 `div` stilinize şu CSS özelliğini ekleyin:
 
-    sınır yarıçapı: 40 piksel;
+    border-radius: 40px;
     
 
-Bu özellik ne yapar? Yukarıdaki koddaki numarayı değiştirirseniz ne olur?
+Bu özellik ne işe yarar? Yukarıdaki koddaki numarayı değiştirirseniz ne olur?
 
-\--- /meydan okuma \---
+\--- /challenge \---
