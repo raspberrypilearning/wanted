@@ -1,7 +1,7 @@
-\--- meydan okuma \---
+\--- challenge \---
 
-## Zorluk: Bir etkinliğin reklamını yap!
+## Meydan Okuma: Bir etkinliğin reklamını yap!
 
-Okulunuzda gerçekleşen bir etkinlik için poster yapabilir misiniz? Bu bir oyun, spor olayı veya hatta Code Club'ınızı tanıtan bir poster olabilir!
+Okulunuzda gerçekleşen bir etkinlik için poster yapabilir misiniz? Bu bir tiyatro, spor müsabakası veya hatta Kodlama Klübünüzü tanıtan bir poster olabilir!
 
-\--- /meydan okuma \---
+\--- /challenge \---
