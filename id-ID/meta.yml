@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, desain-1, pemrograman-0, phys-comp-0, manufacture-0, community-0
-title: Ingin!
-description: Pelajari cara membuat poster Anda sendiri.
+title: Dicari!
+description: Pelajari cara membuat postermu sendiri.
 original_url: https://codeclubprojects.org/en-GB/webdev/wanted
 interests: seni
 technologies: html-css-javascript
@@ -18,7 +18,7 @@ version: 3.0.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: pengantar
+    title: Pengantar
   - 
     title: Pasang poster Anda
   - 
