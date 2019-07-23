@@ -1,23 +1,23 @@
-\--- meydan okuma \---
+\--- challenge \---
 
-## Zorluk: Posterini mükemmelleştir!
+## Meydan okuma: Posterini mükemmelleştir!
 
-`<h3>` başlıklarınıza ve paragraflarınıza stil vermek için daha fazla CSS kodu ekleyin.
+`<h3>` başlıklarınızı ve paragraflarınızı şekillendirmek için daha fazla CSS kodu ekleyin.
 
 ![ekran görüntüsü](images/wanted-final.png)
 
 İşte kullanabileceğiniz bazı CSS özelliklerinin bir listesi:
 
-    siyah renk;
-    arka plan: beyaz;
-    font ailesi: Arial / Comic Sans MS / Kurye / Etki / Tahoma;
-    yazı tipi boyutu: 12pt;
-    yazı tipi ağırlığı: kalın;
-    metin dekorasyon: alt çizgi çizgisinin altını çizin;
-    marj: 10 piksel;
-    dolgu: 10 piksel;
-    genişlik: 100 piksel;
-    yükseklik: 100 piksel;
+    color: black;
+    background: white;
+    font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
+    font-size: 12pt;
+    font-weight: bold;
+    text-decoration: underline overline line-through;
+    margin: 10px;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
     
 
-\--- /meydan okuma \---
+\--- /challenge \---
