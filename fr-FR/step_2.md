@@ -1,14 +1,14 @@
-## Styling your poster
+## Styliser ton poster
 
-Let's start by editing the CSS code for the poster.
+Commençons par éditer le code CSS de l’affiche.
 
-+ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ Ouvre ce trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
-    The project should look like this:
+    Le projet devrait ressembler à ceci:
     
-    ![screenshot](images/wanted-starter.png)
+    ![capture d'écran](images/wanted-starter.png)
 
-+ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
++ Clique sur l'onglet "style.css". Tu remarqueras qu'il existe déjà des propriétés CSS pour le ` div ` contenant les différentes parties de l'affiche.
     
         div {
             text-align: center;
@@ -18,31 +18,31 @@ Let's start by editing the CSS code for the poster.
         }   
         
 
-+ Let's start by altering the `text-align` property:
++ Commençons par modifier la propriété ` text-align `:
     
         text-align: center;
         
     
-    What happens when you change the word `center` to `left` or `right`?
+    Que se passe-t-il lorsque tu remplace le mot ` centre ` par `à gauche ` ou ` à droite ` ?
 
-+ How about the `border` property?
++ Qu'en est-il de la propriété bordure ` `?
     
-        border: 2px solid black;
+        bordure: noir 2px;
         
     
-    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
+    ` 2px ` dans le code ci-dessus signifie 2 pixels. Que se passe-t-il lorsque tu changes ` 2 pixels noir uni ` à ` 4px en pointillé rouge ` ?
 
-+ Change the `width` of the poster to `400px`. What happens to the poster?
++ Changer la ` largeur ` de l'affiche à ` 400px ` . Qu'advient-il de l'affiche?
 
-+ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
++ Ajoutons quelques CSS pour définir la couleur de fond de l'affiche. Allez à la fin de la ligne 5 de ton code et appuie sur Entrée pour avoir une nouvelle ligne vierge.
     
-    ![screenshot](images/wanted-newline.png)
+    ![capture d'écran](images/wanted-newline.png)
     
-    Type the following code on your new blank line:
+    Entre le code suivant dans ta nouvelle ligne vide:
     
-        background: yellow;
+        background: silver;
         
     
-    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
+    Assure-toi d'entrer le code * exactement * comme ci-dessus. Tu devrais remarquer que l’arrière-plan du `<div>` est maintenant jaune.
     
-    ![screenshot](images/wanted-background.png)
+    ![capture d'écran](images/wanted-background.png)
