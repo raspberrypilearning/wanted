@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Advertise an event!
+## Défi: Fait la pub d'un evenement!
 
-Can you make a poster for an event happening at your school? It could be a play, a sporting event, or even a poster advertising your Code Club!
+Peux-tu faire une affiche pour un événement qui se passe dans ton école? Cela peut être une pièce de théâtre, un événement sportif ou même une affiche annonçant ton Code Club!
 
 \--- /challenge \---
