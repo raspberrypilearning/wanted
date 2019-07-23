@@ -5,17 +5,17 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, tasarım-1, programlama-0, phys-comp-0, üretim-0, topluluk-0
+curriculum: 1, tasarım-1, programlama-0, fizik-hesaplama-0, üretim-0, topluluk-0
 title: Aranıyor!
 description: Kendi posterinizi nasıl yapacağınızı öğrenin.
 original_url: https://codeclubprojects.org/en-GB/webdev/wanted
 interests: sanat
-technologies: html CSS-JavaScript
+technologies: html-css-javascript
 site_areas: projeler
 hardware: ''
-software: html CSS-JavaScript
+software: html-css-javascript
 version: 3.0.1
-last_tested: 2017/01/01
+last_tested: 01/01/2017
 steps:
   - 
     title: Giriş
@@ -28,8 +28,8 @@ steps:
   - 
     title: 'Meydan Okuma: Resminizi iyileştirme'
   - 
-    title: Başlıkları biçimlendirme
+    title: Başlıkları şekillendirme
   - 
-    title: 'Meydan okuma: Posterini mükemmelleştir!'
+    title: 'Meydan Okuma: Posterini mükemmelleştir!'
   - 
     title: 'Meydan Okuma: Bir etkinliğin reklamını yap!'
