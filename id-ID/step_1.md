@@ -1,4 +1,4 @@
-## pengantar
+## Pengantar
 
 Dalam proyek ini, Anda akan belajar cara membuat poster sendiri.
 
