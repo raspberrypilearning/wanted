@@ -1,36 +1,36 @@
 ## Introduction
 
-In this project, you'll learn how to make your own poster.
+Dans ce projet, tu vas apprendre à créer at propre affiche.
 
-![screenshot](images/wanted-final.png)
+![capture d'écran](images/wanted-final.png)
 
-### Additional information for club leaders
+### Informations complémentaires pour les responsables de club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/wanted/print).
+Si tu as besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/wanted/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Notes pour le responsable de club
 
-## Introduction:
+## Introduction :
 
-In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
+Dans ce projet, les enfants auront l’occasion d’écrire leur propre code CSS. Ils pourront également éditer et écrire des propriétés CSS et des sélecteurs pour créer leur propre affiche.
 
-## Online Resources
+## Ressources en-ligne
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+Nous recommendons d'utiliser [trinket](https://trinket.io/) pour écrire du HTML & CSS en ligne. Ce projet contient les trinkets suivants :
 
-* ['Wanted' starting point -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* [Point de départ du 'Magazine' -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Les enfants peuvent également utiliser ce trinket vide [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) pour écrire leur propre code HTML & CSS, ou utiliser ce trinket modèle [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Il y a aussi un Trinket contenant un exemple de solution pour les défis :
 
-* ['Wanted' Finished -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* ['Wanted' terminé - trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
-## Offline Resources
+## Ressources hors-ligne
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Ce projet peut être [terminé hors-ligne](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si désiré. Vous pouvez accéder aux ressources du projet en cliquant sur le lien "Matériel pour projet". Ce lien contient une section "Ressources du projet" qui inclut les ressources dont les enfants auront besoin pour compléter le projet hors-ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants :
 
 * template/index.html
 * template/style.css
@@ -38,53 +38,53 @@ This project can be [completed offline](https://www.codeclubprojects.org/en-GB/r
 * wanted/style.css
 * wanted/robot.png
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Vous pouvez aussi trouver une version complétée du projet dans la section "Ressources du bénévole" qui contient :
 
 * wanted-finished/index.html
 * wanted-finished/style.css
 * wanted-finished/robot.png
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Toutes les ressources ci-dessus peuvent aussi être téléchargées dans les fichiers `.zip` projet et bénévole)
 
-## Learning Objectives
+## Objectifs d'apprentissage
 
-* This project gives children the opportunity to write their own CSS to style a webpage.
+* Ce projet donne aux enfants la possibilité d’écrire leur propre code CSS pour styler une page Web.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativité Numérique](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Concevoir des éléments de base en 2D et 3D](https://www.raspberrypi.org/curriculum/design/creator){: target="_blank.
 
-## Challenges
+## Défis
 
-* "Improving your poster" - adding new CSS properties to the `div` selector;
-* "Improving your image" - adding new CSS properties to the `img` selector;
-* "Make your poster awesome" - adding new CSS properties and new `h3` and `p` selectors;
-* "Advertise an event" - Writing and editing HTML and CSS code.
+* "Améliore ton affiche" - ajout de nouvelles propriétés CSS au sélecteur` div `;
+* "Améliore ton image" - ajout de nouvelles propriétés CSS au sélecteur` div `;
+* "Rend ton poster super" - ajout de nouvelles propriétés CSS et de nouveaux sélecteurs;` h3 ` et ` p `;
+* "Annonce un événement" - Écrire et éditer du code HTML et CSS.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Matériel pour le projet
 
-## Project resources
+## Ressources pour le projet
 
-* [.zip file containing all project resources](resources/wanted-project-resources.zip)
-* [Online Trinket containing all 'Wanted!' project resources](http://jumpto.cc/web-wanted)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [Fichier .zip contenant toutes les ressources du projet](resources/wanted-project-resources.zip)
+* [Trinket en-ligne contenant les ressources du projet "CodeFarication"](http://jumpto.cc/web-wanted)
+* [Modèle de trinket en ligne](http://jumpto.cc/trinket-template)
+* [Trinket vierge](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [wanted/index.html](resources/wanted-index.html)
 * [wanted/style.css](resources/wanted-style.css)
 * [wanted/robot.png](resources/wanted-robot.png)
 
-## Club leader resources
+## Ressources pour le responsable de club
 
-* [.zip file containing all completed project resources](resources/wanted-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/ebeb56398a)
+* [Fichier .zip contenant toutes les ressources du projet](resources/wanted-volunteer-resources.zip)
+* [Trinket Python en-ligne vierge](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
-* [twanted-finished/robot.png](resources/twanted-finished-robot.png)
+* [wanted-finished/robot.png](resources/twanted-finished-robot.png)
 
 \--- /collapse \---
