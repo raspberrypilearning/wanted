@@ -1,8 +1,8 @@
-## Styling başlıkları
+## Başlıkları şekillendirme
 
-`<h1>` başlığının stilini geliştirelim.
+`<h1>` başlığının şeklini geliştirelim.
 
-+ Resminizin CSS'in altına aşağıdaki kodu ekleyin:
++ Resminizin CSS'inin altına aşağıdaki kodu ekleyin:
     
         h1 {
         
@@ -11,29 +11,29 @@
     
     Burası ana `<h1>` başlığınız için CSS özelliklerini ekleyeceğiniz yerdir.
 
-+ `<h1>` başlıklarınızın yazı tipini değiştirmek için, küme parantezleri arasına aşağıdaki kodu ekleyin:
++ `<h1>` başlıklarınızın yazı tipini değiştirmek için, kıvrımlı parantezler arasına aşağıdaki kodu ekleyin:
     
-        font-family: Etki;
+        font-family: Impact;
         
 
 + Başlığın boyutunu da değiştirebilirsiniz:
     
-        yazı tipi boyutu: 50pt;
+        font-size: 50pt;
         
 
-+ `<h1>` etrafındakiler arasında büyük bir boşluk olduğunu fark ettin mi?
++ `<h1>` başlığı ile başlığın etrafındakilerle arasında büyük bir boşluk olduğunu fark ettin mi?
     
     ![ekran görüntüsü](images/wanted-h1-margin.png)
     
-    Bunun nedeni, başlığın etrafında bir boşluk olması. Kenar boşluğu, eleman (bu durumda bir başlık) ile etrafındaki diğer şeyler arasındaki boşluktur.
+    Bunun nedeni, başlığın etrafında marjin (kenar boşluğu) olması. Kenar boşluğu, eleman (bu durumda bir başlık) ile etrafındaki diğer şeyler arasındaki boşluktur.
     
-    Marjı bu kodla daha küçük hale getirebilirsiniz:
+    Kenar boşluğunu bu kodla daha küçük hale getirebilirsiniz:
     
-        marj: 10 piksel;
+        margin: 10px;
         
     
     ![ekran görüntüsü](images/wanted-h1-margin-small.png)
 
 + Başlığınızın altını da çizebilirsiniz:
     
-        metin dekorasyon: altı çizili;
+        text-decoration: underline;
