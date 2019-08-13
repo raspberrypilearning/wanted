@@ -1,39 +1,39 @@
-## Styling headings
+## Stilizarea titlurilor
 
-Let's improve the style of the `<h1>` heading.
+Să imbunătățim stilul pentru titlul pe care îl vom marca cu heading-ul `<h1>`.
 
-+ Add the following code underneath your image's CSS:
++ Adaugă următorul cod sub CSS-ul imaginii tale:
     
         h1 {
         
         }
         
     
-    This is where you'll add CSS properties for your main `<h1>` heading.
+    Aici vei adăuga proprietăți CSS pentru titlul`<h1>`.
 
-+ To change the font of your `<h1>` headings, add the following code between the curly brackets:
++ Pentru a îi schimba fontul adăugă între acolade:
     
         font-family: Impact;
         
 
-+ You can also change the size of the heading:
++ Poți să schimbi, de asemenea, si dimensiunea textului din titlu:
     
         font-size: 50pt;
         
 
-+ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
++ Ai observat că există un spațiu mare între titlul `<h1>` și celelalte elemente de pe afiș?
     
-    ![screenshot](images/wanted-h1-margin.png)
+    ![captură de ecran](images/wanted-h1-margin.png)
     
-    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
+    Acest lucru se datorează faptului că există o margine în jurul acestuia. O margine este spațiul dintre element (în acest caz titlul) și celelalte din jurul său.
     
-    You can make the margin smaller with this code:
+    Poți reduce marginea astfel:
     
         margin: 10px;
         
     
-    ![screenshot](images/wanted-h1-margin-small.png)
+    ![captură de ecran](images/wanted-h1-margin-small.png)
 
-+ You can also underline your heading:
++ De asemenea, poți și sublinia textul din titlu:
     
         text-decoration: underline;
