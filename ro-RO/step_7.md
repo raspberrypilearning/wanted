@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: Make your poster awesome!
+## Provocare: Fă-ți afișul și mai grozav!
 
-Add more CSS code to style your `<h3>` headings and your paragraphs.
+Adăugă mai mult cod CSS pentru a infrumuseța textul din subtitlurile (incadrate in heading-ul `<h3>`) și din paragrafele afișului.
 
-![screenshot](images/wanted-final.png)
+![captură de ecran](images/wanted-final.png)
 
-Here's a list of some CSS properties you can use:
+Iată o listă cu câteva proprietăți CSS pe care le poți folosi:
 
     color: black;
     background: white;
