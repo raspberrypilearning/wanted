@@ -1,36 +1,36 @@
-## Introduction
+## Introducere
 
-In this project, you'll learn how to make your own poster.
+În acest proiect, vei învăța cum să-ți faci propriul un afiș.
 
-![screenshot](images/wanted-final.png)
+![captură de ecran](images/wanted-final.png)
 
-### Additional information for club leaders
+### Informații suplimentare pentru educatori
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/wanted/print).
+Dacă dorești să imprimi acest proiect, folosește [Versiunea pentru imprimare](https://projects.raspberrypi.org/en/projects/wanted/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Informații pentru educatori
 
-## Introduction:
+## Introducere:
 
-In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
+În cadrul acestui proiect, copiii vor avea ocazia să își scrie propriul cod CSS. De asemenea, vor edita și scrie proprietăți CSS și selectori pentru a-și realiza propriul afiș.
 
-## Online Resources
+## Resurse online
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+Recomandăm folosirea [trinket](https://trinket.io/) pentru a scrie HTML & CSS online. Proiectul conține următoarele trinket-uri:
 
-* ['Wanted' starting point -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* [punct de start pentru 'Căutat'-- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Copiii pot, de asemenea, utiliza acest trinket gol [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) pentru a scrie propriul lor cod HTML & CSS, sau pot folosi acest șablon în trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Există, de asemenea, un trinket care conține câte un exemplu de soluție pentru fiecare provocare:
 
-* ['Wanted' Finished -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* ['Căutat' - proiectul finalizat - trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
-## Offline Resources
+## Resurse offline
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Dacă dorești, poți realiza [acest proiect](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si offline. Se pot accesa resursele proiectului dând click pe link-ul „Materiale pentru proiect”. Acest link conține o secțiune „Resursele proiectului” ce include materialele de care copiii vor avea nevoie pentru realizarea proiectului offline. Asigură-te că fiecare copil are acces la resurse. Secțiunea include următoarele:
 
 * template/index.html
 * template/style.css
@@ -38,36 +38,36 @@ This project can be [completed offline](https://www.codeclubprojects.org/en-GB/r
 * wanted/style.css
 * wanted/robot.png
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+De asemenea, poți găsi o versiune finalizată a provocărilor din acest proiect în secțiunea „Resurse pentru liderul de club”, care conține:
 
 * wanted-finished/index.html
 * wanted-finished/style.css
 * wanted-finished/robot.png
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Toate resursele de mai sus se pot descărca ca fișiere `.zip` pentru proiect și pentru liderii de club.)
 
-## Learning Objectives
+## Obiective de învățare
 
-* This project gives children the opportunity to write their own CSS to style a webpage.
+* Acest proiect oferă copiilor posibilitatea de a-și scrie propriul cod CSS pentru a crea o pagină web.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Acest proiect acoperă elemente din următoarele domenii ale curriculumului [Raspberry Pi Digital Making](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Proiectarea elementelor grafice 2D și 3D de bază](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Provocări
 
-* "Improving your poster" - adding new CSS properties to the `div` selector;
-* "Improving your image" - adding new CSS properties to the `img` selector;
-* "Make your poster awesome" - adding new CSS properties and new `h3` and `p` selectors;
-* "Advertise an event" - Writing and editing HTML and CSS code.
+* „Îmbunătățirea afișului tău” - adăugarea de noi proprietăți CSS la selectorul ` div `;
+* „Îmbunătățirea unei imagini” - adăugarea de noi proprietăți CSS la selectorul` img `;
+* „Fă-ți afișul și mai grozav” - adăugând noi proprietăți CSS și noi heading-uri (ex. ` h3 `) și selectoare (ex. ` p `);
+* „Anunță un eveniment” - Scriere și editare de cod HTML și CSS.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiale pentru proiect
 
-## Project resources
+## Resursele proiectului
 
 * [.zip file containing all project resources](resources/wanted-project-resources.zip)
 * [Online Trinket containing all 'Wanted!' project resources](http://jumpto.cc/web-wanted)
@@ -79,7 +79,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [wanted/style.css](resources/wanted-style.css)
 * [wanted/robot.png](resources/wanted-robot.png)
 
-## Club leader resources
+## Resursele conducătorului de club
 
 * [.zip file containing all completed project resources](resources/wanted-volunteer-resources.zip)
 * [Online completed Trinket project](https://trinket.io/html/ebeb56398a)
