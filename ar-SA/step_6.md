@@ -1,39 +1,39 @@
-## Styling headings
+## عناوين التصميم
 
-Let's improve the style of the `<h1>` heading.
+لنقم بتحسين نمط العنوان `<h1>`.
 
-+ Add the following code underneath your image's CSS:
++ أضف الكود التالي تحت CSS الخاص بالصورة:
     
         h1 {
         
         }
         
     
-    This is where you'll add CSS properties for your main `<h1>` heading.
+    هذا هو المكان الذي ستضيف فيه خصائص CSS للعنوان `<h1>` الرئيسي الخاص بك.
 
-+ To change the font of your `<h1>` headings, add the following code between the curly brackets:
++ لتغيير الخط الخاص بعناوينك `<h1>` ، أضف الكود التالي بين الأقواس {}:
     
-        font-family: Impact;
+        font-family: Impact؛;
         
 
-+ You can also change the size of the heading:
++ يمكنك أيضًا تغيير حجم العنوان:
     
         font-size: 50pt;
         
 
-+ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
++ هل لاحظت أن هناك مساحة كبيرة بين العنوان `<h1>` والأشياء المحيطة به؟
     
     ![لقطة الشاشة](images/wanted-h1-margin.png)
     
-    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
+    هذا بسبب وجود هامش حول العنوان. الهامش هو المسافة بين العنصر (في هذه الحالة العنوان) والأشياء الأخرى المحيطة به.
     
-    You can make the margin smaller with this code:
+    يمكنك جعل الهامش أصغر باستخدام هذا الكود:
     
         margin: 10px;
         
     
     ![لقطة الشاشة](images/wanted-h1-margin-small.png)
 
-+ You can also underline your heading:
++ يمكنك أيضًا وضع خط اسفل عنوانك:
     
-        text-decoration: underline;
+        زخرفة النص: تسطير;
