@@ -3,23 +3,23 @@ body {
 }
 
 div {
-  محاذاة النص: المركز;
-  overflow: hidden;
+  محاذاة-النص: المركز;
+  ;overflow: hidden
   الحدود: 5px منقط الأحمر;
   العرض: 300px;
-  الخلفية: yellow;
+  الخلفية: صفراء؛
 }
 
 img {
-  العرض: 100px;
-  الحدود: 2px solid black;
-  الحشوة: 10px;
-  الخلفية: white;
-  الحواف: 10px;
+  العرض: 100px؛
+  الحدود: 2px solid black؛
+  الحشوة: 10px؛
+  الخلفية: بيضاء؛
+  الهامش: 10 بكسل ؛
 }
 
 h1 {
-  مجموعة الخطوط: Impact;
+  font-family: Impact؛
   حجم الخط: 50pt;
   زخرفة النص: underline overline;
   الحواف: 10px;
