@@ -1,38 +1,38 @@
 body {
-  background: lightblue;
+  الخلفية: ازرق فاتح;
 }
 
 div {
-  text-align: center;
+  محاذاة النص: المركز;
   overflow: hidden;
-  border: 5px dotted red;
-  width: 300px;
-  background: yellow;
+  الحدود: 5px منقط الأحمر;
+  العرض: 300px;
+  الخلفية: yellow;
 }
 
 img {
-  width: 100px;
-  border: 2px solid black;
-  padding: 10px;
-  background: white;
-  margin: 10px;
+  العرض: 100px;
+  الحدود: 2px solid black;
+  الحشوة: 10px;
+  الخلفية: white;
+  الحواف: 10px;
 }
 
 h1 {
-  font-family: Impact;
-  font-size: 50pt;
-  text-decoration: underline overline;
-  margin: 10px;
+  مجموعة الخطوط: Impact;
+  حجم الخط: 50pt;
+  زخرفة النص: underline overline;
+  الحواف: 10px;
 }
 
 h3 {
-  font-family: Impact;
-  font-size: 18pt;
-  margin: 10px;
+  مجموعة الخطوط: Impact;
+  حجم الخط: 18pt;
+  الحواف: 10px;
 }
 
 p {
-  font-family: Arial;
-  font-size: 12pt;
-  margin: 20px;
+  مجموعة الخط: Arial؛;
+  حجم الخط: 12pt;
+  الحواف: 20px;
 }
