@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: Improving your poster
+## التحدي: حسِّن شكل الملصق
 
-Add the following CSS property to your `div` style:
+أضف خاصية CSS التالية إلى ` div ` التصميم:
 
-    border-radius: 40px;
+    نصف قطر الحدود: 40 بكسل;
     
 
-What does this property do? What happens if you change the number in the code above?
+ماذا تفعل هذه الخاصية؟ ماذا يحدث إذا قمت بتغيير الرقم في الكود أعلاه؟
 
 \--- /challenge \---
