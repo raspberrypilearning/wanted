@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Wanted!
-description: Learn how to make your own poster.
+title: Căutat!
+description: Învață să îți faci propriul tău afiș.
 original_url: https://codeclubprojects.org/en-GB/webdev/wanted
 interests: art
 technologies: html-css-javascript
@@ -18,18 +18,18 @@ version: 3.0.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Introducere
   - 
-    title: Styling your poster
+    title: Stilizarea afișului
   - 
-    title: 'Challenge: Improving your poster'
+    title: 'Provocare: îmbunătățirea afișului'
   - 
-    title: Styling images
+    title: Stilizarea imaginilor
   - 
-    title: 'Challenge: Improving your image'
+    title: 'Provocare: îmbunătățirea unei imagini'
   - 
-    title: Styling headings
+    title: Stilizarea titlurilor
   - 
-    title: 'Challenge: Make your poster awesome!'
+    title: 'Provocare: Fă-ți afișul și mai grozav!'
   - 
-    title: 'Challenge: Advertise an event!'
+    title: 'Provocare: anunță un eveniment!'
