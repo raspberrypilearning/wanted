@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improving your image
+## Provocare: îmbunătățirea unei imagini
 
-Can you give your image a background colour? Or a rounded border?
+Îi poți da imaginii o culoare de fundal? Sau o margine rotunjită?
 
-You can find more CSS colour names at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
+Poți găsi mai multe nume de culori valabile pentru CSS aici: <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>
 
 \--- /challenge \---
