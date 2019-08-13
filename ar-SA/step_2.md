@@ -1,14 +1,14 @@
-## Styling your poster
+## تحديد أنماط الملصق
 
-Let's start by editing the CSS code for the poster.
+لنبدأ بتحرير كود CSS للملصق.
 
 + افتح مشروع trinket هذا: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
-    الآن يجب أن يبدو الملف الخاص بك مثل هذا:
+    يجب أن يبدو المشروع مثل هذا:
     
     ![لقطة الشاشة](images/wanted-starter.png)
 
-+ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
++ انقر فوق علامة التبويب "style.css". ستلاحظ أن هناك بالفعل خصائص CSS لـ ` div ` تحتوي على أجزاء مختلفة من الملصق.
     
         div {
             text-align: center;
@@ -18,31 +18,31 @@ Let's start by editing the CSS code for the poster.
         }   
         
 
-+ Let's start by altering the `text-align` property:
++ لنبدأ بتعديل ال ` text-align ` خاصية:
     
-        text-align: center;
+        محاذاة النص: المركز ؛;
         
     
-    What happens when you change the word `center` to `left` or `right`?
+    ماذا يحدث عند تغيير الكلمة ` الوسط ` إلى ` اليسار ` أو ` اليمين ` ؟
 
-+ How about the `border` property?
++ ماذا عن خاصية `الحدود ` ؟
     
         border: 2px solid black;
         
     
-    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
+    ` 2px ` في الكود أعلاه يعني 2 بكسل. ماذا يحدث عند تغيير ` 2 بكسل أسود صلب ` إلى ` 4px منقط أحمر ` ؟
 
-+ Change the `width` of the poster to `400px`. What happens to the poster?
++ تغيير `عرض ` الملصق إلى ` 400 بكسل `. ماذا يحدث للملصق؟
 
-+ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
++ دعنا نضيف بعض CSS لضبط لون خلفية الملصق. انتقل إلى نهاية السطر 5 من التعليمات البرمجية الخاصة بك واضغط على رجوع، بحيث يكون لديك سطر فارغ جديد.
     
     ![لقطة الشاشة](images/wanted-newline.png)
     
-    Type the following code on your new blank line:
+    اكتب الكود التالي على السطر فارغ جديد:
     
         background: yellow;
         
     
-    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
+    تأكد من كتابة الكود * بالضبط * كما هو أعلاه. يجب أن تلاحظ أن خلفية ال `<div>` أصبحت الآن صفراء.
     
     ![لقطة الشاشة](images/wanted-background.png)
