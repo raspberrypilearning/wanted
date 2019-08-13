@@ -18,8 +18,8 @@ version: 3.0.1
 last_tested: 2017-01-01
 steps:
   - title: Sissejuhatus
-  - title: Oma plakati kujundamine
-  - title: 'Väljakutse: täiusta oma plakatit'
+  - title: Enda plakati kujundamine
+  - title: 'Väljakutse: oma plakati täiustamine'
   - title: Piltide kujundamine
   - title: 'Väljakutse: oma pildi täiustamine'
   - title: Laadipealkirjad
