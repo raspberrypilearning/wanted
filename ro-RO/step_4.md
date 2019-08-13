@@ -1,45 +1,45 @@
-## Styling images
+## Stilizarea imaginilor
 
-Let's improve the style of the image in the poster.
+Să îmbunătățim imaginea din afiș.
 
-+ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
++ Momentan, nu există proprietăți CSS pentru eticheta `<img>`, așa că hai să adăugăm noi unele!
     
-    Firstly, add the following code underneath the CSS for your div:
+    În primul rând, adăugă sub CSS următoarele rânduri de cod pentru div-ul tău:
     
         img {
         
         }
         
     
-    ![screenshot](images/wanted-img-css.png)
+    ![captură de ecran](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the curly brackets.
++ Acum putem adăuga (între acolade) proprietăți CSS pentru imagini.
     
-    For example, add this code between the curly brackets to set the width of the image:
+    Poți adăuga, de exemplu, următorul cod pentru a stabili lățimea imaginii:
     
         width: 100px;
         
     
-    You'll see that the size of the image changes, so that its width is 100 pixels.
+    Vei observa că imaginea a fost redimensionată astfel încât acum va avea 100px lățime.
     
-    ![screenshot](images/wanted-img-width.png)
+    ![captură de ecran](images/wanted-img-width.png)
 
-+ You can also add a border around the image with this code:
++ Poți adăuga, de asemenea, un chenar în jurul imaginii astfel:
     
         border: 1px solid black;
         
 
-+ Have you noticed that there's not much space between the image and the border?
++ Ai observat că nu există prea mult spațiu între imagine și chenar?
     
-    ![screenshot](images/wanted-img-border.png)
+    ![captură de ecran](images/wanted-img-border.png)
     
-    You can fix this by adding some padding around the image:
+    Poți repara asta adăugând o distanță în jurul imaginii:
     
         padding: 10px;
         
     
-    Padding is the space between the content (in this case an image) and its border.
+    Padding este spațiul dintre conținut (în acest caz o imagine) și chenarul acestuia.
     
-    ![screenshot](images/wanted-img-padding.png)
+    ![captură de ecran](images/wanted-img-padding.png)
     
-    What do you think would happen if you changed the padding to `50px`?
+    Ce crezi că s-ar întâmpla dacă ai schimba padding-ul la ` 50px `?
