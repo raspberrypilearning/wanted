@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Advertise an event!
+## Provocare: anunță un eveniment!
 
-Can you make a poster for an event happening at your school? It could be a play, a sporting event, or even a poster advertising your Code Club!
+Poți realiza un afiș pentru un eveniment din școala ta? Ar putea fi o piesă de teatru, un eveniment sportiv sau chiar o reclamă pentru Code Club-ul din care faci parte!
 
 \--- /challenge \---
