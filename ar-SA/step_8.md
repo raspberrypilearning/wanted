@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Advertise an event!
+## تحدي: أَعلِن عن حدث!
 
-Can you make a poster for an event happening at your school? It could be a play, a sporting event, or even a poster advertising your Code Club!
+هل يمكنك صنع ملصق لحدث يحدث في مدرستك؟ قد تكون مسرحية أو حدثاً رياضياً أو حتى ملصقاً يعلن عن نادي الكود الخاص بك!
 
 \--- /challenge \---
