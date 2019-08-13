@@ -1,23 +1,23 @@
 \--- challenge \---
 
-## Challenge: Make your poster awesome!
+## التحدي: اجعل ملصقك يبدو رائعاً!
 
-Add more CSS code to style your `<h3>` headings and your paragraphs.
+أضف المزيد من كود CSS لتصميم عناوينك `<h3>` وفقراتك.
 
 ![لقطة شاشة](images/wanted-final.png)
 
-Here's a list of some CSS properties you can use:
+فيما يلي قائمة ببعض خصائص CSS التي يمكنك استخدامها:
 
-    color: black;
-    background: white;
-    font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
-    font-size: 12pt;
-    font-weight: bold;
-    text-decoration: underline overline line-through;
-    margin: 10px;
-    padding: 10px;
-    width: 100px;
-    height: 100px;
+    اللون: اسود;
+    الخلفية: بيضاء;
+    مجموعة الخطوط: Arial / Comic Sans MS / Courier / Impact / Tahoma;
+    حجم الخط: 12pt;
+    غمق الخط: bold;
+    زخرفة النص: underline overline line-through;
+    الهامش: 10px;
+    الحشوة: 10px;
+    العرض: 100px;
+    الارتفاع: 100px;
     
 
 \--- challenge/ \---
