@@ -1,6 +1,6 @@
 ## Laadipealkirjad
 
-Parandame `&lt;h1&gt;` pealkirja stiili.
+Parandame `<h1>` pealkirja stiili.
 
 + Lisa oma pildi CSS-i alla järgmine kood:
     
@@ -9,9 +9,9 @@ Parandame `&lt;h1&gt;` pealkirja stiili.
         }
         
     
-    Siin lisad oma `&lt;h1&gt;` põhipealkirjale CSS-omadused.
+    Siin lisad oma `<h1>` põhipealkirjale CSS-omadused.
 
-+ Oma `&lt;h1&gt;` pealkirjade fondi muutmiseks lisa looksulgudes järgmine kood:
++ Oma `<h1>` pealkirjade fondi muutmiseks lisa looksulgudes järgmine kood:
     
         font-family: Impact;
         
@@ -21,7 +21,7 @@ Parandame `&lt;h1&gt;` pealkirja stiili.
         font-size: 50pt;
         
 
-+ Kas oled märganud, et `&lt;h1&gt;` pealkirja ja seda ümbritseva vahel on palju ruumi?
++ Kas oled märganud, et `<h1>` pealkirja ja seda ümbritseva vahel on palju ruumi?
     
     ![kuvatõmmis](images/wanted-h1-margin.png)
     
