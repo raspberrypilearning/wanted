@@ -21,13 +21,13 @@ Selles projektis on lastel võimalus kirjutada oma CSS. Samuti muudavad ja kirju
 
 HTML-i & CSS-i kasutamiseks veebis soovitame kasutada [trinketit](https://trinket.io/). See projekt sisaldab järgmisi trinketeid:
 
-* ["Tagaotsitava" lähtepunkt - jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* ["Tagaotsitava" lähtepunkt - trinket.io/html/9add4041d](https://trinket.io/html/9add4041dd)
 
 Lapsed võivad kasutada ka seda tühja trinketit [(jumpto.cc/html- blank)](http://jumpto.cc/html-blank) oma HTML-i & CSS-i kirjutamiseks või alternatiivina saavad nad kasutada seda näidistrinketit [(jumpto.cc/html-memplate)](http://jumpto.cc/html-template).
 
 Leidub ka trinket, mis sisaldab näidislahendust väljakutsetele:
 
-* ['Tagaotsitav' Lõpetatud - trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* ['Tagaotsitav' Lõpetatud - trinket.io/html/e44a812597](https://trinket.io/html/e44a812597)
 
 ## Võrguvälised ressursid
 
