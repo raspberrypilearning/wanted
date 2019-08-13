@@ -30,7 +30,7 @@ Alustame plakati CSS-koodi redigeerimisest.
         border: 2px solid black;
         
     
-    Ülaltoodud koodis tähendab `2px` 2 pikslit. Mis juhtub siis, kui asendad `2px solid black` `4px dotted red'iga`?
+    Ülaltoodud koodis tähendab `2px` 2 pikslit. Mis juhtub siis, kui asendad `2px solid black` `4px dotted red`?
 
 + Muuda plakati `width` `400 piksliks`. Mis juhtub plakatiga?
 
@@ -43,6 +43,6 @@ Alustame plakati CSS-koodi redigeerimisest.
         background: yellow;
         
     
-    Veendu, et kirjutasid koodi *täpselt* nagu ülalpool. Peaksid märkama, et `&lt;div&gt;` taust on nüüd kollane.
+    Veendu, et kirjutasid koodi *täpselt* nagu ülalpool. Peaksid märkama, et `<div>` taust on nüüd kollane.
     
     ![kuvatõmmis](images/wanted-background.png)
