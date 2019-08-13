@@ -1,10 +1,10 @@
-## Styling images
+## تحديد أنماط الصور
 
-Let's improve the style of the image in the poster.
+دعونا نحسين نمط الصورة في الملصق.
 
-+ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
++ في الوقت الحالي ، لا توجد أي خصائص CSS لعلامة `<img>` الخاصة بك ، لذلك دعونا نضيف البعض منها!
     
-    Firstly, add the following code underneath the CSS for your div:
+    أولاً ، أضف الكود التالي تحت CSS لـ div الخاص بك:
     
         img {
         
@@ -13,33 +13,33 @@ Let's improve the style of the image in the poster.
     
     ![لقطة الشاشة](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the curly brackets.
++ يمكننا الآن إضافة خصائص CSS للصور بين الأقواس {}.
     
-    For example, add this code between the curly brackets to set the width of the image:
+    على سبيل المثال ، أضف هذا الرمز بين الأقواس {} لضبط عرض الصورة:
     
         width: 100px;
         
     
-    You'll see that the size of the image changes, so that its width is 100 pixels.
+    سترى أن حجم الصورة يتغير ، بحيث يكون عرضها 100 بكسل.
     
     ![لقطة الشاشة](images/wanted-img-width.png)
 
-+ You can also add a border around the image with this code:
++ يمكنك أيضًا إضافة حدود حول الصورة باستخدام هذا الكود:
     
         border: 1px solid black;
         
 
-+ Have you noticed that there's not much space between the image and the border?
++ هل لاحظت أنه لا توجد مساحة كبيرة بين الصورة والحدود؟
     
     ![لقطة الشاشة](images/wanted-img-border.png)
     
-    You can fix this by adding some padding around the image:
+    يمكنك إصلاح ذلك عن طريق إضافة بعض الحشوة حول الصورة:
     
         padding: 10px;
         
     
-    Padding is the space between the content (in this case an image) and its border.
+    الحشو هو المسافة بين المحتوى (في هذه الحالة الصورة) والحدود الخاصة بالصورة.
     
     ![لقطة الشاشة](images/wanted-img-padding.png)
     
-    What do you think would happen if you changed the padding to `50px`?
+    ماذا تعتقد انه سيحدث إذا قمت بتغيير الحشوة إلى ` 50px ` ؟
