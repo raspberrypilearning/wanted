@@ -2,7 +2,7 @@
 
 Täiustame plakatil oleva pildi stiili.
 
-+ Praegu ei ole sinu `&lt;img&gt;` sildi jaoks ühtegi CSS-omadust, nii et lisame mõned!
++ Praegu ei ole sinu `<img>` sildi jaoks ühtegi CSS-omadust, nii et lisame mõned!
     
     Esmalt lisa oma div-i CSS-i alla järgmine kood:
     
@@ -42,4 +42,4 @@ Täiustame plakatil oleva pildi stiili.
     
     ![kuvatõmmis](images/wanted-img-padding.png)
     
-    Mis sinu meelest juhtub, kui muudad täidise suurust `50px-ni`?
+    Mis sinu meelest juhtub, kui muudad täidise suurust `50px`?
