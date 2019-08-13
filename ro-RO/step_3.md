@@ -1,12 +1,12 @@
-\--- challenge \---
+Provocare
 
-## Challenge: Improving your poster
+## Provocare: îmbunătățirea afișului
 
-Add the following CSS property to your `div` style:
+Adaugă următoarea proprietate CSS la stilizarea elementului ` div `:
 
     border-radius: 40px;
     
 
-What does this property do? What happens if you change the number in the code above?
+Ce face această proprietate? Ce se întâmplă dacă schimbi numărul de mai sus?
 
 \--- /challenge \---
