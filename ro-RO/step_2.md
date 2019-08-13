@@ -1,14 +1,14 @@
-## Styling your poster
+## Stilizarea afișului
 
-Let's start by editing the CSS code for the poster.
+Să începem prin editarea codului CSS pentru afiș.
 
-+ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ Deschide acest trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
-    The project should look like this:
+    Proiectul ar trebui să arate astfel:
     
-    ![screenshot](images/wanted-starter.png)
+    ![captură de ecran](images/wanted-starter.png)
 
-+ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
++ Dă click pe tab-ul „style.css”. Vei observa că există deja proprietăți CSS pentru selectorul ` div ` care conține diferite părți din afiș.
     
         div {
             text-align: center;
@@ -18,31 +18,31 @@ Let's start by editing the CSS code for the poster.
         }   
         
 
-+ Let's start by altering the `text-align` property:
++ Să începem modificând `text-align` (proprietatea de aliniere a textului):
     
         text-align: center;
         
     
-    What happens when you change the word `center` to `left` or `right`?
+    Ce se întâmplă când schimbi cuvântul `center` cu ` left ` sau ` right `?
 
-+ How about the `border` property?
++ Să observăm si proprietatea `border`
     
         border: 2px solid black;
         
     
-    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
+    ` 2px ` în codul de mai sus înseamnă 2 pixeli. Ce se întâmplă când schimbi `2px solid black` cu `4px dotted red`?
 
-+ Change the `width` of the poster to `400px`. What happens to the poster?
++ Modifică lățimea ` ` afișului la ` 400px `. Ce se întâmplă cu afișul?
 
-+ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
++ Să adăugăm câteva elemente CSS pentru a seta culoarea de fundal a afișului. Du-te la sfârșitul liniei 5 a codului tău și apăsă Enter, astfel încât vei avea o nouă linie goală.
     
-    ![screenshot](images/wanted-newline.png)
+    ![captură de ecran](images/wanted-newline.png)
     
-    Type the following code on your new blank line:
+    Scrie următorul cod pe linia goala:
     
         background: yellow;
         
     
-    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
+    Verifică că ai scris *exact* ca mai sus. Acum, ar trebui ca fundalul afișului tău să fie galben.
     
-    ![screenshot](images/wanted-background.png)
+    ![captură de ecran](images/wanted-background.png)
