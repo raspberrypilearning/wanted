@@ -1,12 +1,12 @@
 ## المقدمة
 
-In this project, you'll learn how to make your own poster.
+في هذا المشروع ، سوف تتعلم كيف تصنع الملصق الخاص بك.
 
 ![لقطة شاشة](images/wanted-final.png)
 
 ### معلومات إضافية لقادة النادي
 
-إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [النسخة القابلة للطباعة](https://projects.raspberrypi.org/en/projects/wanted/print).
+إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [Printer friendly version](https://projects.raspberrypi.org/en/projects/wanted/print).
 
 ## \--- collapse \---
 
@@ -14,23 +14,23 @@ In this project, you'll learn how to make your own poster.
 
 ## مقدمة:
 
-In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
+في هذا المشروع ، ستتاح الفرصة للأطفال لكتابة CSS الخاص بهم. سيقومون أيضًا بتعديل وكتابة خصائص ومحددات CSS لإنشاء ملصق خاص بهم.
 
 ## الموارد المتوفرة على الإنترنت
 
 لكتابة ملفات HTML & CSS نوصي بإستخدام [trinket](https://trinket.io/). يحتوي هذا المشروع على ملفات trinket التالية:
 
-* ['Wanted' starting point -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* ["مطلوب" نقطة البداية -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
-يمكن أن يستخدم الأطفال أيضًا ملف trinket الفارغ هذا [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) لكتابة ملفات HTML و & CSS، أو يمكنهم استخدام قالب trinket هذا [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+يمكن أن يستخدم الأطفال أيضًا ملف trinket الفارغ هذا [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) لكتابة ملفات HTML الخاصة بهم و & CSS، أو يمكنهم استخدام قالب trinket هذا [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-كما يوجد مشروع trinket يحتوي على نموذج حل للتحديات:
+كما يوجد مشروع trinket يحتوي على نموذج حلول للتحديات:
 
-* ['Wanted' Finished -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* ["مطلوب" انتهى - trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
 ## الموارد المتوفرة دون اتصال بالإنترنت
 
-هذا المشروع يمكن [إكماله دون اتصال بالإنترنت](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) إذا كنت تفضل ذلك. يمكنك الوصول إلى موارد المشروع من خلال النقر فوق رابط "مواد المشروع" الخاص بهذا المشروع. يحتوي هذا الرابط على قسم "موارد المشروع"، الذي يتضمن الموارد التي يحتاج إليها الأطفال لإكمال هذا المشروع من دون اتصال بالإنترنت. تأكد من أن كل طفل لديه حق الوصول إلى نسخة من هذه الموارد. يتضمن هذا القسم الملفات التالية:
+هذا المشروع يمكن [إكماله دون اتصال بالإنترنت](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) إذا كنت تفضل ذلك. يمكنك الوصول إلى مصادر المشروع من خلال النقر فوق رابط "مواد المشروع" الخاص بهذا المشروع. يحتوي هذا الرابط على قسم "مصادر المشروع"، الذي يتضمن الموارد التي يحتاج إليها الأطفال لإكمال هذا المشروع من دون اتصال بالإنترنت. تأكد من أن كل طفل لديه امكانية الوصول إلى نسخة من هذه المصادر. يتضمن هذا القسم الملفات التالية:
 
 * template/index.html
 * template/style.css
@@ -38,7 +38,7 @@ In this project, children will have an opportunity to write their own CSS. They 
 * wanted/style.css
 * wanted/robot.png
 
-يمكنك أيضًا العثور على نسخة كاملة من تحديات هذا المشروع في قسم "موارد المتطوعين" الذي يحتوي على:
+يمكنك أيضاً العثور على نسخة كاملة من تحديات هذا المشروع في قسم "موارد المتطوعين" الذي يحتوي على:
 
 * wanted-finished/index.html
 * wanted-finished/style.css
@@ -48,29 +48,29 @@ In this project, children will have an opportunity to write their own CSS. They 
 
 ## أهداف التعلم
 
-* This project gives children the opportunity to write their own CSS to style a webpage.
+* يتيح هذا المشروع للأطفال الفرصة لكتابة CSS الخاص بهم لتصميم صفحة ويب.
 
 يتناول هذا المشروع عناصر من الصفوف التالية من المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
 
-* [الأصول الأساسية للتصميمات ثنائية الأبعاد وثلاثية الأبعاد](https://www.raspberrypi.org/curriculum/design/creator).
+* [التصاميم الأساسية لنماذج ثنائية وثلاثية الأبعاد.](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## التحديات
 
-* "Improving your poster" - adding new CSS properties to the `div` selector;
-* "Improving your image" - adding new CSS properties to the `img` selector;
-* "Make your poster awesome" - adding new CSS properties and new `h3` and `p` selectors;
-* "Advertise an event" - Writing and editing HTML and CSS code.
+* "تحسين الملصق الخاص بك" - إضافة خصائص CSS جديدة إلى ` div ` المحدد;
+* "تحسين الصورة الخاصة بك" - إضافة خصائص CSS جديدة إلى `img` المحدد;
+* "اجعل الملصق رائعًا" - إضافة خصائص CSS جديدة و `h3` و`p` محددات;
+* "الإعلان عن حدث" - كتابة وتحرير كود HTML و CSS.
 
-\--- collapse \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
-## مواد المشروع
+## title: مواد المشروع
 
 ## موارد المشروع
 
-* [ملف.zip يحتوي على جميع موارد المشروع](resources/wanted-project-resources.zip)
-* [Online Trinket containing all 'Wanted!' project resources](http://jumpto.cc/web-wanted)
+* [ملف.zip يحتوي على جميع مصادر المشروع](resources/wanted-project-resources.zip)
+* [ملف Trinket عبر الإنترنت يحتوي على كل موارد المشروع 'المطلوبة!'](http://jumpto.cc/web-wanted)
 * [قالب Trinket عبر الإنترنت](http://jumpto.cc/trinket-template)
 * [Trinket فارغ عبر الإنترنت](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
@@ -81,10 +81,10 @@ In this project, children will have an opportunity to write their own CSS. They 
 
 ## موارد قادة النادي
 
-* [ملف.zip يحتوي على جميع موارد المشروع المكتملة](resources/wanted-volunteer-resources.zip)
+* [ملف.zip يحتوي على جميع مصادر المشروع المكتملة](resources/wanted-volunteer-resources.zip)
 * [مشروع Trinket المكتمل على الإنترنت](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
-* [twanted-finished/robot.png](resources/twanted-finished-robot.png)
+* [wanted-finished/robot.png](resources/twanted-finished-robot.png)
 
 \--- /collapse \---
