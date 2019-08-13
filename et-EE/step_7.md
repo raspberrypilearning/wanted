@@ -2,7 +2,7 @@
 
 ## Väljakutse: tee oma plakat ägedaks!
 
-Lisa rohkem CSS-koodi, et oma `&lt;h3&gt;` pealkirju ja lõike kujundada.
+Lisa rohkem CSS-koodi, et oma `<h3>` pealkirju ja lõike kujundada.
 
 ![kuvatõmmis](images/wanted-final.png)
 
