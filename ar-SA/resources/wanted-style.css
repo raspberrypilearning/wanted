@@ -1,6 +1,6 @@
 div {
 	محاذاة النص: المركز;
-	overflow: hidden;
-	border: 2px solid black;
+	إخفاء الفائض؛
+	الحدود: 2px اسود صلب.
 	العرض: 300px;
 }
