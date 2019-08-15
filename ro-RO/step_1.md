@@ -6,11 +6,11 @@
 
 ### Informații suplimentare pentru educatori
 
-Dacă dorești să imprimi acest proiect, folosește [Versiunea pentru imprimare](https://projects.raspberrypi.org/en/projects/wanted/print).
+Dacă vrei să printezi acest proiect, folosește [Versiunea printabilă](https://projects.raspberrypi.org/en/projects/wanted/print).
 
 ## \--- collapse \---
 
-## title: Informații pentru educatori
+## title: Note pentru liderul de club
 
 ## Introducere:
 
@@ -20,13 +20,13 @@ Dacă dorești să imprimi acest proiect, folosește [Versiunea pentru imprimare
 
 Recomandăm folosirea [trinket](https://trinket.io/) pentru a scrie HTML & CSS online. Proiectul conține următoarele trinket-uri:
 
-* [punct de start pentru 'Căutat'-- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* [Punctul de pornire pentru „Căutat” -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
 Copiii pot, de asemenea, utiliza acest trinket gol [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) pentru a scrie propriul lor cod HTML & CSS, sau pot folosi acest șablon în trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Există, de asemenea, un trinket care conține câte un exemplu de soluție pentru fiecare provocare:
+Există, de asemenea, un trinket care conține un exemplu de soluție pentru provocări:
 
-* ['Căutat' - proiectul finalizat - trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* [„Căutat” completat -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
 ## Resurse offline
 
@@ -50,16 +50,16 @@ De asemenea, poți găsi o versiune finalizată a provocărilor din acest proiec
 
 * Acest proiect oferă copiilor posibilitatea de a-și scrie propriul cod CSS pentru a crea o pagină web.
 
-Acest proiect acoperă elemente din următoarele domenii ale curriculumului [Raspberry Pi Digital Making](http://rpf.io/curriculum):
+Acest proiect acoperă elemente din următoarele domenii ale [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Proiectarea elementelor grafice 2D și 3D de bază](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Provocări
 
-* „Îmbunătățirea afișului tău” - adăugarea de noi proprietăți CSS la selectorul ` div `;
-* „Îmbunătățirea unei imagini” - adăugarea de noi proprietăți CSS la selectorul` img `;
-* „Fă-ți afișul și mai grozav” - adăugând noi proprietăți CSS și noi heading-uri (ex. ` h3 `) și selectoare (ex. ` p `);
-* „Anunță un eveniment” - Scriere și editare de cod HTML și CSS.
+* „Îmbunătățirea afișului tău” - adăugarea de noi proprietăți CSS la selectorul `div`;
+* „Îmbunătățirea imaginii tale” - adăugarea de noi proprietăți CSS la selectorul `img`;
+* „Fă-ți afișul și mai grozav” - adăugarea de noi proprietăți CSS și noi titluri `h3` și selectoare de paragrafe `p`;
+* „Anunță un eveniment” - Scrierea și editarea de cod HTML și CSS.
 
 \--- /collapse \---
 
@@ -69,17 +69,17 @@ Acest proiect acoperă elemente din următoarele domenii ale curriculumului [Ras
 
 ## Resursele proiectului
 
-* [.zip file containing all project resources](resources/wanted-project-resources.zip)
-* [Online Trinket containing all 'Wanted!' project resources](http://jumpto.cc/web-wanted)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [fișier .zip care conține toate resursele proiectului](resources/wanted-project-resources.zip)
+* [Trinket online care conține toate resursele proiectului „Căutat!”](http://jumpto.cc/web-wanted)
+* [Șablon Trinket online](http://jumpto.cc/trinket-template)
+* [Trinket online gol](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [wanted/index.html](resources/wanted-index.html)
 * [wanted/style.css](resources/wanted-style.css)
 * [wanted/robot.png](resources/wanted-robot.png)
 
-## Resursele conducătorului de club
+## Resursele liderului de club
 
 * [.zip file containing all completed project resources](resources/wanted-volunteer-resources.zip)
 * [Online completed Trinket project](https://trinket.io/html/ebeb56398a)
