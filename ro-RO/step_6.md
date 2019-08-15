@@ -1,6 +1,6 @@
 ## Stilizarea titlurilor
 
-Să imbunătățim stilul pentru titlul pe care îl vom marca cu heading-ul `<h1>`.
+Să imbunătățim stilul pentru titlul `<h1>`.
 
 + Adaugă următorul cod sub CSS-ul imaginii tale:
     
@@ -9,9 +9,9 @@ Să imbunătățim stilul pentru titlul pe care îl vom marca cu heading-ul `<h1
         }
         
     
-    Aici vei adăuga proprietăți CSS pentru titlul`<h1>`.
+    Aici vei adăuga proprietăți CSS pentru titlul `<h1>`.
 
-+ Pentru a îi schimba fontul adăugă între acolade:
++ Pentru a schimba fontul titlului `<h1>`, adăugă următorul cod între acolade:
     
         font-family: Impact;
         
