@@ -8,7 +8,7 @@ Să începem prin editarea codului CSS pentru afiș.
     
     ![captură de ecran](images/wanted-starter.png)
 
-+ Dă click pe tab-ul „style.css”. Vei observa că există deja proprietăți CSS pentru selectorul ` div ` care conține diferite părți din afiș.
++ Dă click pe tab-ul „style.css”. Vei observa că există deja proprietăți CSS pentru selectorul `div` care conține diferite părți din afiș.
     
         div {
             text-align: center;
@@ -18,23 +18,23 @@ Să începem prin editarea codului CSS pentru afiș.
         }   
         
 
-+ Să începem modificând `text-align` (proprietatea de aliniere a textului):
++ Să începem modificând proprietatea `text-align`:
     
         text-align: center;
         
     
-    Ce se întâmplă când schimbi cuvântul `center` cu ` left ` sau ` right `?
+    Ce se întâmplă când schimbi cuvântul `center` cu `left` sau `right`?
 
 + Să observăm si proprietatea `border`
     
         border: 2px solid black;
         
     
-    ` 2px ` în codul de mai sus înseamnă 2 pixeli. Ce se întâmplă când schimbi `2px solid black` cu `4px dotted red`?
+    `2px` în codul de mai sus înseamnă 2 pixeli. Ce se întâmplă când schimbi `2px solid black` cu `4px dotted red`?
 
-+ Modifică lățimea ` ` afișului la ` 400px `. Ce se întâmplă cu afișul?
++ Modifică lățimea (`width`) afișului la `400px`. Ce se întâmplă cu afișul?
 
-+ Să adăugăm câteva elemente CSS pentru a seta culoarea de fundal a afișului. Du-te la sfârșitul liniei 5 a codului tău și apăsă Enter, astfel încât vei avea o nouă linie goală.
++ Să adăugăm câteva elemente CSS pentru a seta culoarea de fundal a afișului. Mergi la sfârșitul liniei 5 a codului tău și apăsă Enter, astfel încât vei avea o nouă linie goală.
     
     ![captură de ecran](images/wanted-newline.png)
     
