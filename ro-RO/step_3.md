@@ -1,8 +1,8 @@
-Provocare
+\--- challenge \---
 
-## Provocare: îmbunătățirea afișului
+## Provocare: Îmbunătățirea afișului
 
-Adaugă următoarea proprietate CSS la stilizarea elementului ` div `:
+Adaugă următoarea proprietate CSS la stilizarea elementului `div`:
 
     border-radius: 40px;
     
