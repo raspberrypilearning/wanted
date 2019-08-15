@@ -13,7 +13,7 @@ Să îmbunătățim imaginea din afiș.
     
     ![captură de ecran](images/wanted-img-css.png)
 
-+ Acum putem adăuga (între acolade) proprietăți CSS pentru imagini.
++ Acum putem adăuga între acolade proprietăți CSS pentru imagini.
     
     Poți adăuga, de exemplu, următorul cod pentru a stabili lățimea imaginii:
     
@@ -42,4 +42,4 @@ Să îmbunătățim imaginea din afiș.
     
     ![captură de ecran](images/wanted-img-padding.png)
     
-    Ce crezi că s-ar întâmpla dacă ai schimba padding-ul la ` 50px `?
+    Ce crezi că s-ar întâmpla dacă ai schimba padding-ul la `50px`?
