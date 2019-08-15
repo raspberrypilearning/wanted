@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Provocare: îmbunătățirea unei imagini
+## Provocare: Îmbunătățirea imaginii tale
 
 Îi poți da imaginii o culoare de fundal? Sau o margine rotunjită?
 
