@@ -81,8 +81,8 @@ Acest proiect acoperă elemente din următoarele domenii ale [Raspberry Pi Digit
 
 ## Resursele liderului de club
 
-* [.zip file containing all completed project resources](resources/wanted-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/ebeb56398a)
+* [fișier .zip care conține toate resursele proiectului, completate](resources/wanted-volunteer-resources.zip)
+* [Proiect Trinket online, completat](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
 * [twanted-finished/robot.png](resources/twanted-finished-robot.png)
