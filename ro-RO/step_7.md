@@ -2,7 +2,7 @@
 
 ## Provocare: Fă-ți afișul și mai grozav!
 
-Adăugă mai mult cod CSS pentru a infrumuseța textul din subtitlurile (incadrate in heading-ul `<h3>`) și din paragrafele afișului.
+Adăugă mai mult cod CSS pentru a infrumuseța textul din subtitlurile `<h3>` și din paragrafele afișului.
 
 ![captură de ecran](images/wanted-final.png)
 
