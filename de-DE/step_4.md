@@ -2,9 +2,9 @@
 
 Lass uns den Stil des Posterbilds verbessern.
 
-+ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
++ Derzeit gibt es keine CSS Eigenschaften für dein `<img>` Tag, lass uns also einige hinzufügen!
     
-    Firstly, add the following code underneath the CSS for your div:
+    Als Erstes, füge den folgenden Code unterhalb des CSS für dein div hinzu:
     
         img {
         
@@ -13,33 +13,33 @@ Lass uns den Stil des Posterbilds verbessern.
     
     ![Screenshot](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the curly brackets.
++ Wir können jetzt die CSS Eigenschaften für Bilder zwischen geschweiften Klammern setzen.
     
-    For example, add this code between the curly brackets to set the width of the image:
+    Zum Beispiel: Füge diesen Code zwischen die geschweiften Klammern ein, um die Bildbreite einzustellen:
     
         width: 100px;
         
     
-    You'll see that the size of the image changes, so that its width is 100 pixels.
+    Du wirst sehen, dass sich die Bildgröße verändern wird, sodass die Bildbreite jetzt 100 Pixel beträgt.
     
     ![Screenshot](images/wanted-img-width.png)
 
-+ You can also add a border around the image with this code:
++ Du kannst auch mit Hilfe dieses Codes einen Rand rund um das Bild machen:
     
         border: 1px solid black;
         
 
-+ Have you noticed that there's not much space between the image and the border?
++ Hast du bemerkt, dass nicht viel Platz zwischen dem Bild und dem Rand besteht?
     
     ![screenshot](images/wanted-img-border.png)
     
-    You can fix this by adding some padding around the image:
+    Du kannst dies beheben, indem du etwas Füllung rund um das Bild einfügst:
     
         padding: 10px;
         
     
-    Padding is the space between the content (in this case an image) and its border.
+    Padding ist der Raum zwischen dem Inhalt (in diesem Fall ein Bild) und dessen Rand.
     
     ![Screenshot](images/wanted-img-padding.png)
     
-    What do you think would happen if you changed the padding to `50px`?
+    Was meinst du wird passieren, wenn du die Füllung zu `50px` veränderst?
