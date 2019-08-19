@@ -20,13 +20,13 @@ In diesem Projekt haben Kinder die Möglichkeit, ihr eigenes CSS zu schreiben. S
 
 Wir empfehlen die Verwendung von [trinket](https://trinket.io/) um online HTML & CSS schreiben zu können. Dieses Projekt enthält folgende Trinkets:
 
-* ['Wanted' starting point -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* ['Wanted' Start -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
 Die Kinder können auch dieses leere Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) verwenden um ihr eigenes HTML & CSS zu schreiben, oder sie können als Alternative dazu dieses Trinket als Vorlage verwenden [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Es gibt auch ein Trinket mit einer Beispiellösung für die Herausforderungen:
 
-* ['Wanted' Finished -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* ['Wanted' Endpunkt -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
 ## Offline-Ressourcen
 
@@ -48,7 +48,7 @@ Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressour
 
 ## Lernziele
 
-* This project gives children the opportunity to write their own CSS to style a webpage.
+* Dieses Projekt gibt Kindern die Möglichkeit, ihr eigenes CSS zu schreiben, um eine Webseite zu gestalten.
 
 Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ab:
 
@@ -56,10 +56,10 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Herausforderungen
 
-* "Improving your poster" - adding new CSS properties to the `div` selector;
-* "Improving your image" - adding new CSS properties to the `img` selector;
-* "Make your poster awesome" - adding new CSS properties and new `h3` and `p` selectors;
-* "Advertise an event" - Writing and editing HTML and CSS code.
+* "Verbessere dein Poster" - füge neue CSS Eigenschaften zum `div` Selektor hinzu;
+* "Verbessere dein Bild" - füge neue CSS Eigenschaften zum `img` Selektor hinzu;
+* "Mach dein Poster noch besser" - füge neue CSS Eigenschaften und neue `h3` und `p` Selektoren hinzu;
+* "Werbung für ein Event" - HTML- und CSS-Code schreiben und bearbeiten.
 
 \--- /collapse \---
 
@@ -70,9 +70,9 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 ## Projektressourcen
 
 * [.zip-Datei mit allen Projektressourcen](resources/wanted-project-resources.zip)
-* [Online Trinket containing all 'Wanted!' project resources](http://jumpto.cc/web-wanted)
+* [Online Trinket mit allen 'Wanted!' Projektressourcen](http://jumpto.cc/web-wanted)
 * [Online Trinket-Vorlage](http://jumpto.cc/trinket-template)
-* [Leeres online-Trinket](http://jumpto.cc/trinket-blank)
+* [Leeres Online-Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [wanted/index.html](resources/wanted-index.html)
