@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: Make your poster awesome!
+## Aufgabe: Lass dein Poster noch cooler aussehen!
 
-Add more CSS code to style your `<h3>` headings and your paragraphs.
+Füge mehr CSS code zu deiner `<h3>` Überschriften und Paragraphen.
 
 ![screenshot](images/wanted-final.png)
 
-Here's a list of some CSS properties you can use:
+Hier ist eine Liste mit CSS Eigenschaften, die du verwenden kannst:
 
     color: black;
     background: white;
