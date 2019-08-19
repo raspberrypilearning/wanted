@@ -1,8 +1,8 @@
-## Styling headings
+## Überschriftsstile
 
-Let's improve the style of the `<h1>` heading.
+Lass uns den Stil von der `<h1>` Überschrift verbessern.
 
-+ Add the following code underneath your image's CSS:
++ Füge den folgenden Code unterhalb des CSS deines Bildes ein:
     
         h1 {
         
