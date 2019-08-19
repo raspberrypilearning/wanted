@@ -8,7 +8,7 @@ Lass uns damit beginnen, den CSS Code für das Poster zu bearbeiten.
     
     ![Screenshot](images/wanted-starter.png)
 
-+ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
++ Klicke auf den “style.css” Reiter. Du wirst sehen, dass es bereits CSS Eigenschaften für `div` gibt, welche die verschiedenen Teile des Posters enthalten.
     
         div {
             text-align: center;
@@ -18,14 +18,14 @@ Lass uns damit beginnen, den CSS Code für das Poster zu bearbeiten.
         }   
         
 
-+ Let's start by altering the `text-align` property:
++ Lass uns damit beginnen, die `text-align` (Textausrichtung) Eigenschaften zu verändern:
     
         text-align: center;
         
     
-    What happens when you change the word `center` to `left` or `right`?
+    Was passiert, wenn du das Wort center `center` (Mitte) zu `left` (links) oder `right` (rechts) änderst?
 
-+ How about the `border` property?
++ Wie sieht es mit der `border` (Rand) Eigenschaft aus?
     
         border: 2px solid black;
         
