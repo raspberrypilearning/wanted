@@ -30,15 +30,15 @@ Lass uns damit beginnen, den CSS Code für das Poster zu bearbeiten.
         border: 2px solid black;
         
     
-    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
+    `2px` in dem Code überhalb bedeutet 2 Pixel. Was passiert, wenn du `2px solid black` (2px durchgehend schwarz) zu `4px dotted red` (4px rot gepunktet) änderst?
 
-+ Change the `width` of the poster to `400px`. What happens to the poster?
++ Ändere die `width` (Posterbreite) zu `400px`. Was geschieht dann mit dem Poster?
 
-+ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
++ Lass uns jetzt CSS hinzufügen, um die Hintergrundfarbe des Posters zu gestalten. Gehe zum Ende der Zeile 5 deines Codes und drücke die Eingabetaste, damit du eine neue, leere Zeile erhältst.
     
     ![Screenshot](images/wanted-newline.png)
     
-    Type the following code on your new blank line:
+    Tippe den folgenden Code in deine neue, leere Zeile ein:
     
         background: yellow;
         
