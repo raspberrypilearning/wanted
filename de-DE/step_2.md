@@ -1,4 +1,4 @@
-## Styling your poster
+## Postergestaltung
 
 Lass uns damit beginnen, den CSS Code für das Poster zu bearbeiten.
 
@@ -43,6 +43,6 @@ Lass uns damit beginnen, den CSS Code für das Poster zu bearbeiten.
         background: yellow;
         
     
-    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
+    Achte darauf, dass du den Code *exakt* so eintippst, wie er oben geschrieben ist. Du solltest jetzt bemerken, dass der Hintergrund von `<div>` nun gelb ist.
     
     ![Screenshot](images/wanted-background.png)
