@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: Improving your poster
+## Herausforderung: Verbessere dein Poster
 
-Add the following CSS property to your `div` style:
+Füge die folgenden CSS Eigenschaften zu deinem `div` Stil hinzu:
 
     border-radius: 40px;
     
 
-What does this property do? What happens if you change the number in the code above?
+Was bewirkt diese Eigenschaft? Was geschieht, wenn du die Zahl in dem Code oben abänderst?
 
 \--- /challenge \---
