@@ -1,6 +1,6 @@
 ## Styling your poster
 
-Let's start by editing the CSS code for the poster.
+Lass uns damit beginnen, den CSS Code für das Poster zu bearbeiten.
 
 + Öffne diesen Trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
