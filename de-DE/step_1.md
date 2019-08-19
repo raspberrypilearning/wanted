@@ -1,6 +1,6 @@
-## Einleitung
+## Einführung
 
-In this project, you'll learn how to make your own poster.
+In diesem Projekt lernst du, wie du dein eigenes Poster gestalten kannst.
 
 ![Screenshot](images/wanted-final.png)
 
@@ -14,7 +14,7 @@ Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche V
 
 ## Einleitung:
 
-In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
+In diesem Projekt haben Kinder die Möglichkeit, ihr eigenes CSS zu schreiben. Sie bearbeiten und schreiben auch CSS-Eigenschaften und Selektoren, um ihr eigenes Poster zu erstellen.
 
 ## Online-Ressourcen
 
