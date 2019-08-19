@@ -82,7 +82,7 @@
 ## Ресурсы для руководителя клуба
 
 * [.zip-файл, содержащий все ресурсы завершённого проекта](resources/wanted-volunteer-resources.zip)
-* [Завершенный проект в trinket (онлайн)](https://trinket.io/html/ebeb56398a)
+* [Завершённый проект в trinket (онлайн)](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
 * [wanted-finished/robot.png](resources/twanted-finished-robot.png)
