@@ -9,31 +9,31 @@ Lass uns den Stil von der `<h1>` Überschrift verbessern.
         }
         
     
-    This is where you'll add CSS properties for your main `<h1>` heading.
+    Hier wirst du die CSS Eigenschaften für deine Hauptüberschrift `<h1>` einfügen.
 
-+ To change the font of your `<h1>` headings, add the following code between the curly brackets:
++ Um die Schriftart deiner `<h1>` Überschriften zu ändern, fügst du den folgenden Code zwischen den geschweiften Klammern ein:
     
         font-family: Impact;
         
 
-+ You can also change the size of the heading:
++ Du kannst auch die Größe deiner Überschrift ändern:
     
         font-size: 50pt;
         
 
-+ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
++ Hast du bemerkt, dass es eine große Lücke zwischen der `<h1>` Überschrift und den Dingen um sie herum gibt?
     
     ![screenshot](images/wanted-h1-margin.png)
     
-    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
+    Dies liegt daran, dass sich um die Überschrift ein Rand befindet. Ein Rand ist der Abstand zwischen einem Element (in diesem Fall der Überschrift) und den anderen Dingen um es herum.
     
-    You can make the margin smaller with this code:
+    Du kannst den Rand mit diesem Code kleiner machen:
     
         margin: 10px;
         
     
     ![Screenshot](images/wanted-h1-margin-small.png)
 
-+ You can also underline your heading:
++ Du kannst die Überschrift auch unterstreichen:
     
         text-decoration: underline;
