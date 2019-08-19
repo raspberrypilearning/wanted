@@ -1,6 +1,6 @@
-## Styling images
+## Bilder gestalten
 
-Let's improve the style of the image in the poster.
+Lass uns den Stil des Posterbilds verbessern.
 
 + At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
     
