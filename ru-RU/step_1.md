@@ -52,7 +52,7 @@
 
 Этот проект затрагивает элементы из следующих глав [Учебного курса по цифровому изготовлению с Raspberry Pi](http://rpf.io/curriculum):
 
-* [Спроектируй 2D и 3D ресурсы](https://www.raspberrypi.org/curriculum/design/creator).
+* [Спроектируйте 2D и 3D ресурсы](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Задачи
 
