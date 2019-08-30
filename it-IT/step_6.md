@@ -23,7 +23,7 @@ Miglioriamo lo stile dell'intestazione `<h1>`.
 
 + Hai notato che c'è molto spazio tra l'intestazione `<h1>` e quello che le sta intorno?
     
-    ![schermata](images/wanted-h1-margin.png)
+    ![schermata](images/wanted-img-padding.png)
     
     Questo succede perché c'è un margine tutto attorno. Un margine è lo spazio tra un elemento (in questo caso un'intestazione) e quelli che lo circondano.
     
@@ -32,7 +32,7 @@ Miglioriamo lo stile dell'intestazione `<h1>`.
         margin: 10px;
         
     
-    ![schermata](images/wanted-h1-margin-small.png)
+    ![schermata](images/wanted-img-padding.png)
 
 + Puoi anche sottolineare la tua intestazione:
     
