@@ -14,15 +14,15 @@ technologies: html-css-javascript
 site_areas: progetti
 hardware: ''
 software: html-css-javascript
-version: 3
+version: 3.0.1
 last_tested: 2017-01-01
 steps:
   - 
     title: Introduzione
   - 
-    title: Dai stile al tuo poster
+    title: Personalizza il tuo poster
   - 
-    title: 'Sfida: Migliorare il tuo poster'
+    title: 'Sfida: Migliora il tuo poster'
   - 
     title: Dai stile alle tue immagini
   - 
