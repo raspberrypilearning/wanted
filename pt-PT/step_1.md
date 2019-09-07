@@ -1,6 +1,6 @@
-## Introduction
+## Introdução
 
-In this project, you'll learn how to make your own poster.
+Neste projeto, vais aprender a fazer seu próprio cartaz.
 
 ![screenshot](images/wanted-final.png)
 
