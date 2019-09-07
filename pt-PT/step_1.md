@@ -4,13 +4,13 @@ Neste projeto, vais aprender a fazer seu próprio cartaz.
 
 ![screenshot](images/wanted-final.png)
 
-### Additional information for club leaders
+### Informações adicionais para os líderes do clube
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/wanted/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Notas para os líderes de clube
 
 ## Introduction:
 
