@@ -38,17 +38,17 @@ Este projeto pode ser [ concluído offline ](https://www.codeclubprojects.org/en
 * wanted/style.css
 * wanted/robot.png
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Também pode encontrar uma versão completa dos desafios deste projeto na seção 'Recursos Voluntários', que contém:
 
 * wanted-finished/index.html
 * wanted-finished/style.css
 * wanted-finished/robot.png
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Todos os recursos acima também são transferíveis como arquivos `.zip` projeto e voluntário.)
 
-## Learning Objectives
+## Objetivos de Aprendizagem
 
-* This project gives children the opportunity to write their own CSS to style a webpage.
+* Este projeto dá às crianças a oportunidade de escrever o seu próprio CSS para estilizar uma página web.
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
