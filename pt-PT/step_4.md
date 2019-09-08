@@ -1,8 +1,8 @@
-## Styling images
+## Estilizar imagens
 
-Let's improve the style of the image in the poster.
+Vamos melhorar o estilo da imagem no cartaz.
 
-+ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
++ De momento, não há nenhuma propriedade CSS para a tua tag `<img>`, então vamos adicionar algumas!
     
     Firstly, add the following code underneath the CSS for your div:
     
