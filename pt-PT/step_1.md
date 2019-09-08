@@ -14,9 +14,9 @@ Se precisar imprimir este projeto, por favor, use a [versão para impressão](ht
 
 ## Introdução:
 
-In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
+Neste projeto, as crianças vāo ter uma oportunidade de escrever o seu próprio CSS. Também irão editar e escrever propriedades e seletores CSS para criar o seu próprio cartaz.
 
-## Online Resources
+## Recursos online
 
 We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
 
