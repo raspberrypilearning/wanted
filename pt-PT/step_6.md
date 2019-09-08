@@ -1,8 +1,8 @@
-## Styling headings
+## Estilizar cabeçalhos
 
-Let's improve the style of the `<h1>` heading.
+Vamos melhorar o estilo do cabeçalho `<h1>`.
 
-+ Add the following code underneath your image's CSS:
++ Adiciona o seguinte código abaixo do CSS da tua imagem:
     
         h1 {
         
