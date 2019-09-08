@@ -20,7 +20,7 @@ Neste projeto, as crianças vāo ter uma oportunidade de escrever o seu próprio
 
 Recomendamos usar [trinket](https://trinket.io/) para escrever HTML & CSS online. Este projeto contém os seguintes trinkets:
 
-* ['Wanted' starting point -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* [Ínicio 'Procurado' - jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
 Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
