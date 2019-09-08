@@ -1,14 +1,14 @@
-## Styling your poster
+## Estilizar o teu cartaz
 
-Let's start by editing the CSS code for the poster.
+Vamos começar por editar o código CSS para o cartaz.
 
-+ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ Abre este trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
-    The project should look like this:
+    O projeto deve-se parecer com isto:
     
     ![screenshot](images/wanted-starter.png)
 
-+ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
++ Clica na aba "style.css". Vais notar que já existem propriedades CSS para `div` contendo as diferentes partes do cartaz.
     
         div {
             text-align: center;
@@ -18,14 +18,14 @@ Let's start by editing the CSS code for the poster.
         }   
         
 
-+ Let's start by altering the `text-align` property:
++ Vamos começar por alterar o alinhamento de texto com a propriedade `text-align`:
     
         text-align: center;
         
     
-    What happens when you change the word `center` to `left` or `right`?
+    O que acontece quando mudas a palavra `center` para `left` ou `right`?
 
-+ How about the `border` property?
++ E quanto á propiedade `border`?
     
         border: 2px solid black;
         
