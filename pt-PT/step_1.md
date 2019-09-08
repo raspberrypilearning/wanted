@@ -1,18 +1,18 @@
 ## Introdução
 
-Neste projeto, vais aprender a fazer seu próprio cartaz.
+Neste projeto, vais aprender a criar o teu próprio cartaz.
 
 ![screenshot](images/wanted-final.png)
 
-### Informações adicionais para os líderes do clube
+### Informações adicionais para os líderes de clube
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/wanted/print).
+Se precisar imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/wanted/print).
 
 ## \--- collapse \---
 
 ## title: Notas para os líderes de clube
 
-## Introduction:
+## Introdução:
 
 In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
 
