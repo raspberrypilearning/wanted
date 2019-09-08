@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improving your image
+## Desafio: Melhorar a tua imagem
 
-Can you give your image a background colour? Or a rounded border?
+Consegues dar uma cor de fundo à tua imagem? Ou uma borda arredondada?
 
-You can find more CSS colour names at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
+Podes encontrar mais nomes de cores CSS em <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colors</a>.
 
 \--- /challenge \---
