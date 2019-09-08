@@ -2,7 +2,7 @@
 
 Neste projeto, vais aprender a criar o teu próprio cartaz.
 
-![screenshot](images/wanted-final.png)
+![captura de ecrã](images/wanted-final.png)
 
 ### Informações adicionais para os líderes de clube
 
