@@ -50,11 +50,11 @@ Também pode encontrar uma versão completa dos desafios deste projeto na seçã
 
 * Este projeto dá às crianças a oportunidade de escrever o seu próprio CSS para estilizar uma página web.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Este projeto abrange elementos das seguintes áreas do [ Curriculo Raspberry Pi Digital Making ](http://rpf.io/curriculum):
 
 * [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Desafios
 
 * "Improving your poster" - adding new CSS properties to the `div` selector;
 * "Improving your image" - adding new CSS properties to the `img` selector;
