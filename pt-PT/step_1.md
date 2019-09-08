@@ -79,9 +79,9 @@ Este projeto abrange elementos das seguintes áreas do [ Curriculo Raspberry Pi 
 * [wanted/style.css](resources/wanted-style.css)
 * [wanted/robot.png](resources/wanted-robot.png)
 
-## Club leader resources
+## Recursos do líder de clube
 
-* [.zip file containing all completed project resources](resources/wanted-volunteer-resources.zip)
+* [Arquivo .zip contendo todos os recursos do projeto concluídos](resources/wanted-volunteer-resources.zip)
 * [Online completed Trinket project](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
