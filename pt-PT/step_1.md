@@ -56,23 +56,23 @@ Este projeto abrange elementos das seguintes áreas do [ Curriculo Raspberry Pi 
 
 ## Desafios
 
-* "Improving your poster" - adding new CSS properties to the `div` selector;
-* "Improving your image" - adding new CSS properties to the `img` selector;
-* "Make your poster awesome" - adding new CSS properties and new `h3` and `p` selectors;
-* "Advertise an event" - Writing and editing HTML and CSS code.
+* "Melhorar o teu cartaz" - adicionando novas propriedades CSS ao seletor `div`;
+* "Melhorar a tua imagem" - adicionando novas propriedades CSS ao seletor `img`;
+* "Torna o teu cartaz incrível" - adicionando novas propriedades CSS e novos seletores `h3` e `p`;
+* "Anuncia um evento" - Escrevendo e editando código HTML e CSS.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiais do projeto
 
-## Project resources
+## Recursos do projeto
 
-* [.zip file containing all project resources](resources/wanted-project-resources.zip)
-* [Online Trinket containing all 'Wanted!' project resources](http://jumpto.cc/web-wanted)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [Arquivo .zip contendo todos os recursos do projeto](resources/wanted-project-resources.zip)
+* [Trinket on-line contendo todos os recursos do projeto 'Procurado!'](http://jumpto.cc/web-wanted)
+* [Trinket modelo on-line](http://jumpto.cc/trinket-template)
+* [Trinket em branco on-line](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [wanted/index.html](resources/wanted-index.html)
