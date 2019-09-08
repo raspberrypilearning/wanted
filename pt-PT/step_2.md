@@ -6,7 +6,7 @@ Vamos começar por editar o código CSS para o cartaz.
     
     O projeto deve-se parecer com isto:
     
-    ![screenshot](images/wanted-starter.png)
+    ![captura de ecrã](images/wanted-starter.png)
 
 + Clica na aba "style.css". Vais notar que já existem propriedades CSS para `div` contendo as diferentes partes do cartaz.
     
@@ -30,19 +30,19 @@ Vamos começar por editar o código CSS para o cartaz.
         border: 2px solid black;
         
     
-    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
+    `2px` no código acima significa 2 pixels. O que acontece quando mudas `2px sólido preto` para `4px dotted red`?
 
-+ Change the `width` of the poster to `400px`. What happens to the poster?
++ Altera a `largura` do cartaz para `400px`. O que acontece ao cartaz?
 
-+ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
++ Vamos adicionar algum CSS para definir a cor de fundo do cartaz. Vai para o final da linha 5 do teu código e tecla 'enter', para que tenhas uma nova linha em branco.
     
-    ![screenshot](images/wanted-newline.png)
+    ![captura de ecrã](images/wanted-newline.png)
     
-    Type the following code on your new blank line:
+    Digita o seguinte código na tua nova linha em branco:
     
         background: yellow;
         
     
-    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
+    Certifica-te de que digitas o código *exatamente* como ele está acima. Deves notar que o fundo do `<div>` agora é amarelo.
     
-    ![screenshot](images/wanted-background.png)
+    ![captura de ecrã](images/wanted-background.png)
