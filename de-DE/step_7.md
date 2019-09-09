@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Aufgabe: Lass dein Poster noch cooler aussehen!
+## Herausforderung: Lass dein Poster einfach irre aussehen!
 
 Füge mehr CSS code zu deiner `<h3>` Überschriften und Paragraphen.
 
-![screenshot](images/wanted-final.png)
+![Screenshot](images/wanted-final.png)
 
 Hier ist eine Liste mit CSS Eigenschaften, die du verwenden kannst:
 
