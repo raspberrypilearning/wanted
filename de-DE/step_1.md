@@ -1,4 +1,4 @@
-## Einführung
+## Einleitung
 
 In diesem Projekt lernst du, wie du dein eigenes Poster gestalten kannst.
 
@@ -22,9 +22,9 @@ Wir empfehlen die Verwendung von [trinket](https://trinket.io/) um online HTML &
 
 * ['Wanted' Start -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
-Die Kinder können auch dieses leere Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) verwenden um ihr eigenes HTML & CSS zu schreiben, oder sie können als Alternative dazu dieses Trinket als Vorlage verwenden [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Die Kinder können auch dieses leere Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) verwenden, um ihr eigenes HTML & CSS zu schreiben, oder sie können als Alternative dieses Trinket als Vorlage verwenden [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Es gibt auch ein Trinket mit einer Beispiellösung für die Herausforderungen:
+Es gibt auch ein Trinket mit einer Beispiellösung für die Aufgaben:
 
 * ['Wanted' Endpunkt -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
