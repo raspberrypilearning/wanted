@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Aufgabe: Verbessere dein Bild
+## Herausforderung: Verbessere dein Bild
 
 Kannst du deinem Bild eine Hintergrundfarbe geben?
 
