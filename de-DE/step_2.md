@@ -30,9 +30,9 @@ Lass uns damit beginnen, den CSS Code für das Poster zu bearbeiten.
         border: 2px solid black;
         
     
-    `2px` in dem Code überhalb bedeutet 2 Pixel. Was passiert, wenn du `2px solid black` (2px durchgehend schwarz) zu `4px dotted red` (4px rot gepunktet) änderst?
+    `2px` in dem obigen Code bedeutet 2 Pixel. Was passiert, wenn du `2px solid black` (2px durchgehend schwarz) zu `4px dotted red` (4px gepunktet rot) änderst?
 
-+ Ändere die `width` (Posterbreite) zu `400px`. Was geschieht dann mit dem Poster?
++ Ändere die `width` (Breite) zu `400px`. Was geschieht dann mit dem Poster?
 
 + Lass uns jetzt CSS hinzufügen, um die Hintergrundfarbe des Posters zu gestalten. Gehe zum Ende der Zeile 5 deines Codes und drücke die Eingabetaste, damit du eine neue, leere Zeile erhältst.
     
