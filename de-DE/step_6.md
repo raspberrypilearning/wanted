@@ -1,4 +1,4 @@
-## Überschriftsstile
+## Überschriften gestalten
 
 Lass uns den Stil von der `<h1>` Überschrift verbessern.
 
@@ -23,7 +23,7 @@ Lass uns den Stil von der `<h1>` Überschrift verbessern.
 
 + Hast du bemerkt, dass es eine große Lücke zwischen der `<h1>` Überschrift und den Dingen um sie herum gibt?
     
-    ![screenshot](images/wanted-h1-margin.png)
+    ![Screenshot](images/wanted-h1-margin.png)
     
     Dies liegt daran, dass sich um die Überschrift ein Rand befindet. Ein Rand ist der Abstand zwischen einem Element (in diesem Fall der Überschrift) und den anderen Dingen um es herum.
     
