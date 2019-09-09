@@ -54,7 +54,7 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 * [Entwurf von grundlegenden 2D- and 3D-Konstruktionen](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Herausforderungen
+## Aufgaben
 
 * "Verbessere dein Poster" - füge neue CSS Eigenschaften zum `div` Selektor hinzu;
 * "Verbessere dein Bild" - füge neue CSS Eigenschaften zum `img` Selektor hinzu;
@@ -81,7 +81,7 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Ressourcen für Clubleiter
 
-* [.zip-Datei mit allen fertig gestellten Projektressourcen](resources/wanted-volunteer-resources.zip)
+* [.zip-Datei mit allen fertiggestellten Projektressourcen](resources/wanted-volunteer-resources.zip)
 * [Vollständiges Trinket-Projekt (online)](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
