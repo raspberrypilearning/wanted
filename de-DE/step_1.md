@@ -58,7 +58,7 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 * "Verbessere dein Poster" - füge neue CSS Eigenschaften zum `div` Selektor hinzu;
 * "Verbessere dein Bild" - füge neue CSS Eigenschaften zum `img` Selektor hinzu;
-* "Mach dein Poster noch besser" - füge neue CSS Eigenschaften und neue `h3` und `p` Selektoren hinzu;
+* "Lass dein Poster einfach irre aussehen!" - füge neue CSS Eigenschaften und neue `h3` und `p` Selektoren hinzu;
 * "Werbung für ein Event" - HTML- und CSS-Code schreiben und bearbeiten.
 
 \--- /collapse \---
