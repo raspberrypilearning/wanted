@@ -13,7 +13,7 @@ Lass uns den Stil des Posterbilds verbessern.
     
     ![Screenshot](images/wanted-img-css.png)
 
-+ Wir können jetzt die CSS Eigenschaften für Bilder zwischen geschweiften Klammern setzen.
++ Wir können jetzt die CSS Eigenschaften für Bilder zwischen den geschweiften Klammern setzen.
     
     Zum Beispiel: Füge diesen Code zwischen die geschweiften Klammern ein, um die Bildbreite einzustellen:
     
