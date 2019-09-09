@@ -31,7 +31,7 @@ Lass uns den Stil des Posterbilds verbessern.
 
 + Hast du bemerkt, dass nicht viel Platz zwischen dem Bild und dem Rand besteht?
     
-    ![screenshot](images/wanted-img-border.png)
+    ![Screenshot](images/wanted-img-border.png)
     
     Du kannst dies beheben, indem du etwas Füllung rund um das Bild einfügst:
     
