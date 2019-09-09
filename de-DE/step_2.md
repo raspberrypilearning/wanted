@@ -1,4 +1,4 @@
-## Postergestaltung
+## Gestalte dein Poster
 
 Lass uns damit beginnen, den CSS Code für das Poster zu bearbeiten.
 
