@@ -6,7 +6,7 @@
 
 ### معلومات إضافية لقادة النادي
 
-إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [Printer friendly version](https://projects.raspberrypi.org/en/projects/wanted/print).
+إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [النسخة القابلة للطباعة](https://projects.raspberrypi.org/en/projects/wanted/print).
 
 ## \--- collapse \---
 
