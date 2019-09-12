@@ -4,7 +4,7 @@
 
 Füge mehr CSS code zu deiner `<h3>` Überschriften und Paragraphen.
 
-![Screenshot](images/wanted-final.png)
+![bildschirmfoto](images/wanted-final.png)
 
 Hier ist eine Liste mit CSS Eigenschaften, die du verwenden kannst:
 
