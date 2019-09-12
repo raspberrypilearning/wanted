@@ -27,7 +27,7 @@ Die Kinder können auch dieses leere Trinket [(jumpto.cc/html-blank)](http://jum
 
 Es gibt auch ein Trinket mit einer Beispiellösung für die Herausforderungen:
 
-* ['Wanted' Endpunkt -- trinket.io/html/720a92abfc](https://trinket.io/html/720a92abfc)
+* ['Wanted' Endpunkt -- trinket.io/html/f8c735b699](https://trinket.io/html/f8c735b699)
 
 ## Offline-Ressourcen
 
@@ -84,7 +84,7 @@ title: Projektmaterial
 ## Ressourcen für Clubleiter
 
 * [.zip-Datei mit allen fertiggestellten Projektressourcen](resources/wanted-volunteer-resources.zip)
-* [Vollständiges Trinket-Projekt (online)](https://trinket.io/html/720a92abfc)
+* [Vollständiges Trinket-Projekt (online)](https://trinket.io/html/f8c735b699)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
 * [twanted-finished/robot.png](resources/twanted-finished-robot.png)

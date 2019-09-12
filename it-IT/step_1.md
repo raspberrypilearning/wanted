@@ -21,7 +21,7 @@ In questo progetto i ragazzi potranno scrivere il proprio CSS. Potranno anche mo
 
 Consigliamo di usare un [trinket](https://trinket.io/) per scrivere in HTML & CSS online. Questo progetto contiene i seguenti trinket:
 
-* [Punto di partenza 'Wanted' -- http://trinket.io/html/7c6760e4d1](http://http://trinket.io/html/7c6760e4d1)
+* [Punto di partenza 'Wanted' -- http://trinket.io/html/7c6760e4d1](http://trinket.io/html/7c6760e4d1)
 
 I ragazzi possono anche usare questo trinket vuoto [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) per scrivere liberamente in HTML e CSS, oppure possono usare questo modello [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
