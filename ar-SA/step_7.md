@@ -1,25 +1,23 @@
 --- challenge ---
-## التحدي: اجعل ملصقك يبدو مثيرًا للاهتمام!
-أضف المزيد من تعليمات CSS البرمجية لتحديد أنماط لعناوين وفقرات الوسم `<h3>`. 
 
-![screenshot](images/wanted-final.png)
+## التحدي: اجعل ملصقك يبدو رائعاً!
 
-إليك قائمة ببعض خصائص CSS التي يمكنك استخدامها:
+أضف المزيد من كود CSS لتصميم عناوينك `<h3>` وفقراتك.
 
-```
-;color: black
-;background: white
-:font-family Arial / Comic Sans MS / Courier / Impact / Tahoma;‎
-:font-size 12pt;‎
-font-weight: bold;‎
-;text-decoration: underline overline line-through
-:margin 10px;‎
-:padding 10px;‎
-:width 100px;‎
-height: 100px;‎
-```
+![لقطة شاشة](images/wanted-final.png)
 
+فيما يلي قائمة ببعض خصائص CSS التي يمكنك استخدامها:
 
+    اللون: اسود;
+    الخلفية: بيضاء;
+    مجموعة الخطوط: Arial / Comic Sans MS / Courier / Impact / Tahoma;
+    حجم الخط: 12pt;
+    غمق الخط: bold;
+    زخرفة النص: underline overline line-through;
+    الهامش: 10px;
+    الحشوة: 10px;
+    العرض: 100px;
+    الارتفاع: 100px;
+    
 
-
---- /challenge ---
+--- challenge/ ---

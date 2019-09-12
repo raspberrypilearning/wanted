@@ -1,10 +1,9 @@
 --- challenge ---
-## التحدي: حسِّن شكل الصورة
-هل يمكنك تعيين لون خلفية للصورة؟ أو زوايا مستديرة؟
 
-يمكنك العثور على المزيد من أسماء الألوان في CSS على <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
+## التحدي: تحسين شكل الصورة
 
+هل يمكنك إعطاء صورتك لون خلفية؟ أو حدود مدورة؟
 
-
+يمكنك العثور على المزيد من أسماء ألوان CSS على <a href="http://jumpto.cc/colours" target="_blank"> jumpto.cc/colours </a>.
 
 --- /challenge ---

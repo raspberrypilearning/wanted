@@ -1,76 +1,77 @@
 ## المقدمة
 
-في هذا المشروع، ستتعلم كيف تصنع ملصقًا من ابتكارك!
+في هذا المشروع ، سوف تتعلم كيف تصنع الملصق الخاص بك.
 
-![screenshot](images/wanted-final.png)
+![لقطة شاشة](images/wanted-final.png)
 
 ### معلومات إضافية لقادة النادي
 
-إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [نسخة سهلة الطباعة](https://projects.raspberrypi.org/ar-SA/projects/wanted/print).
-
+إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [النسخة القابلة للطباعة](https://projects.raspberrypi.org/en/projects/wanted/print).
 
 --- collapse ---
 ---
-title: ملاحظات قادة النادي
+## title: ملاحظات قائد النادي
 ---
+## مقدمة:
 
-
-## المقدمة:
-في هذا المشروع، سيحظى الأطفال بفرصة لكتابة تعليمات CSS البرمجية التي يريدونها. كما سيكتبون خصائص CSS ومحدداتها ويحرِّرونها لصناعة ملصقات من ابتكارهم.
+في هذا المشروع ، ستتاح الفرصة للأطفال لكتابة CSS الخاص بهم. سيقومون أيضًا بتعديل وكتابة خصائص ومحددات CSS لإنشاء ملصق خاص بهم.
 
 ## الموارد المتوفرة على الإنترنت
 
-نوصي باستخدام [trinket](https://trinket.io/) لكتابة ملفات HTML وCSS على الإنترنت. يحتوي هذا المشروع على ملفات trinket التالية:
+لكتابة ملفات HTML & CSS نوصي بإستخدام [trinket](https://trinket.io/). يحتوي هذا المشروع على ملفات trinket التالية:
 
-+ ['مطلوب' مشروع البدء -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* ["مطلوب" نقطة البداية -- trinket.io/html/6f20d619b8](https://trinket.io/html/6f20d619b8)
 
-يمكن أن يستخدم الأطفال أيضًا ملف trinket الفارغ هذا [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) لكتابة ملفات HTML و CSS، أو يمكنهم استخدام قالب trinket هذا [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+يمكن أن يستخدم الأطفال أيضًا ملف trinket الفارغ هذا [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) لكتابة ملفات HTML الخاصة بهم و & CSS، أو يمكنهم استخدام قالب trinket هذا [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-كما يوجد مشروع trinket يحتوي على نموذج حل للتحديات:
+كما يوجد مشروع trinket يحتوي على نموذج حلول للتحديات:
 
-+ [مشروع 'مطلوب' مُكتمل -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* ["مطلوب" انتهى - trinket.io/html/720a92abfc](https://trinket.io/html/720a92abfc)
 
 ## الموارد المتوفرة دون اتصال بالإنترنت
-بالنسبة إلى هذا المشروع، يمكن [إكماله دون اتصال بالإنترنت](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) إذا كنت تفضل ذلك. يمكنك الوصول إلى موارد المشروع من خلال النقر فوق رابط "مواد المشروع" الخاص بهذا المشروع. يحتوي هذا الرابط على قسم "موارد المشروع"، الذي يتضمن الموارد التي يحتاج إليها الأطفال لإكمال هذا المشروع دون اتصال بالإنترنت. تأكد من أن كل طفل لديه حق الوصول إلى نسخة من هذه الموارد. يتضمن هذا القسم الملفات التالية:
 
-+ template/index.html
-+ template/style.css
-+ wanted/index.html
-+ wanted/style.css
-+ wanted/robot.png
+هذا المشروع يمكن [إكماله دون اتصال بالإنترنت](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) إذا كنت تفضل ذلك. يمكنك الوصول إلى موارد المشروع من خلال النقر فوق رابط "مواد المشروع" الخاص بهذا المشروع. يحتوي هذا الرابط على قسم "موارد المشروع"، الذي يتضمن الموارد التي يحتاج إليها الأطفال لإكمال هذا المشروع من دون اتصال بالإنترنت. تأكد من أن كل طفل لديه إمكانية الوصول إلى نسخة من هذه الموارد. يتضمن هذا القسم الملفات التالية:
 
-يمكنك أيضًا العثور على نسخة كاملة من تحديات هذا المشروع في قسم "موارد المتطوعين" الذي يحتوي على:
+* template/index.html
+* template/style.css
+* wanted/index.html
+* wanted/style.css
+* wanted/robot.png
 
-+ wanted-finished/index.html
-+ wanted-finished/style.css
-+ wanted-finished/robot.png
+يمكنك أيضاً العثور على نسخة كاملة من تحديات هذا المشروع في قسم "موارد المتطوعين" الذي يحتوي على:
 
-(جميع الموارد المذكورة أعلاه قابلة للتنزيل أيضًا كملفات `.zip` للمشاريع والمتطوعين).
+* wanted-finished/index.html
+* wanted-finished/style.css
+* wanted-finished/robot.png
+
+(جميع الموارد المذكورة أعلاه قابلة للتنزيل أيضًا كملفات `.zip` للمشاريع والمتطوعين)
 
 ## أهداف التعلم
-+ يمنح هذا المشروع فرصةً للأطفال لكتابة تعليمات CSS البرمجية التي يريدونها لتحديد أنماط صفحة الويب.
 
-يتناول هذا المشروع عناصر من الصفوف التالية من [المناهج الرقمية الخاصة بـ Raspberry Pi](http://rpf.io/curriculum):
+* يتيح هذا المشروع للأطفال الفرصة لكتابة CSS الخاص بهم لتصميم صفحة ويب.
 
-+ [الأصول الأساسية للتصميمات ثنائية الأبعاد وثلاثية الأبعاد](https://www.raspberrypi.org/curriculum/design/creator).
+يتناول هذا المشروع عناصر من الصفوف التالية من المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
 
-## التحديات:
-+ "حسِّن شكل الملصق" - إضافة خصائص CSS جديدة إلى محدِّد `div`؛
-+ "حسِّن شكل الصورة" - إضافة خصائص CSS جديدة إلى محدِّد `img`؛
-+ "اجعل ملصقك يبدو مثيرًا للاهتمام" - إضافة خصائص CSS جديدة ومحددات `h3` و`p` جديدة؛
-+ "أَعلِن عن حدث" - كتابة تعليمات HTML وCSS البرمجية وتحريرها.
+* [التصاميم الأساسية لنماذج ثنائية وثلاثية الأبعاد.](https://www.raspberrypi.org/curriculum/design/creator).
 
+## التحديات
+
+* "تحسين الملصق الخاص بك" - إضافة خصائص CSS جديدة إلى `div` المحدد;
+* "تحسين الصورة الخاصة بك" - إضافة خصائص CSS جديدة إلى `img` المحدد;
+* "اجعل الملصق رائعًا" - إضافة خصائص CSS جديدة و `h3` و`p` محددات;
+* "الإعلان عن حدث" - كتابة وتحرير كود HTML و CSS.
 
 --- /collapse ---
-
 
 --- collapse ---
 ---
 title: مواد المشروع
 ---
+
 ## موارد المشروع
-* [ملف .zip يحتوي على كل موارد المشروع](resources/wanted-project-resources.zip)
-* [Trinket عبر الإنترنت يحتوي على كل موارد المشروع 'مطلوب!'](http://jumpto.cc/web-wanted)
+
+* [ملف.zip يحتوي على جميع مصادر المشروع](resources/wanted-project-resources.zip)
+* [ملف Trinket عبر الإنترنت يحتوي على كل موارد المشروع 'المطلوبة!'](https://trinket.io/html/6f20d619b8)
 * [قالب Trinket عبر الإنترنت](http://jumpto.cc/trinket-template)
 * [Trinket فارغ عبر الإنترنت](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
@@ -80,10 +81,11 @@ title: مواد المشروع
 * [wanted/robot.png](resources/wanted-robot.png)
 
 ## موارد قادة النادي
-* [ملف .zip يحتوي على كل موارد المشاريع المكتملة](resources/wanted-volunteer-resources.zip)
-* [مشروع Trinket المكتمل على الإنترنت](https://trinket.io/html/ebeb56398a)
+
+* [ملف.zip يحتوي على جميع موارد المشروع المكتملة](resources/wanted-volunteer-resources.zip)
+* [مشروع Trinket المكتمل على الإنترنت](https://trinket.io/html/720a92abfc)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
-* [twanted-finished/robot.png](resources/twanted-finished-robot.png)
+* [wanted-finished/robot.png](resources/twanted-finished-robot.png)
 
 --- /collapse ---
