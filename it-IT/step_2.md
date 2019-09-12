@@ -1,52 +1,48 @@
-## Dai stile al tuo poster
+## Personalizza il tuo poster
 
-Iniziamo a modificare il codice CSS del poster.
+Iniziamo modificando il codice CSS del poster.
 
-+ Apri questo trinket: <a href="http://jumpto.cc/web-wanted" target="_blank">jumpto.cc/web-wanted</a>.
++ Apri questo trinket: <a target="_blank" href="https://trinket.io/html/7c6760e4d1">trinket.io/html/7c6760e4d1</a>.
+    
+    Il progetto dovrebbe assomigliare a questo:
+    
+    ![schermata](images/wanted-starter.png)
 
-	Il progetto dovrebbe apparire così:
++ Fai clic sulla scheda "style.css". Noterai che esistono già delle proprietà CSS per il `div` che contiene le diverse parti del poster.
+    
+        div {
+            text-align: center;
+            overflow: hidden;
+            border: 2px solid black;
+            width: 300px;
+        }   
+        
 
-	![screenshot](images/wanted-starter.png)
++ Inizia modificando la proprietà `text-align`:
+    
+        text-align: center;
+        
+    
+    Che succede quando cambi la parola `center` in `left` o `right`?
 
-+ Clicca sul tab "style.css". Noterai che ci sono già proprietà CSS per il 'div' contenente le diverse parti del poster.
++ Proviamo con la proprietà `border`?
+    
+        border: 2px solid black;
+        
+    
+    `2px` nel codice qui sopra significa 2 pixel. Cosa succede cambiando `2px solid black` in `4px dotted red`?
 
-	```
-	div {
-		text-align: center;
-	    overflow: hidden;
-	    border: 2px solid black;
-	    width: 300px;
-    }
-	```
++ Porta la `width` del poster a `400px`. Cosa succede al poster?
 
-+ Iniziamo ad alterare la proprietà 'text-align' (allineamento del testo):
-
-	```
-	text-align: center;
-	```
-
-	Che succede quando cambi la parola 'center' (centro) a 'left' (sinistra) o 'right' (destra)?
-
-+ E la proprietà 'border' (bordo)?
-
-	```
-	border: 2px solid black;
-	```
-
-	'2px' nel codice sopra significa 2 pixel. Cosa succede quando cambi '2px solid black' (2px nero tinta unita) per '4px dotted red' (4px rosso a puntini)?
-
-+ Cambia la 'width' (larghezza) del poster a '400px'. Cosa succede al poster?
-
-+ Aggiungiamo alcuni CSS per stabilire il colore di sfondo del poster. Vai alla fine della riga 5 del tuo codice e premi il tasto di ritorno, in modo da avere una nuova linea vuota.
-
-	![screenshot](images/wanted-newline.png)
-
-	Digita il seguente codice sulla tua nuova linea vuota:
-
-	```
-	background: yellow;
-	```
-
-	Assicurati di digitare il codice_esattamente_come è sopra. Dovresti notare che lo sfondo del `<div>` è adesso giallo.
-
-	![screenshot](images/wanted-background.png)
++ Aggiungiamo del CSS per impostare il colore dello sfondo del poster. Vai alla fine della riga 5 del codice e premi Invio, così da creare una nuova riga vuota.
+    
+    ![schermata](images/wanted-newline.png)
+    
+    Copia il codice qui sotto nella nuova riga:
+    
+        background: yellow;
+        
+    
+    Assicurati di scrivere il codice *esattamente* come riportato qui sopra. Dovresti notare che lo sfondo del `<div>` è diventato giallo.
+    
+    ![schermata](images/wanted-background.png)

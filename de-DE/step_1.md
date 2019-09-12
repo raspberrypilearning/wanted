@@ -1,47 +1,92 @@
-## Einführung
+## Einleitung
 
-In diesem Projekt lernst du, wie du dein eigenes Poster anfertigen kannst.
+In diesem Projekt lernst du, wie du dein eigenes Poster gestalten kannst.
 
-![screenshot](images/wanted-final.png)
+![Screenshot](images/wanted-final.png)
 
-## Online Ressourcen
+### Zusätzliche Information für Clubleiter
 
-Wir empfehlen [trinket](https://trinket.io/) zu benutzen, um HTML und CSS online zu schreiben. Dieses Projekt enthält die folgenden Trinkets:
+Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche Version](https://projects.raspberrypi.org/de-DE/projects/wanted/print).
 
-+ ['Wanted' starting point -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+--- collapse ---
+---
+title: Anmerkungen für Clubleiter
+---
 
-Die Kinder können auch dieses leere Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) benutzen, um ihr eigenes HTML und CSS zu schreiben, bzw. alternativ können sie dieses Vorlage Trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template) benutzen.
+## Einleitung:
 
-Es gibt auch ein Trinket, dass eine Lösungsvorlage für die Aufgaben enthält:
+In diesem Projekt haben Kinder die Möglichkeit, ihr eigenes CSS zu schreiben. Sie bearbeiten und schreiben auch CSS-Eigenschaften und Selektoren, um ihr eigenes Poster zu erstellen.
 
-+ ['Wanted' Finished -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+## Online-Ressourcen
 
-## Offline Ressourcen
-Dieses Projekt kann [offline fertig gestellt werden](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) , wenn bevorzugt. Zugang zu den Projekt-Ressourcen ist durch das Klicken auf den „Projekt-Materialien“ Link für dieses Projekt möglich. Dieser Link enthält einen Abschnitt über „Projekt-Ressourcen“, die u.a. auch Ressourcen beinhalten, welche die Kinder benötigen, um dieses Projekt offline beenden zu können. Achten Sie darauf, dass jedes Kind Zugang zu einer Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
+Wir empfehlen die Verwendung von [trinket](https://trinket.io/) um online HTML & CSS schreiben zu können. Dieses Projekt enthält folgende Trinkets:
 
-+ template/index.html
-+ template/style.css
-+ wanted/index.html
-+ wanted/style.css
-+ wanted/robot.png
+* ['Wanted' Start -- trinket.io/html/e52d06ba77](https://trinket.io/html/e52d06ba77)
 
-Sie können eine fertig gestellte Version dieses Projekts im Abschnitt „Helfer Ressourcen“ finden, welcher u.a. Folgendes enthält:
+Die Kinder können auch dieses leere Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) verwenden, um ihr eigenes HTML & CSS zu schreiben, oder sie können als Alternative dieses Trinket als Vorlage verwenden [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-+ wanted-finished/index.html
-+ wanted-finished/style.css
-+ wanted-finished/robot.png
+Es gibt auch ein Trinket mit einer Beispiellösung für die Herausforderungen:
 
-(Alle der o.g. Ressourcen können auch als Projekt und Helfer `.zip` Dateien heruntergeladen werden.)
+* ['Wanted' Endpunkt -- trinket.io/html/f8c735b699](https://trinket.io/html/f8c735b699)
+
+## Offline-Ressourcen
+
+Dieses Projekt kann wahlweise auch [offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) durchgeführt werden. Du kannst auf die Projektressourcen zugreifen, indem Du auf den Link "Projektmaterial" für dieses Projekt klickst. Dieser Link enthält einen Abschnitt "Projektressourcen" mit Ressourcen, die die Kinder benötigen, um das Projekt offline abschließen zu können. Stelle sicher, dass jedes Kind Zugriff auf eine Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
+
+* template/index.html
+* template/style.css
+* wanted/index.html
+* wanted/style.css
+* wanted/robot.png
+
+Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressourcen für Freiwillige". Diese enthält:
+
+* wanted-finished/index.html
+* wanted-finished/style.css
+* wanted-finished/robot.png
+
+(Alle oben genannten Ressourcen können auch als `.zip`-Dateien für Projekte und für Freiwillige heruntergeladen werden.)
 
 ## Lernziele
-+ Dieses Projekt bietet Kindern die Gelegenheit, ihr eigenes CSS zu schreiben, um eine Webseite zu gestalten.
 
-Dieses Projekt deckt Elemente aus den folgenden Bereichen des [Raspberry Pi Lehrplans zur digitalen Produktion](http://rpf.io/curriculum):
+* Dieses Projekt gibt Kindern die Möglichkeit, ihr eigenes CSS zu schreiben, um eine Webseite zu gestalten.
 
-+ [Design Grundlagen: 2D und 3D Assets](https://www.raspberrypi.org/curriculum/design/creator).
+Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ab:
 
-## Aufgaben
-+ „Verbessere dein Poster“: Hinzufügen neuer CSS Eigenschaften zum `div` Selektor;
-+ „Verbessere dein Bild“: Hinzufügen neuer CSS Eigenschaften zum `img` Selektor;
-+ „Lass dein Poster „einfach irre“ aussehen“:  Hinzufügen neuer CSS Eigenschaften sowie neuer `h3` und `p` Selektoren;
-+ „Werbung für ein Event produzieren“:  HTML und CSS Code schreiben und bearbeiten.
+* [Entwurf von grundlegenden 2D- and 3D-Konstruktionen](https://www.raspberrypi.org/curriculum/design/creator).
+
+## Herausforderungen
+
+* "Verbessere dein Poster" - füge neue CSS Eigenschaften zum `div` Selektor hinzu;
+* "Verbessere dein Bild" - füge neue CSS Eigenschaften zum `img` Selektor hinzu;
+* "Lass dein Poster einfach irre aussehen!" - füge neue CSS Eigenschaften und neue `h3` und `p` Selektoren hinzu;
+* "Werbung für ein Event" - HTML- und CSS-Code schreiben und bearbeiten.
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Projektmaterial
+---
+
+## Projektressourcen
+
+* [.zip-Datei mit allen Projektressourcen](resources/wanted-project-resources.zip)
+* [Online Trinket mit allen 'Wanted!' Projektressourcen](https://trinket.io/html/e52d06ba77)
+* [Online Trinket-Vorlage](http://jumpto.cc/trinket-template)
+* [Leeres Online-Trinket](http://jumpto.cc/trinket-blank)
+* [template/index.html](resources/template-index.html)
+* [template/style.css](resources/template-style.css)
+* [wanted/index.html](resources/wanted-index.html)
+* [wanted/style.css](resources/wanted-style.css)
+* [wanted/robot.png](resources/wanted-robot.png)
+
+## Ressourcen für Clubleiter
+
+* [.zip-Datei mit allen fertiggestellten Projektressourcen](resources/wanted-volunteer-resources.zip)
+* [Vollständiges Trinket-Projekt (online)](https://trinket.io/html/f8c735b699)
+* [wanted-finished/index.html](resources/wanted-finished-index.html)
+* [wanted-finished/style.css](resources/wanted-finished-style.css)
+* [twanted-finished/robot.png](resources/twanted-finished-robot.png)
+
+--- /collapse ---

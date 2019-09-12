@@ -1,47 +1,92 @@
 ## Introduzione
 
-In questo progetto, imparerai a creare il tuo poster.
+In questo progetto imparerai a creare il tuo poster.
 
-![screenshot](images/wanted-final.png)
+![schermata](images/wanted-final.png)
+
+### Ulteriori informazioni per gli organizzatori dei club
+
+Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/it-IT/projects/wanted/print).
+
+--- collapse ---
+---
+title: Note per i volontari
+---
+
+## Introduzione:
+
+In questo progetto i ragazzi potranno scrivere il proprio CSS. Potranno anche modificare e scrivere proprietà e selettori CSS per creare il proprio poster.
 
 ## Risorse online
 
-Consigliamo di usare [trinket](https://trinket.io/) per scrivere HTML e CSS online. Questo progetto contiene i seguenti trinket:
+Consigliamo di usare un [trinket](https://trinket.io/) per scrivere in HTML & CSS online. Questo progetto contiene i seguenti trinket:
 
-+ ['Wanted' starting point -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* [Punto di partenza 'Wanted' -- http://trinket.io/html/7c6760e4d1](http://trinket.io/html/7c6760e4d1)
 
-I bambini possono anche usare questo trinket vuoto [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) per scrivere il loro HTML e CSS, oppure possono usare questo modello di trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+I ragazzi possono anche usare questo trinket vuoto [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) per scrivere liberamente in HTML e CSS, oppure possono usare questo modello [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 È disponibile anche un trinket con esempi di soluzioni alle sfide:
 
-+ ['Wanted' Finished -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* ['Wanted' completato -- trinket.io/html/c71b415662](https://trinket.io/html/c71b415662)
 
 ## Risorse offline
-Questo progetto può essere [completato offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. È possibile accedere alle risorse del progetto facendo clic sul link "Materiali per il progetto". Il link apre la sezione "Risorse del progetto" che contiene le risorse necessarie ai bambini per completare il progetto offline. È bene assicurarsi che tutti i bambini abbiano accesso a una copia di queste risorse. Questa sezione contiene i seguenti file:
 
-+ template/index.html
-+ template/style.css
-+ wanted/index.html
-+ wanted/style.css
-+ wanted/robot.png
+Se preferite, questo progetto può anche essere [completato offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). È possibile accedere alle risorse del progetto facendo click sul link "Materiali del progetto" relativo a questo progetto. Questo link contiene una sezione "Risorse del progetto", con le risorse necessarie ai ragazzi per completare il progetto offline. Assicuratevi che ogni ragazzo abbia accesso a una copia di queste risorse. Questa sezione include i seguenti file:
 
-Una versione completa delle sfide di questo progetto è presente anche nella sezione "Risorse per i volontari", che contiene:
+* template/index.html
+* template/style.css
+* wanted/index.html
+* wanted/style.css
+* wanted/robot.png
 
-+ wanted-finished/index.html
-+ wanted-finished/style.css
-+ wanted-finished/robot.png
+Potete trovare una possibile soluzione delle sfide di questo progetto nella sezione 'Risorse per i volontari', che contiene:
 
-(Tutte le risorse sopra indicate possono essere scaricate anche come file ".zip" di progetto e di volontario)
+* wanted-finished/index.html
+* wanted-finished/style.css
+* wanted-finished/robot.png
+
+(Tutte le risorse sopracitate, per progetto e volontari, sono anche scaricabili come file `.zip `.)
 
 ## Obiettivi di apprendimento
-+ Questo progetto dà ai bambini l'opportunità di scrivere il loro CSS per personalizzare una pagina web.
 
-Questo progetto copre elementi contenuti nei seguenti filoni di [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+* Questo progetto permette ai ragazzi di scrivere un CSS per modificare l'aspetto di una pagina web.
 
-+ [Progettazione di risorse 2D e 3D di base.](https://www.raspberrypi.org/curriculum/design/creator).
+Questo progetto riguarda elementi trattati in queste sezioni del [Digital Making Curriculum di Raspberry Pi](http://rpf.io/curriculum):
+
+* [Risorse base di progettazione 2D e 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Sfide
-+ "Migliorare il tuo poster" - aggiungere nuove proprietà CSS al selettore `div`;
-+ "Migliorare la tua immagine" - aggiungere nuove proprietà CSS al selettore `img`;
-+ "Rendi bellissimo il tuo poster" - aggiungere nuove proprietà CSS e nuovi selettori `h3` e `p`;
-+ "Pubblicizza un evento" - Scrivere e revisionare il codice HTML e CSS.
+
+* "Migliora il tuo poster" - aggiungendo nuove proprietà CSS al selettore `div`;
+* "Migliora la tua immagine" - aggiungendo nuove proprietà CSS al selettore `img`;
+* "Rendi il tuo poster straordinario" - aggiungendo nuove proprietà CSS e nuovi selettori `h3` e `p`;
+* "Pubblicizza un evento" - Scrivi e modifica il codice HTML e CSS.
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Materiali del progetto
+---
+
+## Risorse del progetto
+
+* [.zip file con tutte le risorse del progetto](resources/wanted-project-resources.zip)
+* [Trinket online contenente tutte le risorse del progetto 'Wanted!'](http://trinket.io/html/7c6760e4d1)
+* [Modello Trinket online](http://jumpto.cc/trinket-template)
+* [Trinket online vuoto](http://jumpto.cc/trinket-blank)
+* [template/index.html](risorse / template-index.html)
+* [template/style.css](resources/template-style.css)
+* [wanted/index.html](resources/wanted-index.html)
+* [wanted/style.css](resources/wanted-style.css)
+* [wanted/robot.png](resources/wanted-robot.png)
+
+## Risorse per gli organizzatori del club
+
+* [File .zip con tutte le risorse del progetto completate](resources/wanted-volunteer-resources.zip)
+* [Trinket online completato](https://trinket.io/html/c71b415662)
+* [wanted-finished/index.html](resources/wanted-finished-index.html)
+* [wanted-finished/style.css](resources/wanted-finished-style.css)
+* [wanted-finished/robot.png](resources/twanted-finished-robot.png)
+
+--- /collapse ---
