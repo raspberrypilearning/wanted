@@ -8,16 +8,16 @@
 
 فيما يلي قائمة ببعض خصائص CSS التي يمكنك استخدامها:
 
-    اللون: اسود;
-    الخلفية: بيضاء;
-    مجموعة الخطوط: Arial / Comic Sans MS / Courier / Impact / Tahoma;
-    حجم الخط: 12pt;
-    غمق الخط: bold;
-    زخرفة النص: underline overline line-through;
-    الهامش: 10px;
-    الحشوة: 10px;
-    العرض: 100px;
-    الارتفاع: 100px;
+    color: black;
+    background: white;
+    font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
+    font-size: 12pt;
+    font-weight: bold;
+    text-decoration: underline overline line-through;
+    margin: 10px;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
     
 
 --- /challenge ---
