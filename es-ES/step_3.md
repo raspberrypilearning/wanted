@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Desafío: mejora tu cartel
+## Desafío: mejora tu póster
 
 Agrega la siguiente propiedad CSS a tu estilo `div`:
 
