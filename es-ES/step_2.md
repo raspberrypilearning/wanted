@@ -1,4 +1,4 @@
-## Diseño de tu cartel
+## Dando estilo a tu póster
 
 Comencemos editando el código CSS para el cartel.
 
