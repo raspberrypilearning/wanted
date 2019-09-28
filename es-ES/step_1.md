@@ -50,11 +50,11 @@ También puede encontrar una versión completa de los desafíos de este proyecto
 
 * Este proyecto les brinda a los niños la oportunidad de escribir su propio CSS para diseñar una página web.
 
-Este proyecto incluye elementos desde los siguientes aspectos del [curríulo de digitalización de Raspberry Pi](http://rpf.io/curriculum):
+Este proyecto incluye elementos de los siguientes aspectos del [Currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum):
 
 * [Diseño de elementos básicos en 2D y 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Retos
+## Desafíos
 
 * "Mejorando tu cartel" - añadiendo nuevas propiedades CSS al selector `div`;
 * "Mejorando tu imagen" - añadiendo nuevas propiedades CSS al selector `img`;
