@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Desafío: ¡Haz tu cartel impresionante!
+## Desafío: ¡Haz tu póster impresionante!
 
-Añada más código CSS para dar estilo a sus encabezados `<h3>` y sus párrafos.
+Añade más código CSS para dar estilo a tus encabezados `<h3>` y tus párrafos.
 
 ![captura de pantalla](images/wanted-final.png)
 
