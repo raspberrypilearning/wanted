@@ -1,4 +1,4 @@
-## Diseño de encabezados
+## Dando estilo a los encabezados
 
 Mejoremos el estilo del encabezado `<h1>`.
 
