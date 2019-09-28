@@ -1,6 +1,6 @@
 ## Introducción
 
-En este proyecto, aprenderás cómo hacer tu propio cartel.
+En este proyecto, aprenderás cómo hacer tu propio póster.
 
 ![captura de pantalla](images/wanted-final.png)
 
@@ -14,7 +14,7 @@ Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://pro
 
 ## Introducción:
 
-En este proyecto, los niños tendrán la oportunidad de escribir su propio CSS. También editarán y escribirán las propiedades y los selectores de CSS para hacer su propio cartel.
+En este proyecto, los niños tendrán la oportunidad de escribir su propio CSS. También editarán y escribirán las propiedades y los selectores de CSS para hacer su propio póster.
 
 ## Recursos en línea
 
@@ -30,7 +30,7 @@ También hay un trinket que contiene una solución de muestra para los desafíos
 
 ## Recursos sin conexión
 
-Este proyecto se puede [completar sin conexión](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si se prefiere. Se puede acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto' en este proyecto. Este enlace contiene una sección de 'Recursos del proyecto', que incluye los recursos que los niños necesitarán para completar este proyecto sin conexión. Asegúrate de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
+Este proyecto se puede [completar sin conexión](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si se prefiere. Puedes acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto' en este proyecto. Este enlace contiene una sección de 'Recursos del proyecto', que incluye los recursos que los niños necesitarán para completar este proyecto sin conexión. Asegúrate de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
 
 * template/index.html
 * template/style.css
@@ -38,7 +38,7 @@ Este proyecto se puede [completar sin conexión](https://www.codeclubprojects.or
 * wanted/style.css
 * wanted/robot.png
 
-También puede encontrar una versión completa de los desafíos de este proyecto en la sección 'Recursos para voluntarios', que contiene:
+También puedes encontrar una versión completa de los desafíos de este proyecto en la sección 'Recursos para voluntarios', que contiene:
 
 * wanted-finished/index.html
 * wanted-finished/style.css
