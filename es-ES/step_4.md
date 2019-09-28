@@ -1,10 +1,10 @@
-## Diseño de las imágenes
+## Dando estilo a las imágenes
 
 Mejoremos el estilo de la imagen en el cartel.
 
 + En este momento, no hay propiedades CSS para tu etiqueta `<img>`, ¡así que vamos a añadir algunas!
     
-    Primero, añade el siguiente código debajo del CSS para su div:
+    Primero, añade el siguiente código debajo del CSS para tu div:
     
         img {
         
