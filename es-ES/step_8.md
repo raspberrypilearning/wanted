@@ -2,6 +2,6 @@
 
 ## Desafío: ¡Anuncia un evento!
 
-¿Puedes hacer un cartel para un evento que ocurra en tu escuela? ¡Podría ser una obra de teatro, un evento deportivo o incluso un cartel publicitario de tu Code Club!
+¿Puedes hacer un póster para un evento que ocurra en tu escuela? ¡Podría ser una obra de teatro, un evento deportivo o incluso un póster anunciando tu Code Club!
 
 \--- /challenge \---
