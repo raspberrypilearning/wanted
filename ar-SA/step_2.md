@@ -2,7 +2,7 @@
 
 لنبدأ بتحرير كود CSS للملصق.
 
-+ افتح مشروع trinket هذا: <a target="_blank" href="https://trinket.io/html/6f20d619b8">trinket.io/html/6f20d619b8</a>.
++ افتح مشروع trinket هذا: <a target="_blank" href="https://trinket.io/html/47b9317b6f">trinket.io/html/47b9317b6f</a>.
     
     يجب أن يبدو المشروع مثل هذا:
     
