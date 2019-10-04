@@ -20,13 +20,13 @@ title: ملاحظات قائد النادي
 
 لكتابة ملفات HTML & CSS نوصي بإستخدام [trinket](https://trinket.io/). يحتوي هذا المشروع على ملفات trinket التالية:
 
-* ["مطلوب" نقطة البداية -- https://trinket.io/html/6f20d619b8](https://trinket.io/html/6f20d619b8)
+* ["مطلوب" نقطة البداية -- https://trinket.io/html/47b9317b6f](https://trinket.io/html/47b9317b6f)
 
 يمكن أن يستخدم الأطفال أيضًا ملف trinket الفارغ هذا [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) لكتابة ملفات HTML الخاصة بهم و & CSS، أو يمكنهم استخدام قالب trinket هذا [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 كما يوجد مشروع trinket يحتوي على نموذج حلول للتحديات:
 
-* ["مطلوب" انتهى - trinket.io/html/720a92abfc](https://trinket.io/html/720a92abfc)
+* ["مطلوب" انتهى - trinket.io/html/b9784d48d0](https://trinket.io/html/b9784d48d0)
 
 ## الموارد المتوفرة دون اتصال بالإنترنت
 
@@ -56,7 +56,7 @@ title: ملاحظات قائد النادي
 
 ## التحديات
 
-* "تحسين الملصق الخاص بك" - إضافة خصائص CSS جديدة إلى ` div ` المحدد;
+* "تحسين الملصق الخاص بك" - إضافة خصائص CSS جديدة إلى `div` المحدد;
 * "تحسين الصورة الخاصة بك" - إضافة خصائص CSS جديدة إلى `img` المحدد;
 * "اجعل الملصق رائعًا" - إضافة خصائص CSS جديدة و `h3` و`p` محددات;
 * "الإعلان عن حدث" - كتابة وتحرير كود HTML و CSS.
@@ -71,7 +71,7 @@ title: مواد المشروع
 ## موارد المشروع
 
 * [ملف.zip يحتوي على جميع مصادر المشروع](resources/wanted-project-resources.zip)
-* [ملف Trinket عبر الإنترنت يحتوي على كل موارد المشروع 'المطلوبة!'](http://trinket.io/html/6f20d619b8)
+* [ملف Trinket عبر الإنترنت يحتوي على كل موارد المشروع 'المطلوبة!'](http://trinket.io/html/47b9317b6f)
 * [قالب Trinket عبر الإنترنت](http://jumpto.cc/trinket-template)
 * [Trinket فارغ عبر الإنترنت](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
@@ -83,7 +83,7 @@ title: مواد المشروع
 ## موارد قادة النادي
 
 * [ملف.zip يحتوي على جميع موارد المشروع المكتملة](resources/wanted-volunteer-resources.zip)
-* [مشروع Trinket المكتمل على الإنترنت](https://trinket.io/html/720a92abfc)
+* [مشروع Trinket المكتمل على الإنترنت](https://trinket.io/html/b9784d48d0)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
 * [wanted-finished/robot.png](resources/twanted-finished-robot.png)
