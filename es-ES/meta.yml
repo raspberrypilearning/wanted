@@ -18,10 +18,10 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - title: Introducción
-  - title: Dar estilo a tu póster
-  - title: 'Reto: Mejorar tu póster'
-  - title: Dar estilo a las imágenes
-  - title: 'Reto: Mejorar tu imagen'
-  - title: Dar estilo a los encabezados
-  - title: 'Reto: ¡Haz que tu póster sea impresionante!'
-  - title: 'Reto: ¡Anuncia un evento!'
+  - title: Dando estilo a tu póster
+  - title: 'Desafío: mejora tu póster'
+  - title: Dando estilo a las imágenes
+  - title: 'Desafío: mejora tu imagen'
+  - title: Dando estilo a los encabezados
+  - title: 'Desafío: ¡Haz tu póster impresionante!'
+  - title: 'Desafío: ¡Anuncia un evento!'
