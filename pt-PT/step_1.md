@@ -14,13 +14,13 @@ Se precisar imprimir este projeto, por favor, use a [versão para impressão](ht
 
 ## Introdução:
 
-Neste projeto, as crianças vāo ter uma oportunidade de escrever o seu próprio CSS. Também irão editar e escrever propriedades e seletores CSS para criar o seu próprio cartaz.
+Neste projeto, as crianças vão ter uma oportunidade de escrever o seu próprio CSS. Também irão editar e escrever propriedades e seletores CSS para criar o seu próprio cartaz.
 
 ## Recursos online
 
 Recomendamos usar [trinket](https://trinket.io/) para escrever HTML & CSS online. Este projeto contém os seguintes trinkets:
 
-* [Ínicio 'Procurado' - jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* [Início 'Procurado' - jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
 As crianças podem também usar este trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever o seu próprio HTML & CSS, ou alternativamente podem usar este trinket de modelo [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
@@ -30,7 +30,7 @@ Há também um trinket que contém uma amostra de solução para os desafios:
 
 ## Recursos offline
 
-Este projeto pode ser [ concluído offline ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) se preferires. Pode aceder aos recursos do projeto clicando no link 'Materiais de Projeto' deste projeto. Este link contém uma seção 'Recursos do projeto', que inclui recursos que as crianças precisam para concluir este projeto offline. Certifique-se de que cada criança tem acesso a uma cópia destes recursos. Esta seção inclui os seguintes arquivos:
+Este projeto pode ser [ concluído offline ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) se preferires. Pode aceder aos recursos do projeto clicando no link 'Materiais de Projeto' deste projeto. Este link contém uma secção 'Recursos do projeto', que inclui recursos que as crianças precisam para concluir este projeto offline. Certifique-se de que cada criança tem acesso a uma cópia destes recursos. Esta secção inclui os seguintes arquivos:
 
 * template/index.html
 * template/style.css
@@ -38,7 +38,7 @@ Este projeto pode ser [ concluído offline ](https://www.codeclubprojects.org/en
 * wanted/style.css
 * wanted/robot.png
 
-Também pode encontrar uma versão completa dos desafios deste projeto na seção 'Recursos Voluntários', que contém:
+Também pode encontrar uma versão completa dos desafios deste projeto na secção 'Recursos Voluntários', que contém:
 
 * wanted-finished/index.html
 * wanted-finished/style.css
@@ -50,9 +50,9 @@ Também pode encontrar uma versão completa dos desafios deste projeto na seçã
 
 * Este projeto dá às crianças a oportunidade de escrever o seu próprio CSS para estilizar uma página web.
 
-Este projeto abrange elementos das seguintes áreas do [ Curriculo Raspberry Pi Digital Making ](http://rpf.io/curriculum):
+Este projeto abrange elementos das seguintes áreas do [ Currículo Raspberry Pi Digital Making ](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [ Projetar ativos 2D e 3D básicos ](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Desafios
 
