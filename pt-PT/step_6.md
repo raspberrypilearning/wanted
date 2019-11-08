@@ -16,24 +16,24 @@ Vamos melhorar o estilo do cabeçalho `<h1>`.
         font-family: Impact;
         
 
-+ You can also change the size of the heading:
++ Também podes alterar o tamanho do título:
     
         font-size: 50pt;
         
 
-+ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
++ Reparaste que há um grande espaço entre o cabeçalho `<h1>` e as coisas à sua volta?
     
-    ![screenshot](images/wanted-h1-margin.png)
+    ![captura de ecrã](images/wanted-h1-margin.png)
     
-    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
+    Isso é porque há uma margem em torno do cabeçalho. Uma margem é o espaço entre o elemento (neste caso, um cabeçalho) e as outras coisas ao seu redor.
     
-    You can make the margin smaller with this code:
+    Podes diminuir a margem com este código:
     
         margin: 10px;
         
     
-    ![screenshot](images/wanted-h1-margin-small.png)
+    ![captura de ecrã](images/wanted-h1-margin-small.png)
 
-+ You can also underline your heading:
++ Também podes sublinhar o teu cabeçalho:
     
         text-decoration: underline;
