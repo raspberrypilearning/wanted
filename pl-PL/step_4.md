@@ -13,7 +13,7 @@ Poprawmy styl obrazu na plakacie.
     
     ![zrzut ekranu](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the curly brackets.
++ Możemy teraz dodać właściwości CSS dla obrazów pomiędzy nawiasami klamrowymi.
     
     Na przykład dodaj ten kod między nawiasami klamrowymi aby ustawić szerokość obrazu:
     
