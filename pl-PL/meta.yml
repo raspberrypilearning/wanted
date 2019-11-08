@@ -1,3 +1,4 @@
+---
 hero_image: images/wanted.png
 theme: orange
 duration: 2
@@ -6,14 +7,21 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Poszukiwany!
-description: Naucz się, jak stworzyć plakat.
-original_url: https://codeclubprojects.org/en-GB/webdev/wanted
+description: Naucz się, jak stworzyć własny plakat.
+original_url: https://codeclubprojects.org/pl-PL/webdev/wanted
 interests: art
 technologies: html-css-javascript
 site_areas: projects
 hardware: ''
 software: html-css-javascript
-version: 3
+version: 3.0.1
 last_tested: 2017-01-01
-steps: 
-- title: Poszukiwany!
+steps:
+  - title: Wprowadzenie
+  - title: Stylizowanie swojego plakatu
+  - title: 'Wyzwanie: poprawienie swojego plakatu'
+  - title: Stylizacja obrazów
+  - title: 'Wyzwanie: poprawa obrazu'
+  - title: Stylizacja nagłówków
+  - title: 'Wyzwanie: spraw, by Twój plakat był niesamowity!'
+  - title: 'Wyzwanie: reklamuj wydarzenie!'
