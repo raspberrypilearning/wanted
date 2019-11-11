@@ -7,18 +7,18 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Procurado!
-description: Neste projeto, você aprenderá como fazer seu próprio cartaz.
-original_url: https://codeclubprojects.org/en-GB/webdev/wanted
+description: Aprende a fazer o seu próprio cartaz.
+original_url: https://codeclubprojects.org/pt-BR/webdev/wanted
 interests: arte
 technologies: html-css-javascript
-site_areas: projects
+site_areas: projetos
 hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 01/01/2017
 steps:
   - 
-    title: Procurado!
+    title: Introdução
   - 
     title: Estilizando seu pôster
   - 
