@@ -18,7 +18,7 @@ Neste projeto, as crianças terão a oportunidade de escrever seu próprio CSS. 
 
 ## Recursos Online
 
-Recomendamos usar o[ trinket ](https://trinket.io/) para escrever HTML & CSS online. Este projeto contém os seguintes trinkets:
+Recomendamos usar o [trinket](https://trinket.io/) para escrever HTML & CSS online. Este projeto contém os seguintes trinkets:
 
 * [Ponto de partida do 'Wanted' (Procurado) -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
