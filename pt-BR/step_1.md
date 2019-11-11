@@ -26,7 +26,7 @@ As crianças também podem usar este trinket em branco [(jumpto.cc/html-blank)](
 
 Há também um Trinket contendo um exemplo de solução para os desafios:
 
-* ['Wanted' (Procurado) Concluído -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* ['Procurado' Concluído -- trinket.io/library/trinkets/d9e37a503e](https://trinket.io/html/ebeb56398a)
 
 ## Recursos Offline
 
@@ -56,14 +56,14 @@ Este projeto abrange elementos das seguintes vertentes do [Curriculo de Criaçã
 
 ## Desafios
 
-* "Melhorando seu pôster" - adicionando novas propriedades CSS ao seletor ` div `;
-* "Melhorando sua imagem" - adicionando novas propriedades CSS ao seletor` img `;
-* "Torne seu pôster incrível" - adicionando novas propriedades CSS e novos seletores` h3 ` e ` p `;
+* "Melhorando seu pôster" - adicionando novas propriedades CSS ao seletor `div`;
+* "Melhorando sua imagem" - adicionando novas propriedades CSS ao seletor `img`;
+* "Torne seu pôster incrível" - adicionando novas propriedades CSS e novos seletores `h3` e `p`;
 * "Anuncie um evento" - Escrevendo e editando códigos HTML e CSS.
 
 \--- /collapse \---
 
-## \--- colapso \---
+## \--- collapse \---
 
 ## Título: Materiais do projeto
 
