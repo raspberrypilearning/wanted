@@ -1,6 +1,6 @@
-\--- desafio \---
+\--- challenge \---
 
-## Challenge: Improving your poster
+## Desafio: Melhorar seu poster
 
 Adicione a seguinte propriedade CSS ao seu estilo de `div`:
 
