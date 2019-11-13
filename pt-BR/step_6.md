@@ -1,4 +1,4 @@
-## Styling headings
+## Estilizando Cabeçalhos
 
 Vamos melhorar o estilo do cabeçalho `<h1>`.
 
@@ -23,7 +23,7 @@ Vamos melhorar o estilo do cabeçalho `<h1>`.
 
 + Você notou que há um grande espaço entre o cabeçalho `<h1>` e as coisas ao redor dele?
     
-    ![captura de tela](images/wanted-h1-margin.png)
+    ![captura de tela](images/wanted-img-padding.png)
     
     Isso ocorre porque há uma margem ao redor do cabeçalho. Uma margem é o espaço entre o elemento (neste caso, um cabeçalho) e as outras coisas ao redor dele.
     
@@ -32,7 +32,7 @@ Vamos melhorar o estilo do cabeçalho `<h1>`.
         margin: 10px;
         
     
-    ![screenshot](images/wanted-h1-margin-small.png)
+    ![captura de tela](images/wanted-img-padding.png)
 
 + Você também pode sublinhar seu título:
     
