@@ -1,10 +1,10 @@
-\--- desafio \---
+\--- challenge \---
 
-## Challenge: Make your poster awesome!
+## Desafio: Torne seu pôster incrível!
 
 Adicione mais código CSS para estilizar seus cabeçalhos `<h3>` e seus parágrafos.
 
-![screenshot](images/wanted-final.png)
+![captura de tela](images/wanted-final.png)
 
 Aqui está uma lista de algumas propriedades CSS que você pode usar:
 
