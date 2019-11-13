@@ -2,7 +2,7 @@
 
 Neste projeto, você aprenderá como criar seu próprio pôster.
 
-![screenshot](images/wanted-final.png)
+![captura de tela](images/wanted-final.png)
 
 ### Informação adicional para líderes de clubes
 
@@ -20,13 +20,13 @@ Neste projeto, as crianças terão a oportunidade de escrever seu próprio CSS. 
 
 Recomendamos usar o [trinket](https://trinket.io/) para escrever HTML & CSS online. Este projeto contém os seguintes trinkets:
 
-* [Ponto de partida do 'Procurado' -- https://trinket.io/library/trinkets/e90a2a0254](http://jumpto.cc/web-wanted)
+* [Ponto de partida do 'Procurado' -- https://trinket.io/library/trinkets/e90a2a0254](https://trinket.io/html/e90a2a0254)
 
 As crianças também podem usar este trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever seu próprio HTML & CSS, ou como alternativa, eles podem usar este modelo de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Há também um Trinket contendo um exemplo de solução para os desafios:
 
-* ['Procurado' Concluído -- trinket.io/library/trinkets/d9e37a503e](https://trinket.io/html/ebeb56398a)
+* ['Procurado' Concluído -- trinket.io/library/trinkets/d9e37a503e](https://trinket.io/html/d9e37a503e)
 
 ## Recursos Offline
 
@@ -65,12 +65,12 @@ Este projeto abrange elementos das seguintes vertentes do [Curriculo de Criaçã
 
 ## \--- collapse \---
 
-## Título: Materiais do projeto
+## title: Materiais do projeto
 
 ## Recursos do projeto
 
 * [Arquivo .zip contendo todos os recursos do projeto](resources/wanted-project-resources.zip)
-* [Online Trinket contendo todos os recursos do projeto 'Wanted' (Procurado)](http://jumpto.cc/web-wanted)
+* [Online Trinket contendo todos os recursos do projeto 'Procurado'](https://trinket.io/html/e90a2a0254)
 * [Template Online Trinket](http://jumpto.cc/trinket-template)
 * [Online Trinket em branco](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
@@ -81,8 +81,8 @@ Este projeto abrange elementos das seguintes vertentes do [Curriculo de Criaçã
 
 ## Recursos do líder do clube
 
-* [arquivo .zip contém todos os recursos do projeto](resources/wanted-volunteer-resources.zip)
-* [Projeto Trinket online e completo](https://trinket.io/html/ebeb56398a)
+* [arquivo.zip contendo todos os recursos do projeto concluídos](resources/wanted-volunteer-resources.zip)
+* [Projeto Trinket online e completo](https://trinket.io/html/d9e37a503e)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
 * [twanted-finished/robot.png](resources/twanted-finished-robot.png)
