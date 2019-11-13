@@ -1,4 +1,4 @@
-## Styling images
+## Dando estilo a imagens
 
 Vamos melhorar o estilo da imagem do poster.
 
@@ -13,7 +13,7 @@ Vamos melhorar o estilo da imagem do poster.
     
     ![captura de tela](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the curly brackets.
++ Agora podemos adicionar propriedades CSS para imagens entre as "chaves".
     
     Por exemplo, adicione este código entre as chaves para definir a largura da imagem:
     
@@ -22,7 +22,7 @@ Vamos melhorar o estilo da imagem do poster.
     
     Você verá que o tamanho da imagem muda, de modo que sua largura fique com 100 pixels.
     
-    ![screenshot](images/wanted-img-width.png)
+    ![captura de tela](images/wanted-img-width.png)
 
 + Você também pode adicionar uma borda ao redor da imagem com este código:
     
@@ -40,6 +40,6 @@ Vamos melhorar o estilo da imagem do poster.
     
     Padding (preenchimento) é o espaço entre o conteúdo (neste caso, uma imagem) e sua borda.
     
-    ![screenshot](images/wanted-img-padding.png)
+    ![captura de Tela](images/wanted-img-padding.png)
     
-    O que você acha que aconteceria se você alterasse o espaçamento para ` 50px `?
+    O que você acha que aconteceria se você alterasse o espaçamento para `50px`?
