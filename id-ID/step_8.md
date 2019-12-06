@@ -2,6 +2,6 @@
 
 ## Tantangan: Iklankan acara!
 
-Bisakah Anda membuat poster untuk acara yang terjadi di sekolah Anda? Bisa berupa drama, acara olahraga, atau bahkan poster yang mengiklankan Klub Kode Anda!
+Bisakah kamu membuat poster untuk acara yang terjadi di sekolah mu? Bisa berupa drama, acara olahraga, atau bahkan poster yang mengiklankan Klub Kode mu!
 
 \--- / tantangan \---
