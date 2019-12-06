@@ -1,11 +1,11 @@
 ---
 hero_image: images/wanted.png
-theme: naranča
+theme: narančasta
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: 1, dizajn-1, programiranje-0, phys-comp-0, proizvodnja-0, zajednica-0
 title: Tražen!
 description: U ovom projektu naučit ćemo napraviti plakat.
 original_url: https://codeclubprojects.org/en-GB/webdev/wanted
@@ -18,7 +18,7 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Tražen!
+    title: Uvod
   - 
     title: Oblikovanje vašeg postera
   - 
