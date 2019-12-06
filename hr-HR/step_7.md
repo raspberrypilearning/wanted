@@ -1,10 +1,10 @@
-\--- challenge \---
+\--- izazov \---
 
 ## Izazov: Učinite vaš poster još boljim!
 
-Dodajte još CSS koda da biste oblikovali `&lt;h3&gt;` naslove i vaše paragrafe.
+Dodajte još CSS koda da biste oblikovali `<h3>` naslove i vaše paragrafe.
 
-![screenshot](images/wanted-final.png)
+![snimka zaslona](images/wanted-final.png)
 
 Evo popisa nekih svojstava CSS-a koje možete koristiti:
 
@@ -20,4 +20,4 @@ Evo popisa nekih svojstava CSS-a koje možete koristiti:
     height: 100px;
     
 
-\--- challenge \---
+\--- izazov \---
