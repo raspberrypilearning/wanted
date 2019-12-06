@@ -1,39 +1,39 @@
-## Styling headings
+## Stílus fejlécek
 
-Let's improve the style of the `<h1>` heading.
+Javítsuk a `<h1>` címsor stílusát.
 
-+ Add the following code underneath your image's CSS:
++ Adja hozzá a következő kódot a kép CSS alá:
     
         h1 {
         
         }
         
     
-    This is where you'll add CSS properties for your main `<h1>` heading.
+    Itt ad hozzá CSS tulajdonságokat a fő `<h1>` címsorhoz.
 
-+ To change the font of your `<h1>` headings, add the following code between the curly brackets:
++ A `<h1>` címsor betűtípusának megváltoztatásához adja hozzá a következő kódot a göndör zárójelbe:
     
-        font-family: Impact;
+        font-család: Impact;
         
 
-+ You can also change the size of the heading:
++ A címsor méretét is megváltoztathatja:
     
-        font-size: 50pt;
+        betűméret: 50pt;
         
 
-+ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
++ Észrevetted, hogy nagy hely van a `<h1>` címsor és a körülötte lévő dolgok között?
     
     ![screenshot](images/wanted-h1-margin.png)
     
-    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
+    Ennek oka az, hogy van egy mozgástér a címsor körül. A margó az elem (ebben az esetben egy fejléc) és a körülötte lévő többi elem közötti hely.
     
-    You can make the margin smaller with this code:
+    A margóval kisebb lehet a következő kód:
     
-        margin: 10px;
+        margin: 10 képpont;
         
     
     ![screenshot](images/wanted-h1-margin-small.png)
 
-+ You can also underline your heading:
++ Hangsúlyozhatja a fejlécét is:
     
-        text-decoration: underline;
+        szöveges dekoráció: aláhúzás;
