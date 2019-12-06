@@ -1,12 +1,12 @@
 ## Pengantar
 
-Dalam proyek ini, Anda akan belajar cara membuat poster sendiri.
+Dalam proyek ini, kamu akan belajar cara membuat poster sendiri.
 
 ![tangkapan layar](images/wanted-final.png)
 
 ### Informasi tambahan untuk pemimpin klub
 
-Jika Anda perlu mencetak proyek ini, silakan gunakan [Printer friendly version](https://projects.raspberrypi.org/en/projects/wanted/print).
+Jika kamu perlu mencetak proyek ini, silakan gunakan [Printer friendly version](https://projects.raspberrypi.org/en/projects/wanted/print).
 
 ## \--- jatuh \---
 
@@ -30,19 +30,19 @@ Ada juga trinket yang berisi solusi sampel untuk tantangan:
 
 ## Sumber Daya Offline
 
-Proyek ini dapat [selesai offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) jika disukai. Anda dapat mengakses sumber daya proyek dengan mengklik tautan 'Project Materials' untuk proyek ini. Tautan ini berisi bagian 'Sumber Proyek', yang mencakup sumber daya yang dibutuhkan anak-anak untuk menyelesaikan proyek ini secara offline. Pastikan bahwa setiap anak memiliki akses ke salinan sumber daya ini. Bagian ini termasuk file-file berikut:
+Proyek ini dapat [selesai offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) jika disukai. Kamu dapat mengakses sumber daya proyek dengan mengklik tautan 'Project Materials' untuk proyek ini. Tautan ini berisi bagian 'Sumber Proyek', yang mencakup sumber daya yang dibutuhkan anak-anak untuk menyelesaikan proyek ini secara offline. Pastikan bahwa setiap anak memiliki akses ke salinan sumber daya ini. Bagian ini termasuk file-file berikut:
 
 * template / index.html
 * template / style.css
-* ingin / index.html
-* ingin / style.css
-* ingin / robot.png
+* dicari / index.html
+* dicari / style.css
+* dicari / robot.png
 
-Anda juga dapat menemukan versi lengkap dari tantangan proyek ini di bagian 'Sumber Relawan', yang berisi:
+Kamu juga dapat menemukan versi lengkap dari tantangan proyek ini di bagian 'Sumber Relawan', yang berisi:
 
-* ingin jadi / index.html
-* diinginkan-jadi / style.css
-* ingin jadi / robot.png
+* dicari-selesai / index.html
+* dicari-selesai / style.css
+* dicari-selesai / robot.png
 
 (Semua sumber daya di atas juga dapat diunduh sebagai proyek dan relawan `file .zip`).
 
@@ -56,9 +56,9 @@ Proyek ini mencakup elemen dari untaian berikut dari [Raspberry Pi Digital Makin
 
 ## Tantangan
 
-* "Memperbaiki poster Anda" - menambahkan properti CSS baru ke pemilih `div`;
-* "Meningkatkan citra Anda" - menambahkan properti CSS baru ke pemilih `img`;
-* "Buat poster Anda luar biasa" - tambahkan properti CSS baru dan pemilih `h3` dan `p`;
+* "Memperbaiki poster kamu" - menambahkan properti CSS baru ke pemilih `div`;
+* "Meningkatkan citra kamu" - menambahkan properti CSS baru ke pemilih `img`;
+* "Buat poster kamu luar biasa" - tambahkan properti CSS baru dan pemilih `h3` dan `p`;
 * "Advertise an event" - Menulis dan mengedit kode HTML dan CSS.
 
 \--- /jatuh \---
@@ -72,19 +72,19 @@ Proyek ini mencakup elemen dari untaian berikut dari [Raspberry Pi Digital Makin
 * [file .zip yang berisi semua sumber daya proyek](resources/wanted-project-resources.zip)
 * [Trinket Online mengandung semua 'Dicari!' sumber daya proyek](http://jumpto.cc/web-wanted)
 * [Template Trinket Online](http://jumpto.cc/trinket-template)
-* [Trinket kosong daring](http://jumpto.cc/trinket-blank)
+* [Trinket kosong daring/online](http://jumpto.cc/trinket-blank)
 * [template / index.html](resources/template-index.html)
 * [template / style.css](resources/template-style.css)
-* [ingin / index.html](resources/wanted-index.html)
-* [ingin / style.css](resources/wanted-style.css)
-* [ingin / robot.png](resources/wanted-robot.png)
+* [dicari / index.html](resources/wanted-index.html)
+* [dicari / style.css](resources/wanted-style.css)
+* [dicari / robot.png](resources/wanted-robot.png)
 
 ## Sumber daya pemimpin klub
 
 * [file .zip yang berisi semua sumber daya proyek yang telah selesai](resources/wanted-volunteer-resources.zip)
-* [Proyek Trinket yang diselesaikan secara daring](https://trinket.io/html/ebeb56398a)
-* [ingin jadi / index.html](resources/wanted-finished-index.html)
-* [diinginkan-jadi / style.css](resources/wanted-finished-style.css)
+* [Proyek Trinket yang diselesaikan secara daring/online](https://trinket.io/html/ebeb56398a)
+* [dicari-selesai / index.html](resources/wanted-finished-index.html)
+* [dicari-selesai / style.css](resources/wanted-finished-style.css)
 * [twanted-finished / robot.png](resources/twanted-finished-robot.png)
 
 \--- /jatuh \---
