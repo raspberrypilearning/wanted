@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- Izazov \---
 
 ## Izazov: Poboljšajte svoj poster
 
@@ -9,4 +9,4 @@ Dodajte sljedeće svojstvo CSS-a u `div` stil:
 
 Što radi ovo svojstvo? Što se događa ako promijenite broj u gore navedenom kodu?
 
-\--- /challenge \---
+\--- /izazov \---
