@@ -18,10 +18,10 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - title: Uvod
-  - title: Oblikovanje vašeg postera
+  - title: Oblikovanje postera
   - title: 'Izazov: Poboljšajte svoj poster'
   - title: Uređivanje slike
-  - title: 'Izazov: Poboljšajte svoju sliku'
+  - title: 'Izazov: Poboljšajte svoj poster'
   - title: Naslovi za oblikovanje
   - title: 'Izazov: Učinite vaš poster još boljim!'
   - title: 'Izazov: Oglašavajte događaj!'
