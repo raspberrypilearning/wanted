@@ -1,7 +1,7 @@
-\--- challenge \---
+\--- kihívás \---
 
-## Challenge: Advertise an event!
+## Kihívás: Hirdessen egy eseményt!
 
-Can you make a poster for an event happening at your school? It could be a play, a sporting event, or even a poster advertising your Code Club!
+Elkészíthet plakátot az iskolában zajló eseményről? Lehet, hogy játék, sportesemény vagy akár a Code Club-ot reklámozó plakát is lehet!
 
-\--- /challenge \---
+\--- / challenge \---
