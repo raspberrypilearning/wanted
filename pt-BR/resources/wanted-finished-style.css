@@ -5,8 +5,8 @@ body {
 div {
   text-align: center;
   overflow: hidden;
-  border: 5px dotted red;
-  width: 300px;
+  border: 4px dotted red;
+  width: 400px;
   background: yellow;
 }
 
