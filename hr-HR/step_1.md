@@ -2,7 +2,7 @@
 
 U ovom projektu naučit ćete kako napraviti svoj vlastiti plakat.
 
-![screenshot](images/wanted-final.png)
+![snimka zaslona](images/wanted-final.png)
 
 ### Dodatne informacije za voditelje kluba
 
@@ -10,7 +10,7 @@ Ako želite ispisati ovaj projekt, molimo Vas da koristite [verziju koja je pril
 
 ## \--- collapse \---
 
-## title: Bilješke za voditelja kluba
+## naslov: Bilješke za voditelja kluba
 
 ## Uvod:
 
@@ -18,11 +18,11 @@ U ovom projektu djeca će imati priliku napisati vlastiti CSS. Također će ure�
 
 ## Online izvori
 
-Preporučujemo korištenje [trinket](https://trinket.io/) pisati HTML & amp; CSS online. Ovaj projekt sadrži sljedeće stvari:
+Preporučujemo korištenje [trinketa](https://trinket.io/) za pisanje HTML & CSS-a online. Ovaj projekt sadrži sljedeće stvari:
 
 * ['Tražen' polazna točka - jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
-Djeca također mogu koristiti ovu praznu trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) napisati vlastiti HTML & CSS ili alternativno mogu upotrijebiti ovaj predložak trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Djeca također mogu koristiti ovaj prazni trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) za pisanje vlastitog HTML & CSS koda ili alternativno mogu upotrijebiti ovaj predložak trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Također je uključen i trinket koji sadrži prijedlog rješenja izazova:
 
@@ -48,7 +48,7 @@ Dovršene verzije izazova projekta možete pronaći i u odjeljku 'Resursi za vol
 
 ## Ishodi učenja
 
-* Ovaj projekt daje djeci mogućnost da napišu vlastiti CSS kako bi oblikovali web stranicu.
+* Ovaj projekt djeci pruža mogućnost pisanja vlastitog CSS-a za oblikovanje web stranice.
 
 Ovaj projekt pokriva elemente sljedećih dijelova kurikuluma [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
@@ -65,12 +65,12 @@ Ovaj projekt pokriva elemente sljedećih dijelova kurikuluma [Raspberry Pi Digit
 
 ## \--- collapse \---
 
-## title: Materijali projekta
+## naslov: Materijali projekta
 
 ## Resursi projekta
 
 * [.zip datoteka koja sadrži sve materijale projekta](resources/wanted-project-resources.zip)
-* [Online Trinket sadrži sve 'Tražen!' resursa projekta](http://jumpto.cc/web-wanted)
+* [Online Trinket sadrži sve 'Tražen!' resurse projekta](http://jumpto.cc/web-wanted)
 * [Online Trinket predložak](http://jumpto.cc/trinket-template)
 * [Online prazan Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
