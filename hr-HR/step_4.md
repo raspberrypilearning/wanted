@@ -1,45 +1,45 @@
 ## Uređivanje slike
 
-Poboljšamo stil slike u plakatu.
+Poboljšajmo stil slike u plakatu.
 
-+ Trenutačno nema CSS svojstava za vašu `&lt;img&gt;` oznaku, pa dodajte nešto!
++ Trenutačno nema CSS svojstava za vašu oznaku `<img>`, pa dodajte nešto!
     
-    Prvo dodajte sljedeći kôd ispod CSS-a za vaš div:
+    Prvo dodajte sljedeći kod ispod CSS-a za vaš div:
     
         img {
         
         }
         
     
-    ![screenshot](images/wanted-img-css.png)
+    ![snimka zaslona](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the curly brackets.
++ Sada možemo dodati CSS svojstva za slike unutar vitičastih zagrada.
     
-    Na primjer, dodajte ovaj kôd između kovrčavih zagrada da biste postavili širinu slike:
+    Na primjer, između vitičastih zagrada dodaj sljedeći kod. Njime određuješ širinu slike:
     
         width: 100px;
         
     
-    Vidjet ćete da se veličina slike mijenja, tako da je širina 100 piksela.
+    Vidjet ćeš da se veličina slike promijenila. Sada je njezina širina 100 pixela.
     
-    ![screenshot](images/wanted-img-width.png)
+    ![snimka zaslona](images/wanted-img-width.png)
 
 + Ovom slikom možete dodati i obrub oko slike:
     
         border: 1px solid black;
         
 
-+ Jeste li primijetili da nema mnogo prostora između slike i granice?
++ Primjećuješ li da nema puno mjesta između slike i obruba?
     
-    ![screenshot](images/wanted-img-border.png)
+    ![snimka zaslona](images/wanted-img-border.png)
     
-    To možete popraviti dodavanjem neke obloge oko slike:
+    Ovo možemo popraviti svojstvom ‘padding’:
     
         padding: 10px;
         
     
-    Padding je prostor između sadržaja (u ovom slučaju slike) i njegove granice.
+    Padding je prostor između sadržaja (u ovom slučaju slike) i njegovog obruba.
     
-    ![screenshot](images/wanted-img-padding.png)
+    ![snimka zaslona](images/wanted-img-padding.png)
     
-    Što mislite da će se dogoditi ako promijenite padding na `50px`?
+    Što misliš da će se dogoditi ako promjeniš padding na `50px`?
