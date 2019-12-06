@@ -1,12 +1,12 @@
 \--- tantangan \---
 
-## Tantangan: Buat poster Anda luar biasa!
+## Tantangan: Buat poster kamu luar biasa!
 
-Tambahkan lebih banyak kode CSS untuk menata judul `<h3>` dan paragraf Anda.
+Tambahkan lebih banyak kode CSS untuk menata judul `<h3>` dan paragraf mu.
 
 ![tangkapan layar](images/wanted-final.png)
 
-Berikut daftar beberapa properti CSS yang dapat Anda gunakan:
+Berikut daftar beberapa properti CSS yang dapat kamu gunakan:
 
     warna hitam;
     latar belakang: putih;
