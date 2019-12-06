@@ -1,12 +1,12 @@
-\--- challenge \---
+\--- kihívás \---
 
-## Challenge: Improving your poster
+## Kihívás: A poszter fejlesztése
 
-Add the following CSS property to your `div` style:
+Adja hozzá a következő CSS tulajdonságot a `div` stílusához:
 
-    border-radius: 40px;
+    határ sugár: 40 képpont;
     
 
-What does this property do? What happens if you change the number in the code above?
+Mit csinál ez az ingatlan? Mi történik, ha megváltoztatja a számot a fenti kódban?
 
 \--- /challenge \---
