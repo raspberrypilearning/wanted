@@ -1,34 +1,33 @@
-## あなたのポスターのスタイリング
+## ポスターのスタイリング
 
-ポスターのCSSコードを編集してみましょう。
+ポスターのCSSコードを編集することから始めましょう。
 
-+ Trinketをひらく: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ Trinketをひらく: jumpto.cc/web-wanted.
     
     プロジェクトはこのようになります。
     
     ![スクリーンショット](images/wanted-starter.png)
 
-+ 「style.css」タブをクリックします。ポスターのさまざまな部分を含む `div` CSSプロパティが既にあることに気づくでしょう。
++ 「style.css」タブをクリックします。 ポスターのさまざまな部分を含むdivのCSSプロパティが既にあることに気づくでしょう。
     
         div {
-            text-align：center;
-            オーバーフロー：非表示。
-            ボーダー：2pxソリッドブラック;
-            幅： 
-        ピクセル;
+            text-align: center;
+            overflow: hidden;
+            border: 2px solid black;
+            width: 300px;
         }   
         
 
-+ `text-align` プロパティを変更することから始めましょう：
++ text-align プロパティを変更することから始めましょう：
     
-        text-align：center;
+        text-align: center;
         
     
-    単語 `中心` から `左に` または `右の`を変更するとどうなりますか？
+    単語 centerを、left左へまたはright右へ変更するとどうなりますか？ 
 
-+ `ボーダー` プロパティはどうですか？
++ ボーダープロパティはどうですか？
     
-        国境：2pxソリッドブラック;
+        border: 2px solid black;
         
     
     `上のコードの2px` は2ピクセルを意味します。あなたが変更されたときに何が起こる `2ピクセルベタ黒` に `赤い点線4PX`？
