@@ -18,25 +18,25 @@
 
 ## オンライン・リソース
 
-オンラインでHTMLやCSSを書くため[小道具](https://trinket.io/)を使うことをおすすめします。このプロジェクトでは次の小道具が含まれています。
+オンラインでHTMLやCSSを書くため「trinket」を使うことをおすすめします。このプロジェクトでは次のtrinketが含まれています。
 
-* [「欲しい」出発点 - jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* [「指名手配」出発点 - jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
-子供はこの空白の小物 [（jumpto.cc/html-blank）](http://jumpto.cc/html-blank) を使って独自のHTML & CSSを書くことができます。あるいは、このテンプレートtrinket [（jumpto.cc/html-template）](http://jumpto.cc/html-template)使用することもできます。
+子供たちはこの空白の「trinket」（jumpto.cc/html-blank） を使って独自のHTML & CSSを書くことができます。あるいは、trinket にあるテンプレート（jumpto.cc/html-template）を使用することもできます。
 
 また、チャレンジ(課題)に対しての回答例を含むtrinketもあります(以下参照)。
 
-* [「募集」完了 - trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* [「指名手配」完了 - trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
 ## オフライン・リソース
 
-このプロジェクトは[オフライン](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/)で完成することが可能です。 “プロジェクト資料”のリンクをクリックすることでこのプロジェクトのリソースにアクセスすることが可能です。 リンクには”プロジェクト・リソース”の個所もあり、ここにプロジェクトをオフラインで完成させるために必要なリソースが含まれている。 各子供がこのリソースのコピーを持っていることを確認してください。 このセクションは下記ファイルを含む：
+このプロジェクトはオフラインで完成することが可能です。 “プロジェクト資料”のリンクをクリックすることでこのプロジェクトのリソースにアクセスすることが可能です。 リンクには”プロジェクト・リソース”の個所もあり、ここにプロジェクトをオフラインで完成させるために必要なリソースが含まれている。 各子供がこれらのリソースのコピーにアクセスできることを確認してください。 このセクションは下記ファイルを含む：
 
-* template / index.html
-* template / style.css
-* want / index.html
-* want / style.css
-* wanted / robot.png
+* template/index.html
+* template/style.css
+* wanted/index.html
+* wanted/style.css
+* wanted/robot.png
 
 なお、プロジェクト課題の完成版をボランティア・リソースのセクションに含まれています。
 
