@@ -63,32 +63,32 @@
     
     段落のスタイルを設定します。</li> 
     
-    * "イベントを宣伝する" - HTMLとCSSコードの作成と編集。</ul> 
+    * "イベントを宣伝しましょう" - HTMLとCSSコードの作成と編集。</ul> 
     
-    \--- /collapse \---
+    \--- /折りたたむ \---
     
-    ## \--- collapse \---
+    ## \--- 折りたたむ \---
     
-    ## title: プロジェクト資料
+    ## タイトル: プロジェクト資料
     
     ## プロジェクト資料
     
-    * [全プロジェクト・リソースの入った.zipファイル](resources/wanted-project-resources.zip)
-    * [すべての「募集！」を含むオンライン小物プロジェクトリソース](http://jumpto.cc/web-wanted)
+    * [すべてのプロジェクトリソースを含む.zipファイル](resources/wanted-project-resources.zip)
+    * [すべての「指名手配！」を含むオンラインtrinketプロジェクトリソース](http://jumpto.cc/web-wanted)
     * [Online Trinketテンプレート](http://jumpto.cc/trinket-template)
-    * [オンラインブランク小物](http://jumpto.cc/trinket-blank)
-    * [template / index.html](resources/template-index.html)
-    * [template / style.css](resources/template-style.css)
-    * [want / index.html](resources/wanted-index.html)
-    * [want / style.css](resources/wanted-style.css)
-    * [wanted / robot.png](resources/wanted-robot.png)
+    * [オンライン空のtrinket](http://jumpto.cc/trinket-blank)
+    * [template/index.html](resources/template-index.html)
+    * [template/style.css](resources/template-style.css)
+    * [wanted/index.html](resources/wanted-index.html)
+    * [wanted/style.css](resources/wanted-style.css)
+    * [wanted/robot.png](resources/wanted-robot.png)
     
     ## クラブ・リーダー向けリソース
     
-    * [全プロジェクトの完成版リソースの入った.zipファイル](resources/wanted-volunteer-resources.zip)
+    * [完了したすべてのプロジェクトリソースを含む.zipファイル](resources/wanted-volunteer-resources.zip)
     * [完成版プロジェクトのオンラインtrinket](https://trinket.io/html/ebeb56398a)
-    * [希望仕上がり/ index.html](resources/wanted-finished-index.html)
-    * [want-finished / style.css](resources/wanted-finished-style.css)
-    * [twanted-finished / robot.png](resources/twanted-finished-robot.png)
+    * [wanted-finished/index.html](resources/wanted-finished-index.html)
+    * [wanted-finished/style.css](resources/wanted-finished-style.css)
+    * [twanted-finished/robot.png](resources/twanted-finished-robot.png)
     
-    \--- /collapse \---
+    \--- /折りたたむ \---
