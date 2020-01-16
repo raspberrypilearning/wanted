@@ -68,6 +68,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 ---
 title: Project materials
 ---
+
 ## Project resources
 * [.zip file containing all project resources](resources/wanted-project-resources.zip)
 * [Online Trinket containing all 'Wanted!' project resources](http://jumpto.cc/web-wanted)
