@@ -7,9 +7,12 @@ Možete li napraviti plakat za događaj koji se događa u vašoj školi? To bi m
 --- /challenge ---
 
 ***
+Ovaj su projekt preveli volonteri:
 
-## Prijevod članova zajednice 
+**Maja Manojlović**
 
-Ovaj je projekt preveo/la **Maja Manojlović & Marin Vitaljić** i pregledao/la **Alen Dandić**. 
+**Marin Vitaljić**
 
-Naši nevjerojatni volonteri prevoditelji pomažu nam da djeci širom svijeta pružimo priliku da nauče programirati. Možete nam pomoći da dosegnemo više djece prevođenjem naših projekata - pročitajte više na [rpf.io/translate](https://rpf.io/translate).
+**Alen Dandić**
+
+Zahvaljujući volonterima, možemo pružiti ljudima širom svijeta priliku da uče na svom jeziku. Možete nam pomoći da dođemo do većeg broja ljudi tako da postanete volonter prevoditelj. Više informacija možete pronaći na [rpf.io/translate](https://rpf.io/translate).
