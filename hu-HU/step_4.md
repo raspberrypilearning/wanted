@@ -1,10 +1,10 @@
-## Stílusos képek
+## Styling images
 
-Javítsuk a kép stílusát a poszterben.
+Let's improve the style of the image in the poster.
 
-+ Jelenleg nincs `<img>` tulajdonság a ` <img> ` címkéhez, szóval adjunk hozzá néhányat!
++ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
     
-    Először adja hozzá a következő kódot a divs CSS alá:
+    Firstly, add the following code underneath the CSS for your div:
     
         img {
         
@@ -13,33 +13,33 @@ Javítsuk a kép stílusát a poszterben.
     
     ![screenshot](images/wanted-img-css.png)
 
-+ Most hozzáadhatunk CSS tulajdonságokat a képekhez a göndör zárójelben.
++ We can now add CSS properties for images between the curly brackets.
     
-    Például adja hozzá ezt a kódot a göndör zárójelek közé a kép szélességének beállításához:
+    For example, add this code between the curly brackets to set the width of the image:
     
-        szélesség: 100 képpont;
+        width: 100px;
         
     
-    Látni fogja, hogy a kép mérete megváltozik, így szélessége 100 pixel.
+    You'll see that the size of the image changes, so that its width is 100 pixels.
     
     ![screenshot](images/wanted-img-width.png)
 
-+ A kép körül szegélyt is felvehet a következő kóddal:
++ You can also add a border around the image with this code:
     
-        szegély: 1 képpont szilárd fekete;
+        border: 1px solid black;
         
 
-+ Észrevetted, hogy nincs sok hely a kép és a keret között?
++ Have you noticed that there's not much space between the image and the border?
     
     ![screenshot](images/wanted-img-border.png)
     
-    Javíthatja ezt a kép körül néhány párnázattal:
+    You can fix this by adding some padding around the image:
     
-        párnázat: 10 képpont;
+        padding: 10px;
         
     
-    A padding az a tartalom (ebben az esetben egy kép) és a szegély közötti tér.
+    Padding is the space between the content (in this case an image) and its border.
     
     ![screenshot](images/wanted-img-padding.png)
     
-    Ön szerint mi történne, ha a párnát `50px`?
+    What do you think would happen if you changed the padding to `50px`?
