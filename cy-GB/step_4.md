@@ -1,45 +1,45 @@
-## Delweddau steilio
+## Styling images
 
-Gadewch i ni wella arddull y ddelwedd yn y poster.
+Let's improve the style of the image in the poster.
 
-+ Ar hyn o bryd, nid oes unrhyw eiddo CSS ar gyfer eich tag `<img>` , felly gadewch i ni ychwanegu rhai!
++ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
     
-    Yn gyntaf, ychwanegwch y cod canlynol o dan y CSS ar gyfer eich rhan:
+    Firstly, add the following code underneath the CSS for your div:
     
         img {
         
         }
         
     
-    ![sgrinlun](images/wanted-img-css.png)
+    ![screenshot](images/wanted-img-css.png)
 
-+ Gallwn nawr ychwanegu nodweddion CSS ar gyfer delweddau rhwng y cromfachau cyrliog.
++ We can now add CSS properties for images between the curly brackets.
     
-    Er enghraifft, ychwanegwch y cod hwn rhwng y cromfachau cyrliog i osod lled y ddelwedd:
+    For example, add this code between the curly brackets to set the width of the image:
     
-        lled: 100px;
+        width: 100px;
         
     
-    Fe welwch fod maint y ddelwedd yn newid, fel bod ei lled yn 100 picsel.
+    You'll see that the size of the image changes, so that its width is 100 pixels.
     
-    ![sgrinlun](images/wanted-img-width.png)
+    ![screenshot](images/wanted-img-width.png)
 
-+ Gallwch hefyd ychwanegu ffin o amgylch y ddelwedd gyda'r cod hwn:
++ You can also add a border around the image with this code:
     
-        ffin: 1px du solet;
+        border: 1px solid black;
         
 
-+ Ydych chi wedi sylwi nad oes llawer o le rhwng y ddelwedd a'r ffin?
++ Have you noticed that there's not much space between the image and the border?
     
-    ![sgrinlun](images/wanted-img-border.png)
+    ![screenshot](images/wanted-img-border.png)
     
-    Gallwch drwsio hwn drwy ychwanegu padin o gwmpas y ddelwedd:
+    You can fix this by adding some padding around the image:
     
-        padin: 10px;
+        padding: 10px;
         
     
-    Padin yw'r gofod rhwng y cynnwys (delwedd yn yr achos hwn) a'i ffin.
+    Padding is the space between the content (in this case an image) and its border.
     
-    ![sgrinlun](images/wanted-img-padding.png)
+    ![screenshot](images/wanted-img-padding.png)
     
-    Beth yn eich barn chi fyddai'n digwydd pe baech yn newid y padin i `50px`?
+    What do you think would happen if you changed the padding to `50px`?
