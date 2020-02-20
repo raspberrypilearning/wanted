@@ -1,39 +1,39 @@
-## Penawdau steilio
+## Styling headings
 
-Gadewch i ni wella arddull y pennawd `<h1>`.
+Let's improve the style of the `<h1>` heading.
 
-+ Ychwanegwch y cod canlynol o dan CSS eich delwedd:
++ Add the following code underneath your image's CSS:
     
         h1 {
         
         }
         
     
-    Dyma lle byddwch yn ychwanegu nodweddion CSS ar gyfer eich prif bennawd `<h1>`.
+    This is where you'll add CSS properties for your main `<h1>` heading.
 
-+ I newid ffont eich penawdau `<h1>` , ychwanegwch y cod canlynol rhwng y cromfachau cyrliog:
++ To change the font of your `<h1>` headings, add the following code between the curly brackets:
     
-        teulu ffont: Effaith;
+        font-family: Impact;
         
 
-+ Gallwch hefyd newid maint y pennawd:
++ You can also change the size of the heading:
     
-        maint y ffont: 50pt;
+        font-size: 50pt;
         
 
-+ Ydych chi wedi sylwi bod lle mawr rhwng y pennawd `<h1>` a'r pethau o'i gwmpas?
++ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
     
-    ![sgrinlun](images/wanted-h1-margin.png)
+    ![screenshot](images/wanted-h1-margin.png)
     
-    Mae hyn oherwydd bod ymyl o gwmpas y pennawd. Mae ymyl yn y gofod rhwng yr elfen (pennawd yn yr achos hwn) a'r pethau eraill o'i amgylch.
+    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
     
-    Gallwch wneud yr ymyl yn llai gyda'r cod hwn:
+    You can make the margin smaller with this code:
     
-        ymyl: 10px;
+        margin: 10px;
         
     
-    ![sgrinlun](images/wanted-h1-margin-small.png)
+    ![screenshot](images/wanted-h1-margin-small.png)
 
-+ Gallwch hefyd danlinellu eich pennawd:
++ You can also underline your heading:
     
-        addurno testun: tanlinellu;
+        text-decoration: underline;
