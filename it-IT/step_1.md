@@ -73,7 +73,7 @@ Questo progetto riguarda elementi trattati in queste sezioni del [Digital Making
 * [Trinket online contenente tutte le risorse del progetto 'Wanted!'](http://jumpto.cc/web-wanted)
 * [Modello Trinket online](http://jumpto.cc/trinket-template)
 * [Trinket online vuoto](http://jumpto.cc/trinket-blank)
-* [template/index.html](risorse / template-index.html)
+* [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [wanted/index.html](resources/wanted-index.html)
 * [wanted/style.css](resources/wanted-style.css)
