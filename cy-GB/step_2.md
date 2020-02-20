@@ -1,48 +1,48 @@
-## Steilio'ch poster
+## Styling your poster
 
-Gadewch i ni ddechrau drwy olygu'r cod CSS ar gyfer y poster.
+Let's start by editing the CSS code for the poster.
 
-+ Agorwch y trinket hwn: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
-    Dylai'r prosiect edrych fel hyn:
+    The project should look like this:
     
-    ![sgrinlun](images/wanted-starter.png)
+    ![screenshot](images/wanted-starter.png)
 
-+ Cliciwch ar y tab "style.css". Byddwch yn sylwi bod yna eiddo CSS eisoes ar gyfer y `` sy'n cynnwys gwahanol rannau'r poster.
++ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
     
         div {
-            testun-alinio: ganolfan;
-            gorlif: cudd;
-            ffin: 2px du solet;
-            lled: 300px;
+            text-align: center;
+            overflow: hidden;
+            border: 2px solid black;
+            width: 300px;
         }   
         
 
-+ Gadewch i ni ddechrau drwy newid y `testun-alinio` eiddo:
++ Let's start by altering the `text-align` property:
     
-        alinio testun: canolfan;
+        text-align: center;
         
     
-    Beth sy'n digwydd pan fyddwch chi'n newid y gair `canolfan` i `ôl` neu `dde`?
+    What happens when you change the word `center` to `left` or `right`?
 
-+ Beth am yr eiddo `ffin`?
++ How about the `border` property?
     
-        ffin: 2px solet du;
+        border: 2px solid black;
         
     
-    `2px` yn y cod uchod yn golygu 2 bicsel. Beth sy'n digwydd pan fyddwch chi'n newid `2xx du du` i `px coch dot`?
+    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
 
-+ Newidiwch `lled` y poster i `400px`. Beth sy'n digwydd i'r poster?
++ Change the `width` of the poster to `400px`. What happens to the poster?
 
-+ Gadewch i ni ychwanegu rhywfaint o CSS i osod lliw cefndir y poster. Ewch i ddiwedd llinell 5 o'ch cod a phwyswch y dychweliad, fel bod gennych linell wag newydd.
++ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
     
-    ![sgrinlun](images/wanted-newline.png)
+    ![screenshot](images/wanted-newline.png)
     
-    Teipiwch y cod canlynol ar eich llinell wag newydd:
+    Type the following code on your new blank line:
     
-        cefndir: melyn;
+        background: yellow;
         
     
-    Gwnewch yn siŵr eich bod yn teipio yn y cod *yn union* fel y mae uchod. Dylech sylwi bod cefndir y `<div>` bellach yn felyn.
+    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
     
-    ![sgrinlun](images/wanted-background.png)
+    ![screenshot](images/wanted-background.png)
