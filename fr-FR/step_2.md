@@ -1,53 +1,48 @@
-## Style ton poster
+## Stylise ton affiche
 
-Commençons par éditer le code CSS pour ton poster.
+Commençons par modifier le code CSS de l’affiche.
 
-+ Ouvre ce trinket: <a href="http://jumpto.cc/web-wanted" target="_blank">jumpto.cc/web-wanted</a>. Si tu es sur la version en ligne, tu peux aussi utiliser la version embarquée de Trinket:
++ Ouvre ce trinket: <a target="_blank" href="https://trinket.io/html/8e3d85fcc2">trinket.io/html/8e3d85fcc2</a>.
+    
+    Le projet devrait ressembler à ceci :
+    
+    ![capture d'écran](images/wanted-starter.png)
 
-<div class="trinket">
- <iframe src="https://trinket.io/embed/html/58318bee1f" width="100%" height="550" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
- </iframe>
-</div>
++ Clique sur l'onglet « style.css ». Tu remarqueras qu'il existe déjà des propriétés CSS pour le `div` contenant les différentes parties de l'affiche.
+    
+        div {
+            text-align: center;
+            overflow: hidden;
+            border: 2px solid black;
+            width: 300px;
+        }   
+        
 
-+ Clique sur l'onglet "style.css". Tu verras qu'il y a déjà une propriété CSS pour l'élément `div` qui contient les différentes parties de ton poster.
++ Commençons par modifier la propriété `text-align`:
+    
+        text-align: center;
+        
+    
+    Que se passe-t-il lorsque tu remplace le mot `center` par `left ` ou `right` ?
 
-	```
-	div {
-		text-align: center;
-	    overflow: hidden;
-	    border: 2px solid black;
-	    width: 300px;
-    }
-	```
++ Qu'en est-il de la propriété `border` ?
+    
+        border: 2px solid black;
+        
+    
+    `2px` dans le code ci-dessus signifie 2 pixels. Que se passe-t-il lorsque tu changes `2px solid black` à `4px dotted red` ?
 
-+ Commençons par changer la proriété `text-align`:
++ Change `width` de l'affiche à `400px` . Qu'advient-il de l'affiche ?
 
-	```
-	text-align: center;
-	```
-
-	Que ce passe-t-il lorsque tu changes la valeur `center` en `left` ou `right`?
-
-+ Et qu'en est-il de la propriété `border` ?
-
-	```
-	border: 2px solid black;
-	```
-
-	`2px` veux dire 2 pixels. Qu'est-ce qui se passe si tu changes `2px solid black` en `4px dotted red`?
-
-+ Change la longueur `width` de ton poster a `400px`. Qu'est ce qui change sur ton poster?
-
-+ Ajoutons un peu de CSS pour changer la couleur de fond. Va à la ligne 5 de ton code et appuie sur la touche 'Entrer', pour commencer une nouvelle ligne.
-
-	![screenshot](images/wanted-newline.png)
-
-	Entre le code suivant sur ta nouvelle ligne:
-
-	```
-	background: yellow;
-	```
-
-	Fait attention a _correctement_ écrire le code ci-dessus. Tu devrais voir le fond de ton `<div>` changer en jaune.
-
-	![screenshot](images/wanted-background.png)
++ Ajoutons quelques CSS pour définir la couleur de fond de l'affiche. Va à la fin de la ligne 5 de ton code et appuie sur Entrée pour avoir une nouvelle ligne vierge.
+    
+    ![capture d'écran](images/wanted-newline.png)
+    
+    Entre le code suivant dans ta nouvelle ligne vide :
+    
+        background: yellow;
+        
+    
+    Assure-toi d'entrer le code *exactement* comme ci-dessus. Tu devrais remarquer que l’arrière-plan du `<div>` est maintenant jaune.
+    
+    ![capture d'écran](images/wanted-background.png)

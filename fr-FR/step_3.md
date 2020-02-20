@@ -1,14 +1,12 @@
 --- challenge ---
-## Defi: Améliore ton poster
-Ajoute la propriété CSS suivante a ton style `div`:
 
-```
-border-radius: 40px;
-```
+## Defi: Améliore ton affiche
 
-Qu'est ce que cette propriété a transformé ? Que ce passe t'il si tu changes la valeur de pixels dans le code ci-dessus?
+Ajoute la propriété CSS suivante à ton style `div`:
 
+    border-radius: 40px;
+    
 
-
+Que fait cette propriété ? Que se passe-t-il si tu modifies le numéro dans le code ci-dessus ?
 
 --- /challenge ---

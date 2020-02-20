@@ -1,49 +1,45 @@
-## Style ton image
+## Stylisation des images
 
-Continuons en améliorant l'image de ton poster.
+Améliorons le style de l'image dans l'affiche.
 
-+ Pour l'instant. il n'y a pas de propriétés CSS pour ton tag `<img>`, et si on en rajoutais une!
++ Pour l'instant, il n'y a pas de propriétés CSS pour ta balise `<img>`, ajoutons-en !
+    
+    Premièrement, ajoute le code suivant sous le CSS pour ton div :
+    
+        img {
+        
+        }
+        
+    
+    ![capture d'écran](images/wanted-img-css.png)
 
-	Premièrement, ajoute le code CSS suivant après le code pour ton `div`
++ Nous pouvons maintenant ajouter des propriétés CSS pour les images entre les accolades.
+    
+    Par exemple, ajoute ce code entre les accolades pour définir la largeur de l'image :
+    
+        width: 100px;
+        
+    
+    Tu verras que la taille de l'image change, de sorte que sa largeur est de 100 pixels.
+    
+    ![capture d'écran](images/wanted-img-width.png)
 
-	```
-	img {
++ Tu peux également ajouter une bordure autour de l'image avec ce code :
+    
+        border: 1px solid black;
+        
 
-	}
-	```
-
-	![screenshot](images/wanted-img-css.png)
-
-+ On peux maintenant rajouter les propriétés CSS pour les images entre les crochets `{` et `}`
-
-	Par exemple, ajoute ce code entre les crochets pour définir la longueur de ton image:
-
-	```
-	width: 100px;
-	```
-
-	Tu devrais voir la taille de ton image changer, sa longueur est maintenant de 100 pixels.
-
-	![screenshot](images/wanted-img-width.png)
-
-+ Tu peux aussi ajouter une bordure a ton image avec ce code:
-
-	```
-	border: 1px solid black;
-	```
-
-+ As-tu remarqué qu'il n'y a pas beaucoup d'espace entre l'image et la bordure?
-
-	![screenshot](images/wanted-img-border.png)
-
-	Tu peux ajouter plus d'espace autour de l'image en utilisant la propriété `padding`:
-
-	```
-	padding: 10px;
-	```
-
-	`padding` est l'espacement entre le contenu (dans notre cas, l'image) et sa bordure.
-
-	![screenshot](images/wanted-img-padding.png)
-
-	Que se passe t'il si tu changes la valeur du `padding` a `50px`?
++ As-tu remarqué qu'il n'y a pas beaucoup d'espace entre l'image et la bordure ?
+    
+    ![capture d'écran](images/wanted-img-border.png)
+    
+    Tu peux résoudre ce problème en ajoutant des éléments de remplissage autour de l'image :
+    
+        padding: 10px;
+        
+    
+    Le remplissage est l'espace entre le contenu (dans ce cas une image) et sa bordure.
+    
+    ![capture d'écran](images/wanted-img-padding.png)
+    
+    Que penses-tu qu'il se passerait si tu changeais le remplissage en `50px` ?
