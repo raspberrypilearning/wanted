@@ -1,39 +1,39 @@
-## Стилизация заголовков
+## Styling headings
 
-Давай улучшим стиль заголовка `<h1>`.
+Let's improve the style of the `<h1>` heading.
 
-+ Добавь следующий код ниже кода CSS для твоего изображения:
++ Add the following code underneath your image's CSS:
     
         h1 {
         
         }
         
     
-    Здесь ты пропишешь CSS-свойства для твоего главного заголовка `<h1>`.
+    This is where you'll add CSS properties for your main `<h1>` heading.
 
-+ Для смены шрифта всех твоих заголовков `<h1>` добавь следующий код между фигурными скобками:
++ To change the font of your `<h1>` headings, add the following code between the curly brackets:
     
         font-family: Impact;
         
 
-+ Ты также можешь изменить размер заголовка:
++ You can also change the size of the heading:
     
         font-size: 50pt;
         
 
-+ Заметил ли ты, что вокруг `<h1>` много пустого пространства?
++ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
     
-    ![снимок экрана](images/wanted-h1-margin.png)
+    ![screenshot](images/wanted-h1-margin.png)
     
-    Это из-за того, что вокруг заголовка есть поля. Margin (поле на англ.) — это пространство между элементом (в данном случае это заголовок) и всем остальным вокруг него.
+    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
     
-    Ты можешь уменьшить поле с помощью кода:
+    You can make the margin smaller with this code:
     
         margin: 10px;
         
     
-    ![снимок экрана](images/wanted-h1-margin-small.png)
+    ![screenshot](images/wanted-h1-margin-small.png)
 
-+ Ещё ты можешь добавить к заголовку подчёркивание:
++ You can also underline your heading:
     
         text-decoration: underline;
