@@ -1,35 +1,35 @@
 ---
 hero_image: images/wanted.png
-theme: oren
+theme: orange
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Eisiau!
-description: Dysgwch sut i wneud eich poster eich hun.
+title: Wanted!
+description: Learn how to make your own poster.
 original_url: https://codeclubprojects.org/en-GB/webdev/wanted
-interests: celf
+interests: art
 technologies: html-css-javascript
-site_areas: prosiectau
+site_areas: projects
 hardware: ''
 software: html-css-javascript
-version: 3
+version: 3.0.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Cyflwyniad
+    title: Introduction
   - 
-    title: Steilio'ch poster
+    title: Styling your poster
   - 
-    title: 'Her: Gwella eich poster'
+    title: 'Challenge: Improving your poster'
   - 
-    title: Delweddau steilio
+    title: Styling images
   - 
-    title: 'Her: Gwella''ch delwedd'
+    title: 'Challenge: Improving your image'
   - 
-    title: Penawdau steilio
+    title: Styling headings
   - 
-    title: 'Her: Gwnewch eich poster yn anhygoel!'
+    title: 'Challenge: Make your poster awesome!'
   - 
-    title: 'Her: Hysbysebu digwyddiad!'
+    title: 'Challenge: Advertise an event!'
