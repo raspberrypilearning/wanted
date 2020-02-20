@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Izazov: Reklamiraj događaj!
+## Challenge: Advertise an event!
 
-Možeš li da napraviš plakat za neki događaj u tvojoj školi? To može da bude predstava, sportski događaj ili čak plakat koji reklamira tvoj Code Club!
+Can you make a poster for an event happening at your school? It could be a play, a sporting event, or even a poster advertising your Code Club!
 
 \--- /challenge \---
