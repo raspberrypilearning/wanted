@@ -1,39 +1,39 @@
-## عنوان های یک ظاهر طراحی شده
+## Styling headings
 
-بیایید سبک از عنوان `<h1>` را بهبود ببخشیم.
+Let's improve the style of the `<h1>` heading.
 
-+ زیر کد زیر زیر CSS تصویر خود را اضافه کنید:
++ Add the following code underneath your image's CSS:
     
         h1 {
         
         }
         
     
-    این جایی است که شما ویژگی های CSS را برای عنوان اصلی `<h1>` می کنید.
+    This is where you'll add CSS properties for your main `<h1>` heading.
 
-+ برای تغییر فونت خود از صف `<h1>` ، کد زیر را بین براکت های فورمه اضافه کنید:
++ To change the font of your `<h1>` headings, add the following code between the curly brackets:
     
-        فونت خانواده: تاثیر؛
+        font-family: Impact;
         
 
-+ شما همچنین می توانید اندازه عنوان را تغییر دهید:
++ You can also change the size of the heading:
     
-        فونت اندازه: 50pt؛
+        font-size: 50pt;
         
 
-+ آیا متوجه شده اید که فضای بزرگ بین عنوان `<h1>` و چیزهای اطراف آن وجود دارد؟
++ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
     
-    ![تصویری](images/wanted-h1-margin.png)
+    ![screenshot](images/wanted-h1-margin.png)
     
-    این به این دلیل است که حاشیه در کنار عنوان وجود دارد. حاشیه فضای بین عنصر (در این مورد عنوان) و چیزهای دیگر در اطراف آن است.
+    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
     
-    شما می توانید حاشیه کوچکتری با این کد ایجاد کنید:
+    You can make the margin smaller with this code:
     
-        حاشیه: 10 پیکسل؛
+        margin: 10px;
         
     
-    ![تصویری](images/wanted-h1-margin-small.png)
+    ![screenshot](images/wanted-h1-margin-small.png)
 
-+ شما همچنین می توانید عنوان خود را برجسته کنید:
++ You can also underline your heading:
     
-        متن دکوراسیون: زیر خط دار؛
+        text-decoration: underline;
