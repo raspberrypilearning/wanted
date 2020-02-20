@@ -1,90 +1,90 @@
-## Pengantar
+## Introduction
 
-Dalam proyek ini, kamu akan belajar cara membuat poster sendiri.
+In this project, you'll learn how to make your own poster.
 
-![tangkapan layar](images/wanted-final.png)
+![screenshot](images/wanted-final.png)
 
-### Informasi tambahan untuk pemimpin klub
+### Additional information for club leaders
 
-Jika kamu perlu mencetak proyek ini, silakan gunakan [Printer friendly version](https://projects.raspberrypi.org/en/projects/wanted/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/wanted/print).
 
-## \--- jatuh \---
+## \--- collapse \---
 
-## judul: Catatan pemimpin klub
+## title: Club leader notes
 
-## Pengantar:
+## Introduction:
 
-Dalam proyek ini, anak-anak akan memiliki kesempatan untuk menulis CSS mereka sendiri. Mereka juga akan mengedit dan menulis properti dan selektor CSS untuk membuat poster mereka sendiri.
+In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
 
-## Sumber Daya Online
+## Online Resources
 
-Kami merekomendasikan menggunakan [trinket](https://trinket.io/) untuk menulis HTML & CSS secara online. Proyek ini berisi pernak-pernik berikut:
+We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
 
-* [Titik awal 'Dicari' - jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* ['Wanted' starting point -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
-Anak-anak juga dapat menggunakan perhiasan kosong ini [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) untuk menulis HTML & CSS mereka sendiri, atau secara alternatif mereka dapat menggunakan trinket template [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Ada juga trinket yang berisi solusi sampel untuk tantangan:
+There is also a trinket containing a sample solution to the challenges:
 
-* ['Dicari' Selesai - trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* ['Wanted' Finished -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
-## Sumber Daya Offline
+## Offline Resources
 
-Proyek ini dapat [selesai offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) jika disukai. Kamu dapat mengakses sumber daya proyek dengan mengklik tautan 'Project Materials' untuk proyek ini. Tautan ini berisi bagian 'Sumber Proyek', yang mencakup sumber daya yang dibutuhkan anak-anak untuk menyelesaikan proyek ini secara offline. Pastikan bahwa setiap anak memiliki akses ke salinan sumber daya ini. Bagian ini termasuk file-file berikut:
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
-* template / index.html
-* template / style.css
-* dicari / index.html
-* dicari / style.css
-* dicari / robot.png
+* template/index.html
+* template/style.css
+* wanted/index.html
+* wanted/style.css
+* wanted/robot.png
 
-Kamu juga dapat menemukan versi lengkap dari tantangan proyek ini di bagian 'Sumber Relawan', yang berisi:
+You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
-* dicari-selesai / index.html
-* dicari-selesai / style.css
-* dicari-selesai / robot.png
+* wanted-finished/index.html
+* wanted-finished/style.css
+* wanted-finished/robot.png
 
-(Semua sumber daya di atas juga dapat diunduh sebagai proyek dan relawan `file .zip`).
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Tujuan Pembelajaran
+## Learning Objectives
 
-* Proyek ini memberi anak-anak kesempatan untuk menulis CSS mereka sendiri untuk menata halaman web.
+* This project gives children the opportunity to write their own CSS to style a webpage.
 
-Proyek ini mencakup elemen dari untaian berikut dari [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Desain aset 2D dan 3D dasar](https://www.raspberrypi.org/curriculum/design/creator).
+* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Tantangan
+## Challenges
 
-* "Memperbaiki poster kamu" - menambahkan properti CSS baru ke pemilih `div`;
-* "Meningkatkan citra kamu" - menambahkan properti CSS baru ke pemilih `img`;
-* "Buat poster kamu luar biasa" - tambahkan properti CSS baru dan pemilih `h3` dan `p`;
-* "Advertise an event" - Menulis dan mengedit kode HTML dan CSS.
+* "Improving your poster" - adding new CSS properties to the `div` selector;
+* "Improving your image" - adding new CSS properties to the `img` selector;
+* "Make your poster awesome" - adding new CSS properties and new `h3` and `p` selectors;
+* "Advertise an event" - Writing and editing HTML and CSS code.
 
-\--- /jatuh \---
+\--- /collapse \---
 
-## \--- jatuh \---
+## \--- collapse \---
 
-## judul: Materi proyek
+## title: Project materials
 
-## Sumber daya proyek
+## Project resources
 
-* [file .zip yang berisi semua sumber daya proyek](resources/wanted-project-resources.zip)
-* [Trinket Online mengandung semua 'Dicari!' sumber daya proyek](http://jumpto.cc/web-wanted)
-* [Template Trinket Online](http://jumpto.cc/trinket-template)
-* [Trinket kosong daring/online](http://jumpto.cc/trinket-blank)
-* [template / index.html](resources/template-index.html)
-* [template / style.css](resources/template-style.css)
-* [dicari / index.html](resources/wanted-index.html)
-* [dicari / style.css](resources/wanted-style.css)
-* [dicari / robot.png](resources/wanted-robot.png)
+* [.zip file containing all project resources](resources/wanted-project-resources.zip)
+* [Online Trinket containing all 'Wanted!' project resources](http://jumpto.cc/web-wanted)
+* [Online Trinket template](http://jumpto.cc/trinket-template)
+* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [template/index.html](resources/template-index.html)
+* [template/style.css](resources/template-style.css)
+* [wanted/index.html](resources/wanted-index.html)
+* [wanted/style.css](resources/wanted-style.css)
+* [wanted/robot.png](resources/wanted-robot.png)
 
-## Sumber daya pemimpin klub
+## Club leader resources
 
-* [file .zip yang berisi semua sumber daya proyek yang telah selesai](resources/wanted-volunteer-resources.zip)
-* [Proyek Trinket yang diselesaikan secara daring/online](https://trinket.io/html/ebeb56398a)
-* [dicari-selesai / index.html](resources/wanted-finished-index.html)
-* [dicari-selesai / style.css](resources/wanted-finished-style.css)
-* [twanted-finished / robot.png](resources/twanted-finished-robot.png)
+* [.zip file containing all completed project resources](resources/wanted-volunteer-resources.zip)
+* [Online completed Trinket project](https://trinket.io/html/ebeb56398a)
+* [wanted-finished/index.html](resources/wanted-finished-index.html)
+* [wanted-finished/style.css](resources/wanted-finished-style.css)
+* [twanted-finished/robot.png](resources/twanted-finished-robot.png)
 
-\--- /jatuh \---
+\--- /collapse \---
