@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Izazov: Napravi fenomenalan plakat!
+## Challenge: Make your poster awesome!
 
-Dodaj još CSS kôda da stilizuješ svoje `<h3>` naslove i pasuse.
+Add more CSS code to style your `<h3>` headings and your paragraphs.
 
 ![screenshot](images/wanted-final.png)
 
-Ovo je lista nekih CSS svojstava koje možeš koristiti:
+Here's a list of some CSS properties you can use:
 
     color: black;
     background: white;
