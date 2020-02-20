@@ -1,12 +1,12 @@
-\--- tantangan \---
+\--- challenge \---
 
-## Tantangan: Memperbaiki poster kamu
+## Challenge: Improving your poster
 
-Tambahkan properti CSS berikut ke gaya `div`:
+Add the following CSS property to your `div` style:
 
     border-radius: 40px;
     
 
-Apa yang dilakukan properti ini? Apa yang terjadi jika kamu mengubah nomor di kode di atas?
+What does this property do? What happens if you change the number in the code above?
 
-\--- / tantangan \---
+\--- /challenge \---
