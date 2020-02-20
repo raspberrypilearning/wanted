@@ -1,45 +1,45 @@
-## Стилизация изображений
+## Styling images
 
-Давай улучшим стиль изображения на плакате.
+Let's improve the style of the image in the poster.
 
-+ В данным момент тэг `<img>` не имеет никаких прописанных для него CSS-свойств — давай же добавим!
++ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
     
-    Во-первых, добавь следующий код под CSS-кодом для div:
+    Firstly, add the following code underneath the CSS for your div:
     
         img {
         
         }
         
     
-    ![снимок экрана](images/wanted-img-css.png)
+    ![screenshot](images/wanted-img-css.png)
 
-+ Теперь мы можем добавить CSS-свойства для всех изображений между фигурными скобками.
++ We can now add CSS properties for images between the curly brackets.
     
-    Например, добавь такой код в фигурные скобки, чтобы задать ширину изображений:
+    For example, add this code between the curly brackets to set the width of the image:
     
         width: 100px;
         
     
-    Ты заметишь, что размер изображения изменится до ширины в 100 пикселей.
+    You'll see that the size of the image changes, so that its width is 100 pixels.
     
-    ![снимок экрана](images/wanted-img-width.png)
+    ![screenshot](images/wanted-img-width.png)
 
-+ Теперь ты можешь добавить рамку (границу) вокруг изображения с помощью этого кода:
++ You can also add a border around the image with this code:
     
         border: 1px solid black;
         
 
-+ Заметил ли ты, что между изображением и его рамкой не так много пространства?
++ Have you noticed that there's not much space between the image and the border?
     
-    ![снимок экрана](images/wanted-img-border.png)
+    ![screenshot](images/wanted-img-border.png)
     
-    Ты можешь исправить это, добавив свойство padding (набивка на англ.) вокруг изображения:
+    You can fix this by adding some padding around the image:
     
         padding: 10px;
         
     
-    Свойство padding задаёт размер полей между содержимым (в данном случае это изображение) и рамкой.
+    Padding is the space between the content (in this case an image) and its border.
     
-    ![снимок экрана](images/wanted-img-padding.png)
+    ![screenshot](images/wanted-img-padding.png)
     
-    Что ты думаешь, могло бы произойти, если бы ты сменил значение padding на `50px`?
+    What do you think would happen if you changed the padding to `50px`?
