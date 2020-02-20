@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Defi: Améliore ton poster
+## Defi: Améliore ton affiche
 
 Ajoute la propriété CSS suivante à ton style ` div `:
 
     border-radius: 40px;
     
 
-Que fait cette propriété? Que se passe-t-il si tu modifies le numéro dans le code ci-dessus?
+Que fait cette propriété ? Que se passe-t-il si tu modifies le numéro dans le code ci-dessus ?
 
 \--- /challenge \---
