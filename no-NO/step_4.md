@@ -1,45 +1,45 @@
-## Styling bilder
+## Styling images
 
-La oss forbedre stilen på bildet i plakaten.
+Let's improve the style of the image in the poster.
 
-+ For øyeblikket finnes det ingen CSS-egenskaper for `<img>` taggen din, så la oss legge til noen!
++ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
     
-    Først legger du til følgende kode under CSS for div:
+    Firstly, add the following code underneath the CSS for your div:
     
         img {
         
         }
         
     
-    ![skjermbilde](images/wanted-img-css.png)
+    ![screenshot](images/wanted-img-css.png)
 
 + We can now add CSS properties for images between the curly brackets.
     
-    For eksempel, legg til denne koden mellom de krøllete parentesene for å angi bredden på bildet:
+    For example, add this code between the curly brackets to set the width of the image:
     
-        bredde: 100px;
+        width: 100px;
         
     
-    Du ser at størrelsen på bildet endres, slik at bredden er 100 piksler.
+    You'll see that the size of the image changes, so that its width is 100 pixels.
     
-    ![skjermbilde](images/wanted-img-width.png)
+    ![screenshot](images/wanted-img-width.png)
 
-+ Du kan også legge til en kant rundt bildet med denne koden:
++ You can also add a border around the image with this code:
     
-        grense: 1 px solid svart;
+        border: 1px solid black;
         
 
-+ Har du lagt merke til at det ikke er mye plass mellom bildet og grensen?
++ Have you noticed that there's not much space between the image and the border?
     
-    ![skjermbilde](images/wanted-img-border.png)
+    ![screenshot](images/wanted-img-border.png)
     
-    Du kan fikse dette ved å legge til noe polstring rundt bildet:
+    You can fix this by adding some padding around the image:
     
-        polstring: 10px;
+        padding: 10px;
         
     
-    Padding er mellomrommet mellom innholdet (i dette tilfellet et bilde) og grensen.
+    Padding is the space between the content (in this case an image) and its border.
     
-    ![skjermbilde](images/wanted-img-padding.png)
+    ![screenshot](images/wanted-img-padding.png)
     
-    Hva tror du ville skje hvis du endret polstring til `50px`?
+    What do you think would happen if you changed the padding to `50px`?
