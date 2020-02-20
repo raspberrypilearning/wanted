@@ -1,12 +1,12 @@
-\--- utfordring \---
+\--- challenge \---
 
-## Utfordring: Forbedre plakaten
+## Challenge: Improving your poster
 
-Legg til følgende CSS-eiendom til `div` stilen din:
+Add the following CSS property to your `div` style:
 
     border-radius: 40px;
     
 
-Hva gjør denne eiendommen? Hva skjer hvis du endrer nummeret i koden ovenfor?
+What does this property do? What happens if you change the number in the code above?
 
-\--- /utfordring \---
+\--- /challenge \---
