@@ -4,7 +4,7 @@
 
 Add more CSS code to style your `<h3>` headings and your paragraphs.
 
-![captura de pantalla](images/wanted-final.png)
+![screenshot](images/wanted-final.png)
 
 Here's a list of some CSS properties you can use:
 
