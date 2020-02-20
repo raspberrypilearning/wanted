@@ -1,36 +1,36 @@
-## Uvod
+## Introduction
 
-U ovom projektu naučićeš kako da napraviš sopstveni plakat.
+In this project, you'll learn how to make your own poster.
 
 ![screenshot](images/wanted-final.png)
 
-### Dodatne informacije za vođe kluba
+### Additional information for club leaders
 
-Ukoliko je potrebno da odštampate ovaj projekat, koristite [Verziju za štampu](https://projects.raspberrypi.org/en/projects/wanted/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/wanted/print).
 
 ## \--- collapse \---
 
-## title: Bilješke za vođe kluba
+## title: Club leader notes
 
-## Uvod:
+## Introduction:
 
-U ovom projektu djeca će imati priliku da napišu sopstveni CSS. Takođe će uređivati i pisati CSS svojstva i selektore, kako bi napravila sopstveni plakat.
+In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
 
-## Online izvori
+## Online Resources
 
-Za pisanje HTML-a i CSS-a online preporučujemo da koristite [trinket](https://trinket.io/). Ovaj projekat sadrži sljedeće trinkete:
+We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
 
-* [Početak projekta 'Tražen' -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* ['Wanted' starting point -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
-Za pisanje sopstvenog HTML-a i CSS-a, djeca takođe mogu da koriste ovaj prazan trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) ili da koriste ovaj trinket šablon [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Takođe postoji trinket koji sadrži primjer rješenja izazova:
+There is also a trinket containing a sample solution to the challenges:
 
-* [Završen projekat 'Tražen' -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* ['Wanted' Finished -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
-## Offline izvori
+## Offline Resources
 
-Ako želite, ovaj projekat može biti [izrađen offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Izvorima projekta možete pristupiti klikom na link projekta 'Projektni materijali'. Navedeni link sadrži odjeljak 'Izvori projekta' u kojem se nalaze izvori koji će djeci biti potrebni kako bi izradila ovaj projekat offline. Obezbijedite da svako dijete ima pristup kopiji ovih izvora. Odjeljak sadrži sljedeće datoteke:
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
 * template/index.html
 * template/style.css
@@ -38,51 +38,51 @@ Ako želite, ovaj projekat može biti [izrađen offline](https://www.codeclubpro
 * wanted/style.css
 * wanted/robot.png
 
-Takođe, završenu verziju izazova ovoga projekta možete naći u odjeljku 'Izvori za volontere' koji sadrži:
+You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
 * wanted-finished/index.html
 * wanted-finished/style.css
 * wanted-finished/robot.png
 
-(Sve navedene izvore moguće je preuzeti kao `.zip` datoteke.)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Ciljevi učenja
+## Learning Objectives
 
-* U ovom projektu djeci se pruža mogućnost da napišu sopstveni CSS za stilizovanje veb-stranice.
+* This project gives children the opportunity to write their own CSS to style a webpage.
 
-Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Dizajniranje osnovnih 2D i 3D elemenata](https://www.raspberrypi.org/curriculum/design/creator).
+* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Izazovi
+## Challenges
 
-* ''Poboljšaj svoj plakat'' - dodavanje novih CSS svojstava selektoru `div`;
-* ''Poboljšaj svoju sliku'' - dodavanje novih CSS svojstava selektoru `img`;
-* ''Napravi fenomenalan plakat'' - dodavanje novih CSS svojstava i novih selektora `h3` i `p`;
-* ''Reklamiraj događaj'' - pisanje i uređivanje HTML i CSS kôdova.
+* "Improving your poster" - adding new CSS properties to the `div` selector;
+* "Improving your image" - adding new CSS properties to the `img` selector;
+* "Make your poster awesome" - adding new CSS properties and new `h3` and `p` selectors;
+* "Advertise an event" - Writing and editing HTML and CSS code.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Projektni materijali
+## title: Project materials
 
-## Izvori projekta
+## Project resources
 
-* [.zip datoteka koja sadrži sve izvore projekta](resources/wanted-project-resources.zip)
-* [Online Trinket koji sadrži sve izvore projekta 'Tražen!'](http://jumpto.cc/web-wanted)
-* [Online Trinket šablon](http://jumpto.cc/trinket-template)
-* [Online prazan Trinket](http://jumpto.cc/trinket-blank)
+* [.zip file containing all project resources](resources/wanted-project-resources.zip)
+* [Online Trinket containing all 'Wanted!' project resources](http://jumpto.cc/web-wanted)
+* [Online Trinket template](http://jumpto.cc/trinket-template)
+* [Online blank Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [wanted/index.html](resources/wanted-index.html)
 * [wanted/style.css](resources/wanted-style.css)
 * [wanted/robot.png](resources/wanted-robot.png)
 
-## Izvori za vođe kluba
+## Club leader resources
 
-* [.zip datoteka koja sadrži sve završene izvore projekta](resources/wanted-volunteer-resources.zip)
-* [Završen Trinket projekat online](https://trinket.io/html/ebeb56398a)
+* [.zip file containing all completed project resources](resources/wanted-volunteer-resources.zip)
+* [Online completed Trinket project](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
 * [twanted-finished/robot.png](resources/twanted-finished-robot.png)
