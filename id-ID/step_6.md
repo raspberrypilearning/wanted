@@ -1,39 +1,39 @@
-## Judul gaya
+## Styling headings
 
-Mari tingkatkan gaya tajuk `<h1>`.
+Let's improve the style of the `<h1>` heading.
 
-+ Tambahkan kode berikut di bawah CSS gambar Anda:
++ Add the following code underneath your image's CSS:
     
         h1 {
         
         }
         
     
-    Di sinilah kamu akan menambahkan properti CSS untuk judul utama `<h1>`.
+    This is where you'll add CSS properties for your main `<h1>` heading.
 
-+ Untuk mengubah font judul `<h1>`, tambahkan kode berikut di antara tanda kurung kurawal:
++ To change the font of your `<h1>` headings, add the following code between the curly brackets:
     
         font-family: Impact;
         
 
-+ Kamu juga dapat mengubah ukuran judul:
++ You can also change the size of the heading:
     
         font-size: 50pt;
         
 
-+ Apakah kamu memperhatikan bahwa ada jarak yang besar antara Judul `<h1>` dan bagian-bagian di sekitarnya?
++ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
     
-    ![tangkapan layar](images/wanted-h1-margin.png)
+    ![screenshot](images/wanted-h1-margin.png)
     
-    Ini karena ada margin di sekitar judul. Margin adalah ruang antara elemen (dalam hal ini judul) dan hal-hal lain di sekitarnya.
+    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
     
-    Kamu dapat mengecilkan margin dengan kode ini:
+    You can make the margin smaller with this code:
     
         margin: 10px;
         
     
-    ![tangkapan layar](images/wanted-h1-margin-small.png)
+    ![screenshot](images/wanted-h1-margin-small.png)
 
-+ Kamu juga dapat memberi garis bawah untuk judul kamu:
++ You can also underline your heading:
     
         text-decoration: underline;
