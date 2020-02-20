@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Défi: Rend ton poster encore plus cool!
+## Défi: Rends ton affiche encore plus cool !
 
-Ajoute plus de code CSS pour styliser tes en-têtes `<h3>` et tes paragraphes.
+Ajoute plus de code CSS pour styliser tes titres `<h3>` et tes paragraphes.
 
 ![capture d’écran](images/wanted-final.png)
 
-Voici une liste de certaines propriétés CSS que tu peux utiliser:
+Voici une liste de certaines propriétés CSS que tu peux utiliser :
 
     color: black;
     background: white;
