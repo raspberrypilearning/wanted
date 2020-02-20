@@ -1,7 +1,7 @@
-\--- چالش \---
+\--- challenge \---
 
-## چالش: یک رویداد را تبلیغ کنید
+## Challenge: Advertise an event!
 
-آیا می توانید یک پوستر برای یک رویداد در مدرسه خود ایجاد کنید؟ این می تواند یک بازی، یک رویداد ورزشی، و یا حتی پوستر تبلیغ باشگاه کد شما!
+Can you make a poster for an event happening at your school? It could be a play, a sporting event, or even a poster advertising your Code Club!
 
-\--- \--- چالش \---
+\--- /challenge \---
