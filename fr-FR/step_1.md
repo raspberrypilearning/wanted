@@ -1,12 +1,12 @@
 ## Introduction
 
-Dans ce projet, tu vas apprendre à créer at propre affiche.
+Dans ce projet, tu vas apprendre à créer ta propre affiche.
 
 ![capture d'écran](images/wanted-final.png)
 
 ### Informations complémentaires pour les responsables de club
 
-Si tu as besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/wanted/print).
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/wanted/print).
 
 ## \--- collapse \---
 
@@ -16,21 +16,21 @@ Si tu as besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](h
 
 Dans ce projet, les enfants auront l’occasion d’écrire leur propre code CSS. Ils pourront également éditer et écrire des propriétés CSS et des sélecteurs pour créer leur propre affiche.
 
-## Ressources en-ligne
+## Ressources en ligne
 
-Nous recommendons d'utiliser [trinket](https://trinket.io/) pour écrire du HTML & CSS en ligne. Ce projet contient les trinkets suivants :
+Nous recommandons d'utiliser [trinket](https://trinket.io/) pour écrire du HTML & CSS en ligne. Ce projet contient les trinkets suivants :
 
-* [Point de départ du 'Magazine' -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* [Point de départ de « Recherché » -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
 Les enfants peuvent également utiliser ce trinket vide [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) pour écrire leur propre code HTML & CSS, ou utiliser ce trinket modèle [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Il y a aussi un Trinket contenant un exemple de solution pour les défis :
 
-* ['Wanted' terminé - trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* [« Recherché » terminé - trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
 ## Ressources hors-ligne
 
-Ce projet peut être [terminé hors-ligne](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si désiré. Vous pouvez accéder aux ressources du projet en cliquant sur le lien "Matériel pour projet". Ce lien contient une section "Ressources du projet" qui inclut les ressources dont les enfants auront besoin pour compléter le projet hors-ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants :
+Ce projet peut être [terminé hors-ligne](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si désiré. Vous pouvez accéder aux ressources du projet en cliquant sur le lien « Matériel pour projet ». Ce lien contient une section « Ressources du projet » qui inclut les ressources dont les enfants auront besoin pour terminer le projet hors-ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants :
 
 * template/index.html
 * template/style.css
@@ -38,7 +38,7 @@ Ce projet peut être [terminé hors-ligne](https://www.codeclubprojects.org/en-G
 * wanted/style.css
 * wanted/robot.png
 
-Vous pouvez aussi trouver une version complétée du projet dans la section "Ressources du bénévole" qui contient :
+Vous pouvez aussi trouver une version terminée du projet dans la section « Ressources du bénévole » qui contient :
 
 * wanted-finished/index.html
 * wanted-finished/style.css
@@ -52,14 +52,14 @@ Vous pouvez aussi trouver une version complétée du projet dans la section "Res
 
 Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativité Numérique](http://rpf.io/curriculum):
 
-* [Concevoir des éléments de base en 2D et 3D](https://www.raspberrypi.org/curriculum/design/creator){: target="_blank.
+* [Concevoir des éléments de base en 2D et 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Défis
 
-* "Améliore ton affiche" - ajout de nouvelles propriétés CSS au sélecteur` div `;
-* "Améliore ton image" - ajout de nouvelles propriétés CSS au sélecteur` div `;
-* "Rend ton poster super" - ajout de nouvelles propriétés CSS et de nouveaux sélecteurs;` h3 ` et ` p `;
-* "Annonce un événement" - Écrire et éditer du code HTML et CSS.
+* « Améliore ton affiche » - ajout de nouvelles propriétés CSS au sélecteur` div `;
+* « Améliore ton image » - ajout de nouvelles propriétés CSS au sélecteur` div `;
+* « Rend ton poster cool » - ajout de nouvelles propriétés CSS et de nouveaux sélecteurs;` h3 ` et ` p `;
+* « Annonce un événement » - Écrire et éditer du code HTML et CSS.
 
 \--- /collapse \---
 
@@ -70,7 +70,7 @@ Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativi
 ## Ressources pour le projet
 
 * [Fichier .zip contenant toutes les ressources du projet](resources/wanted-project-resources.zip)
-* [Trinket en-ligne contenant les ressources du projet "CodeFarication"](http://jumpto.cc/web-wanted)
+* [Trinket en-ligne contenant les ressources du projet « Recherché »](http://jumpto.cc/web-wanted)
 * [Modèle de trinket en ligne](http://jumpto.cc/trinket-template)
 * [Trinket vierge](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
@@ -81,8 +81,8 @@ Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativi
 
 ## Ressources pour le responsable de club
 
-* [Fichier .zip contenant toutes les ressources du projet](resources/wanted-volunteer-resources.zip)
-* [Trinket Python en-ligne vierge](https://trinket.io/html/ebeb56398a)
+* [Fichier .zip contenant toutes les ressources du projet terminé](resources/wanted-volunteer-resources.zip)
+* [Trinket Python en ligne vierge](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
 * [wanted-finished/robot.png](resources/twanted-finished-robot.png)
