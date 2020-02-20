@@ -11,7 +11,7 @@ Mejoremos el estilo del encabezado `<h1>`.
     
     Aquí es donde añadirás las propiedades CSS para su encabezado principal `<h1>`.
 
-+ Para cambiar la fuente de sus encabezados `<h1>`, añade el siguiente código entre los corchetes:
++ Para cambiar la fuente de tus encabezados `<h1>`, añade el siguiente código entre los corchetes:
     
         font-family: Impact;
         
