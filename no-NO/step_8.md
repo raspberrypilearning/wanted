@@ -1,7 +1,7 @@
-\--- utfordring \---
+\--- challenge \---
 
-## Utfordring: Annonser en hendelse!
+## Challenge: Advertise an event!
 
-Kan du lage en plakat for en hendelse som skjer på skolen din? Det kan være et lek, en sportsbegivenhet eller en plakat som reklamerer for din Code Club!
+Can you make a poster for an event happening at your school? It could be a play, a sporting event, or even a poster advertising your Code Club!
 
-\--- /utfordring \---
+\--- /challenge \---
