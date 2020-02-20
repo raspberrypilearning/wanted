@@ -1,49 +1,48 @@
-## A poszter stílusa
+## Styling your poster
 
-Kezdjük a poszter CSS-kódjának szerkesztésével.
+Let's start by editing the CSS code for the poster.
 
-+ Nyissa meg ezt az csecsebecsét: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
-    A projektnek így kell kinéznie:
+    The project should look like this:
     
     ![screenshot](images/wanted-starter.png)
 
-+ Kattintson a "style.css" fülre. Észre fogja venni, hogy a `div` már vannak CSS tulajdonságok, amelyek a poszter különböző részeit tartalmazzák.
++ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
     
         div {
-            szöveg-igazítás: központ;
-            túlcsordulás: rejtett;
-            szegély: 
-         képpont szilárd fekete;
-            szélesség: 300 képpont;
+            text-align: center;
+            overflow: hidden;
+            border: 2px solid black;
+            width: 300px;
         }   
         
 
-+ Kezdjük a `szöveg-igazítás` tulajdonság megváltoztatásával:
++ Let's start by altering the `text-align` property:
     
-        szöveg igazítás: középpont;
+        text-align: center;
         
     
-    Mi történik, ha megváltoztatja a szót `center` , hogy `balra` vagy `jobbra`?
+    What happens when you change the word `center` to `left` or `right`?
 
-+ Mi a helyzet a `határ` ingatlan?
++ How about the `border` property?
     
-        szegély: 2 képpont szilárd fekete;
+        border: 2px solid black;
         
     
-    `2px` a fenti kódban 2 pixelt jelent. Mi történik, ha `2x-os szilárd feketét` ról `re <code> pontos pirosra cserél`?
+    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
 
-+ Változás a `szélessége` a poszter `400px`. Mi történik a poszterrel?
++ Change the `width` of the poster to `400px`. What happens to the poster?
 
-+ Adjunk hozzá néhány CSS-t a poszter háttér színének beállításához. Menjen a kód 5. sorának végére és nyomja meg a visszatérést, hogy új üres sor legyen.
++ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
     
     ![screenshot](images/wanted-newline.png)
     
-    Írja be a következő kódot az új üres sorba:
+    Type the following code on your new blank line:
     
-        háttér: sárga;
+        background: yellow;
         
     
-    Győződjön meg róla, hogy írja be a kódot *pontosan* , mivel a fenti. Ne feledje, hogy a `<div>` háttere most sárgán világít.
+    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
     
     ![screenshot](images/wanted-background.png)
