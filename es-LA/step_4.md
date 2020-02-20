@@ -11,7 +11,7 @@ Let's improve the style of the image in the poster.
         }
         
     
-    ![captura de pantalla](images/wanted-img-css.png)
+    ![screenshot](images/wanted-img-css.png)
 
 + We can now add CSS properties for images between the curly brackets.
     
@@ -22,7 +22,7 @@ Let's improve the style of the image in the poster.
     
     You'll see that the size of the image changes, so that its width is 100 pixels.
     
-    ![captura de pantalla](images/wanted-img-width.png)
+    ![screenshot](images/wanted-img-width.png)
 
 + You can also add a border around the image with this code:
     
@@ -31,7 +31,7 @@ Let's improve the style of the image in the poster.
 
 + Have you noticed that there's not much space between the image and the border?
     
-    ![captura de pantalla](images/wanted-img-border.png)
+    ![screenshot](images/wanted-img-border.png)
     
     You can fix this by adding some padding around the image:
     
@@ -40,6 +40,6 @@ Let's improve the style of the image in the poster.
     
     Padding is the space between the content (in this case an image) and its border.
     
-    ![captura de pantalla](images/wanted-img-padding.png)
+    ![screenshot](images/wanted-img-padding.png)
     
     What do you think would happen if you changed the padding to `50px`?
