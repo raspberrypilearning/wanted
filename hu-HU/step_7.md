@@ -1,23 +1,23 @@
-\--- kihívás \---
+\--- challenge \---
 
-## Kihívás: tedd félelmetesvé a posztert!
+## Challenge: Make your poster awesome!
 
-Adjon hozzá további CSS-kódot a `<h3>` címsor és a bekezdések stílusához.
+Add more CSS code to style your `<h3>` headings and your paragraphs.
 
 ![screenshot](images/wanted-final.png)
 
-Itt található néhány felhasználható CSS-tulajdonság:
+Here's a list of some CSS properties you can use:
 
-    fekete szín;
-    háttér: fehér;
-    betűkészlet-család: Arial / Comic Sans MS / Courier / Impact / Tahoma;
-    betűméret: 12pt;
-    betűsúly: félkövér;
-    szövegdíszítés: aláhúzás az aláhúzás vonallal;
-    margó: 10 képpont;
-    párnázat: 10 képpont;
-    szélesség: 100 képpont;
-    magasság: 100 képpont;
+    color: black;
+    background: white;
+    font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
+    font-size: 12pt;
+    font-weight: bold;
+    text-decoration: underline overline line-through;
+    margin: 10px;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
     
 
-\--- / challenge \---
+\--- /challenge \---
