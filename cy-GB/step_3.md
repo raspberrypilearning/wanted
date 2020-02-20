@@ -1,12 +1,12 @@
-\--- her \---
+\--- challenge \---
 
-## Her: Gwella eich poster
+## Challenge: Improving your poster
 
-Ychwanegwch yr eiddo CSS canlynol i'ch steil `div`:
+Add the following CSS property to your `div` style:
 
-    radiws y ffin: 40px;
+    border-radius: 40px;
     
 
-Beth mae'r eiddo hwn yn ei wneud? Beth sy'n digwydd os ydych chi'n newid y rhif yn y cod uchod?
+What does this property do? What happens if you change the number in the code above?
 
 \--- /challenge \---
