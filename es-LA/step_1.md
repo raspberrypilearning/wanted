@@ -1,18 +1,18 @@
-## Introducción
+## Introduction
 
 In this project, you'll learn how to make your own poster.
 
-![captura de pantalla](images/wanted-final.png)
+![screenshot](images/wanted-final.png)
 
-### Información adicional para los líderes del club
+### Additional information for club leaders
 
-Si necesita imprimir este proyecto, use la [versión para imprimir](https://projects.raspberrypi.org/en/projects/wanted/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/wanted/print).
 
 ## \--- collapse \---
 
-## title: Notas para el líder del club
+## title: Club leader notes
 
-## Introducción:
+## Introduction:
 
 In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
 
@@ -46,15 +46,15 @@ You can also find a completed version of this project's challenges in the 'Volun
 
 (All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Objetivos del Aprendizaje
+## Learning Objectives
 
 * This project gives children the opportunity to write their own CSS to style a webpage.
 
-Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Desafíos
+## Challenges
 
 * "Improving your poster" - adding new CSS properties to the `div` selector;
 * "Improving your image" - adding new CSS properties to the `img` selector;
@@ -65,7 +65,7 @@ Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Dig
 
 ## \--- collapse \---
 
-## title: Materiales del proyecto
+## title: Project materials
 
 ## Project resources
 
@@ -79,7 +79,7 @@ Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Dig
 * [wanted/style.css](resources/wanted-style.css)
 * [wanted/robot.png](resources/wanted-robot.png)
 
-## Recursos del líder del club
+## Club leader resources
 
 * [.zip file containing all completed project resources](resources/wanted-volunteer-resources.zip)
 * [Online completed Trinket project](https://trinket.io/html/ebeb56398a)
