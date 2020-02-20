@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Задача: Сделай плакат ещё более крутым!
+## Challenge: Make your poster awesome!
 
-Добавь ещё CSS-кода для стилизации твоих заголовков `<h3>` и твоих абзацев (paragraph на англ.).
+Add more CSS code to style your `<h3>` headings and your paragraphs.
 
-![снимок экрана](images/wanted-final.png)
+![screenshot](images/wanted-final.png)
 
-Тебе могут пригодиться следующие CSS-свойства:
+Here's a list of some CSS properties you can use:
 
     color: black;
     background: white;
