@@ -1,90 +1,90 @@
-## Introduksjon
+## Introduction
 
-I dette prosjektet lærer du hvordan du lager din egen plakat.
+In this project, you'll learn how to make your own poster.
 
-![skjermbilde](images/wanted-final.png)
+![screenshot](images/wanted-final.png)
 
-### Tilleggsinformasjon for klubbledere
+### Additional information for club leaders
 
-Hvis du trenger å skrive ut dette prosjektet, bruk [Utskriftsvennlig versjon](https://projects.raspberrypi.org/en/projects/wanted/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/wanted/print).
 
-## \--- kollaps \---
+## \--- collapse \---
 
-## tittel: Klubbleder notater
+## title: Club leader notes
 
-## Introduksjon:
+## Introduction:
 
-I dette prosjektet vil barna ha mulighet til å skrive sitt eget CSS. De vil også redigere og skrive CSS egenskaper og selektorer for å lage sin egen plakat.
+In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
 
-## Online ressurser
+## Online Resources
 
-Vi anbefaler at du bruker [trinket](https://trinket.io/) til å skrive HTML & CSS online. Dette prosjektet inneholder følgende pyntegjenstander:
+We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
 
-* [Ønsket startpunkt - jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* ['Wanted' starting point -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
-Barn kan også benytte seg av denne tomme pynten [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) å skrive sin egen HTML & CSS, eller alternativt kan de bruke denne malepinken [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Det er også en pyntegjenstander som inneholder en prøveoppløsning til utfordringene:
+There is also a trinket containing a sample solution to the challenges:
 
-* ['Wanted' Ferdig - trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* ['Wanted' Finished -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
 ## Offline Resources
 
-Dette prosjektet kan være [fullført offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) hvis det er foretrukket. Du kan få tilgang til prosjektressursene ved å klikke på lenken "Project Materials" for dette prosjektet. Denne lenken inneholder en del "Prosjektressurser", som inneholder ressurser som barn trenger for å fullføre dette prosjektet uten nett. Sørg for at hvert barn har tilgang til en kopi av disse ressursene. Denne delen inneholder følgende filer:
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
-* mal / index.html
-* mal / style.css
-* ønsket / index.html
-* ønsket / style.css
-* ønsket / robot.png
+* template/index.html
+* template/style.css
+* wanted/index.html
+* wanted/style.css
+* wanted/robot.png
 
-Du kan også finne en fullført versjon av prosjektets utfordringer i delen Frivillige ressurser, som inneholder:
+You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
-* ønsket ferdig / index.html
-* ønsket ferdig / style.css
-* ønsket ferdig / robot.png
+* wanted-finished/index.html
+* wanted-finished/style.css
+* wanted-finished/robot.png
 
-(Alle ressursene ovenfor er også nedlastbare som prosjekt og frivillig `.zip` filer.)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Læringsmål
+## Learning Objectives
 
-* Dette prosjektet gir barn muligheten til å skrive sitt eget CSS for å utforme en nettside.
+* This project gives children the opportunity to write their own CSS to style a webpage.
 
-Dette prosjektet dekker elementer fra følgende tråder av [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Design grunnleggende 2D og 3D eiendeler](https://www.raspberrypi.org/curriculum/design/creator).
+* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## utfordringer
+## Challenges
 
-* "Forbedre plakaten" - legge til nye CSS-egenskaper til `div` -velgeren;
-* "Forbedre bildet ditt" - legge til nye CSS egenskaper til `img` velgeren;
-* "Gjør din plakat kjempebra" - legger til nye CSS egenskaper og nye `h3` og `p` selectors;
-* "Annonsere en hendelse" - Skrive og redigere HTML og CSS-kode.
+* "Improving your poster" - adding new CSS properties to the `div` selector;
+* "Improving your image" - adding new CSS properties to the `img` selector;
+* "Make your poster awesome" - adding new CSS properties and new `h3` and `p` selectors;
+* "Advertise an event" - Writing and editing HTML and CSS code.
 
-\--- / kollaps \---
+\--- /collapse \---
 
-## \--- kollaps \---
+## \--- collapse \---
 
-## tittel: Prosjektmaterialer
+## title: Project materials
 
-## Prosjektressurser
+## Project resources
 
-* [.zip-fil som inneholder alle prosjektressurser](resources/wanted-project-resources.zip)
-* [Online Trinket som inneholder alle 'Wanted!' prosjektressurser](http://jumpto.cc/web-wanted)
-* [Online Trinket-mal](http://jumpto.cc/trinket-template)
+* [.zip file containing all project resources](resources/wanted-project-resources.zip)
+* [Online Trinket containing all 'Wanted!' project resources](http://jumpto.cc/web-wanted)
+* [Online Trinket template](http://jumpto.cc/trinket-template)
 * [Online blank Trinket](http://jumpto.cc/trinket-blank)
-* [mal / index.html](resources/template-index.html)
-* [mal / style.css](resources/template-style.css)
-* [ønsket / index.html](resources/wanted-index.html)
-* [ønsket / style.css](resources/wanted-style.css)
-* [ønsket / robot.png](resources/wanted-robot.png)
+* [template/index.html](resources/template-index.html)
+* [template/style.css](resources/template-style.css)
+* [wanted/index.html](resources/wanted-index.html)
+* [wanted/style.css](resources/wanted-style.css)
+* [wanted/robot.png](resources/wanted-robot.png)
 
-## Klubblederressurser
+## Club leader resources
 
-* [.zip-fil som inneholder alle ferdige prosjektressurser](resources/wanted-volunteer-resources.zip)
-* [Online gjennomført Trinket-prosjekt](https://trinket.io/html/ebeb56398a)
-* [ønsket ferdig / index.html](resources/wanted-finished-index.html)
-* [ønsket ferdig / style.css](resources/wanted-finished-style.css)
-* [twanted-ferdig / robot.png](resources/twanted-finished-robot.png)
+* [.zip file containing all completed project resources](resources/wanted-volunteer-resources.zip)
+* [Online completed Trinket project](https://trinket.io/html/ebeb56398a)
+* [wanted-finished/index.html](resources/wanted-finished-index.html)
+* [wanted-finished/style.css](resources/wanted-finished-style.css)
+* [twanted-finished/robot.png](resources/twanted-finished-robot.png)
 
-\--- / kollaps \---
+\--- /collapse \---
