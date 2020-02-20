@@ -1,23 +1,23 @@
-\--- utfordring \---
+\--- challenge \---
 
-## Utfordring: Gjør din plakat kjempebra!
+## Challenge: Make your poster awesome!
 
-Legg til mer CSS-kode for å stile `<h3>` overskriftene og avsnittene dine.
+Add more CSS code to style your `<h3>` headings and your paragraphs.
 
-![skjermbilde](images/wanted-final.png)
+![screenshot](images/wanted-final.png)
 
-Her er en liste over noen CSS-egenskaper du kan bruke:
+Here's a list of some CSS properties you can use:
 
-    farge svart;
-    bakgrunn: hvit;
-    font-familie: Arial / Comic Sans MS / Courier / Impact / Tahoma;
-    skriftstørrelse: 12pt;
+    color: black;
+    background: white;
+    font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
+    font-size: 12pt;
     font-weight: bold;
-    tekst-dekorasjon: understreke overlinje gjennom;
+    text-decoration: underline overline line-through;
     margin: 10px;
-    polstring: 10px;
-    bredde: 100px;
-    høyde: 100px;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
     
 
-\--- /utfordring \---
+\--- /challenge \---
