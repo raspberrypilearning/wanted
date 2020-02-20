@@ -1,23 +1,23 @@
-\--- چالش \---
+\--- challenge \---
 
-## چالش: پوستر شما عالی است!
+## Challenge: Make your poster awesome!
 
-اضافه کردن کد CSS بیشتر به سبک خود را `<h3>` عنوان و پاراگراف خود را.
+Add more CSS code to style your `<h3>` headings and your paragraphs.
 
-![تصویری](images/wanted-final.png)
+![screenshot](images/wanted-final.png)
 
-در اینجا یک لیست از برخی از ویژگی های CSS شما می توانید استفاده کنید:
+Here's a list of some CSS properties you can use:
 
-    رنگ سیاه؛
-    پس زمینه: سفید؛
-    فونت خانواده: Arial / Comic Sans MS / Courier / Impact / Tahoma؛
-    فونت اندازه: 12pt؛
-    font-weight: bold؛
-    دکوراسیون متن: زیر خط خطی زیر خط کشیدگی؛
-    حاشیه: 10 پیکسل؛
-    پاکت: 10px؛
-    عرض: 100 پیکسل؛
-    ارتفاع: 100 پیکسل.
+    color: black;
+    background: white;
+    font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
+    font-size: 12pt;
+    font-weight: bold;
+    text-decoration: underline overline line-through;
+    margin: 10px;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
     
 
-\--- \--- چالش \---
+\--- /challenge \---
