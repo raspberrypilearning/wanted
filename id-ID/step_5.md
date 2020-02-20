@@ -1,9 +1,9 @@
-\--- tantangan \---
+\--- challenge \---
 
-## Tantangan: Memperindah gambar mu
+## Challenge: Improving your image
 
-Dapatkah kamu memberi warna latar belakang untuk gambar anda? Atau garis batas yang membulat?
+Can you give your image a background colour? Or a rounded border?
 
-Kamu dapat menemukan lebih banyak nama warna CSS di <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
+You can find more CSS colour names at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
 
-\--- / tantangan \---
+\--- /challenge \---
