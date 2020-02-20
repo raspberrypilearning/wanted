@@ -1,23 +1,23 @@
-\---挑戰\---
+\--- challenge \---
 
-## 挑戰：讓你的海報真棒！
+## Challenge: Make your poster awesome!
 
-添加更多CSS代碼來設置您的 `<h3>` 標題和段落的樣式。
+Add more CSS code to style your `<h3>` headings and your paragraphs.
 
-![截圖](images/wanted-final.png)
+![screenshot](images/wanted-final.png)
 
-以下是您可以使用的一些CSS屬性的列表：
+Here's a list of some CSS properties you can use:
 
-    顏色：黑色;
-    背景：白色;
-    字體系列：Arial / Comic Sans MS / Courier / Impact / Tahoma;
-    字體大小：12pt;
-    字體重量：粗體;
-    文字裝飾：下劃線過線;
-    保證金：10px;
-    填充：10px;
-    寬度：100px;
-    高：100px;
+    color: black;
+    background: white;
+    font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
+    font-size: 12pt;
+    font-weight: bold;
+    text-decoration: underline overline line-through;
+    margin: 10px;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
     
 
-\--- /挑戰\---
+\--- /challenge \---
