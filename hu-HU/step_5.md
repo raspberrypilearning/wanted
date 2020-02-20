@@ -1,9 +1,9 @@
-\--- kihívás \---
+\--- challenge \---
 
-## Kihívás: A kép javítása
+## Challenge: Improving your image
 
-Meg tudod adni a kép háttér színét? Vagy lekerekített szegéllyel?
+Can you give your image a background colour? Or a rounded border?
 
-További CSS színneveket a <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
+You can find more CSS colour names at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
 
 \--- /challenge \---
