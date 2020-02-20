@@ -4,9 +4,9 @@ Let's start by editing the CSS code for the poster.
 
 + Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
-    परियोजना इस तरह दिखनी चाहिए:
+    The project should look like this:
     
-    ![स्क्रीनशॉट](images/wanted-starter.png)
+    ![screenshot](images/wanted-starter.png)
 
 + Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
     
@@ -36,7 +36,7 @@ Let's start by editing the CSS code for the poster.
 
 + Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
     
-    ![स्क्रीनशॉट](images/wanted-newline.png)
+    ![screenshot](images/wanted-newline.png)
     
     Type the following code on your new blank line:
     
@@ -45,4 +45,4 @@ Let's start by editing the CSS code for the poster.
     
     Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
     
-    ![स्क्रीनशॉट](images/wanted-background.png)
+    ![screenshot](images/wanted-background.png)
