@@ -1,48 +1,48 @@
-## Styling din plakat
+## Styling your poster
 
-La oss starte med å redigere CSS-koden for plakaten.
+Let's start by editing the CSS code for the poster.
 
-+ Åpne denne pyntet: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
-    Prosjektet skal se slik ut:
+    The project should look like this:
     
-    ![skjermbilde](images/wanted-starter.png)
+    ![screenshot](images/wanted-starter.png)
 
-+ Klikk på kategorien "style.css". Du vil merke at det allerede finnes CSS egenskaper for `div` inneholder de forskjellige delene av plakaten.
++ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
     
         div {
             text-align: center;
-            overløp: skjult;
-            border: 2px solid svart;
-            bredde: 300px;
+            overflow: hidden;
+            border: 2px solid black;
+            width: 300px;
         }   
         
 
-+ La oss begynne med å endre `tekstjustering` egenskapen:
++ Let's start by altering the `text-align` property:
     
-        tekst-align: center;
+        text-align: center;
         
     
-    Hva skjer når du endrer ordet `senter` til `igjen` eller `høyre`?
+    What happens when you change the word `center` to `left` or `right`?
 
-+ Hva med `grensen` eiendommen?
++ How about the `border` property?
     
         border: 2px solid black;
         
     
-    `2px` i koden ovenfor betyr 2 piksler. Hva skjer når du bytter `2px solid svart` til `4px prikket rødt`?
+    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
 
-+ Endre `bredden` på plakaten til `400px`. Hva skjer med plakaten?
++ Change the `width` of the poster to `400px`. What happens to the poster?
 
-+ La oss legge til noe CSS for å angi bakgrunnsfargen på plakaten. Gå til slutten av linje 5 i koden din og trykk på retur, slik at du har en ny blank linje.
++ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
     
-    ![skjermbilde](images/wanted-newline.png)
+    ![screenshot](images/wanted-newline.png)
     
-    Skriv inn følgende kode på den nye blanke linjen:
+    Type the following code on your new blank line:
     
-        bakgrunn: gul;
+        background: yellow;
         
     
-    Pass på at du skriver inn koden *nøyaktig* som den er over. Du bør legge merke til at bakgrunnen til `<div>` er nå gul.
+    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
     
-    ![skjermbilde](images/wanted-background.png)
+    ![screenshot](images/wanted-background.png)
