@@ -1,35 +1,35 @@
 ---
-hero_image: images / wanted.png
-theme: oransje
+hero_image: images/wanted.png
+theme: orange
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-1, programmering-0, phys-comp-0, produksjon-0, fellesskap-0
-title: Ønsket!
-description: Lær hvordan du lager din egen plakat.
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: Wanted!
+description: Learn how to make your own poster.
 original_url: https://codeclubprojects.org/en-GB/webdev/wanted
-interests: Kunst
+interests: art
 technologies: html-css-javascript
-site_areas: prosjekter
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 3.0.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduksjon
+    title: Introduction
   - 
-    title: Styling din plakat
+    title: Styling your poster
   - 
-    title: 'Utfordring: Forbedre plakaten'
+    title: 'Challenge: Improving your poster'
   - 
-    title: Styling bilder
+    title: Styling images
   - 
-    title: 'Utfordring: Forbedre bildet ditt'
+    title: 'Challenge: Improving your image'
   - 
-    title: Styling overskrifter
+    title: Styling headings
   - 
-    title: 'Utfordring: Gjør din plakat kjempebra!'
+    title: 'Challenge: Make your poster awesome!'
   - 
-    title: 'Utfordring: Annonser en hendelse!'
+    title: 'Challenge: Advertise an event!'
