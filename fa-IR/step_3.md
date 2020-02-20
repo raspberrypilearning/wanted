@@ -1,12 +1,12 @@
-\--- چالش \---
+\--- challenge \---
 
-## چالش: بهبود پوستر شما
+## Challenge: Improving your poster
 
-ویژگی CSS زیر را به سبک `div`:
+Add the following CSS property to your `div` style:
 
-    مرز شعاع: 40px؛
+    border-radius: 40px;
     
 
-این ویژگی چیست؟ اگر عدد در کد بالا را تغییر دهید چه اتفاقی می افتد؟
+What does this property do? What happens if you change the number in the code above?
 
-\--- \--- چالش \---
+\--- /challenge \---
