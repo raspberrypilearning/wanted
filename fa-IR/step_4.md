@@ -1,45 +1,45 @@
-## تصاویر یک ظاهر طراحی شده
+## Styling images
 
-اجازه دهید سبک تصویر را در پوستر بهبود بخشیم.
+Let's improve the style of the image in the poster.
 
-+ در حال حاضر، هیچ ویژگی CSS برای تگ `<img>` ، بنابراین اجازه دهید تعدادی را اضافه کنیم!
++ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
     
-    در ابتدا، کد زیر زیر CSS را برای div خود اضافه کنید:
+    Firstly, add the following code underneath the CSS for your div:
     
         img {
         
         }
         
     
-    ![تصویری](images/wanted-img-css.png)
+    ![screenshot](images/wanted-img-css.png)
 
 + We can now add CSS properties for images between the curly brackets.
     
-    به عنوان مثال، این کد را از بین براکت های مجعد برای اضافه کردن عرض تصویر اضافه کنید:
+    For example, add this code between the curly brackets to set the width of the image:
     
-        عرض: 100px؛
+        width: 100px;
         
     
-    خواهید دید که اندازه تصویر تغییر میکند، به طوری که عرض آن 100 پیکسل است.
+    You'll see that the size of the image changes, so that its width is 100 pixels.
     
-    ![تصویری](images/wanted-img-width.png)
+    ![screenshot](images/wanted-img-width.png)
 
-+ شما همچنین می توانید یک حاشیه در اطراف تصویر با این کد اضافه کنید:
++ You can also add a border around the image with this code:
     
-        مرز: 1px جامد سیاه و سفید؛
+        border: 1px solid black;
         
 
-+ آیا متوجه شده اید که بین تصویر و مرز فاصله زیادی وجود ندارد؟
++ Have you noticed that there's not much space between the image and the border?
     
-    ![تصویری](images/wanted-img-border.png)
+    ![screenshot](images/wanted-img-border.png)
     
-    شما می توانید با افزودن برخی از پهنای باند در اطراف تصویر را رفع کنید.
+    You can fix this by adding some padding around the image:
     
-        padding: 10px؛
+        padding: 10px;
         
     
-    چسباندن فضای بین محتوای (در این مورد یک تصویر) و مرز آن است.
+    Padding is the space between the content (in this case an image) and its border.
     
-    ![تصویری](images/wanted-img-padding.png)
+    ![screenshot](images/wanted-img-padding.png)
     
-    فکر می کنید اگر شما تغییر رنگ را به `50px`؟
+    What do you think would happen if you changed the padding to `50px`?
