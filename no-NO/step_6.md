@@ -1,39 +1,39 @@
-## Styling overskrifter
+## Styling headings
 
-La oss forbedre stilen på `<h1>` overskriften.
+Let's improve the style of the `<h1>` heading.
 
-+ Legg til følgende kode under bildet ditt:
++ Add the following code underneath your image's CSS:
     
         h1 {
         
         }
         
     
-    Dette er hvor du legger til CSS-egenskaper for din hoved `<h1>` overskrift.
+    This is where you'll add CSS properties for your main `<h1>` heading.
 
-+ For å endre skrifttypen for `<h1>` overskriftene, legg til følgende kode mellom de krøllete parentesene:
++ To change the font of your `<h1>` headings, add the following code between the curly brackets:
     
         font-family: Impact;
         
 
-+ Du kan også endre størrelsen på overskriften:
++ You can also change the size of the heading:
     
-        skriftstørrelse: 50pt;
+        font-size: 50pt;
         
 
-+ Har du lagt merke til at det er en stor plass mellom `<h1>` overskriften og ting rundt den?
++ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
     
-    ![skjermbilde](images/wanted-h1-margin.png)
+    ![screenshot](images/wanted-h1-margin.png)
     
-    Dette skyldes at det er en margin rundt overskriften. En margin er mellomrommet mellom elementet (i dette tilfellet en overskrift) og de andre tingene rundt den.
+    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
     
-    Du kan gjøre marginen mindre med denne koden:
+    You can make the margin smaller with this code:
     
         margin: 10px;
         
     
-    ![skjermbilde](images/wanted-h1-margin-small.png)
+    ![screenshot](images/wanted-h1-margin-small.png)
 
-+ Du kan også understreke overskriften din:
++ You can also underline your heading:
     
-        tekst-dekorasjon: understreke;
+        text-decoration: underline;
