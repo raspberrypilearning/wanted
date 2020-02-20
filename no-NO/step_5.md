@@ -1,9 +1,9 @@
-\--- utfordring \---
+\--- challenge \---
 
-## Utfordring: Forbedre bildet ditt
+## Challenge: Improving your image
 
-Kan du gi bildet ditt en bakgrunnsfarge? Eller en avrundet grense?
+Can you give your image a background colour? Or a rounded border?
 
-Du finner flere CSS-fargenavn på <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
+You can find more CSS colour names at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
 
-\--- /utfordring \---
+\--- /challenge \---
