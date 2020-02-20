@@ -1,45 +1,45 @@
-## Gambar Styling
+## Styling images
 
-Mari tingkatkan gaya gambar di poster.
+Let's improve the style of the image in the poster.
 
-+ Saat ini, tidak ada properti CSS untuk tag `<img>` , jadi mari tambahkan beberapa!
++ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
     
-    Pertama, tambahkan kode berikut di bawah CSS untuk div kamu:
+    Firstly, add the following code underneath the CSS for your div:
     
         img {
         
         }
         
     
-    ![tangkapan layar](images/wanted-img-css.png)
+    ![screenshot](images/wanted-img-css.png)
 
-+ Sekarang kita bisa menambahkan properti CSS pada gambar di antara tanda kurung.
++ We can now add CSS properties for images between the curly brackets.
     
-    Contohnya, tambahkan kode ini di antara kurung kurawal untuk mengatur lebar gambar:
+    For example, add this code between the curly brackets to set the width of the image:
     
         width: 100px;
         
     
-    Kamu akan melihat bahwa ukuran gambar berubah, sehingga lebarnya 100 piksel.
+    You'll see that the size of the image changes, so that its width is 100 pixels.
     
-    ![tangkapan layar](images/wanted-img-width.png)
+    ![screenshot](images/wanted-img-width.png)
 
-+ Kamu juga dapat menambahkan garis batas di sekitar gambar dengan kode ini:
++ You can also add a border around the image with this code:
     
         border: 1px solid black;
         
 
-+ Pernahkah kamu memperhatikan bahwa tidak ada banyak ruang antara gambar dan perbatasan?
++ Have you noticed that there's not much space between the image and the border?
     
-    ![tangkapan layar](images/wanted-img-border.png)
+    ![screenshot](images/wanted-img-border.png)
     
-    Kamu dapat memperbaikinya dengan menambahkan beberapa padding di sekitar gambar:
+    You can fix this by adding some padding around the image:
     
         padding: 10px;
         
     
-    Padding adalah ruang antara konten (dalam hal ini gambar) dan garis batasnya.
+    Padding is the space between the content (in this case an image) and its border.
     
-    ![tangkapan layar](images/wanted-img-padding.png)
+    ![screenshot](images/wanted-img-padding.png)
     
-    Menurut kamu apa yang akan terjadi jika Anda mengubah padding menjadi `50px`?
+    What do you think would happen if you changed the padding to `50px`?
