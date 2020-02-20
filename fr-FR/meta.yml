@@ -1,3 +1,4 @@
+---
 hero_image: images/wanted.png
 theme: orange
 duration: 2
@@ -5,22 +6,22 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Avis de recherche !
-description: Apprendre à créer votre propre affiche.
+title: Recherché !
+description: Apprends à créer ta propre affiche.
 original_url: https://codeclubprojects.org/en-GB/webdev/wanted
 interests: art
 technologies: html-css-javascript
 site_areas: projects
 hardware: ''
 software: html-css-javascript
-version: 3
+version: 3.0.1
 last_tested: 2017-01-01
-steps: 
-- title: Introduction
-- title: Style ton poster
-- title: 'Defi: Améliore ton poster'
-- title: Style ton image
-- title: 'Défi: Améliore ton image'
-- title: Style ton titre
-- title: 'Défi: Rend ton poster encore plus cool!'
-- title: "Défi: Fait la pub d'un evenement!"
+steps:
+  - title: Introduction
+  - title: Stylise ton affiche
+  - title: 'Defi: Améliore ton affiche'
+  - title: Stylisation des images
+  - title: 'Défi: Améliore ton image'
+  - title: Stylise ton titre
+  - title: 'Défi: Rends ton affiche encore plus cool !'
+  - title: 'Défi: Annonce un événement !'
