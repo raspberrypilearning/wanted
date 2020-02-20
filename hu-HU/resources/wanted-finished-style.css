@@ -1,38 +1,38 @@
-test {
-  háttér: világoskék;
+body {
+  background: lightblue;
 }
 
 div {
-  szöveg igazítás: középpont;
-  túlcsordulás: rejtett;
-  szegély: 5 képpontos, piros pontozott;
-  szélesség: 300 képpont;
-  háttér: sárga;
+  text-align: center;
+  overflow: hidden;
+  border: 5px dotted red;
+  width: 300px;
+  background: yellow;
 }
 
 img {
-  szélesség: 100 képpont;
-  szegély: 2 képpont szilárd fekete;
-  párnázat: 10 képpont;
-  háttér: fehér;
-  margin: 10 képpont;
+  width: 100px;
+  border: 2px solid black;
+  padding: 10px;
+  background: white;
+  margin: 10px;
 }
 
 h1 {
-  font-család: Impact;
-  betűméret: 50pt;
-  szövegdíszítés: aláhúzás aláhúzás;
-  margin: 10 képpont;
+  font-family: Impact;
+  font-size: 50pt;
+  text-decoration: underline overline;
+  margin: 10px;
 }
 
 h3 {
-  font-család: Impact;
-  betűméret: 18pt;
-  margin: 10 képpont;
+  font-family: Impact;
+  font-size: 18pt;
+  margin: 10px;
 }
 
 p {
-  betűtípus-család: Arial;
-  betűméret: 12pt;
-  margin: 20 képpont;
+  font-family: Arial;
+  font-size: 12pt;
+  margin: 20px;
 }
