@@ -1,9 +1,9 @@
-\---挑戰\---
+\--- challenge \---
 
-## 挑戰：改善你的形象
+## Challenge: Improving your image
 
-你能給你的圖像一個背景色嗎？還是圓形邊框？
+Can you give your image a background colour? Or a rounded border?
 
-您可以在 <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>找到更多CSS顏色名稱。
+You can find more CSS colour names at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
 
-\--- /挑戰\---
+\--- /challenge \---
