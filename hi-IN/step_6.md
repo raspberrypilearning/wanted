@@ -23,7 +23,7 @@ Let's improve the style of the `<h1>` heading.
 
 + Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
     
-    ![स्क्रीनशॉट](images/wanted-h1-margin.png)
+    ![screenshot](images/wanted-h1-margin.png)
     
     This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
     
@@ -32,7 +32,7 @@ Let's improve the style of the `<h1>` heading.
         margin: 10px;
         
     
-    ![स्क्रीनशॉट](images/wanted-h1-margin-small.png)
+    ![screenshot](images/wanted-h1-margin-small.png)
 
 + You can also underline your heading:
     
