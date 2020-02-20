@@ -1,10 +1,10 @@
-## Style d'image
+## Stylisation des images
 
 Améliorons le style de l'image dans l'affiche.
 
-+ Pour l'instant, il n'y a pas de propriétés CSS pour ta balise `<img>`, ajoutons-en!
++ Pour l'instant, il n'y a pas de propriétés CSS pour ta balise `<img>`, ajoutons-en !
     
-    Premièrement, ajoute le code suivant sous le CSS pour ton div:
+    Premièrement, ajoute le code suivant sous le CSS pour ton div :
     
         img {
         
@@ -15,7 +15,7 @@ Améliorons le style de l'image dans l'affiche.
 
 + Nous pouvons maintenant ajouter des propriétés CSS pour les images entre les accolades.
     
-    Par exemple, ajoute ce code entre les accolades pour définir la largeur de l'image:
+    Par exemple, ajoute ce code entre les accolades pour définir la largeur de l'image :
     
         width: 100px;
         
@@ -24,21 +24,21 @@ Améliorons le style de l'image dans l'affiche.
     
     ![capture d'écran](images/wanted-img-width.png)
 
-+ Tu peux également ajouter une bordure autour de l'image avec ce code:
++ Tu peux également ajouter une bordure autour de l'image avec ce code :
     
-        bordure: noir 1px;
+        border: 1px solid black;
         
 
-+ As-tu remarqué qu'il n'y a pas beaucoup d'espace entre l'image et la bordure?
++ As-tu remarqué qu'il n'y a pas beaucoup d'espace entre l'image et la bordure ?
     
-    ![screenshot](images/wanted-img-border.png)
+    ![capture d'écran](images/wanted-img-border.png)
     
-    Tu peux résoudre ce problème en ajoutant des éléments de remplissage autour de l'image:
+    Tu peux résoudre ce problème en ajoutant des éléments de remplissage autour de l'image :
     
         padding: 10px;
         
     
-    Le rembourrage est l'espace entre le contenu (dans le cas présent une image) et sa bordure.
+    Le remplissage est l'espace entre le contenu (dans ce cas une image) et sa bordure.
     
     ![capture d'écran](images/wanted-img-padding.png)
     
