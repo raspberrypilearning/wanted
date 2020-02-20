@@ -1,9 +1,9 @@
-\--- her \---
+\--- challenge \---
 
-## Her: Gwella'ch delwedd
+## Challenge: Improving your image
 
-Allwch chi roi lliw cefndir i'ch delwedd? Neu ffin crwn?
+Can you give your image a background colour? Or a rounded border?
 
-Gallwch ddod o hyd i fwy o enwau lliw CSS ar <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
+You can find more CSS colour names at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
 
 \--- /challenge \---
