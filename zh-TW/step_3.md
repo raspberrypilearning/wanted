@@ -1,12 +1,12 @@
-\---挑戰\---
+\--- challenge \---
 
-## 挑戰：改進你的海報
+## Challenge: Improving your poster
 
-將以下CSS屬性添加到 `div` 樣式：
+Add the following CSS property to your `div` style:
 
-    border-radius：40px;
+    border-radius: 40px;
     
 
-這個屬性有什麼作用？如果更改上面代碼中的數字，會發生什麼？
+What does this property do? What happens if you change the number in the code above?
 
-\--- /挑戰\---
+\--- /challenge \---
