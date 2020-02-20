@@ -1,23 +1,23 @@
-\--- her \---
+\--- challenge \---
 
-## Her: Gwnewch eich poster yn anhygoel!
+## Challenge: Make your poster awesome!
 
-Ychwanegu mwy o god CSS i steilio'ch penawdau `<h3>` a'ch paragraffau.
+Add more CSS code to style your `<h3>` headings and your paragraphs.
 
-![sgrinlun](images/wanted-final.png)
+![screenshot](images/wanted-final.png)
 
-Dyma restr o rai eiddo CSS y gallwch eu defnyddio:
+Here's a list of some CSS properties you can use:
 
-    lliw: du;
-    cefndir: gwyn;
-    teulu ffont: Arial / Comic Sans MS / Courier / Impact / Tahoma;
-    ffont maint: 12pt;
-    pwysau ffont: trwm;
-    addurno testun: tanlinellu llinell drwodd;
-    ymyl: 10px;
-    padin: 10px;
-    lled: 100px;
-    uchder: 100px;
+    color: black;
+    background: white;
+    font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
+    font-size: 12pt;
+    font-weight: bold;
+    text-decoration: underline overline line-through;
+    margin: 10px;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
     
 
 \--- /challenge \---
