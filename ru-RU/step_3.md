@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Задача: Улучшение плаката
+## Challenge: Improving your poster
 
-Добавь следующее CSS-свойство к стилю элемента `div`:
+Add the following CSS property to your `div` style:
 
     border-radius: 40px;
     
 
-На что влияет это свойство? Что будет, если поменять число в коде выше?
+What does this property do? What happens if you change the number in the code above?
 
 \--- /challenge \---
