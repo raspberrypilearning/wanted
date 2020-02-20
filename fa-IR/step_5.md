@@ -1,9 +1,9 @@
-\--- چالش \---
+\--- challenge \---
 
-## چالش: بهبود تصویر شما
+## Challenge: Improving your image
 
-می توانید تصویر خود را یک رنگ پس زمینه بگذارید؟ یا مرز گرد؟
+Can you give your image a background colour? Or a rounded border?
 
-شما می توانید نام های رنگی CSS را در <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc / colors</a>.
+You can find more CSS colour names at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
 
-\--- \--- چالش \---
+\--- /challenge \---
