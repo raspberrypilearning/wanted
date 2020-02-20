@@ -1,14 +1,14 @@
-## Stilizovanje plakata
+## Styling your poster
 
-Počnimo sa uređivanjem CSS kôda za plakat.
+Let's start by editing the CSS code for the poster.
 
-+ Otvori sljedeći trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
-    Projekat treba da izgleda ovako:
+    The project should look like this:
     
     ![screenshot](images/wanted-starter.png)
 
-+ Klikni na karticu "style.css". Primijetićeš da već postoje CSS svojstva za `div` koji sadrži različite dijelove plakata.
++ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
     
         div {
             text-align: center;
@@ -18,31 +18,31 @@ Počnimo sa uređivanjem CSS kôda za plakat.
         }   
         
 
-+ Počnimo tako što ćemo promijeniti svojstvo `text-align` (poravnanje teksta):
++ Let's start by altering the `text-align` property:
     
         text-align: center;
         
     
-    Šta se dešava kada promijeniš riječ `center` (centar) u `left` (lijevo) ili `right` (desno)?
+    What happens when you change the word `center` to `left` or `right`?
 
-+ Pogledajmo sada svojstvo `border` (okvir).
++ How about the `border` property?
     
         border: 2px solid black;
         
     
-    `2px` u gornjem kôdu označava 2 piksela. Šta će se desiti kada promijeniš `2px solid black` (2px puna crna) u `4px dotted red` (4 px tačkasta crvena)?
+    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
 
-+ Sada promijeni svojstvo `width` (širina) plakata u `400px`. Šta se dogodilo sa plakatom?
++ Change the `width` of the poster to `400px`. What happens to the poster?
 
-+ Dodajmo malo CSS-a da postavimo boju pozadine plakata. Idi na kraj 5. reda svog kôda i pritisni taster Enter da dobiješ novi prazan red.
++ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
     
     ![screenshot](images/wanted-newline.png)
     
-    U novi prazan red upiši sljedeći kôd:
+    Type the following code on your new blank line:
     
         background: yellow;
         
     
-    Pobrini se da kôd upišeš *tačno* kako je dat iznad. Primijetićeš da je pozadina za `<div>` sada žuta.
+    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
     
     ![screenshot](images/wanted-background.png)
