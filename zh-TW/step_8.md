@@ -1,7 +1,7 @@
-\---挑戰\---
+\--- challenge \---
 
-## 挑戰：廣告活動！
+## Challenge: Advertise an event!
 
-你能為你學校發生的事件製作一張海報嗎？它可能是一個遊戲，一個體育賽事，甚至是一個宣傳你的Code Club的海報！
+Can you make a poster for an event happening at your school? It could be a play, a sporting event, or even a poster advertising your Code Club!
 
-\--- /挑戰\---
+\--- /challenge \---
