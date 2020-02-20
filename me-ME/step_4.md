@@ -1,10 +1,10 @@
-## Stilizovanje slika
+## Styling images
 
-Poboljšajmo stil slike na plakatu.
+Let's improve the style of the image in the poster.
 
-+ Trenutno nema nijednog CSS svojstva za tvoju oznaku `<img>`. Dodajmo neke!
++ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
     
-    Za početak, dodaj sljedeći kôd ispod CSS-a za svoj div:
+    Firstly, add the following code underneath the CSS for your div:
     
         img {
         
@@ -15,31 +15,31 @@ Poboljšajmo stil slike na plakatu.
 
 + We can now add CSS properties for images between the curly brackets.
     
-    Na primjer, između vitičastih zagrada dodaj sljedeći kôd da odrediš širinu slike:
+    For example, add this code between the curly brackets to set the width of the image:
     
         width: 100px;
         
     
-    Vidjećeš da se veličina slike promijenila. Sada je njena širina 100 piksela.
+    You'll see that the size of the image changes, so that its width is 100 pixels.
     
     ![screenshot](images/wanted-img-width.png)
 
-+ Možeš da dodaš i okvir oko slike koristeći sljedeći kôd:
++ You can also add a border around the image with this code:
     
         border: 1px solid black;
         
 
-+ Da li primjećuješ da nema puno mjesta između slike i okvira?
++ Have you noticed that there's not much space between the image and the border?
     
     ![screenshot](images/wanted-img-border.png)
     
-    To možeš da popraviš dodajući 'padding' oko slike:
+    You can fix this by adding some padding around the image:
     
         padding: 10px;
         
     
-    'Padding' je prostor između sadržaja (u ovom slučaju slike) i njegovog okvira.
+    Padding is the space between the content (in this case an image) and its border.
     
     ![screenshot](images/wanted-img-padding.png)
     
-    Šta misliš da će se dogoditi ako promijeniš 'padding' na `50px`?
+    What do you think would happen if you changed the padding to `50px`?
