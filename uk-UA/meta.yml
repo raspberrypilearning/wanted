@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Розшукується!
-description: Дізнайтеся, як створити власний плакат.
+title: Розшук!
+description: Дізнайся, як створити власний плакат.
 original_url: https://codeclubprojects.org/en-GB/webdev/wanted
 interests: art
 technologies: html-css-javascript
@@ -20,16 +20,16 @@ steps:
   - 
     title: Вступ
   - 
-    title: Стилізуйте ваш плакат
+    title: Дизайн твого плакату
   - 
-    title: 'Завдання: вдоскональте ваш постер'
+    title: 'Завдання: покращення плакату'
   - 
-    title: Стилізуйте зображення
+    title: Стиль зображень
   - 
-    title: 'Завдання: вдоскональте ваше зображення'
+    title: 'Завдання: покращення зображення'
   - 
-    title: Стилізуйте заголовки
+    title: Стиль заголовків
   - 
-    title: 'Завдання: Зробіть ваш постер надзвичайним!'
+    title: 'Завдання: зроби свій плакат класним!'
   - 
-    title: 'Завдання: Розрекламуйте подію!'
+    title: 'Завдання: розрекламуй якусь подію!'
