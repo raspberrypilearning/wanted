@@ -69,7 +69,7 @@
 
 ## 项目资源
 
-* [包含所有项目资源的.zip文件](resources/wanted-project-resources.zip)
+* [包含所有项目资源的.zip文件](https://rpf.io/p/en/wanted-go)
 * [包含所有“寻物启事”项目资源的在线 Trinket](http://jumpto.cc/web-wanted)
 * [在线 Trinket 模板](http://jumpto.cc/trinket-template)
 * [在线空白 Trinket 项目](http://jumpto.cc/trinket-blank)
@@ -81,7 +81,7 @@
 
 ## 俱乐部导师资源
 
-* [包含所有完成项目资源的.zip文件](resources/wanted-volunteer-resources.zip)
+* [包含所有完成项目资源的.zip文件](https://rpf.io/p/en/wanted-go)
 * [在线已完成的Trinket项目](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
