@@ -69,7 +69,7 @@ Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nau
 
 ## Zasoby projektu
 
-* [Plik .zip zawierający wszystkie zasoby potrzebne do wykonania projektu](resources/wanted-project-resources.zip)
+* [Plik .zip zawierający wszystkie zasoby potrzebne do wykonania projektu](https://rpf.io/p/en/wanted-go)
 * [Trinket zawierający wszystkie zasoby potrzebne do realizacji projektu "Poszukiwany!"](http://jumpto.cc/web-wanted)
 * [Pusty szablon Trinket](http://jumpto.cc/trinket-template)
 * [Pusty Trinket](http://jumpto.cc/trinket-blank)
@@ -81,7 +81,7 @@ Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nau
 
 ## Zasoby dla lidera klubu
 
-* [Plik .zip zawierający zasoby z ukończonym projektem](resources/wanted-volunteer-resources.zip)
+* [Plik .zip zawierający zasoby z ukończonym projektem](https://rpf.io/p/en/wanted-go)
 * [Trinket zawierający ukończony projekt](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
