@@ -69,7 +69,7 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Projektressourcen
 
-* [.zip-Datei mit allen Projektressourcen](resources/wanted-project-resources.zip)
+* [.zip-Datei mit allen Projektressourcen](https://rpf.io/p/en/wanted-go)
 * [Online Trinket mit allen 'Wanted!' Projektressourcen](http://jumpto.cc/web-wanted)
 * [Online Trinket-Vorlage](http://jumpto.cc/trinket-template)
 * [Leeres Online-Trinket](http://jumpto.cc/trinket-blank)
@@ -81,7 +81,7 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Ressourcen für Clubleiter
 
-* [.zip-Datei mit allen fertiggestellten Projektressourcen](resources/wanted-volunteer-resources.zip)
+* [.zip-Datei mit allen fertiggestellten Projektressourcen](https://rpf.io/p/en/wanted-go)
 * [Vollständiges Trinket-Projekt (online)](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
