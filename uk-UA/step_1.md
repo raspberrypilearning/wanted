@@ -69,7 +69,7 @@
 
 ## Ресурси проєкту
 
-* [.zip-файл, що містить всі ресурси проєкту](resources/wanted-project-resources.zip)
+* [.zip-файл, що містить всі ресурси проєкту](https://rpf.io/p/en/wanted-go)
 * [Онлайн проєкт Trinket, що містить всі ресурси проєкту "Розшук!"](http://jumpto.cc/web-wanted)
 * [Онлайн шаблон проєкту Trinket](http://jumpto.cc/trinket-template)
 * [Порожній онлайн проєкт Trinket](http://jumpto.cc/trinket-blank)
@@ -81,7 +81,7 @@
 
 ## Ресурси керівника клубу
 
-* [.zip-файл, що містить всі проєктні ресурси](resources/wanted-volunteer-resources.zip)
+* [.zip-файл, що містить всі проєктні ресурси](https://rpf.io/p/en/wanted-go)
 * [Завершений онлайн проєкт Trinket](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
