@@ -69,7 +69,7 @@ Questo progetto riguarda elementi trattati in queste sezioni del [Digital Making
 
 ## Risorse del progetto
 
-* [.zip file con tutte le risorse del progetto](resources/wanted-project-resources.zip)
+* [.zip file con tutte le risorse del progetto](https://rpf.io/p/en/wanted-go)
 * [Trinket online contenente tutte le risorse del progetto 'Wanted!'](http://jumpto.cc/web-wanted)
 * [Modello Trinket online](http://jumpto.cc/trinket-template)
 * [Trinket online vuoto](http://jumpto.cc/trinket-blank)
@@ -81,7 +81,7 @@ Questo progetto riguarda elementi trattati in queste sezioni del [Digital Making
 
 ## Risorse per gli organizzatori del club
 
-* [File .zip con tutte le risorse del progetto completate](resources/wanted-volunteer-resources.zip)
+* [File .zip con tutte le risorse del progetto completate](https://rpf.io/p/en/wanted-go)
 * [Trinket online completato](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
