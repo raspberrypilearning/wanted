@@ -69,7 +69,7 @@ Selles projektis käsitletakse elemente [Raspberry Pi digitaalse tegemise õppek
 
 ## Projekti ressursid
 
-* [.zip-fail, mis sisaldab kõiki projekti ressursse](resources/wanted-project-resources.zip)
+* [.zip-fail, mis sisaldab kõiki projekti ressursse](https://rpf.io/p/en/wanted-go)
 * [Trinket veebis, mis sisaldab kõiki projekti 'Tagaotsitav!' ressursse](http://jumpto.cc/web-wanted)
 * [Veebi-trinketi näidis](http://jumpto.cc/trinket-template)
 * [Tühi trinket veebis](http://jumpto.cc/trinket-blank)
@@ -81,7 +81,7 @@ Selles projektis käsitletakse elemente [Raspberry Pi digitaalse tegemise õppek
 
 ## Ringijuhendaja ressursid
 
-* [.zip-fail, mis sisaldab kõiki lõpetatud projekti ressursse](resources/wanted-volunteer-resources.zip)
+* [.zip-fail, mis sisaldab kõiki lõpetatud projekti ressursse](https://rpf.io/p/en/wanted-go)
 * [Lõpetatud Trinketi projekt veebis](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
