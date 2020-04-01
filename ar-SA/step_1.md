@@ -69,7 +69,7 @@
 
 ## موارد المشروع
 
-* [ملف.zip يحتوي على جميع مصادر المشروع](resources/wanted-project-resources.zip)
+* [ملف.zip يحتوي على جميع مصادر المشروع](https://rpf.io/p/en/wanted-go)
 * [ملف Trinket عبر الإنترنت يحتوي على كل موارد المشروع 'المطلوبة!'](http://jumpto.cc/web-wanted)
 * [قالب Trinket عبر الإنترنت](http://jumpto.cc/trinket-template)
 * [Trinket فارغ عبر الإنترنت](http://jumpto.cc/trinket-blank)
@@ -81,7 +81,7 @@
 
 ## موارد قادة النادي
 
-* [ملف.zip يحتوي على جميع موارد المشروع المكتملة](resources/wanted-volunteer-resources.zip)
+* [ملف.zip يحتوي على جميع موارد المشروع المكتملة](https://rpf.io/p/en/wanted-go)
 * [مشروع Trinket المكتمل على الإنترنت](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
