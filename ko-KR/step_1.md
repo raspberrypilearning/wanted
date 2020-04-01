@@ -69,7 +69,7 @@
 
 ## 프로젝트 리소스
 
-* [프로젝트의 모든 리소스가 들어있는 .zip 파일](resources/wanted-project-resources.zip)
+* [프로젝트의 모든 리소스가 들어있는 .zip 파일](https://rpf.io/p/en/wanted-go)
 * [현상수배 포스터 만들기 프로젝트 자료가 포함된 온라인 Trinket](http://jumpto.cc/web-wanted)
 * [온라인 Trinket 템플릿](http://jumpto.cc/trinket-template)
 * [빈 Trinket](http://jumpto.cc/trinket-blank)
@@ -81,7 +81,7 @@
 
 ## 교육자를 위한 자료
 
-* [완성된 모든 프로젝트 리소스가 들어있는 .zip 파일](resources/wanted-volunteer-resources.zip)
+* [완성된 모든 프로젝트 리소스가 들어있는 .zip 파일](https://rpf.io/p/en/wanted-go)
 * [완성된 온라인 Trinket 프로젝트](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
