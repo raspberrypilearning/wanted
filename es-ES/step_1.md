@@ -69,7 +69,7 @@ Este proyecto incluye elementos de los siguientes aspectos del [Currículo de cr
 
 ## Recursos del proyecto
 
-* [Archivo .zip que contiene todos los recursos del proyecto](resources/wanted-project-resources.zip)
+* [Archivo .zip que contiene todos los recursos del proyecto](https://rpf.io/p/en/wanted-go)
 * [Trinket en línea que contiene todos los recursos del proyecto '¡Se busca!'](http://jumpto.cc/web-wanted)
 * [Plantilla de Trinket en línea](http://jumpto.cc/trinket-template)
 * [Trinket en blanco en línea](http://jumpto.cc/trinket-blank)
@@ -81,7 +81,7 @@ Este proyecto incluye elementos de los siguientes aspectos del [Currículo de cr
 
 ## Recursos para los líderes de los clubes
 
-* [Archivo .zip que contiene todos los recursos de proyecto terminado](resources/wanted-volunteer-resources.zip)
+* [Archivo .zip que contiene todos los recursos de proyecto terminado](https://rpf.io/p/en/wanted-go)
 * [Proyecto Trinket terminado en línea](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
