@@ -69,7 +69,7 @@
 
 ## Πόροι έργου
 
-* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/wanted-project-resources.zip)
+* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](https://rpf.io/p/en/wanted-go)
 * [Online Trinket που περιέχει όλους τους πόρους του έργου 'Καταζητείται!'](http://jumpto.cc/web-wanted)
 * [Online πρότυπο Trinket](http://jumpto.cc/trinket-template)
 * [Online κενό Trinket](http://jumpto.cc/trinket-blank)
@@ -81,7 +81,7 @@
 
 ## Πόροι συντονιστή ομάδας
 
-* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/wanted-volunteer-resources.zip)
+* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](https://rpf.io/p/en/wanted-go)
 * [Online ολοκληρωμένο έργο στο Τrinket](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
