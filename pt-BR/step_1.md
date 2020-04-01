@@ -69,7 +69,7 @@ Este projeto abrange elementos das seguintes vertentes do [Curriculo de Criaçã
 
 ## Recursos do projeto
 
-* [Arquivo .zip contendo todos os recursos do projeto](resources/wanted-project-resources.zip)
+* [Arquivo .zip contendo todos os recursos do projeto](https://rpf.io/p/en/wanted-go)
 * [Online Trinket contendo todos os recursos do projeto 'Procurado'](https://trinket.io/html/e90a2a0254)
 * [Template Online Trinket](http://jumpto.cc/trinket-template)
 * [Online Trinket em branco](http://jumpto.cc/trinket-blank)
@@ -81,7 +81,7 @@ Este projeto abrange elementos das seguintes vertentes do [Curriculo de Criaçã
 
 ## Recursos do líder do clube
 
-* [arquivo.zip contendo todos os recursos do projeto concluídos](resources/wanted-volunteer-resources.zip)
+* [arquivo.zip contendo todos os recursos do projeto concluídos](https://rpf.io/p/en/wanted-go)
 * [Projeto Trinket online e completo](https://trinket.io/html/d9e37a503e)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
