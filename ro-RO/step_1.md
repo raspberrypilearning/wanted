@@ -69,7 +69,7 @@ Acest proiect acoperă elemente din următoarele domenii ale [Raspberry Pi Digit
 
 ## Resursele proiectului
 
-* [fișier .zip care conține toate resursele proiectului](resources/wanted-project-resources.zip)
+* [fișier .zip care conține toate resursele proiectului](https://rpf.io/p/en/wanted-go)
 * [Trinket online care conține toate resursele proiectului „Căutat!”](http://jumpto.cc/web-wanted)
 * [Șablon Trinket online](http://jumpto.cc/trinket-template)
 * [Trinket online gol](http://jumpto.cc/trinket-blank)
@@ -81,7 +81,7 @@ Acest proiect acoperă elemente din următoarele domenii ale [Raspberry Pi Digit
 
 ## Resursele liderului de club
 
-* [fișier .zip care conține toate resursele proiectului, completate](resources/wanted-volunteer-resources.zip)
+* [fișier .zip care conține toate resursele proiectului, completate](https://rpf.io/p/en/wanted-go)
 * [Proiect Trinket online, completat](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
