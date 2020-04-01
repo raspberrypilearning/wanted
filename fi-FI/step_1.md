@@ -69,7 +69,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## Project resources
 
-* [.zip file containing all project resources](resources/wanted-project-resources.zip)
+* [.zip file containing all project resources](https://rpf.io/p/en/wanted-go)
 * [Online Trinket containing all 'Wanted!' project resources](http://jumpto.cc/web-wanted)
 * [Online Trinket template](http://jumpto.cc/trinket-template)
 * [Online blank Trinket](http://jumpto.cc/trinket-blank)
@@ -81,7 +81,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## Club leader resources
 
-* [.zip file containing all completed project resources](resources/wanted-volunteer-resources.zip)
+* [.zip file containing all completed project resources](https://rpf.io/p/en/wanted-go)
 * [Online completed Trinket project](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
