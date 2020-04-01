@@ -73,7 +73,7 @@
     
     ## プロジェクト資料
     
-    * [すべてのプロジェクトリソースを含む.zipファイル](resources/wanted-project-resources.zip)
+    * [すべてのプロジェクトリソースを含む.zipファイル](https://rpf.io/p/en/wanted-go)
     * [すべての「指名手配！」を含むオンラインtrinketプロジェクトリソース](http://jumpto.cc/web-wanted)
     * [Online Trinketテンプレート](http://jumpto.cc/trinket-template)
     * [オンライン空のtrinket](http://jumpto.cc/trinket-blank)
@@ -85,7 +85,7 @@
     
     ## クラブ・リーダー向けリソース
     
-    * [完了したすべてのプロジェクトリソースを含む.zipファイル](resources/wanted-volunteer-resources.zip)
+    * [完了したすべてのプロジェクトリソースを含む.zipファイル](https://rpf.io/p/en/wanted-go)
     * [完成版プロジェクトのオンラインtrinket](https://trinket.io/html/ebeb56398a)
     * [wanted-finished/index.html](resources/wanted-finished-index.html)
     * [wanted-finished/style.css](resources/wanted-finished-style.css)
