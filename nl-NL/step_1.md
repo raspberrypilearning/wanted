@@ -69,7 +69,7 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 ## Projectbronnen
 
-* [.zip-bestand met alle projectbronnen](resources/wanted-project-resources.zip)
+* [.zip-bestand met alle projectbronnen](https://rpf.io/p/en/wanted-go)
 * [Online Trinket met daarin alle 'Gezocht!' projectbronnen](http://jumpto.cc/web-wanted)
 * [Online Trinket-sjabloon](http://jumpto.cc/trinket-template)
 * [Online lege Trinket](http://jumpto.cc/trinket-blank)
@@ -81,7 +81,7 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 ## Clubleiderbronnen
 
-* [.zip-bestand met alle voltooide projectbronnen](resources/wanted-volunteer-resources.zip)
+* [.zip-bestand met alle voltooide projectbronnen](https://rpf.io/p/en/wanted-go)
 * [Online voltooid Trinket-project](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
