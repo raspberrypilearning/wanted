@@ -69,7 +69,7 @@ Bu proje, [Raspberry Pi Sayısal Yapım Müfredatı](http://rpf.io/curriculum)'n
 
 ## Proje kaynakları
 
-* [tüm proje kaynaklarını içeren .zip dosyası](resources/wanted-project-resources.zip)
+* [tüm proje kaynaklarını içeren .zip dosyası](https://rpf.io/p/en/wanted-go)
 * [Tüm 'Aranıyor!' proje kaynaklarını içeren çevrimiçi Trinket](http://jumpto.cc/web-wanted)
 * [Çevrimiçi Trinket şablonu](http://jumpto.cc/trinket-template)
 * [Çevrimiçi boş Trinket](http://jumpto.cc/trinket-blank)
@@ -81,7 +81,7 @@ Bu proje, [Raspberry Pi Sayısal Yapım Müfredatı](http://rpf.io/curriculum)'n
 
 ## Kulüp lideri için kaynaklar
 
-* [tamamlanmış tüm proje kaynaklarını içeren .zip dosyası](resources/wanted-volunteer-resources.zip)
+* [tamamlanmış tüm proje kaynaklarını içeren .zip dosyası](https://rpf.io/p/en/wanted-go)
 * [Çevrimiçi tamamlanmış Trinket projesi](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
