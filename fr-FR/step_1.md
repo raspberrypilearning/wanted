@@ -69,7 +69,7 @@ Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativi
 
 ## Ressources pour le projet
 
-* [Fichier .zip contenant toutes les ressources du projet](resources/wanted-project-resources.zip)
+* [Fichier .zip contenant toutes les ressources du projet](https://rpf.io/p/en/wanted-go)
 * [Trinket en-ligne contenant les ressources du projet « Recherché »](http://jumpto.cc/web-wanted)
 * [Modèle de trinket en ligne](http://jumpto.cc/trinket-template)
 * [Trinket vierge](http://jumpto.cc/trinket-blank)
@@ -81,7 +81,7 @@ Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativi
 
 ## Ressources pour le responsable de club
 
-* [Fichier .zip contenant toutes les ressources du projet terminé](resources/wanted-volunteer-resources.zip)
+* [Fichier .zip contenant toutes les ressources du projet terminé](https://rpf.io/p/en/wanted-go)
 * [Trinket Python en ligne vierge](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
