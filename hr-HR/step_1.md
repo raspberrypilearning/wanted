@@ -69,7 +69,7 @@ Ovaj projekt pokriva elemente sljedećih dijelova kurikuluma [Raspberry Pi Digit
 
 ## Resursi projekta
 
-* [.zip datoteka koja sadrži sve materijale projekta](resources/wanted-project-resources.zip)
+* [.zip datoteka koja sadrži sve materijale projekta](https://rpf.io/p/en/wanted-go)
 * [Online Trinket sadrži sve 'Tražen!' resurse projekta](http://jumpto.cc/web-wanted)
 * [Online Trinket predložak](http://jumpto.cc/trinket-template)
 * [Online prazan Trinket](http://jumpto.cc/trinket-blank)
@@ -81,7 +81,7 @@ Ovaj projekt pokriva elemente sljedećih dijelova kurikuluma [Raspberry Pi Digit
 
 ## Materijali za voditelja Kluba
 
-* [.zip datoteka koja sadrži sve dovršene materijale projekta](resources/wanted-volunteer-resources.zip)
+* [.zip datoteka koja sadrži sve dovršene materijale projekta](https://rpf.io/p/en/wanted-go)
 * [Dovršeni online Trinket projekt](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
