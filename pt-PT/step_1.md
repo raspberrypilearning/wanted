@@ -69,7 +69,7 @@ Este projeto abrange elementos das seguintes áreas do [ Currículo Raspberry Pi
 
 ## Recursos do projeto
 
-* [Arquivo .zip contendo todos os recursos do projeto](resources/wanted-project-resources.zip)
+* [Arquivo .zip contendo todos os recursos do projeto](https://rpf.io/p/en/wanted-go)
 * [Trinket on-line contendo todos os recursos do projeto 'Procurado!'](http://jumpto.cc/web-wanted)
 * [Trinket modelo on-line](http://jumpto.cc/trinket-template)
 * [Trinket em branco on-line](http://jumpto.cc/trinket-blank)
@@ -81,7 +81,7 @@ Este projeto abrange elementos das seguintes áreas do [ Currículo Raspberry Pi
 
 ## Recursos do líder de clube
 
-* [Arquivo .zip contendo todos os recursos do projeto concluídos](resources/wanted-volunteer-resources.zip)
+* [Arquivo .zip contendo todos os recursos do projeto concluídos](https://rpf.io/p/en/wanted-go)
 * [Projeto Trinket completo on-line](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
