@@ -1,39 +1,39 @@
-## Styling headings
+## स्टाइलिंग हेडिंग
 
-Let's improve the style of the `<h1>` heading.
+चलिए `<h1>` शीर्षक की शैली में सुधार करते हैं।
 
-+ Add the following code underneath your image's CSS:
++ अपनी छवि के सीएसएस के नीचे निम्नलिखित कोड जोड़ें:
     
         h1 {
         
         }
         
     
-    This is where you'll add CSS properties for your main `<h1>` heading.
+    यह वह जगह है जहाँ आप अपने मुख्य `<h1>` शीर्षक के लिए सीएसएस गुण जोड़ेंगे।
 
-+ To change the font of your `<h1>` headings, add the following code between the curly brackets:
++ अपने `<h1>` शीर्षकों के मुख को बदलने के लिए, घुंघराले कोष्ठक के बीच निम्न कोड जोड़ें:
     
         font-family: Impact;
         
 
-+ You can also change the size of the heading:
++ आप शीर्षक का आकार भी बदल सकते हैं:
     
         font-size: 50pt;
         
 
-+ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
++ क्या आपने देखा है कि `<h1>` शीर्षक और उसके चारों ओर सामान के बीच एक बड़ा स्थान है?
     
-    ![screenshot](images/wanted-h1-margin.png)
+    ![स्क्रीनशॉट](images/wanted-h1-margin.png)
     
-    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
+    ऐसा इसलिए है क्योंकि हेडिंग के आसपास एक मार्जिन है। एक मार्जिन तत्व के बीच का स्थान है (इस मामले में एक शीर्षक) और इसके आसपास का अन्य सामान।
     
-    You can make the margin smaller with this code:
+    आप इस कोड के साथ मार्जिन को छोटा कर सकते हैं:
     
         margin: 10px;
         
     
-    ![screenshot](images/wanted-h1-margin-small.png)
+    ![स्क्रीनशॉट](images/wanted-h1-margin-small.png)
 
-+ You can also underline your heading:
++ आप अपने शीर्षक को भी रेखांकित कर सकते हैं:
     
         text-decoration: underline;
