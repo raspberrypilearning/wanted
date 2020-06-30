@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: Improving your poster
+## चुनौती: आपके पोस्टर में सुधार करे
 
-Add the following CSS property to your `div` style:
+अपने ` div में निम्नलिखित सीएसएस संपत्ति जोड़ें ` अंदाज:
 
     border-radius: 40px;
     
 
-What does this property do? What happens if you change the number in the code above?
+यह संपत्ति क्या करती है? यदि आप उपरोक्त कोड में संख्या बदलते हैं तो क्या होगा?
 
 \--- /challenge \---
