@@ -38,7 +38,7 @@ Este projeto pode ser [ concluído offline ](https://www.codeclubprojects.org/en
 * wanted/style.css
 * wanted/robot.png
 
-Também pode encontrar uma versão completa dos desafios deste projeto na secção 'Recursos Voluntários', que contém:
+You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
 
 * wanted-finished/index.html
 * wanted-finished/style.css
