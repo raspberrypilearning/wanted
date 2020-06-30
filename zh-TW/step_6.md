@@ -1,39 +1,39 @@
-## Styling headings
+## 設定標題樣式
 
-Let's improve the style of the `<h1>` heading.
+讓我們改進 `<h1>` 標題的風格。
 
-+ Add the following code underneath your image's CSS:
++ 在圖片 CSS 的下方新增以下代碼：
     
         h1 {
         
         }
         
     
-    This is where you'll add CSS properties for your main `<h1>` heading.
+    這就是你將向`<h1>`主標題新增 CSS 屬性的地方。
 
-+ To change the font of your `<h1>` headings, add the following code between the curly brackets:
++ 要更改 `<h1>` 標題的字型，在大括號之間新增以下代碼：
     
         font-family: Impact;
         
 
-+ You can also change the size of the heading:
++ 您還可以更改標題的大小：
     
-        font-size: 50pt;
+        font-size：50pt;
         
 
-+ Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
++ 你有沒有注意到 `<h1>` 標題和它周圍的東西之間有一個很大的空間？
     
-    ![screenshot](images/wanted-h1-margin.png)
+    ![截圖](images/wanted-h1-margin.png)
     
-    This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
+    這是因為標題周圍有一個邊距。邊距指元素（在這裡是一個標題）與其周圍的其他內容之間的間距。
     
-    You can make the margin smaller with this code:
+    你可以使用以下代碼來縮小邊距
     
         margin: 10px;
         
     
-    ![screenshot](images/wanted-h1-margin-small.png)
+    ![截圖](images/wanted-h1-margin-small.png)
 
-+ You can also underline your heading:
++ 你還可以為你的標題新增底線：
     
         text-decoration: underline;
