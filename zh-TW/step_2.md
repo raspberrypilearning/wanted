@@ -1,14 +1,14 @@
-## Styling your poster
+## 設定你的海報樣式
 
-Let's start by editing the CSS code for the poster.
+首先讓我們來編輯海報的 CSS 代碼。
 
-+ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ 打開這個 trinket： <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>。
     
-    The project should look like this:
+    此專案應如下所示：
     
-    ![screenshot](images/wanted-starter.png)
+    ![截圖](images/wanted-starter.png)
 
-+ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
++ 點選“style.css”分頁標籤。你會發現包含海報不同部分的 div 已具備 CSS 屬性。
     
         div {
             text-align: center;
@@ -18,31 +18,31 @@ Let's start by editing the CSS code for the poster.
         }   
         
 
-+ Let's start by altering the `text-align` property:
++ 首先讓我們來更改 `text-align`（文字對齊）屬性：
     
-        text-align: center;
+        text-align：center;
         
     
-    What happens when you change the word `center` to `left` or `right`?
+    你將 `center`（置中）更改為 `left`（靠左）或 `right`（靠右）時會發生什麼？
 
-+ How about the `border` property?
++ 更改 border（邊框）屬性會怎麼樣呢？
     
         border: 2px solid black;
         
     
-    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
+    上文代碼中的`2px` 指邊框粗細為 2 個像素。你將 `2px solid black`（2 個像素黑色實線）更改為 `4px dotted red`（4 個像素紅色虛線）時會發生什麼？
 
-+ Change the `width` of the poster to `400px`. What happens to the poster?
++ 將海報的 `width` 更改為 `400px`。海報會怎麼樣？
 
-+ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
++ 讓我們新增一些 CSS 來設定海報的背景顏色。轉向代碼的第 5 行末尾並按 Enter，由此產生一個新的空行。
     
-    ![screenshot](images/wanted-newline.png)
+    ![截圖](images/wanted-newline.png)
     
-    Type the following code on your new blank line:
+    在新空行中輸入以下代碼：
     
         background: yellow;
         
     
-    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
+    確保您在上面輸入的代碼 *一模一樣* 。您會發現 `<div>` 的背景現在是黃色的。
     
-    ![screenshot](images/wanted-background.png)
+    ![截圖](images/wanted-background.png)
