@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Advertise an event!
+## चुनौती: एक प्रसंग का प्रचार करें!
 
-Can you make a poster for an event happening at your school? It could be a play, a sporting event, or even a poster advertising your Code Club!
+क्या आप अपने स्कूल में होने वाली किसी प्रसंग के लिए पोस्टर बना सकते हैं? यह एक नाटक, एक खेल कार्यक्रम, या यहां तक कि एक पोस्टर आपके कोड क्लब का विज्ञापन हो सकता है!
 
 \--- /challenge \---
