@@ -38,7 +38,7 @@ Bu proje, istenirse [çevrimdışı](https://www.codeclubprojects.org/en-GB/reso
 * wanted/style.css
 * wanted/robot.png
 
-Bu projenin meydan okumalarının tamamlanmış bir versiyonunu da içeren 'Gönüllü Kaynaklar' bölümünde bulabilirsiniz:
+You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
 
 * wanted-finished/index.html
 * wanted-finished/style.css
