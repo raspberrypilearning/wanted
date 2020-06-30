@@ -1,0 +1,35 @@
+---
+hero_image: images/wanted.png
+theme: orange
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: Wanted!
+description: നിങ്ങളുടെ സ്വന്തം പോസ്റ്റർ എങ്ങനെ നിർമ്മിക്കാമെന്ന് പഠിക്കാം.
+original_url: https://codeclubprojects.org/en-GB/webdev/wanted
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3.0.1
+last_tested: 2017-01-01
+steps:
+  - 
+    title: ആമുഖം
+  - 
+    title: നിങ്ങളുടെ പോസ്റ്റർ സ്റ്റൈലിംഗ്
+  - 
+    title: 'വെല്ലുവിളി: എങ്ങനെ നിങ്ങളുടെ പോസ്റ്റർ മെച്ചപ്പെടുത്താം'
+  - 
+    title: ചിത്രങ്ങളുടെ സ്റ്റൈലിംഗ്
+  - 
+    title: 'വെല്ലുവിളി: നിങ്ങളുടെ ഇമേജ് എങ്ങനെ മെച്ചപ്പെടുത്താം'
+  - 
+    title: തലക്കെട്ടുകളുടെ സ്റ്റൈലിംഗ്
+  - 
+    title: 'വെല്ലുവിളി: എങ്ങനെ നിങ്ങളുടെ പോസ്റ്റർ ആകർഷണീയമാക്കാം!'
+  - 
+    title: 'വെല്ലുവിളി: ഒരു ഇവന്റ് പരസ്യപ്പെടുത്തുക!'
