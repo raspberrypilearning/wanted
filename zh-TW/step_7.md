@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: Make your poster awesome!
+## 挑戰：讓你的海報引人注目！
 
-Add more CSS code to style your `<h3>` headings and your paragraphs.
+新增更多 CSS 程式碼來設定你的 `<h3>` 標題和段落樣式。
 
-![screenshot](images/wanted-final.png)
+![截圖](images/wanted-final.png)
 
-Here's a list of some CSS properties you can use:
+下面列舉了你可以使用的一些 CSS 屬性列表:
 
     color: black;
     background: white;
