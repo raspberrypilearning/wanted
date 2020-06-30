@@ -1,36 +1,36 @@
-## Introduction
+## 介紹
 
-In this project, you'll learn how to make your own poster.
+你將在本專案中學習如何製作你自己的海報。
 
-![screenshot](images/wanted-final.png)
+![截圖](images/wanted-final.png)
 
-### Additional information for club leaders
+### 給教師的其他信息
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/wanted/print).
+如果您需要列印此項目，請使用 [列印版本](https://projects.raspberrypi.org/en/projects/wanted/print)。
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## 標題：給教師的話
 
-## Introduction:
+## 介紹：
 
-In this project, children will have an opportunity to write their own CSS. They will also edit and write CSS properties and selectors to make their own poster.
+孩子們將有機會在本專案中編寫自己的 CSS。他們還將編寫 CSS 屬性和選擇器來製作自己的海報。
 
-## Online Resources
+## 線上資源
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+我們建議使用 [trinket](https://trinket.io/) 在\線上編寫HTML & CSS。該項目包含以下 trinket：
 
-* ['Wanted' starting point -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* ['通緝'的起點 - jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+孩子們也可以利用這個空白trinket [（jumpto.cc/html-blank）](http://jumpto.cc/html-blank) 來編寫自己的HTML & CSS，或者他們可以使用這個模板trinket [（jumpto.cc/html-template）](http://jumpto.cc/html-template)。
 
-There is also a trinket containing a sample solution to the challenges:
+還有一個 trinket，其中包含挑戰的樣本解決方案：
 
-* ['Wanted' Finished -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* ['尋物啟示'完成 - trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
-## Offline Resources
+## 離線資源
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+該項目可 [離線完成](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) ，如果首選。 你可以通過單擊此專案的“專案資源”連結來訪問專案資源。 此連結包含一個“專案資源”部分，其中包括孩子們離線完成本專案時所需的資源。 確保每個孩子都能使用這些資源的副本。 本節包括以下檔案：
 
 * template/index.html
 * template/style.css
@@ -38,53 +38,53 @@ This project can be [completed offline](https://www.codeclubprojects.org/en-GB/r
 * wanted/style.css
 * wanted/robot.png
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
 
 * wanted-finished/index.html
 * wanted-finished/style.css
 * wanted-finished/robot.png
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+（以上所有的資源也可以作為專案和志願者.zip 檔案下載。）
 
-## Learning Objectives
+## 學習目標
 
-* This project gives children the opportunity to write their own CSS to style a webpage.
+* 本專案讓孩子們有機會編寫自己的 CSS 來設定網頁樣式。
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+該專案涵蓋了 [Raspberry Pi數位創造課程](http://rpf.io/curriculum)的以下幾個元素：
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [設計基本的2D和3D資源](https://www.raspberrypi.org/curriculum/design/creator)。
 
-## Challenges
+## 挑戰
 
-* "Improving your poster" - adding new CSS properties to the `div` selector;
-* "Improving your image" - adding new CSS properties to the `img` selector;
-* "Make your poster awesome" - adding new CSS properties and new `h3` and `p` selectors;
-* "Advertise an event" - Writing and editing HTML and CSS code.
+* “改進你的海報” - 為 `div` 選擇器添加新的CSS屬性;
+* “改善圖像” - 向 `img` 選擇器添加新的CSS屬性;
+* “使你的海報引人注目” - 添加新的CSS屬性和新的 `h3` 和 `p` 選擇器;
+* “宣傳一場活動” - 編寫和編輯HTML和CSS代碼。
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## 標題：專案材料
 
-## Project resources
+## 專案資源
 
-* [.zip file containing all project resources](https://rpf.io/p/en/wanted-go)
-* [Online Trinket containing all 'Wanted!' project resources](http://jumpto.cc/web-wanted)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
-* [template/index.html](resources/template-index.html)
-* [template/style.css](resources/template-style.css)
-* [wanted/index.html](resources/wanted-index.html)
-* [wanted/style.css](resources/wanted-style.css)
-* [wanted/robot.png](resources/wanted-robot.png)
+* [包含所有項目資源的.zip文件](https://rpf.io/p/en/wanted-go)
+* [線上 Trinket 包含所有'尋物啟示！'項目資源](http://jumpto.cc/web-wanted)
+* [線上 Trinket 模板](http://jumpto.cc/trinket-template)
+* [線上空白 Trinket](http://jumpto.cc/trinket-blank)
+* [模板/ index.html](resources/template-index.html)
+* [模板/ style.css文件](resources/template-style.css)
+* [尋物啟示/ index.html](resources/wanted-index.html)
+* [希望/ style.css文件](resources/wanted-style.css)
+* [希望/ robot.png](resources/wanted-robot.png)
 
-## Club leader resources
+## 教師資源
 
-* [.zip file containing all completed project resources](https://rpf.io/p/en/wanted-go)
-* [Online completed Trinket project](https://trinket.io/html/ebeb56398a)
-* [wanted-finished/index.html](resources/wanted-finished-index.html)
-* [wanted-finished/style.css](resources/wanted-finished-style.css)
-* [twanted-finished/robot.png](resources/twanted-finished-robot.png)
+* [包含所有已完成項目資源的.zip文件](https://rpf.io/p/en/wanted-go)
+* [線上已完成的Trinket專案](https://trinket.io/html/ebeb56398a)
+* [尋物啟示成品/ index.html](resources/wanted-finished-index.html)
+* [尋物啟示成品/ style.css文件](resources/wanted-finished-style.css)
+* [尋物啟示成品/ robot.png](resources/twanted-finished-robot.png)
 
 \--- /collapse \---
