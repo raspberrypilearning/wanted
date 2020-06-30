@@ -38,7 +38,7 @@ Ako želite, ovaj projekt može bit [završen offline](https://www.codeclubproje
 * wanted/style.css
 * wanted/robot.png
 
-Dovršene verzije izazova projekta možete pronaći i u odjeljku 'Resursi za volontere' koji sadrži:
+You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
 
 * wanted-finished/index.html
 * wanted-finished/style.css
