@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improving your image
+## Задача: Улучшение изображения
 
-Can you give your image a background colour? Or a rounded border?
+Можешь ли ты изменитьцвет фона для твоего изображения? Или сделать углы рамки закруглёнными?
 
-You can find more CSS colour names at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
+Ты можешь узнать больше о названиях цветов в CSS по ссылке: <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
 
 \--- /challenge \---
