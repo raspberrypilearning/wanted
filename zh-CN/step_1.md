@@ -4,7 +4,7 @@
 
 ![截图](images/wanted-final.png)
 
-### 更多俱乐部领导参考信息
+### 更多俱乐部导师参考信息
 
 如果你需要打印本项目，请使用 [适合打印机的版本](https://projects.raspberrypi.org/en/projects/wanted/print)。
 
@@ -20,13 +20,13 @@
 
 我们推荐使用 [trinket](https://trinket.io/) 来在线编写 HTML & CSS。本项目包含以下 trinket：
 
-* [“寻物启事”起点 -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
+* [“通缉令”起点 -- jumpto.cc/web-wanted](http://jumpto.cc/web-wanted)
 
-孩子们也可以用这个空白 trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) 来编写自己的 HTML & CSS，或者他们可以用 trinket 模板 [(jumpto.cc/html-template)](http://jumpto.cc/html-template)。
+孩子们也可以使用此空白trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank)来编写他们的 HTML & CSS， 或者使用trinket模板 [(jumpto.cc/html-template)](http://jumpto.cc/html-template)。
 
-以下的trinket代码包含编写挑战的示范解决方案：
+这里是一份该项目挑战的trinket示范解决方案：
 
-* [“寻物启事”已完成 -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
+* [“通缉令”已完成 -- trinket.io/html/ebeb56398a](https://trinket.io/html/ebeb56398a)
 
 ## 离线资源
 
@@ -38,7 +38,7 @@
 * wanted/style.css
 * wanted/robot.png
 
-你也可以在 “志愿者资源'”部分找到该项目挑战的完整版本，里面包含：
+You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
 
 * wanted-finished/index.html
 * wanted-finished/style.css
@@ -70,7 +70,7 @@
 ## 项目资源
 
 * [包含所有项目资源的.zip文件](https://rpf.io/p/en/wanted-go)
-* [包含所有“寻物启事”项目资源的在线 Trinket](http://jumpto.cc/web-wanted)
+* [包含所有“通缉令”项目资源的在线 Trinket](http://jumpto.cc/web-wanted)
 * [在线 Trinket 模板](http://jumpto.cc/trinket-template)
 * [在线空白 Trinket 项目](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
