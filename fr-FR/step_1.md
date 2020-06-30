@@ -38,7 +38,7 @@ Ce projet peut être [terminé hors-ligne](https://www.codeclubprojects.org/en-G
 * wanted/style.css
 * wanted/robot.png
 
-Vous pouvez aussi trouver une version terminée du projet dans la section « Ressources du bénévole » qui contient :
+You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
 
 * wanted-finished/index.html
 * wanted-finished/style.css
