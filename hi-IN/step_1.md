@@ -38,7 +38,7 @@
 * wanted/style.css
 * wanted/robot.png
 
-You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
+आप इस परियोजना की चुनौतियों का पूर्ण संस्करण ‘स्वयंसेवक संसाधन’ भाग में भी देख सकते हैं, जिसमें ये शामिल हैं:
 
 * जरूरत समाप्त / index.html
 * जरूरत समाप्त / style.css
