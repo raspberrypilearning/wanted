@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: Make your poster awesome!
+## Задача: Сделай свой постер ещё более крутым!
 
-Add more CSS code to style your `<h3>` headings and your paragraphs.
+Используй CSS свойства для стилизации заголовков `<h3>` и абзацев.
 
-![screenshot](images/wanted-final.png)
+![скриншот](images/wanted-final.png)
 
-Here's a list of some CSS properties you can use:
+Тебе могут пригодиться следующие CSS-свойства:
 
     color: black;
     background: white;
