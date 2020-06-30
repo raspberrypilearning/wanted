@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: Make your poster awesome!
+## चुनौती: अपने पोस्टर को बढ़िया करें!
 
-Add more CSS code to style your `<h3>` headings and your paragraphs.
+अपने `<h3>` शीर्षकों और अपने पैराग्राफ़ों को स्टाइल करने के लिए अधिक सीएसएस कोड जोड़ें।
 
-![screenshot](images/wanted-final.png)
+![स्क्रीनशॉट](images/wanted-final.png)
 
-Here's a list of some CSS properties you can use:
+यहां कुछ सीएसएस गुणों की सूची दी गई है जिनका आप उपयोग कर सकते हैं:
 
     color: black;
     background: white;
