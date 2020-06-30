@@ -1,0 +1,35 @@
+---
+hero_image: images/wanted.png
+theme: orange
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: వాంటెడ్!
+description: మీ స్వంత పోస్టర్ ఎలా తయారు చేయాలో తెలుసుకోండి.
+original_url: https://codeclubprojects.org/en-GB/webdev/wanted
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3.0.1
+last_tested: 2017-01-01
+steps:
+  - 
+    title: పరిచయం
+  - 
+    title: మీ పోస్టర్ స్టైలింగ్
+  - 
+    title: 'సవాలు/ఛాలెంజ్: మీ పోస్టర్‌ను మెరుగుపరచడం'
+  - 
+    title: చిత్రాలను స్టైలింగ్ చేస్తుంది
+  - 
+    title: 'సవాలు/ఛాలెంజ్: మీ పోస్టర్‌/చిత్రం ను మెరుగుపరచడం'
+  - 
+    title: శీర్షిక లను/హీడింగ్లను స్టైలింగ్ చేయండి
+  - 
+    title: 'సవాలు/ఛాలెంజ్: మీ పోస్టర్ అద్భుతంగా చేయండి!'
+  - 
+    title: 'సవాలు/ఛాలెంజ్: ఒక సంఘటనను/ఈవెంట్ను ప్రచారం చేయండి!'
