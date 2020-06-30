@@ -38,7 +38,7 @@ Dit project kan [offline](https://www.codeclubprojects.org/en-GB/resources/webde
 * wanted/style.css
 * wanted/robot.png
 
-Je kunt ook een voltooide versie van de uitdagingen van dit project vinden in de sectie 'Vrijwilligersbronnen', die bevat:
+You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
 
 * wanted-finished/index.html
 * wanted-finished/style.css
