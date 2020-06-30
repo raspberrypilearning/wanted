@@ -1,45 +1,45 @@
-## Styling images
+## स्टाइलिंग छवियां
 
-Let's improve the style of the image in the poster.
+आइए पोस्टर में छवि की शैली में सुधार करें।
 
-+ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
++ फिलहाल, आपके `<img>` टैग के लिए कोई सीएसएस गुण नहीं हैं, तो चलिए कुछ जोड़ते हैं!
     
-    Firstly, add the following code underneath the CSS for your div:
+    सबसे पहले, अपने div के लिए सीएसएस के नीचे निम्नलिखित कोड जोड़ें:
     
         img {
         
         }
         
     
-    ![screenshot](images/wanted-img-css.png)
+    ![स्क्रीनशॉट](images/wanted-img-css.png)
 
-+ We can now add CSS properties for images between the curly brackets.
++ अब हम घुंघराले कोष्ठक के बीच छवियों के लिए CSS गुण जोड़ सकते हैं।
     
-    For example, add this code between the curly brackets to set the width of the image:
+    उदाहरण के लिए, छवि की चौड़ाई सेट करने के लिए घुंघराले कोष्ठक के बीच इस कोड को जोड़ें:
     
         width: 100px;
         
     
-    You'll see that the size of the image changes, so that its width is 100 pixels.
+    आप देखेंगे कि छवि का आकार बदलता है, ताकि इसकी चौड़ाई 100 पिक्सेल हो।
     
-    ![screenshot](images/wanted-img-width.png)
+    ![स्क्रीनशॉट](images/wanted-img-width.png)
 
-+ You can also add a border around the image with this code:
++ आप इस कोड के साथ छवि के चारों ओर एक सीमा भी जोड़ सकते हैं:
     
         border: 1px solid black;
         
 
-+ Have you noticed that there's not much space between the image and the border?
++ क्या आपने देखा है कि छवि और सीमा के बीच ज्यादा जगह नहीं है?
     
-    ![screenshot](images/wanted-img-border.png)
+    ![स्क्रीनशॉट](images/wanted-img-border.png)
     
-    You can fix this by adding some padding around the image:
+    आप छवि के चारों ओर कुछ पैडिंग जोड़कर इसे ठीक कर सकते हैं:
     
         padding: 10px;
         
     
-    Padding is the space between the content (in this case an image) and its border.
+    पैडिंग सामग्री (इस मामले में एक छवि) और उसकी सीमा के बीच का स्थान है।
     
-    ![screenshot](images/wanted-img-padding.png)
+    ![स्क्रीनशॉट](images/wanted-img-padding.png)
     
-    What do you think would happen if you changed the padding to `50px`?
+    आपको क्या लगता है अगर आप पैडिंग को बदलकर ` 50px कर देते तो क्या होता `?
