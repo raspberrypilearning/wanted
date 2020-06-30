@@ -1,14 +1,14 @@
-## Styling your poster
+## अपने पोस्टर को स्टाइल करते हुए
 
-Let's start by editing the CSS code for the poster.
+आइए पोस्टर के लिए सीएसएस कोड को संपादित करके शुरू करें।
 
-+ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ इस ट्रिंकेट को खोलें: <a target="_blank" href="http://jumpto.cc/web-wanted"> jumpto.cc/web-wanted </a> ।
     
-    The project should look like this:
+    परियोजना इस तरह दिखनी चाहिए:
     
-    ![screenshot](images/wanted-starter.png)
+    ![स्क्रीनशॉट](images/wanted-starter.png)
 
-+ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
++ "Style.css" टैब पर क्लिक करें। आप देखेंगे कि ` div के लिए पहले से ही सीएसएस गुण हैं ` पोस्टर के विभिन्न भागों से युक्त।
     
         div {
             text-align: center;
@@ -18,31 +18,31 @@ Let's start by editing the CSS code for the poster.
         }   
         
 
-+ Let's start by altering the `text-align` property:
++ आइए ` पाठ-संरेखण में परिवर्तन करके शुरू करें ` संपत्ति:
     
         text-align: center;
         
     
-    What happens when you change the word `center` to `left` or `right`?
+    जब आप शब्द ` केंद्र बदलते हैं तो क्या होता है ` को ` छोड़ दिया ` या ` सही है `?
 
-+ How about the `border` property?
++ कैसे के बारे में ` सीमा ` संपत्ति?
     
         border: 2px solid black;
         
     
-    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
+    ` 2px ` ऊपर दिए गए कोड में 2 पिक्सेल का मतलब है। जब आप बदलते हैं तो क्या होता है ` 2px ठोस काला ` से ` 4 पीएक्स डॉटेड रेड `?
 
-+ Change the `width` of the poster to `400px`. What happens to the poster?
++ ` चौड़ाई बदलें ` पोस्टर का ` 400px ` । क्या होता है पोस्टर को?
 
-+ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
++ पोस्टर के बैकग्राउंड कलर को सेट करने के लिए कुछ CSS जोड़ते हैं। अपने कोड की लाइन 5 के अंत में जाएं और रिटर्न दबाएं, ताकि आपके पास एक नई रिक्त लाइन हो।
     
-    ![screenshot](images/wanted-newline.png)
+    ![स्क्रीनशॉट](images/wanted-newline.png)
     
-    Type the following code on your new blank line:
+    अपनी नई रिक्त पंक्ति पर निम्न कोड टाइप करें:
     
         background: yellow;
         
     
-    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
+    सुनिश्चित करें कि आप कोड * में टाइप करते हैं * जैसा कि ऊपर है। आपको ध्यान देना चाहिए कि `<div>` की पृष्ठभूमि अब पीली है।
     
-    ![screenshot](images/wanted-background.png)
+    ![स्क्रीनशॉट](images/wanted-background.png)
