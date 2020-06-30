@@ -1,14 +1,14 @@
-## Styling your poster
+## Стилизация постера
 
-Let's start by editing the CSS code for the poster.
+Давай начнём с редактирования CSS-кода для постера.
 
-+ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
++ Открой trinket: <a target="_blank" href="http://jumpto.cc/web-wanted">jumpto.cc/web-wanted</a>.
     
-    The project should look like this:
+    Проект должен выглядеть следующим образом:
     
-    ![screenshot](images/wanted-starter.png)
+    ![скриншот](images/wanted-starter.png)
 
-+ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
++ Нажми на вкладку «style.css». Как видишь, CSS свойства уже прописаны для элемента `div`, содержащего различные части плаката.
     
         div {
             text-align: center;
@@ -18,31 +18,31 @@ Let's start by editing the CSS code for the poster.
         }   
         
 
-+ Let's start by altering the `text-align` property:
++ Давай начнём с изменения свойства `text-align`:
     
         text-align: center;
         
     
-    What happens when you change the word `center` to `left` or `right`?
+    Что произойдёт, если поменять значение `center` на `left` или `right`?
 
-+ How about the `border` property?
++ Как насчёт свойства `border`?
     
         border: 2px solid black;
         
     
-    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
+    `2px` в коде выше означает 2 пикселя. Что произойдёт при замене `2px solid black` на `4px dotted red`?
 
-+ Change the `width` of the poster to `400px`. What happens to the poster?
++ Измени значение свойства `width` (ширина на англ.) на `400px`. Что произойдёт с постером?
 
-+ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
++ Давай добавим немного CSS, чтобы изменить цвет фона для плаката. Перейди к концу строки 5 в твоём коде и нажми клавишу «Ввод» (Enter) для создания новой пустой строки.
     
-    ![screenshot](images/wanted-newline.png)
+    ![скриншот](images/wanted-newline.png)
     
-    Type the following code on your new blank line:
+    Введи следующий код в новой пустой строке:
     
         background: yellow;
         
     
-    Make sure that you type in the code *exactly* as it is above. You should notice that the background of the `<div>` is now yellow.
+    Убедись, что ты ввёл код *в точности* так, как он представлен выше. После етого, фон элемента `<div>` должен стать жёлтым.
     
-    ![screenshot](images/wanted-background.png)
+    ![скриншот](images/wanted-background.png)
