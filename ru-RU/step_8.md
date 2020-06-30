@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Advertise an event!
+## Задача: Прорекламируй мероприятие!
 
-Can you make a poster for an event happening at your school? It could be a play, a sporting event, or even a poster advertising your Code Club!
+Можешь ли ты сделать постер о мероприятии в твоей школе? Это может быть представление, спортивные состязания или, может быть, даже реклама твоего клуба программирования!
 
 \--- /challenge \---
