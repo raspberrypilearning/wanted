@@ -1,35 +1,35 @@
 ---
-hero_image: images/wanted.png
-theme: orange
+hero_image: छवियों / जरूरत.png
+theme: नारंगी
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Wanted!
-description: Learn how to make your own poster.
+curriculum: रचनाकार, डिजाइन -1, प्रोग्रामिंग -0, फिजिकल-कम्प -0, निर्माण -0, समुदाय -0
+title: जरूरत!
+description: अपना स्वयं का पोस्टर बनाना सीखें।
 original_url: https://codeclubprojects.org/en-GB/webdev/wanted
-interests: art
+interests: कला और डिजाइन
 technologies: html-css-javascript
-site_areas: projects
+site_areas: codeclub, webdev
 hardware: ''
-software: html-css-javascript
+software: htmp-css-javascript
 version: 3.0.1
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: परिचय
   - 
-    title: Styling your poster
+    title: अपने पोस्टर को स्टाइल करते हुए
   - 
-    title: 'Challenge: Improving your poster'
+    title: 'चुनौती: आपके पोस्टर में सुधार करना'
   - 
-    title: Styling images
+    title: चित्रों को स्टाइल देना
   - 
-    title: 'Challenge: Improving your image'
+    title: 'चुनौती: आपके चित्र में सुधार करना'
   - 
-    title: Styling headings
+    title: स्टाइलिंग हेडिंग
   - 
-    title: 'Challenge: Make your poster awesome!'
+    title: 'चुनौती: आपके पोस्टर को अद्भुत बनाना!'
   - 
-    title: 'Challenge: Advertise an event!'
+    title: 'चुनौती: एक इवेंट का प्रचार करें!'
