@@ -38,7 +38,7 @@ Selle projekti saab soovi korral [lõpetada võrguühenduseta](https://www.codec
 * wanted/style.css
 * wanted/robot.png
 
-Selle projekti väljakutsete lõpetatud versiooni leiate ka jaotisest "Vabatahtlikud ressursid", mis sisaldab järgmist:
+You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
 
 * wanted-finished/index.html
 * wanted-finished/style.css
