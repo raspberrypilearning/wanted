@@ -1,0 +1,27 @@
+---
+hero_image: images/wanted.png
+theme: orange
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: '¡Se busca!'
+description: Aprende a crear tu propio póster.
+original_url: https://codeclubprojects.org/en-GB/webdev/wanted
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3.0.1
+last_tested: 2017-01-01
+steps:
+  - title: Introducción
+  - title: Dando estilo a tu póster
+  - title: 'Desafío: mejora tu póster'
+  - title: Dando estilo a las imágenes
+  - title: 'Desafío: mejora tu imagen'
+  - title: Dando estilo a los encabezados
+  - title: 'Desafío: ¡Haz que tu póster es impresionante!'
+  - title: 'Desafío: ¡Anuncia un evento!'
