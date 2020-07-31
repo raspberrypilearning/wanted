@@ -38,7 +38,7 @@ Si se prefiere, este proyecto se puede [completar sin conexión](https://www.cod
 * wanted/style.css
 * wanted/robot.png
 
-You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
+También puedes encontrar una versión completa de los desafíos de este proyecto en la sección 'Recursos del líder de Club', que contiene:
 
 * wanted-finished/index.html
 * wanted-finished/style.css
