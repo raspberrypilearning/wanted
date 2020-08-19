@@ -38,7 +38,7 @@
 * wanted/style.css
 * wanted/robot.png
 
-You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
+Вы также можете найти завершённую версию задач из этого проекта в разделе «Ресурсы для лидеров клуба», который содержит:
 
 * wanted-finished/index.html
 * wanted-finished/style.css
