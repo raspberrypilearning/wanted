@@ -1,0 +1,27 @@
+---
+hero_image: images/wanted.png
+theme: orange
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: Внимание! Розыск!
+description: Узнай, как сделать свой собственный постер.
+original_url: https://codeclubprojects.org/en-GB/webdev/wanted
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3.0.1
+last_tested: 2017-01-01
+steps:
+  - title: Введение
+  - title: Стилизация постера
+  - title: 'Задача: Улучшение постера'
+  - title: Стилизация изображений
+  - title: 'Задача: Улучшение изображения'
+  - title: Стилизация заголовков
+  - title: 'Задача: Сделай свой постер ещё более крутым!'
+  - title: 'Задача: Прорекламируй мероприятие!'
