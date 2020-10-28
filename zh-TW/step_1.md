@@ -38,7 +38,7 @@
 * wanted/style.css
 * wanted/robot.png
 
-You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
+你還可以在「志工相關資源」部分中找到內含挑戰的專案完整版，包括以下文件：
 
 * wanted-finished/index.html
 * wanted-finished/style.css
