@@ -10,7 +10,7 @@
 
 ## \--- collapse \---
 
-## शीर्षक: क्लब नेता नोट्स
+## title: क्लब नेता नोट्स
 
 ## परिचय:
 
@@ -30,7 +30,7 @@
 
 ## ऑफ़लाइन संसाधन
 
-यह परियोजना ऑफ़लाइन हो सकती है </a> अगर पसंद है आप इस प्रोजेक्ट के लिए 'प्रोजेक्ट सामग्री' लिंक पर क्लिक करके प्रोजेक्ट के संसाधनों पर पहुँच प्राप्त कर सकते हैं। इस लिंक में 'प्रोजेक्ट संसाधन' खंड है, जिसमें ऐसे संसाधन सम्मिलित हैं जिनकी बच्चों को इस प्रोजेक्ट को ऑफ़लाइन पूरा करने के लिए ज़रूरत होगी। सुनिश्चित करें कि प्रत्येक बच्चे को इन संसाधनों की प्रतिलिपि तक पहुँच प्राप्त होती है। इस खंड में निम्नलिखित फाइलें शामिल हैं:
+यदि चाहें तो इस परियोजना को [ऑफ़लाइन पूरा](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) किया जा सकता है। आप इस प्रोजेक्ट के लिए 'प्रोजेक्ट सामग्री' लिंक पर क्लिक करके प्रोजेक्ट के संसाधनों पर पहुँच प्राप्त कर सकते हैं। इस लिंक में 'प्रोजेक्ट संसाधन' खंड है, जिसमें ऐसे संसाधन सम्मिलित हैं जिनकी बच्चों को इस प्रोजेक्ट को ऑफ़लाइन पूरा करने के लिए ज़रूरत होगी। सुनिश्चित करें कि प्रत्येक बच्चे को इन संसाधनों की प्रतिलिपि तक पहुँच प्राप्त होती है। इस खंड में निम्नलिखित फाइलें शामिल हैं:
 
 * template/index.html
 * template/style.css
@@ -40,9 +40,9 @@
 
 आप इस परियोजना की चुनौतियों का पूर्ण संस्करण ‘स्वयंसेवक संसाधन’ भाग में भी देख सकते हैं, जिसमें ये शामिल हैं:
 
-* जरूरत समाप्त / index.html
-* जरूरत समाप्त / style.css
-* जरूरत समाप्त - robot.png
+* weather-finished/index.html
+* wanted-finished/style.css
+* wanted-finished/robot.png
 
 (उपर्युक्त सभी संसाधन प्रोजेक्ट और स्वयंसेवक `.zip` फ़ाइलों के रूप में भी डाउनलोड किए जा सकते हैं।)
 
@@ -56,16 +56,16 @@
 
 ## चुनौतियाँ
 
-* "अपने पोस्टर में सुधार करना" - ` div में नए सीएसएस गुणों को जोड़ना ` चयनकर्ता;
-* "अपने पोस्टर में सुधार करना" - ` div में नए सीएसएस गुणों को जोड़ना ` चयनकर्ता;
-* "अपने पोस्टर को बढ़िया बनाएं" - नए CSS गुणों और नए ` h3 को जोड़ते हुए ` और ` पी ` चयनकर्ताओं;
+* "अपने पोस्टर में सुधार करना" - `div` में नए सीएसएस गुणों को जोड़ना चयनकर्ता;
+* "आपके चित्र में सुधार करना" - `img` में नए सीएसएस गुणों को जोड़नाचयनकर्ता;
+* "अपने पोस्टर को बढ़िया बनाएं" - नए CSS गुणों और नए `h3` को जोड़ते हुए और `p` चयनकर्ताओं;
 * "एक कार्यक्रम का विज्ञापन करें" - HTML और CSS कोड लिखना और संपादन करना।
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## शीर्षक: परियोजना सामग्री
+## title: परियोजना सामग्री
 
 ## परियोजना संसाधन
 
@@ -73,8 +73,8 @@
 * [ऑनलाइन trinket जिसमें सभी 'प्रोजेक्ट शोकेस' परियोजना संसाधन हैं](http://jumpto.cc/web-wanted)
 * [ऑनलाइन trinket टेम्प्लेट](http://jumpto.cc/trinket-template)
 * [ऑनलाइन रिक्त ट्रिंकेट](http://jumpto.cc/trinket-blank)
-* [टेम्पलेट / index.html](resources/template-index.html)
-* [टेम्पलेट / style.css](resources/template-style.css)
+* [template/index.html](resources/template-index.html)
+* [template/style.css](resources/template-style.css)
 * [wanted/index.html](resources/wanted-index.html)
 * [wanted/style.css](resources/wanted-style.css)
 * [wanted/robot.png](resources/wanted-robot.png)
@@ -83,8 +83,8 @@
 
 * [सभी प्रोजेक्ट संसाधनों वाली.zip फ़ाइल](https://rpf.io/p/en/wanted-go)
 * [ऑनलाइन पूर्ण Trinket प्रोजेक्ट](https://trinket.io/html/ebeb56398a)
-* [जरूरत समाप्त / index.html](resources/wanted-finished-index.html)
-* [जरूरत समाप्त / style.css](resources/wanted-finished-style.css)
-* [twanted-finished/robot.png](resources/twanted-finished-robot.png)
+* [wanted-finished/index.html](resources/wanted-finished-index.html)
+* [wanted-finished/style.css](resources/wanted-finished-style.css)
+* [wanted-finished/robot.png](resources/twanted-finished-robot.png)
 
 \--- /collapse \---
