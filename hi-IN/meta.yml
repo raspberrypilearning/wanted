@@ -1,23 +1,27 @@
+---
 hero_image: images/wanted.png
 theme: orange
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-title: वांटेड!
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: जरूरत!
 description: अपना स्वयं का पोस्टर बनाना सीखें।
 original_url: https://codeclubprojects.org/en-GB/webdev/wanted
-interests: 'art and design'
-technologies: html/css
-site_areas: codeclub, webdev
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3.0.1
+last_tested: 2017-01-01
 steps:
-- title: भूमिका
-- title: आपके पोस्टर को स्टाइल देना
-- title: 'चुनौती: आपके पोस्टर में सुधार करना'
-- title: चित्रों को स्टाइल देना
-- title: 'चुनौती: आपके चित्र में सुधार करना'
-- title: शीर्षकों को स्टाइल देना
-- title: 'चुनौती: आपके पोस्टर को अद्भुत बनाना!'
-- title: 'चुनौती: एक इवेंट का प्रचार करें!'
-
+  - title: परिचय
+  - title: अपने पोस्टर को स्टाइल करते हुए
+  - title: 'चुनौती: आपके पोस्टर में सुधार करना'
+  - title: चित्रों को स्टाइल देना
+  - title: 'चुनौती: आपके चित्र में सुधार करना'
+  - title: स्टाइलिंग हेडिंग
+  - title: 'चुनौती: आपके पोस्टर को अद्भुत बनाना!'
+  - title: 'चुनौती: एक इवेंट का प्रचार करें!'
