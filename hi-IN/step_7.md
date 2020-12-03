@@ -1,25 +1,23 @@
 --- challenge ---
-## चुनौती: अपने पोस्टर को अद्भुत बनाएँ!
-अपने `<h3>` शीर्षक और पैराग्राफ को स्टाइल देने के लिए और CSS कोड शामिल करें। 
 
-![screenshot](images/wanted-final.png)
+## चुनौती: अपने पोस्टर को बढ़िया करें!
 
-यहाँ कुछ CSS गुण दिए गए हैं जिन्हें आप उपयोग कर सकते हैं:
+अपने `<h3>` शीर्षकों और अपने पैराग्राफ़ों को स्टाइल करने के लिए अधिक सीएसएस कोड जोड़ें।
 
-```
-color: black;
-background: white;
-font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
-font-size: 12pt;
-font-weight: bold;
-text-decoration: underline overline line-through;
-margin: 10px;
-padding: 10px;
-width: 100px;
-height: 100px;
-```
+![स्क्रीनशॉट](images/wanted-final.png)
 
+यहां कुछ सीएसएस गुणों की सूची दी गई है जिनका आप उपयोग कर सकते हैं:
 
-
+    color: black;
+    background: white;
+    font-family: Arial / Comic Sans MS / Courier / Impact / Tahoma;
+    font-size: 12pt;
+    font-weight: bold;
+    text-decoration: underline overline line-through;
+    margin: 10px;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    
 
 --- /challenge ---
