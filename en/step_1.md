@@ -39,7 +39,7 @@ This project can be [completed offline](https://www.codeclubprojects.org/en-GB/r
 + wanted/style.css
 + wanted/robot.png
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
 
 + wanted-finished/index.html
 + wanted-finished/style.css
@@ -70,7 +70,7 @@ title: Project materials
 ---
 
 ## Project resources
-* [.zip file containing all project resources](resources/wanted-project-resources.zip)
+* [.zip file containing all project resources](https://rpf.io/p/en/wanted-go)
 * [Online Trinket containing all 'Wanted!' project resources](http://jumpto.cc/web-wanted)
 * [Online Trinket template](http://jumpto.cc/trinket-template)
 * [Online blank Trinket](http://jumpto.cc/trinket-blank)
@@ -81,7 +81,7 @@ title: Project materials
 * [wanted/robot.png](resources/wanted-robot.png)
 
 ## Club leader resources
-* [.zip file containing all completed project resources](resources/wanted-volunteer-resources.zip)
+* [.zip file containing all completed project resources](https://rpf.io/p/en/wanted-go)
 * [Online completed Trinket project](https://trinket.io/html/ebeb56398a)
 * [wanted-finished/index.html](resources/wanted-finished-index.html)
 * [wanted-finished/style.css](resources/wanted-finished-style.css)
