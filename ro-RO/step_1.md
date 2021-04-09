@@ -30,7 +30,7 @@ Există, de asemenea, un trinket care conține un exemplu de soluție pentru pro
 
 ## Resurse offline
 
-Dacă dorești, poți realiza [acest proiect](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si offline. Se pot accesa resursele proiectului dând click pe link-ul „Materiale pentru proiect”. Acest link conține o secțiune „Resursele proiectului” ce include materialele de care copiii vor avea nevoie pentru realizarea proiectului offline. Asigură-te că fiecare copil are acces la resurse. Secțiunea include următoarele:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Se pot accesa resursele proiectului dând click pe link-ul „Materiale pentru proiect”. Acest link conține o secțiune „Resursele proiectului” ce include materialele de care copiii vor avea nevoie pentru realizarea proiectului offline. Asigură-te că fiecare copil are acces la resurse. Secțiunea include următoarele:
 
 * template/index.html
 * template/style.css
