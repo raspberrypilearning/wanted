@@ -30,7 +30,7 @@ Il y a aussi un Trinket contenant un exemple de solution pour les défis :
 
 ## Ressources hors-ligne
 
-Ce projet peut être [terminé hors-ligne](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si désiré. Vous pouvez accéder aux ressources du projet en cliquant sur le lien « Matériel pour projet ». Ce lien contient une section « Ressources du projet » qui inclut les ressources dont les enfants auront besoin pour terminer le projet hors-ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants :
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Vous pouvez accéder aux ressources du projet en cliquant sur le lien « Matériel pour projet ». Ce lien contient une section « Ressources du projet » qui inclut les ressources dont les enfants auront besoin pour terminer le projet hors-ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants :
 
 * template/index.html
 * template/style.css
