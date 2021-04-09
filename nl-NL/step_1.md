@@ -30,7 +30,7 @@ Er is ook een trinket met een voorbeeldoplossing van de uitdagingen:
 
 ## Offline bronnen
 
-Dit project kan [offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) worden gemaakt als dit de voorkeur heeft. Je kunt toegang krijgen tot de projectbronnen door op de koppeling 'Projectmaterialen' voor dit project te klikken. Deze link bevat een gedeelte 'Projectbronnen', dat bronnen bevat die kinderen nodig hebben om dit project offline te voltooien. Zorg ervoor dat elk kind toegang heeft tot een kopie van deze bronnen. Dit gedeelte bevat de volgende bestanden:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Je kunt toegang krijgen tot de projectbronnen door op de koppeling 'Projectmaterialen' voor dit project te klikken. Deze link bevat een gedeelte 'Projectbronnen', dat bronnen bevat die kinderen nodig hebben om dit project offline te voltooien. Zorg ervoor dat elk kind toegang heeft tot een kopie van deze bronnen. Dit gedeelte bevat de volgende bestanden:
 
 * template/index.html
 * template/style.css
