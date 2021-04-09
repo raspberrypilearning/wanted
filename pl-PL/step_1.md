@@ -30,7 +30,7 @@ Dostępny jest także projekt zawierający przykładowe rozwiązania wyzwań:
 
 ## Zasoby offline
 
-Ten projekt może być [ ukończony w trybie offline ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Materiały potrzebne do wykonania projektu dostępne są po kliknięciu linku "Materiały do projektu". Ten link zawiera sekcję "Zasoby projektu", która zawiera zasoby, których dzieci będą potrzebować, aby ukończyć ten projekt w trybie offline. Upewnij się, że każde dziecko ma dostęp do tych zasobów. Ta sekcja zawiera następujące pliki:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Materiały potrzebne do wykonania projektu dostępne są po kliknięciu linku "Materiały do projektu". Ten link zawiera sekcję "Zasoby projektu", która zawiera zasoby, których dzieci będą potrzebować, aby ukończyć ten projekt w trybie offline. Upewnij się, że każde dziecko ma dostęp do tych zasobów. Ta sekcja zawiera następujące pliki:
 
 * template/index.html
 * template/style.css
