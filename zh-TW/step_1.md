@@ -30,7 +30,7 @@
 
 ## 離線資源
 
-該項目可 [離線完成](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) ，如果首選。 你可以通過單擊此專案的“專案資源”連結來訪問專案資源。 此連結包含一個“專案資源”部分，其中包括孩子們離線完成本專案時所需的資源。 確保每個孩子都能使用這些資源的副本。 本節包括以下檔案：
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. 你可以通過單擊此專案的“專案資源”連結來訪問專案資源。 此連結包含一個“專案資源”部分，其中包括孩子們離線完成本專案時所需的資源。 確保每個孩子都能使用這些資源的副本。 本節包括以下檔案：
 
 * template/index.html
 * template/style.css
