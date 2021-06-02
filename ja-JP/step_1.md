@@ -8,9 +8,9 @@
 
 このプロジェクトを印刷する必要がある場合は、 印刷用バージョンを使用してください。
 
-## \--- 折りたたむ \---
+## \--- collapse \---
 
-## タイトル : クラブリーダーメモ
+## title: クラブリーダーメモ
 
 ## はじめに
 
@@ -65,11 +65,11 @@
     
     * "イベントを宣伝しましょう" - HTMLとCSSコードの作成と編集。</ul> 
     
-    \--- /折りたたむ \---
+    \--- /collapse \---
     
-    ## \--- 折りたたむ \---
+    ## \--- collapse \---
     
-    ## タイトル: プロジェクト資料
+    ## title: プロジェクト資料
     
     ## プロジェクト資料
     
@@ -91,4 +91,4 @@
     * [wanted-finished/style.css](resources/wanted-finished-style.css)
     * [twanted-finished/robot.png](resources/twanted-finished-robot.png)
     
-    \--- /折りたたむ \---
+    \--- /collapse \---
