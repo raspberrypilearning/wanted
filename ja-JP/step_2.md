@@ -2,7 +2,7 @@
 
 ポスターのCSSコードを編集することから始めましょう。
 
-+ Trinketをひらく: jumpto.cc/web-wanted.
++ Trinketをひらく:<a target="_blank" href="http://jumpto.cc/web-wanted"> jumpto.cc/web-wanted</a>.
     
     プロジェクトはこのようになります。
     
