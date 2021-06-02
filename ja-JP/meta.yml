@@ -17,7 +17,7 @@ software: html-css-javascript
 version: 3.0.1
 last_tested: 2017-01-01
 steps:
-  - title: 前書き
+  - title: はじめに
   - title: あなたのポスターのスタイリング
   - title: '課題：ポスターを改善する'
   - title: イメージのスタイリング
