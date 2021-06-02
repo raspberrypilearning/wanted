@@ -30,7 +30,7 @@
         border: 2px solid black;
         
     
-    `2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
+    上記コードの`2px`は2ピクセルを意味します。`2pxの黒実線`を`4px赤点線`に変更するとどうなりますか？
 
 + ポスターのwidth幅を400pxへ変更します 。ポスターはどうなりますか？
 
