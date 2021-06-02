@@ -1,0 +1,27 @@
+---
+hero_image: images/wanted.png
+theme: orange
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: 募集中！
+description: 自分のポスターを作る方法を学ぶ。
+original_url: https://codeclubprojects.org/en-GB/webdev/wanted
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3.0.1
+last_tested: 2017-01-01
+steps:
+  - title: 前書き
+  - title: あなたのポスターのスタイリング
+  - title: '課題：ポスターを改善する'
+  - title: イメージのスタイリング
+  - title: '課題：画像を改善する'
+  - title: スタイル見出し
+  - title: '課題：あなたのポスターを素晴らしいものにしましょう！'
+  - title: '課題：イベントを宣伝しましょう！'
