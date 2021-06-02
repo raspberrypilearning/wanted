@@ -30,7 +30,7 @@
 
 ## オフライン・リソース
 
-This project can be [completed offline](https://rpf.io/html-offline) if preferred. “プロジェクト資料”のリンクをクリックすることでこのプロジェクトのリソースにアクセスすることが可能です。 リンクには”プロジェクト・リソース”の個所もあり、ここにプロジェクトをオフラインで完成させるために必要なリソースが含まれている。 各子供がこれらのリソースのコピーにアクセスできることを確認してください。 このセクションは下記ファイルを含む：
+このプロジェクトは[オフライン](https://rpf.io/html-offline)で完成することも可能です。 “プロジェクト資料”のリンクをクリックすることでこのプロジェクトのリソースにアクセスすることが可能です。 リンクには”プロジェクト・リソース”の個所もあり、ここにプロジェクトをオフラインで完成させるために必要なリソースが含まれている。 各子供がこれらのリソースのコピーにアクセスできることを確認してください。 このセクションは下記ファイルを含む：
 
 * template/index.html
 * template/style.css
@@ -38,7 +38,7 @@ This project can be [completed offline](https://rpf.io/html-offline) if preferre
 * wanted/style.css
 * wanted/robot.png
 
-You can also find a completed version of this project's challenges in the 'Club leader resources' section, which contains:
+このプロジェクトチャレンジの完成版は'ボランティアリソース'のセクションにもあり、以下を含んでいます。
 
 * wanted-finished/index.html
 * wanted-finished/style.css
