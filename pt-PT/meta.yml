@@ -17,11 +17,13 @@ software: html-css-javascript
 version: 3.0.1
 last_tested: 2017-01-01
 steps:
-  - title: Introdução
-  - title: Estilizar o teu cartaz
-  - title: 'Desafio: Melhorar o teu cartaz'
-  - title: Estilizar imagens
-  - title: 'Desafio: Melhorar a tua imagem'
-  - title: Estilizar cabeçalhos
-  - title: 'Desafio: Torna o teu poster fantástico!'
-  - title: 'Desafio: Anuncia um evento!'
+- title: Introdução
+  completion: engaged
+- title: Estilizar o teu cartaz
+- title: 'Desafio: Melhorar o teu cartaz'
+- title: Estilizar imagens
+- title: 'Desafio: Melhorar a tua imagem'
+- title: Estilizar cabeçalhos
+- title: 'Desafio: Torna o teu poster fantástico!'
+  completion: internal
+- title: 'Desafio: Anuncia um evento!'

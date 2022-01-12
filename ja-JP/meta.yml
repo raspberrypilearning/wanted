@@ -17,11 +17,13 @@ software: html-css-javascript
 version: 3.0.1
 last_tested: 2017-01-01
 steps:
-  - title: はじめに
-  - title: ポスターのスタイリング
-  - title: '課題：ポスターを改善する'
-  - title: 画像のスタイリング
-  - title: '課題：画像を改善する'
-  - title: 見出しのスタイル設定
-  - title: '課題：あなたのポスターを素晴らしいものにしましょう！'
-  - title: '課題：イベントを宣伝しましょう！'
+- title: はじめに
+  completion: engaged
+- title: ポスターのスタイリング
+- title: 課題：ポスターを改善する
+- title: 画像のスタイリング
+- title: 課題：画像を改善する
+- title: 見出しのスタイル設定
+- title: 課題：あなたのポスターを素晴らしいものにしましょう！
+  completion: internal
+- title: 課題：イベントを宣伝しましょう！

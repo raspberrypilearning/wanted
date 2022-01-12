@@ -17,11 +17,13 @@ software: html-css-javascript
 version: 3.0.1
 last_tested: 2017-01-01
 steps:
-  - title: 介紹
-  - title: 設定你的海報樣式
-  - title: '挑戰：讓你的海報變得更加完善'
-  - title: 設定圖片樣式
-  - title: '挑戰：讓你的圖片更加完善'
-  - title: 設定標題樣式
-  - title: '挑戰：讓你的海報引人注目！'
-  - title: '挑戰：宣傳一場活動！'
+- title: 介紹
+  completion: engaged
+- title: 設定你的海報樣式
+- title: 挑戰：讓你的海報變得更加完善
+- title: 設定圖片樣式
+- title: 挑戰：讓你的圖片更加完善
+- title: 設定標題樣式
+- title: 挑戰：讓你的海報引人注目！
+  completion: internal
+- title: 挑戰：宣傳一場活動！

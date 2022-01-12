@@ -17,11 +17,13 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Uvod
-  - title: Oblikovanje postera
-  - title: 'Izazov: Poboljšajte svoj poster'
-  - title: Uređivanje slike
-  - title: 'Izazov: Poboljšajte svoj poster'
-  - title: Naslovi za oblikovanje
-  - title: 'Izazov: Učinite vaš poster još boljim!'
-  - title: 'Izazov: Oglašavajte događaj!'
+- title: Uvod
+  completion: engaged
+- title: Oblikovanje postera
+- title: 'Izazov: Poboljšajte svoj poster'
+- title: Uređivanje slike
+- title: 'Izazov: Poboljšajte svoj poster'
+- title: Naslovi za oblikovanje
+- title: 'Izazov: Učinite vaš poster još boljim!'
+  completion: internal
+- title: 'Izazov: Oglašavajte događaj!'

@@ -17,11 +17,13 @@ software: html-css-javascript
 version: 3.0.1
 last_tested: 2017-01-01
 steps:
-  - title: 소개
-  - title: 현상수배 포스터 스타일링하기
-  - title: '과제: 포스터 발전시키기'
-  - title: 이미지 스타일링하기
-  - title: '과제: 이미지 발전시키기'
-  - title: 제목 스타일링하기
-  - title: '과제: 자신만의 멋진 포스터 만들기!'
-  - title: '과제: 실제로 사용하기!'
+- title: 소개
+  completion: engaged
+- title: 현상수배 포스터 스타일링하기
+- title: '과제: 포스터 발전시키기'
+- title: 이미지 스타일링하기
+- title: '과제: 이미지 발전시키기'
+- title: 제목 스타일링하기
+- title: '과제: 자신만의 멋진 포스터 만들기!'
+  completion: internal
+- title: '과제: 실제로 사용하기!'

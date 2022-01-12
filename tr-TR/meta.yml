@@ -17,11 +17,13 @@ software: html-css-javascript
 version: 3.0.1
 last_tested: 01/01/2017
 steps:
-  - title: Giriş
-  - title: Posterinizi şekillendirin
-  - title: 'Meydan Okuma: Posterinizi geliştirme'
-  - title: Görüntüleri şekillendirme
-  - title: 'Meydan Okuma: Resminizi iyileştirme'
-  - title: Başlıkları şekillendirme
-  - title: 'Meydan Okuma: Posterini mükemmelleştir!'
-  - title: 'Meydan Okuma: Bir etkinliğin reklamını yap!'
+- title: Giriş
+  completion: engaged
+- title: Posterinizi şekillendirin
+- title: 'Meydan Okuma: Posterinizi geliştirme'
+- title: Görüntüleri şekillendirme
+- title: 'Meydan Okuma: Resminizi iyileştirme'
+- title: Başlıkları şekillendirme
+- title: 'Meydan Okuma: Posterini mükemmelleştir!'
+  completion: internal
+- title: 'Meydan Okuma: Bir etkinliğin reklamını yap!'

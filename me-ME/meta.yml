@@ -17,11 +17,13 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Uvod
-  - title: Stilizovanje plakata
-  - title: 'Izazov: Poboljšaj svoj plakat'
-  - title: Stilizovanje slika
-  - title: 'Izazov: Poboljšaj svoju sliku'
-  - title: Stilizovanje naslova
-  - title: 'Izazov: Napravi fenomenalan plakat!'
-  - title: 'Izazov: Reklamiraj događaj!'
+- title: Uvod
+  completion: engaged
+- title: Stilizovanje plakata
+- title: 'Izazov: Poboljšaj svoj plakat'
+- title: Stilizovanje slika
+- title: 'Izazov: Poboljšaj svoju sliku'
+- title: Stilizovanje naslova
+- title: 'Izazov: Napravi fenomenalan plakat!'
+  completion: internal
+- title: 'Izazov: Reklamiraj događaj!'
