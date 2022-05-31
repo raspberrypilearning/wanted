@@ -17,11 +17,15 @@ software: html-css-javascript
 version: 3.0.1
 last_tested: 2017-01-01
 steps:
-  - title: Sissejuhatus
-  - title: Enda plakati kujundamine
-  - title: 'Väljakutse: oma plakati täiustamine'
-  - title: Piltide kujundamine
-  - title: 'Väljakutse: oma pildi täiustamine'
-  - title: Laadipealkirjad
-  - title: 'Väljakutse: tee oma plakat ägedaks!'
-  - title: 'Väljakutse: reklaami üritust!'
+- title: Sissejuhatus
+- title: Enda plakati kujundamine
+- title: 'Väljakutse: oma plakati täiustamine'
+- title: Piltide kujundamine
+  completion:
+  - engaged
+- title: 'Väljakutse: oma pildi täiustamine'
+- title: Laadipealkirjad
+  completion:
+  - internal
+- title: 'Väljakutse: tee oma plakat ägedaks!'
+- title: 'Väljakutse: reklaami üritust!'

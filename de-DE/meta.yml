@@ -17,11 +17,15 @@ software: html-css-javascript
 version: 3.0.1
 last_tested: 2017-01-01
 steps:
-  - title: Einleitung
-  - title: Gestalte dein Poster
-  - title: 'Herausforderung: Verbessere dein Poster'
-  - title: Bilder gestalten
-  - title: 'Herausforderung: Verbessere dein Bild'
-  - title: Überschriften gestalten
-  - title: 'Herausforderung: Lass dein Poster einfach irre aussehen!'
-  - title: 'Herausforderung: Werbung für ein Event!'
+- title: Einleitung
+- title: Gestalte dein Poster
+- title: 'Herausforderung: Verbessere dein Poster'
+- title: Bilder gestalten
+  completion:
+  - engaged
+- title: 'Herausforderung: Verbessere dein Bild'
+- title: Überschriften gestalten
+  completion:
+  - internal
+- title: 'Herausforderung: Lass dein Poster einfach irre aussehen!'
+- title: 'Herausforderung: Werbung für ein Event!'

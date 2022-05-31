@@ -17,11 +17,15 @@ software: html-css-javascript
 version: 3.0.1
 last_tested: 2017-01-01
 steps:
-  - title: Introducere
-  - title: Stilizarea afișului
-  - title: 'Provocare: Îmbunătățirea afișului'
-  - title: Stilizarea imaginilor
-  - title: 'Provocare: Îmbunătățirea imaginii tale'
-  - title: Stilizarea titlurilor
-  - title: 'Provocare: Fă-ți afișul și mai grozav!'
-  - title: 'Provocare: Anunță un eveniment!'
+- title: Introducere
+- title: Stilizarea afișului
+- title: 'Provocare: Îmbunătățirea afișului'
+- title: Stilizarea imaginilor
+  completion:
+  - engaged
+- title: 'Provocare: Îmbunătățirea imaginii tale'
+- title: Stilizarea titlurilor
+  completion:
+  - internal
+- title: 'Provocare: Fă-ți afișul și mai grozav!'
+- title: 'Provocare: Anunță un eveniment!'

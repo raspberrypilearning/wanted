@@ -17,11 +17,15 @@ software: html-css-javascript
 version: 3.0.1
 last_tested: 2017-01-01
 steps:
-  - title: Inleiding
-  - title: Je poster opmaken
-  - title: 'Uitdaging: je poster verbeteren'
-  - title: Afbeeldingen opmaken
-  - title: 'Uitdaging: je afbeelding verbeteren'
-  - title: Koppen opmaken
-  - title: 'Uitdaging: maak je poster geweldig!'
-  - title: 'Uitdaging: maak reclame voor een evenement!'
+- title: Inleiding
+- title: Je poster opmaken
+- title: 'Uitdaging: je poster verbeteren'
+- title: Afbeeldingen opmaken
+  completion:
+  - engaged
+- title: 'Uitdaging: je afbeelding verbeteren'
+- title: Koppen opmaken
+  completion:
+  - internal
+- title: 'Uitdaging: maak je poster geweldig!'
+- title: 'Uitdaging: maak reclame voor een evenement!'

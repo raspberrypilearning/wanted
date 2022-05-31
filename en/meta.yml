@@ -1,3 +1,4 @@
+---
 hero_image: images/wanted.png
 theme: orange
 duration: 2
@@ -20,7 +21,11 @@ steps:
 - title: Styling your poster
 - title: 'Challenge: Improving your poster'
 - title: Styling images
+  completion:
+  - engaged
 - title: 'Challenge: Improving your image'
 - title: Styling headings
+  completion:
+  - internal
 - title: 'Challenge: Make your poster awesome!'
 - title: 'Challenge: Advertise an event!'
