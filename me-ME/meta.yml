@@ -18,12 +18,14 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Uvod
-  completion: engaged
 - title: Stilizovanje plakata
 - title: 'Izazov: Poboljšaj svoj plakat'
 - title: Stilizovanje slika
+  completion:
+  - engaged
 - title: 'Izazov: Poboljšaj svoju sliku'
 - title: Stilizovanje naslova
+  completion:
+  - internal
 - title: 'Izazov: Napravi fenomenalan plakat!'
-  completion: internal
 - title: 'Izazov: Reklamiraj događaj!'

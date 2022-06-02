@@ -18,12 +18,14 @@ version: 3.0.1
 last_tested: 2017-01-01
 steps:
 - title: Вступ
-  completion: engaged
 - title: Стилізуйте ваш плакат
 - title: 'Завдання: вдоскональте ваш постер'
 - title: Стилізуйте зображення
+  completion:
+  - engaged
 - title: 'Завдання: вдоскональте ваше зображення'
 - title: Стилізуйте заголовки
+  completion:
+  - internal
 - title: 'Завдання: Зробіть ваш постер надзвичайним!'
-  completion: internal
 - title: 'Завдання: Розрекламуйте подію!'

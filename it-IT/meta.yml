@@ -18,12 +18,14 @@ version: 3.0.1
 last_tested: 2017-01-01
 steps:
 - title: Introduzione
-  completion: engaged
 - title: Personalizza il tuo poster
 - title: 'Sfida: Perfeziona il tuo poster'
 - title: Modifica l'aspetto delle immagini
+  completion:
+  - engaged
 - title: 'Sfida: Perfeziona la tua immagine'
 - title: Personalizza le intestazioni
+  completion:
+  - internal
 - title: 'Sfida: rendi fantastico il tuo poster!'
-  completion: internal
 - title: 'Sfida: pubblicizza un evento!'

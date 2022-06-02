@@ -18,12 +18,14 @@ version: 3
 last_tested: 01/01/2017
 steps:
 - title: Introdução
-  completion: engaged
 - title: Estilizando seu pôster
 - title: 'Desafio: melhorar seu poster'
 - title: Dando estilo a imagens
+  completion:
+  - engaged
 - title: 'Desafio: melhorar sua imagem'
 - title: Estilizando Cabeçalhos
+  completion:
+  - internal
 - title: 'Desafio: torne seu pôster incrível!'
-  completion: internal
 - title: 'Desafio: anuncie um evento!'

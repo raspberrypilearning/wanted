@@ -18,12 +18,14 @@ version: 3.0.1
 last_tested: 2017-01-01
 steps:
 - title: Введение
-  completion: engaged
 - title: Стилизация постера
 - title: 'Задача: Улучшение постера'
 - title: Стилизация изображений
+  completion:
+  - engaged
 - title: 'Задача: Улучшение изображения'
 - title: Стилизация заголовков
+  completion:
+  - internal
 - title: 'Задача: Сделай свой постер ещё более крутым!'
-  completion: internal
 - title: 'Задача: Прорекламируй мероприятие!'

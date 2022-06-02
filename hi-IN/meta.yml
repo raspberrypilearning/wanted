@@ -18,12 +18,14 @@ version: 3.0.1
 last_tested: 2017-01-01
 steps:
 - title: परिचय
-  completion: engaged
 - title: अपने पोस्टर को स्टाइल करते हुए
 - title: 'चुनौती: आपके पोस्टर में सुधार करना'
 - title: चित्रों को स्टाइल देना
+  completion:
+  - engaged
 - title: 'चुनौती: आपके चित्र में सुधार करना'
 - title: स्टाइलिंग हेडिंग
+  completion:
+  - internal
 - title: 'चुनौती: आपके पोस्टर को अद्भुत बनाना!'
-  completion: internal
 - title: 'चुनौती: एक इवेंट का प्रचार करें!'

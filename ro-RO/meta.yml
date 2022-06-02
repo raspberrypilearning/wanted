@@ -18,12 +18,14 @@ version: 3.0.1
 last_tested: 2017-01-01
 steps:
 - title: Introducere
-  completion: engaged
 - title: Stilizarea afișului
 - title: 'Provocare: Îmbunătățirea afișului'
 - title: Stilizarea imaginilor
+  completion:
+  - engaged
 - title: 'Provocare: Îmbunătățirea imaginii tale'
 - title: Stilizarea titlurilor
+  completion:
+  - internal
 - title: 'Provocare: Fă-ți afișul și mai grozav!'
-  completion: internal
 - title: 'Provocare: Anunță un eveniment!'

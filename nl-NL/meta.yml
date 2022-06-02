@@ -18,12 +18,14 @@ version: 3.0.1
 last_tested: 2017-01-01
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Je poster opmaken
 - title: 'Uitdaging: je poster verbeteren'
 - title: Afbeeldingen opmaken
+  completion:
+  - engaged
 - title: 'Uitdaging: je afbeelding verbeteren'
 - title: Koppen opmaken
+  completion:
+  - internal
 - title: 'Uitdaging: maak je poster geweldig!'
-  completion: internal
 - title: 'Uitdaging: maak reclame voor een evenement!'

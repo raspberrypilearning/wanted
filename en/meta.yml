@@ -18,12 +18,14 @@ version: 3.0.1
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Styling your poster
 - title: 'Challenge: Improving your poster'
 - title: Styling images
+  completion:
+  - engaged
 - title: 'Challenge: Improving your image'
 - title: Styling headings
+  completion:
+  - internal
 - title: 'Challenge: Make your poster awesome!'
-  completion: internal
 - title: 'Challenge: Advertise an event!'

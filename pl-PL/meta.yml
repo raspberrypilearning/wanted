@@ -18,12 +18,14 @@ version: 3.0.1
 last_tested: 2017-01-01
 steps:
 - title: Wprowadzenie
-  completion: engaged
 - title: Stylizowanie swojego plakatu
 - title: 'Wyzwanie: poprawienie swojego plakatu'
 - title: Stylizacja obrazów
+  completion:
+  - engaged
 - title: 'Wyzwanie: poprawa obrazu'
 - title: Stylizacja nagłówków
+  completion:
+  - internal
 - title: 'Wyzwanie: spraw, by Twój plakat był niesamowity!'
-  completion: internal
 - title: 'Wyzwanie: reklamuj wydarzenie!'

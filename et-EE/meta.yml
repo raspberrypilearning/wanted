@@ -18,12 +18,14 @@ version: 3.0.1
 last_tested: 2017-01-01
 steps:
 - title: Sissejuhatus
-  completion: engaged
 - title: Enda plakati kujundamine
 - title: 'Väljakutse: oma plakati täiustamine'
 - title: Piltide kujundamine
+  completion:
+  - engaged
 - title: 'Väljakutse: oma pildi täiustamine'
 - title: Laadipealkirjad
+  completion:
+  - internal
 - title: 'Väljakutse: tee oma plakat ägedaks!'
-  completion: internal
 - title: 'Väljakutse: reklaami üritust!'

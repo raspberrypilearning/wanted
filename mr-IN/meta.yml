@@ -18,12 +18,14 @@ version: 3.0.1
 last_tested: 2017-01-01
 steps:
 - title: परिचय
-  completion: engaged
 - title: आपले पोस्टर सजवा
 - title: आव्हानः आपले पोस्टर सुधारा
 - title: चित्रे सजवा
+  completion:
+  - engaged
 - title: आव्हानः आपले चित्र सुधारा
 - title: शीर्षके सजवा
+  completion:
+  - internal
 - title: 'आव्हान: आपले पोस्टर छान बनवा!'
-  completion: internal
 - title: 'आव्हान: कार्यक्रमाची जाहिरात करा!'

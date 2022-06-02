@@ -18,12 +18,14 @@ version: 3.0.1
 last_tested: 2017-01-01
 steps:
 - title: المقدمة
-  completion: engaged
 - title: تحديد أنماط الملصق
 - title: 'التحدي: حسِّن شكل الملصق!'
 - title: تحديد أنماط الصور
+  completion:
+  - engaged
 - title: 'التحدي: حسِّن شكل الصورة!'
 - title: تحديد أنماط العناوين
+  completion:
+  - internal
 - title: 'التحدي: اجعل الملصق رائعًا!'
-  completion: internal
 - title: 'التحدي: أَعلِن عن حدث!'

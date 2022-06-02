@@ -18,12 +18,14 @@ version: 3.0.1
 last_tested: 2017-01-01
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Gestalte dein Poster
 - title: 'Herausforderung: Verbessere dein Poster'
 - title: Bilder gestalten
+  completion:
+  - engaged
 - title: 'Herausforderung: Verbessere dein Bild'
 - title: Überschriften gestalten
+  completion:
+  - internal
 - title: 'Herausforderung: Lass dein Poster einfach irre aussehen!'
-  completion: internal
 - title: 'Herausforderung: Werbung für ein Event!'

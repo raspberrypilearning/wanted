@@ -18,12 +18,14 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Uvod
-  completion: engaged
 - title: Oblikovanje postera
 - title: 'Izazov: Poboljšajte svoj poster'
 - title: Uređivanje slike
+  completion:
+  - engaged
 - title: 'Izazov: Poboljšajte svoj poster'
 - title: Naslovi za oblikovanje
+  completion:
+  - internal
 - title: 'Izazov: Učinite vaš poster još boljim!'
-  completion: internal
 - title: 'Izazov: Oglašavajte događaj!'

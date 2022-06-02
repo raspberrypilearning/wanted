@@ -18,12 +18,14 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introducción
-  completion: engaged
 - title: Dando estilo a tu póster
 - title: 'Desafío: mejora tu póster'
 - title: Dando estilo a las imágenes
+  completion:
+  - engaged
 - title: 'Desafío: mejora tu imagen'
 - title: Dando estilo a los encabezados
+  completion:
+  - internal
 - title: 'Desafío: ¡Haz tu póster impresionante!'
-  completion: internal
 - title: 'Desafío: ¡Anuncia un evento!'

@@ -18,12 +18,14 @@ version: 3.0.1
 last_tested: 01/01/2017
 steps:
 - title: Giriş
-  completion: engaged
 - title: Posterinizi şekillendirin
 - title: 'Meydan Okuma: Posterinizi geliştirme'
 - title: Görüntüleri şekillendirme
+  completion:
+  - engaged
 - title: 'Meydan Okuma: Resminizi iyileştirme'
 - title: Başlıkları şekillendirme
+  completion:
+  - internal
 - title: 'Meydan Okuma: Posterini mükemmelleştir!'
-  completion: internal
 - title: 'Meydan Okuma: Bir etkinliğin reklamını yap!'

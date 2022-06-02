@@ -18,12 +18,14 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Εισαγωγή
-  completion: engaged
 - title: Σχεδίαση της αφίσας σου
 - title: 'Πρόκληση: Βελτίωσε την αφίσα σου'
 - title: Σχεδίαση εικόνων
+  completion:
+  - engaged
 - title: 'Πρόκληση: Βελτίωσε την εικόνα σου'
 - title: Σχεδίαση τίτλων
+  completion:
+  - internal
 - title: 'Πρόκληση: Κάνε την αφίσα σου εντυπωσιακή!'
-  completion: internal
 - title: 'Πρόκληση: Διαφήμισε μία εκδήλωση!'

@@ -18,12 +18,14 @@ version: 3.0.1
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Stylise ton affiche
 - title: 'Defi: Améliore ton affiche'
 - title: Stylisation des images
+  completion:
+  - engaged
 - title: 'Défi: Améliore ton image'
 - title: Stylise ton titre
+  completion:
+  - internal
 - title: 'Défi: Rends ton affiche encore plus cool !'
-  completion: internal
 - title: 'Défi: Annonce un événement !'
