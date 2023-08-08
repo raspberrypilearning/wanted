@@ -25,10 +25,14 @@ steps:
     title: '挑战：完善你的海报'
   - 
     title: 设置图片样式
+    completion:
+      - engaged
   - 
     title: '挑战：完善你的图片'
   - 
     title: 设置标题样式
+    completion:
+      - internal
   - 
     title: '挑战：使你的海报引人注目！'
   - 
