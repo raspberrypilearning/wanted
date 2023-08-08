@@ -25,10 +25,14 @@ steps:
     title: 'Sfida: Migliora il tuo poster'
   - 
     title: Modifica l'aspetto delle immagini
+    completion:
+      - engaged
   - 
     title: 'Sfida: Migliora la tua immagine'
   - 
     title: Personalizza le intestazioni
+    completion:
+      - internal
   - 
     title: 'Sfida: rendi fantastico il tuo poster!'
   - 
