@@ -25,10 +25,14 @@ steps:
     title: 'Aufgabe: Verbessere dein Poster'
   - 
     title: Bilder gestalten
+    completion:
+      - engaged
   - 
     title: 'Aufgabe: Verbessere dein Bild'
   - 
     title: Überschriften gestalten
+    completion:
+      - internal
   - 
     title: 'Aufgabe: Lass dein Poster einfach irre aussehen!'
   - 
