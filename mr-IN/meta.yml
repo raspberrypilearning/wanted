@@ -25,10 +25,14 @@ steps:
     title: 'आव्हानः आपले पोस्टर सुधारा'
   - 
     title: चित्रे सजवा
+    completion:
+      - engaged
   - 
     title: 'आव्हानः आपले चित्र सुधारा'
   - 
     title: शीर्षके सजवा
+    completion:
+      - internal
   - 
     title: 'आव्हान: आपले पोस्टर छान बनवा!'
   - 
