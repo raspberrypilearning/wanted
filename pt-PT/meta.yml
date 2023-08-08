@@ -25,10 +25,14 @@ steps:
     title: 'Desafio: Melhorar o teu cartaz'
   - 
     title: Estilizar imagens
+    completion:
+      - engaged
   - 
     title: 'Desafio: Melhorar a tua imagem'
   - 
     title: Estilizar cabeçalhos
+    completion:
+      - internal
   - 
     title: 'Desafio: Torna o teu poster fantástico!'
   - 
