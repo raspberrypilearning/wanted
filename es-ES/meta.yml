@@ -25,10 +25,14 @@ steps:
     title: 'Reto: Mejorar tu póster'
   - 
     title: Dar estilo a las imágenes
+    completion:
+      - engaged
   - 
     title: 'Reto: Mejorar tu imagen'
   - 
     title: Dar estilo a los encabezados
+    completion:
+      - internal
   - 
     title: 'Reto: ¡Haz que tu póster sea impresionante!'
   - 
