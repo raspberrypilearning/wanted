@@ -25,10 +25,14 @@ steps:
     title: 'Desafio: Melhorar seu poster'
   - 
     title: Dando estilo a imagens
+    completion:
+      - engaged
   - 
     title: 'Desafio: melhorar sua imagem'
   - 
     title: Estilizando Cabeçalhos
+    completion:
+      - internal
   - 
     title: 'Desafio: Torne seu pôster incrível!'
   - 
