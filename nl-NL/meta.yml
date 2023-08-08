@@ -25,10 +25,14 @@ steps:
     title: 'Uitdaging: je poster verbeteren'
   - 
     title: Afbeeldingen opmaken
+    completion:
+      - engaged
   - 
     title: 'Uitdaging: je afbeelding verbeteren'
   - 
     title: Koppen opmaken
+    completion:
+      - internal
   - 
     title: 'Uitdaging: maak je poster geweldig!'
   - 
