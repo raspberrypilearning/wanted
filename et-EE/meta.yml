@@ -25,10 +25,14 @@ steps:
     title: 'Väljakutse: täiusta oma plakatit'
   - 
     title: Piltide kujundamine
+    completion:
+      - engaged
   - 
     title: 'Väljakutse: oma pildi täiustamine'
   - 
     title: Laadipealkirjad
+    completion:
+      - internal
   - 
     title: 'Väljakutse: tee oma plakat ägedaks!'
   - 
