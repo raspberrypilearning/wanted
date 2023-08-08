@@ -25,10 +25,14 @@ steps:
     title: '挑戰：讓你的海報變得更加完善'
   - 
     title: 設定圖片樣式
+    completion:
+      - engaged
   - 
     title: '挑戰：讓你的圖片更加完善'
   - 
     title: 設定標題樣式
+    completion:
+      - internal
   - 
     title: '挑戰：讓你的海報引人注目！'
   - 
