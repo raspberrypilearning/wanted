@@ -25,10 +25,14 @@ steps:
     title: 'Izazov: Poboljšajte svoj poster'
   - 
     title: Uređivanje slike
+    completion:
+      - engaged
   - 
     title: 'Izazov: Poboljšajte svoju sliku'
   - 
     title: Naslovi za oblikovanje
+    completion:
+      - internal
   - 
     title: 'Izazov: Učinite vaš poster još boljim!'
   - 
