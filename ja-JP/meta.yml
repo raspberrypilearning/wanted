@@ -25,10 +25,14 @@ steps:
     title: '課題：ポスターを改善する'
   - 
     title: イメージのスタイリング
+    completion:
+      - engaged
   - 
     title: '課題：画像を改善する'
   - 
     title: スタイル見出し
+    completion:
+      - internal
   - 
     title: '課題：あなたのポスターを素晴らしいものにしましょう！'
   - 
