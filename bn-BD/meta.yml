@@ -25,10 +25,14 @@ steps:
     title: 'Challenge: Improving your poster'
   - 
     title: Styling images
+    completion:
+      - engaged
   - 
     title: 'Challenge: Improving your image'
   - 
     title: Styling headings
+    completion:
+      - internal
   - 
     title: 'Challenge: Make your poster awesome!'
   - 
