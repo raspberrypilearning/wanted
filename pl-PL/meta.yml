@@ -25,10 +25,14 @@ steps:
     title: 'Wyzwanie: poprawienie swojego plakatu'
   - 
     title: Stylizacja obrazów
+    completion:
+      - engaged
   - 
     title: 'Wyzwanie: poprawa obrazu'
   - 
     title: Stylizacja nagłówków
+    completion:
+      - internal
   - 
     title: 'Wyzwanie: Spraw, by Twój plakat był niesamowity!'
   - 
