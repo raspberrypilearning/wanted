@@ -25,10 +25,14 @@ steps:
     title: 'التحدي: حسِّن شكل الملصق!'
   - 
     title: تحديد أنماط الصور
+    completion:
+      - engaged
   - 
     title: 'التحدي: حسِّن شكل الصورة!'
   - 
     title: تحديد أنماط العناوين
+    completion:
+      - internal
   - 
     title: 'التحدي: اجعل الملصق رائعًا!'
   - 
