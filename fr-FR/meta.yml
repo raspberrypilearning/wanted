@@ -25,10 +25,14 @@ steps:
     title: 'Defi: Améliore ton affiche'
   - 
     title: Stylisation des images
+    completion:
+      - engaged
   - 
     title: 'Défi: Améliore ton image'
   - 
     title: Stylise ton titre
+    completion:
+      - internal
   - 
     title: 'Défi: Rends ton affiche encore plus cool !'
   - 
