@@ -11,7 +11,7 @@ Underneath the CSS for `div`, add another CSS style that will apply to images.
 language: css
 line_numbers: true
 line_number_start: 1
-line_highlights: 8-10
+line_highlights: 9-11
 ---
 div {
   text-align: center;
@@ -19,6 +19,7 @@ div {
   border: 2px solid black;
   width: 300px;
   background: yellow;
+  border-radius: 40px;
 }
 img {
 
@@ -37,8 +38,8 @@ Add this code to set the width of the image:
 ---
 language: css
 line_numbers: true
-line_number_start: 8
-line_highlights: 9
+line_number_start: 9
+line_highlights: 10
 ---
 img {
 	width: 100px;
@@ -59,8 +60,8 @@ Add a border around the image:
 ---
 language: css
 line_numbers: true
-line_number_start: 8
-line_highlights: 10
+line_number_start: 9
+line_highlights: 11
 ---
 img {
 	width: 100px;
@@ -82,8 +83,8 @@ Add some padding around the image:
 ---
 language: css
 line_numbers: true
-line_number_start: 8
-line_highlights: 11
+line_number_start: 9
+line_highlights: 12
 ---
 img {
 	width: 100px;
