@@ -18,13 +18,12 @@ last_tested: 2024-11-28
 steps:
 - title: What you will make
 - title: Styling your poster
-- title: 'Challenge: Improving your poster'
-- title: Styling images
   completion:
   - engaged
-- title: 'Challenge: Improving your image'
+- title: Styling images
 - title: Styling headings
   completion:
   - internal
-- title: 'Challenge: Make your poster awesome!'
-- title: 'Challenge: Advertise an event!'
+- title: 'Challenge'
+  challenge: true
+- title: What can you do now?

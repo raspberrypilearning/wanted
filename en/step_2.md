@@ -19,7 +19,7 @@ Change the word `center` to `left` or `right`, then press the **Run** button. Wh
 language: html
 line_numbers: true
 line_number_start: 1
-line_highlights: 2
+line_highlights: 3
 ---
 div {
   text-align: center;
@@ -83,4 +83,26 @@ div {
 --- task ---
 What do you think will happen? Press the **Run** button to see whether you were right.
 
+--- /task ---
+
+--- task ---
+Add another line of code to change the border radius. Predict what you think will happen, then press the **Run** button to see whether you were right. 
+
+
+--- code ---
+---
+language: html
+line_numbers: true
+line_number_start: 1
+line_highlights: 7
+---
+div {
+  text-align: center;
+  overflow: hidden;
+  border: 2px solid black;
+  width: 300px;
+  background: yellow;
+  border-radius: 40px;
+}
+--- /code ---
 --- /task ---

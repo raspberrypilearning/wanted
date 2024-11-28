@@ -1,51 +1,48 @@
-## Styling images
+## Styling headings
 
-Let's improve the style of the image in the poster.
+Let's improve the style of the `<h1>` heading.
 
 
 
-+ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
-
-	Firstly, add the following code underneath the CSS for your div:
++ Add the following code underneath your image's CSS:
 
 	```
-	img {
+	h1 {
 
 	}
 	```
 
-	![screenshot](images/wanted-img-css.png)
+	This is where you'll add CSS properties for your main `<h1>` heading.
 
-+ We can now add CSS properties for images between the curly brackets.
-
-	For example, add this code between the curly brackets to set the width of the image:
++ To change the font of your `<h1>` headings, add the following code between the curly brackets:
 
 	```
-	width: 100px;
+	font-family: Impact;
 	```
 
-	You'll see that the size of the image changes, so that its width is 100 pixels.
-
-	![screenshot](images/wanted-img-width.png)
-
-+ You can also add a border around the image with this code:
++ You can also change the size of the heading:
 
 	```
-	border: 1px solid black;
+	font-size: 50pt;
 	```
 
-+ Have you noticed that there's not much space between the image and the border?
++ 	Have you noticed that there's a big space between the `<h1>` heading and the stuff around it?
 
-	![screenshot](images/wanted-img-border.png)
+	![screenshot](images/wanted-h1-margin.png)
 
-	You can fix this by adding some padding around the image:
+	This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other stuff around it.
+
+	You can make the margin smaller with this code:
 
 	```
-	padding: 10px;
+	margin: 10px;
 	```
 
-	Padding is the space between the content (in this case an image) and its border.
+	![screenshot](images/wanted-h1-margin-small.png)
 
-	![screenshot](images/wanted-img-padding.png)
++ You can also underline your heading:
 
-	What do you think would happen if you changed the padding to `50px`?
+	```
+	text-decoration: underline;
+	```
+
