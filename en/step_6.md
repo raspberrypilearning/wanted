@@ -4,13 +4,13 @@ If you are following the [HTML & CSS: Module 1](https://projects.raspberrypi.org
 
 --- print-only --- 
 
-![ALT TEXT](images/IMAGE-FROM-PROJECT.png)
+![A website showing the recipe for banana milkshake and an image of bananas](images/recipe-final.webp)
 
 --- /print-only ---
 
 --- no-print ---
 
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/STARTER_PROJECT_SLUG" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/recipe-starter" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe>
 
 --- /no-print ---
