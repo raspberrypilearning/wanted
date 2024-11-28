@@ -1,18 +1,18 @@
 ## Styling headings
 
-Let's improve the style of the `<h1>` heading.
+Let's improve the style of the heading.
 
+--- task ---
 
-
-+ Add the following code underneath your image's CSS:
+Add another CSS style 
 
 	```
 	h1 {
 
 	}
 	```
+--- /task ---
 
-	This is where you'll add CSS properties for your main `<h1>` heading.
 
 + To change the font of your `<h1>` headings, add the following code between the curly brackets:
 

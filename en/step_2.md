@@ -9,6 +9,10 @@ Open the [starter project](https://editor.raspberrypi.org/en/projects/wanted-sta
 --- /task ---
 
 --- task ---
+Press the **Run** button to see what the starter page looks like.
+--- /task ---
+
+--- task ---
 
 Click on the "style.css" file and find the `text-align` property. 
 
@@ -16,10 +20,10 @@ Change the word `center` to `left` or `right`, then press the **Run** button. Wh
 
 --- code ---
 ---
-language: html
+language: css
 line_numbers: true
 line_number_start: 1
-line_highlights: 3
+line_highlights: 2
 ---
 div {
   text-align: center;
@@ -39,7 +43,7 @@ Change the `border` property to `4px dotted red`. What happens?
 
 --- code ---
 ---
-language: html
+language: css
 line_numbers: true
 line_number_start: 1
 line_highlights: 3
@@ -47,7 +51,7 @@ line_highlights: 3
 div {
   text-align: center;
   overflow: hidden;
-  border: 2px solid black;
+  border: 4px dotted red;
   width: 300px;
 }
 --- /code ---
@@ -64,7 +68,7 @@ Add this code on the line below the width (but before the bracket `}`):
 
 --- code ---
 ---
-language: html
+language: css
 line_numbers: true
 line_number_start: 1
 line_highlights: 6
@@ -91,7 +95,7 @@ Add another line of code to change the border radius. Predict what you think wil
 
 --- code ---
 ---
-language: html
+language: css
 line_numbers: true
 line_number_start: 1
 line_highlights: 7

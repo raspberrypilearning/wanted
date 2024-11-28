@@ -7,7 +7,7 @@ Underneath the CSS for `div`, add another CSS style that will apply to images.
 
 --- code ---
 ---
-language: html
+language: css
 line_numbers: true
 line_number_start: 1
 line_highlights: 8-10
@@ -34,7 +34,7 @@ Add this code to set the width of the image:
 
 --- code ---
 ---
-language: html
+language: css
 line_numbers: true
 line_number_start: 8
 line_highlights: 9
@@ -56,7 +56,7 @@ Add a border around the image:
 
 --- code ---
 ---
-language: html
+language: css
 line_numbers: true
 line_number_start: 8
 line_highlights: 10
@@ -79,7 +79,7 @@ Add some padding around the image:
 
 --- code ---
 ---
-language: html
+language: css
 line_numbers: true
 line_number_start: 8
 line_highlights: 11
