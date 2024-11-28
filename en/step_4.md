@@ -26,6 +26,7 @@ h1 {
 --- /task ---
 
 --- task ---
+
 Add a style rule to change the font of the heading, then press **Run** to see the changes.
 
 --- code ---
