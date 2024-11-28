@@ -1,38 +1,21 @@
-body {
-  background: lightblue;
-}
-
 div {
   text-align: center;
   overflow: hidden;
-  border: 5px dotted red;
-  width: 300px;
+  border: 4px dotted red;
+  width: 400px;
   background: yellow;
+  border-radius: 40px;
 }
 
 img {
   width: 100px;
-  border: 2px solid black;
+  border: 1px solid black;
   padding: 10px;
-  background: white;
-  margin: 10px;
 }
 
 h1 {
   font-family: Impact;
-  font-size: 50pt;
-  text-decoration: underline overline;
+  font-size: 3em;
   margin: 10px;
-}
-
-h3 {
-  font-family: Impact;
-  font-size: 18pt;
-  margin: 10px;
-}
-
-p {
-  font-family: Arial;
-  font-size: 12pt;
-  margin: 20px;
+  text-decoration: underline;
 }
