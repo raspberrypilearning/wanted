@@ -1,7 +1,5 @@
 ## Styling your poster
 
-Let's start by editing the CSS code for the poster.
-
 --- task ---
 
 Open the [starter project](https://editor.raspberrypi.org/en/projects/wanted-starter){:target="_blank"}

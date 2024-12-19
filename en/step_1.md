@@ -1,6 +1,6 @@
 ## What you will make
 
-You'll learn how to make your own poster.
+Learn how to make your own poster with HTML and CSS.
 
 --- print-only ---
 ![A wanted poster for a robot](images/wanted-final.png)

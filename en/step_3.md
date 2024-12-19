@@ -1,8 +1,5 @@
 ## Styling images
 
-Let's improve the style of the image in the poster.
-
-
 --- task ---
 Underneath the CSS for `div`, add another CSS style that will apply to images.
 

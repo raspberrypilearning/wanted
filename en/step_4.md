@@ -1,7 +1,5 @@
 ## Styling headings
 
-Let's improve the style of the heading.
-
 --- task ---
 
 Add another CSS style at the bottom of your file, this time for `h1` which is a heading:
