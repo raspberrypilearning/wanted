@@ -1,55 +1,110 @@
 ## Styling your poster
 
-Let's start by editing the CSS code for the poster.
+--- task ---
 
+Open the [starter project](https://editor.raspberrypi.org/en/projects/wanted-starter){:target="_blank"}
 
+--- /task ---
 
-+ Open this trinket: <a target="_blank" href="http://jumpto.cc/web-wanted" target="_blank">jumpto.cc/web-wanted</a>. 
+--- task ---
+Press the **Run** button to see what the starter page looks like.
+--- /task ---
 
-	The project should look like this:
+--- task ---
+
+Click on the "style.css" file and find the `text-align` property. 
+
+Change the word `center` to `left` or `right`, then press the **Run** button. What happens?
+
+--- code ---
+---
+language: css
+line_numbers: true
+line_number_start: 1
+line_highlights: 2
+---
+div {
+  text-align: center;
+  overflow: hidden;
+  border: 2px solid black;
+  width: 300px;
+}
+--- /code ---
 	
-	![screenshot](images/wanted-starter.png)
 
-+ Click on the "style.css" tab. You'll notice that there are already CSS properties for the `div` containing the different parts of the poster.
 
-	```
-	div {
-		text-align: center;
-	    overflow: hidden;
-	    border: 2px solid black;
-	    width: 300px;
-    }	
-	```
+--- /task ---
 
-+ Let's start by altering the `text-align` property:
+--- task ---
 
-	```
-	text-align: center;
-	```
-	
-	What happens when you change the word `center` to `left` or `right`?
+Change the `border` property to `4px dotted red`. What happens?
 
-+ How about the `border` property?
+--- code ---
+---
+language: css
+line_numbers: true
+line_number_start: 1
+line_highlights: 3
+---
+div {
+  text-align: center;
+  overflow: hidden;
+  border: 4px dotted red;
+  width: 300px;
+}
+--- /code ---
+--- /task ---
 
-	```
-	border: 2px solid black;
-	```
+--- task ---
 
-	`2px` in the code above means 2 pixels. What happens when you change `2px solid black` to `4px dotted red`?
+Change the `width` of the poster to `400px`. What happens?
 
-+ Change the `width` of the poster to `400px`. What happens to the poster?
+--- /task ---
 
-+ Let's add some CSS to set the background colour of the poster. Go to the end of line 5 of your code and press return, so that you have a new blank line.
+--- task --- 
+Add this code on the line below the width (but before the bracket `}`):
 
-	![screenshot](images/wanted-newline.png)
+--- code ---
+---
+language: css
+line_numbers: true
+line_number_start: 1
+line_highlights: 6
+---
+div {
+  text-align: center;
+  overflow: hidden;
+  border: 2px solid black;
+  width: 300px;
+  background: yellow;
+}
+--- /code ---
 
-	Type the following code on your new blank line:
+--- /task ---
 
-	```
-	background: yellow;
-	```
+--- task ---
+What do you think will happen? Press the **Run** button to see whether you were right.
 
-	Make sure that you type in the code _exactly_ as it is above. You should notice that the background of the `<div>` is now yellow.
+--- /task ---
 
-	![screenshot](images/wanted-background.png)
+--- task ---
+Add another line of code to change the border radius. Predict what you think will happen, then press the **Run** button to see whether you were right. 
 
+
+--- code ---
+---
+language: css
+line_numbers: true
+line_number_start: 1
+line_highlights: 7
+---
+div {
+  text-align: center;
+  overflow: hidden;
+  border: 2px solid black;
+  width: 300px;
+  background: yellow;
+  border-radius: 40px;
+}
+--- /code ---
+--- /task ---

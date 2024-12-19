@@ -1,51 +1,109 @@
-## Styling images
+## Styling headings
 
-Let's improve the style of the image in the poster.
+--- task ---
 
+Add another CSS style at the bottom of your file, this time for `h1` which is a heading:
 
-
-+ At the moment, there aren't any CSS properties for your `<img>` tag, so let's add some!
-
-	Firstly, add the following code underneath the CSS for your div:
-
-	```
-	img {
-
-	}
-	```
-
-	![screenshot](images/wanted-img-css.png)
-
-+ We can now add CSS properties for images between the curly brackets.
-
-	For example, add this code between the curly brackets to set the width of the image:
-
-	```
+--- code ---
+---
+language: css
+line_numbers: true
+line_number_start: 9
+line_highlights: 14-16
+---
+img {
 	width: 100px;
-	```
+  	border: 1px solid black;
+  	padding: 10px;
+}
+h1 {
 
-	You'll see that the size of the image changes, so that its width is 100 pixels.
+}
+--- /code ---
 
-	![screenshot](images/wanted-img-width.png)
+--- /task ---
 
-+ You can also add a border around the image with this code:
+--- task ---
 
-	```
-	border: 1px solid black;
-	```
+Add a style rule to change the font of the heading, then press **Run** to see the changes.
 
-+ Have you noticed that there's not much space between the image and the border?
+--- code ---
+---
+language: css
+line_numbers: true
+line_number_start: 14
+line_highlights: 15
+---
+h1 {
+	font-family: Impact;
+}
+--- /code ---
 
-	![screenshot](images/wanted-img-border.png)
+--- /task ---
 
-	You can fix this by adding some padding around the image:
+--- task ---
+Now add another rule to change the size of the heading, then press **Run** to see the changes.
 
-	```
-	padding: 10px;
-	```
+--- code ---
+---
+language: css
+line_numbers: true
+line_number_start: 14
+line_highlights: 16
+---
+h1 {
+	font-family: Impact;
+	font-size: 3em;
+}
+--- /code ---
 
-	Padding is the space between the content (in this case an image) and its border.
+--- /task ---
 
-	![screenshot](images/wanted-img-padding.png)
 
-	What do you think would happen if you changed the padding to `50px`?
+Have you noticed that there's a big space between the `<h1>` heading and the other text?
+
+![A poster with the text 'Wanted' in a large font. There is a large gap between this text and other text below it.](images/wanted-margin.png)
+
+This is because there's a margin around the heading. A margin is the space between the element (in this case a heading) and the other things on the page.
+
+--- task ---
+Add a style to make the margin of the heading smaller, then press **Run** to see the changes.
+
+--- code ---
+---
+language: css
+line_numbers: true
+line_number_start: 14
+line_highlights: 17
+---
+h1 {
+	font-family: Impact;
+	font-size: 3em;
+	margin: 10px;
+}
+--- /code ---
+
+--- /task ---
+
+
+--- task ---
+Finally,  add a style to underline the heading, then press **Run** to see the changes.
+
+--- code ---
+---
+language: css
+line_numbers: true
+line_number_start: 14
+line_highlights: 18
+---
+h1 {
+	font-family: Impact;
+	font-size: 3em;
+	margin: 10px;
+	text-decoration: underline;
+}
+--- /code ---
+
+![A large heading reading 'Wanted!' underlined in a large black font on a yellow background.](images/wanted-finished-header.png)
+
+--- /task ---
